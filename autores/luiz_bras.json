@@ -1,0 +1,1354 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "U9ZYEAAAQBAJ",
+      "etag": "d8me1SlkZ0A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U9ZYEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Symetria Dyssonantes",
+        "authors": [
+          "Luiz Bras"
+        ],
+        "publisher": "Líquido Editorial",
+        "publishedDate": "2021-05-02",
+        "description": "A coletânea \"Symetrias dyssonantes\", de Luiz Bras, reúne sua ficção curta publicada nos últimos dez anos, em revistas de papel e online, e em coletâneas temáticas com outros autores. São vinte e um contos de ficção científica ou ficção fantástica, que tratam dos mais diferentes assuntos − às vezes por meio da metalinguagem−, entre eles inteligência artificial, folclore brasileiro, Estado distópico, telepatia, futurologia, vidas virtuais, mistérios miúdos da vida cotidiana.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786599432552"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6599432557"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 84,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U9ZYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U9ZYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=U9ZYEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=U9ZYEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=U9ZYEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=U9ZYEAAAQBAJ&rdid=book-U9ZYEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Symetria_Dyssonantes-sample-epub.acsm?id=U9ZYEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Symetria_Dyssonantes-sample-pdf.acsm?id=U9ZYEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U9ZYEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A coletânea &quot;Symetrias dyssonantes&quot;, de Luiz Bras, reúne sua ficção curta publicada nos últimos dez anos, em revistas de papel e online, e em coletâneas temáticas com outros autores."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N2pwBwAAQBAJ",
+      "etag": "JvxNJ8t0a0w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N2pwBwAAQBAJ",
+      "volumeInfo": {
+        "title": "Imaginários - contos de fantasia, ficção científica e terror",
+        "authors": [
+          "Georgette Silen",
+          "Claudio Brites",
+          "Luiz Bras",
+          "Renato A. Azevedo",
+          "Nazarethe Fonseca",
+          "Cris Lasaitis",
+          "Antonio Luiz M. C. Costa",
+          "Erick Santos Cardoso",
+          "Leonel Caldela",
+          "Fábio M. Barreto"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2015-03-13",
+        "description": "Grandes e novos autores exploram infinitos imaginários nesta coletânea da Editora Draco. A coleção Imaginários trará, a cada volume, contos inéditos que explorarão o fantástico em todas as suas variantes, contando histórias de ontem, de hoje, de amanhã e – por que não? – de nunca. É hora de começar a viagem. Prepare-se para uma aventura inesquecível da primeira à última linha, nessa coleção que já é referência do que há de melhor na literatura fantástica nacional.Neste quarto volume da coleção Imaginários da Editora Draco o organizador Erick Santos Cardoso participa com um conto fantástico ao lado de Leonel Caldela, Fábio M. Barreto, Georgette Silen, Luiz Bras, Nazarethe Fonseca, Cris Lasaitis, Antonio Luiz M. C. Costa, Claudio Brites e Renato A. Azevedo, extrapolando as fronteiras do real e apresentando excelentes histórias de fantasia, ficção-científica e terror.ContosO cão – Leonel CaldelaEla – Fábio M. BarretoO Anel e a Pérola Solitária – Georgette SilenPrimeiro de Abril: Corpus Christi – Luiz BrasNévoa e Sangue – Nazarethe FonsecaO Incrível Congresso de Astrobiologia – Cris LasaitisBrazil Reloaded – Antonio Luiz M. C. CostaBons inimigos – Claudio BritesA chave – Renato A. AzevedoO turista – Erick Santos Cardoso",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788562942303"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8562942308"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N2pwBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N2pwBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=N2pwBwAAQBAJ&printsec=frontcover&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=N2pwBwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=N2pwBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=N2pwBwAAQBAJ&rdid=book-N2pwBwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Imagin%C3%A1rios_contos_de_fantasia_fic%C3%A7%C3%A3o-sample-epub.acsm?id=N2pwBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Imagin%C3%A1rios_contos_de_fantasia_fic%C3%A7%C3%A3o-sample-pdf.acsm?id=N2pwBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N2pwBwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Prepare-se para uma aventura inesquecível da primeira à última linha, nessa coleção que já é referência do que há de melhor na literatura fantástica nacional.Neste quarto volume da coleção Imaginários da Editora Draco o ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jYroCwAAQBAJ",
+      "etag": "4O8ZUMP+4IA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jYroCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Vaporpunk - Mecanismos precários",
+        "authors": [
+          "Luiz Bras"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2016-04-05",
+        "description": "Conto de Luiz Bras para a coletânea Vaporpunk: novos documentos de uma pitoresca época steampunk. Final do século 19. Um homem e uma mulher armados até os dentes levam às últimas consequências seu ódio e seu amor, numa luta feroz que abalará a Londres vitoriana.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788509994204"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "850999420X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jYroCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jYroCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=jYroCwAAQBAJ&printsec=frontcover&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jYroCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jYroCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jYroCwAAQBAJ&rdid=book-jYroCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Vaporpunk_Mecanismos_prec%C3%A1rios-sample-epub.acsm?id=jYroCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Vaporpunk_Mecanismos_prec%C3%A1rios-sample-pdf.acsm?id=jYroCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jYroCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conto de Luiz Bras para a coletânea Vaporpunk: novos documentos de uma pitoresca época steampunk."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pwuimAEACAAJ",
+      "etag": "GIZXVCRRIJc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pwuimAEACAAJ",
+      "volumeInfo": {
+        "title": "Sozinho no deserto extremo",
+        "authors": [
+          "Luiz Bras"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8579272165"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788579272165"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=pwuimAEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=pwuimAEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sozinho_no_deserto_extremo.html?hl=&id=pwuimAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pwuimAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MXr8zwEACAAJ",
+      "etag": "4OnE1OjctCk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MXr8zwEACAAJ",
+      "volumeInfo": {
+        "title": "Para onde vai a vida?",
+        "subtitle": "As aventuras e desventuras de Joca Boca-Suja, o menor maior mentiroso do mundo",
+        "authors": [
+          "Luiz Bras"
+        ],
+        "publishedDate": "2004-05-08",
+        "description": "Joca Boca-Suja é um menino ruivo e bochechudo que deseja saber para onde as pessoas vão, de onde vêm, para onde a vida segue. Logo no início da história, diz ao narrador ter sido sequestrado por seis palhaços mutantes que o acorrentaram num porão imundo com dois leões famintos, “malucos por quindim e cocada”. Este é o primeiro livro publicado de Luiz Bras, “alguém de carne e osso, mas de pura fantasia”, supernome literário de Nelson de Oliveira. Mas que não se pense tratar-se da mesma pessoa, pois “o Luiz é muito mais velho, muito mais experiente, muito mais bonito — muito mais tudo! — do que o Nelson”. As ilustrações de Thais Linhares dão asas à delirantemente saudável imaginação do pequeno Joca.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8598271063"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788598271064"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=MXr8zwEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=MXr8zwEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Para_onde_vai_a_vida.html?hl=&id=MXr8zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MXr8zwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este é o primeiro livro publicado de Luiz Bras, “alguém de carne e osso, mas de pura fantasia”, supernome literário de Nelson de Oliveira."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XyW9NAAACAAJ",
+      "etag": "TSVA/LVrcT0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XyW9NAAACAAJ",
+      "volumeInfo": {
+        "title": "O sonho chamado Brasília",
+        "authors": [
+          "Camila Mesquita",
+          "Luiz Bras",
+          "Tereza Yamashita"
+        ],
+        "publishedDate": "2007",
+        "description": "Oscar, um garoto de oito anos, sai para passear de carro com seu pai pela Capital Federal. Enquanto isso vai aprendendo um pouco sobre a origem de Brasilia e sobre arquitetura.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8598750271"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788598750279"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=XyW9NAAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=XyW9NAAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_sonho_chamado_Bras%C3%ADlia.html?hl=&id=XyW9NAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XyW9NAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qUh5tAEACAAJ",
+      "etag": "znHavY2C7nc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qUh5tAEACAAJ",
+      "volumeInfo": {
+        "title": "Não chore",
+        "subtitle": "novela",
+        "authors": [
+          "Luiz Bras"
+        ],
+        "publishedDate": "2016",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8582973365"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788582973363"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 143,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=qUh5tAEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=qUh5tAEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/N%C3%A3o_chore.html?hl=&id=qUh5tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qUh5tAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZSChtgAACAAJ",
+      "etag": "Lxq6QGjy9wg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZSChtgAACAAJ",
+      "volumeInfo": {
+        "title": "A última guerra",
+        "authors": [
+          "Luiz Bras",
+          "Samia Jacintho",
+          "Tereza Yamashita",
+          "Gustavo Piqueira",
+          "REX DESIGN",
+          "WALTAIR MARTAO"
+        ],
+        "publishedDate": "2008",
+        "description": "Quem dá o alerta é Miguel, um garoto de 11, 12 ou 13 anos, que nem sabe direito a sua idade, não sabe também se seus pais e a sua irmã estão vivos ou mortos, nem como perdeu a sua casa depois de uma enorme explosão que é só o começo de uma possível catástrofe geral. Ele está aflito, desconfia de tudo, tem que entender o que aconteceu e agir rápido para impedir que o mundo chegue ao fim. É por isso mesmo que 'A Última Guerra', de Luiz Bras e Tereza Yamashita é uma história que tem pressa de acontecer. E é por isso também que o leitor é desafiado a participar dessa aventura que já começa com uma guerra e precisa urgentemente ir avançando, ficar esperto e atento, sensível ao que está dentro e fora do livro, descobrir que humanidade é esta que quer acabar com a vida e por que esta necessidade de destruição.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8588159910"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788588159914"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 107,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=ZSChtgAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ZSChtgAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_%C3%BAltima_guerra.html?hl=&id=ZSChtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZSChtgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Este livro conta uma história que tem pressa de acontecer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tUnMwAEACAAJ",
+      "etag": "ApB3UjkvmUg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tUnMwAEACAAJ",
+      "volumeInfo": {
+        "title": "Encontros e desencontros no Rio de Janeiro",
+        "authors": [
+          "Luiz Bras, Tereza Yamashita"
+        ],
+        "publisher": "Callis Editora Limited",
+        "publishedDate": "2007-07-20",
+        "description": "Tiago, um garoto que vive em Laranjeiras, Renata, uma menina que mora em Pavão-Pavãozinho, e Rita, que trabalha na Biblioteca Nacional, encontram-se na praia de Copacabana. Rita conta a Tiago e Renata detalhes da origem e do desenvolvimento da Cidade Maravilhosa.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8574165980"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788574165981"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=tUnMwAEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=tUnMwAEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Encontros_e_desencontros_no_Rio_de_Janei.html?hl=&id=tUnMwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tUnMwAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tiago, um garoto que vive em Laranjeiras, Renata, uma menina que mora em Pavão-Pavãozinho, e Rita, que trabalha na Biblioteca Nacional, encontram-se na praia de Copacabana."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xfE1NQAACAAJ",
+      "etag": "iCdTNaM35YY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xfE1NQAACAAJ",
+      "volumeInfo": {
+        "title": "Dois sustos em Porto Alegre",
+        "authors": [
+          "Camila Mesquita",
+          "Luiz Bras",
+          "TEREZA YAMASHITA"
+        ],
+        "publishedDate": "2007",
+        "description": "Os personagens deste livro são Ivan, um menino de Porto Alegre, e Carlos Guarani, um descendente de índios que conhece bem a história da cidade.Quando crescer, Ivan, que adora ler e escrever, decide que irá escrever um romance histórico ambientado em Porto Alegre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "859875028X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788598750286"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=xfE1NQAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=xfE1NQAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dois_sustos_em_Porto_Alegre.html?hl=&id=xfE1NQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xfE1NQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Ca9pwAACAAJ",
+      "etag": "szjKJ/UD3ac",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Ca9pwAACAAJ",
+      "volumeInfo": {
+        "title": "SONHO, SOMBRAS E SUPER-HEROIS",
+        "authors": [
+          "LUIZ BRAS",
+          "RENATO ALARCAO"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8562018082"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788562018084"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=2Ca9pwAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=2Ca9pwAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SONHO_SOMBRAS_E_SUPER_HEROIS.html?hl=&id=2Ca9pwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Ca9pwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The protagonist of this new adventure in Cobra Norato is Efraim, a teenager who loves the Internet, games and comics of superheroes (Batman is his favorite hero)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ivTNsgEACAAJ",
+      "etag": "29zdYRdxr0M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ivTNsgEACAAJ",
+      "volumeInfo": {
+        "title": "Pequena coleção de grandes horrores",
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8564022370"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788564022379"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=ivTNsgEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ivTNsgEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pequena_cole%C3%A7%C3%A3o_de_grandes_horrores.html?hl=&id=ivTNsgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ivTNsgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Pequena coleção de grandes horrores é uma coletânea de minicontos insólitos e irreverentes de um de nossos maiores escritores, contemplado pelo edital Petrobrás literatura."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d_U5zwEACAAJ",
+      "etag": "hDyLBnJy4aA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d_U5zwEACAAJ",
+      "volumeInfo": {
+        "title": "Ventania braba no domingão cinza",
+        "authors": [
+          "Luiz Bras"
+        ],
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8578583078"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788578583071"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=d_U5zwEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=d_U5zwEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ventania_braba_no_doming%C3%A3o_cinza.html?hl=&id=d_U5zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d_U5zwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Uma ventania com corpo e vontade de gente transforma um dia chato em alegria colorida."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GQ0n0AEACAAJ",
+      "etag": "xBJAytK9g9c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GQ0n0AEACAAJ",
+      "volumeInfo": {
+        "title": "Curto-circuito camicase",
+        "authors": [
+          "Luiz Bras"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6580804068"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786580804061"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=GQ0n0AEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=GQ0n0AEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Curto_circuito_camicase.html?hl=&id=GQ0n0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GQ0n0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9dEVNAAACAAJ",
+      "etag": "yUTAeqKXhls",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9dEVNAAACAAJ",
+      "volumeInfo": {
+        "title": "Encontros e desencontros no Rio de Janeiro",
+        "authors": [
+          "Camila Mesquita",
+          "Luiz Bras",
+          "Tereza Yamashita"
+        ],
+        "publishedDate": "2007",
+        "description": "O que você sabe sobre a história do Rio de Janeiro? Na véspera do Carnaval, Tiago, um garoto que vive em Laranjeiras, Renata, uma menina que mora na favela Pavão-Pavãozinho, e Rita, que mora em Botafogo e trabalha na Biblioteca Nacional, encontram-se na praia de Copacabana. Instigada pela passagem de um folião fantasiado de dom João VI, Rita conta a Tiago e Renata detalhes da origem e do desenvolvimento da Cidade Maravilhosa.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "859875031X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788598750316"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=9dEVNAAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=9dEVNAAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Encontros_e_desencontros_no_Rio_de_Janei.html?hl=&id=9dEVNAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9dEVNAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XABnNQAACAAJ",
+      "etag": "ox3sTxzWqPM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XABnNQAACAAJ",
+      "volumeInfo": {
+        "title": "Os sons de Salvador",
+        "authors": [
+          "Camila Mesquita",
+          "Luiz Bras",
+          "TEREZA YAMASHITA"
+        ],
+        "publishedDate": "2007",
+        "description": "Cris e Carol, conversando com seu novo vizinho Caê, descobrem muitos fatos interessantes sobre a fundação de Salvador. Tudo isso ao som de muitos instrumentos, pois Caê é músico.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8598750298"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788598750293"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=XABnNQAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=XABnNQAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Os_sons_de_Salvador.html?hl=&id=XABnNQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XABnNQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8m-SQAAACAAJ",
+      "etag": "nqPKF/v/EIU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8m-SQAAACAAJ",
+      "volumeInfo": {
+        "title": "A ULTIMA BATALHA DOS PARATINTINS",
+        "authors": [
+          "LUIZ BRAS",
+          "SANDRA BIANCHI"
+        ],
+        "description": "Paratintins ou Parintintins? Cidade grande ou floresta? Índios ou 'civilizados'? Banho de chuveiro ou mergulho no rio? Edifício ou oca? Pipoca de microondas ou pescaria com arco e flecha? Qual dessas vidas é melhor? Estas são algumas das questões que, ao longo deste livro, discutem problemas antigos do Brasil.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8587728172"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788587728173"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=8m-SQAAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=8m-SQAAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_ULTIMA_BATALHA_DOS_PARATINTINS.html?hl=&id=8m-SQAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8m-SQAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RIpZNQAACAAJ",
+      "etag": "9hq6j55FhUA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RIpZNQAACAAJ",
+      "volumeInfo": {
+        "title": "O holandês no Recife",
+        "authors": [
+          "Camila Mesquita",
+          "Luiz Bras",
+          "TEREZA YAMASHITA"
+        ],
+        "publishedDate": "2007",
+        "description": "Perdidos pelas ruas de Recife, os irmãos Joana, Jacira e João conhecem Maurício , um turista holandês apaixonado pela capital pernambucana, que lhes conta detalhes de como surgiu e se desenvolveu essa importante cidade brasileira.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8598750301"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788598750309"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=RIpZNQAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=RIpZNQAACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_holand%C3%AAs_no_Recife.html?hl=&id=RIpZNQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RIpZNQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c-LKwAEACAAJ",
+      "etag": "WJwQ/lXVKKc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c-LKwAEACAAJ",
+      "volumeInfo": {
+        "title": "Dias incríveis",
+        "authors": [
+          "Tereza Yamashita",
+          "Luiz Bras",
+          "Teodoro Adorno"
+        ],
+        "publisher": "Callis Editora Ltd",
+        "publishedDate": "2006",
+        "description": "Este livro apresenta dezesseis minicontos bem-humorados, com um texto ágil e contemporâneo, falando de situações engraçadas, fantasiosas ou até mesmo delicadas, que giram em torno de dezesseis datas festivas e históricas do Calendário - Ano-novo, Carnaval, Páscoa, Tiradentes, Dia do Trabalho,Dia das Mães, Dia dos Namorados, Festas Juninas,Férias escolares, Dia dos Pais, Independência do Brasil, Dia das Crianças, Dia das Bruxas, Dia da Bandeira, Dia Nacional da Consciência Negra e Natal. No final do livro o leitor encontra também informações e curiosidades sobre os dias que inspiraram a criação de cada história.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "857416254X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788574162546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 39,
+        "printType": "BOOK",
+        "categories": [
+          "Calendars"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=c-LKwAEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=c-LKwAEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dias_incr%C3%ADveis.html?hl=&id=c-LKwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c-LKwAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-2ytNAEACAAJ",
+      "etag": "AU/cGY3DEYg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-2ytNAEACAAJ",
+      "volumeInfo": {
+        "title": "Muitas Peles",
+        "authors": [
+          "Luiz Bras"
+        ],
+        "description": "Este volume reúne textos cujo assunto - literatura contemporânea - procura trazer um bom número de provocações, delírios, reflexões, insights e anseios.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8562370266"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788562370267"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=-2ytNAEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=-2ytNAEACAAJ&dq=inauthor:%22Luiz+Bras%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Muitas_Peles.html?hl=&id=-2ytNAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-2ytNAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

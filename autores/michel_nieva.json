@@ -1,0 +1,1254 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 16,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "QLbtEAAAQBAJ",
+      "etag": "FLXX/KMyEwU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QLbtEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Dengue boy",
+        "subtitle": "A infância do mundo",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publisher": "Amarcord",
+        "publishedDate": "2024-02-12",
+        "description": "Uma história sobre um futuro cyberpunk tropical e latino, com Dengue boy: A infância do mundo, Michel Nieva se revela uma das vozes mais interessantes na literatura latino-americana contemporânea. No ano de 2272, a crise climática atinge um ponto intransponível. As zonas polares derreteram por completo, a temperatura média global é de 90°C e cidades como Nova York e Buenos Aires se encontram submersas. No extremo sul do continente, os Arquipélagos Patagônicos formam o Caribe Pampiano: de um lado, um balneário com belíssimas praias artificiais; de outro, uma miserável e tépida orla. É nesse cenário devastado que cresce o dengue boy. Ninguém gosta do dengue boy. Na escola, seu aspecto bizarro e nojento o transforma no principal alvo das zombarias comandadas pelo pequeno tirano Dulce. Em casa, sua situação não é muito melhor. A mãe, exausta de seus dois empregos, não aguenta a bagunça feito pelo filho, que não possui mãos. E assim, deslocado, o esquisito mosquito humanoide vai levando sua vida, dia após dia, no mormaço insuportável do único canto ainda habitável da Terra. Este é um livro sobre um fim do mundo. Uma prosa cyberpunk latino-americana, tropical e frenética. Um delírio de realidades moribundas, artificiais e virtuais, em que adultos negociam o valor de pandemias na Bolsa de Valores e esgarçam os últimos recursos terrestres. E, enquanto isso, crianças definem os rumos do que sobra como quem joga videogame. Michel Nieva, uma das vozes mais interessantes e singulares da literatura argentina contemporânea, é um autor de ficção científica gaúcho -punk. Mergulhado em influências do universo do mangá, do body horror e do absurdo, o autor trabalha, com humor, cenas da vida no século 21. E nos transporta a um novíssimo século 23, no qual sua estrela brilha próxima a nomes como Franz Kafka, Ursula K. Le Guin, Jorge Luis Borges, David Cronenberg e Junji Ito. Este Dengue boy: a infância do mundo, seu primeiro livro publicado no Brasil, com tradução de Joca Reiners Terron, autor finalista do Jabuti, e capa de Amanda Miranda, finalista do CCXP Awards, é um bizarro, mas verossímil, retrato do nosso presente. \"Michel Nieva aposta forte com este livro steampunk que imagina o fim do sul da América Latina com literatura gauchesca, videogames monstruosos e pragas monetizadas. Inteligente, divertido e brutal.\" – Mariana Enríquez, autora de As coisas que perdemos no fogo. \"Uma crítica contundente e divertida às irracionalidades do sistema capitalista e um convite à construção de um futuro diferente daquele predeterminado.\" – La Izquierda Diario",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786585854009"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6585854004"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 173,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QLbtEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QLbtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=QLbtEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QLbtEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QLbtEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.19,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 29.19,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QLbtEAAAQBAJ&rdid=book-QLbtEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29190000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 29190000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Dengue_boy-sample-epub.acsm?id=QLbtEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Dengue_boy-sample-pdf.acsm?id=QLbtEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QLbtEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Uma história sobre um futuro cyberpunk tropical e latino, com Dengue boy: A infância do mundo, Michel Nieva se revela uma das vozes mais interessantes na literatura latino-americana contemporânea."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RLmIEQAAQBAJ",
+      "etag": "0HwWITMzIaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RLmIEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Technology and Barbarism",
+        "subtitle": "or: how billionaires will save us from the end of the world",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publisher": "Astra Publishing House",
+        "publishedDate": "2026-02-24",
+        "description": "Thought-provoking pieces of nonfiction exploring the crossroads of technology with art and science, as well as how hard science fiction has inspired the craziest ideas of our times, for the good and the bad. The nonfiction pieces included in Technology and Barbarism, as well as the long essay \"Capitalist Science Fiction,\" constitute the nonfiction alternative to Nieva’s Dengue Boy and has similar potential to achieve cult-status. Equally fast and furious, grounded in deep research as well as far-reaching literary traditions, Nieva writes about the crossroads between civilization and barbarism through history, literature, and the incidence of genetics in the arts and humanities. Could the inspiration for Kafka's stories have come from his visits to human zoos where he saw indigenous people kidnapped from Tierra del Fuego? Can an algorithm understand the verses of Rubén Darío? Can bacteria write literature? And can a monkey reproduce the complete works of Shakespeare? These are some of the questions that run through this collection of essays, which explores the almost always ambiguous threshold that technology and culture have drawn between what is understood as human and what is not, living and nonliving, and which is the seed of the biggest questions of this century. From nineteenth century science fiction to contemporary art exhibitions, via a philosophical take on COVID, this book examines the impact of capitalism, indigenous extermination, medical policies in Latin America and elsewhere, in order to interrogate our very identity. In \"Capitalist Science Fiction,\" Nieva studies the influence of historical \"hard\" science fiction on technology and capitalism today, with a special focus on Silicon Valley, and a particular spin at the end on, of course, Elon Musk. The essay is totally timely and super smart.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781662603181"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1662603185"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 131,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RLmIEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RLmIEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=RLmIEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=RLmIEQAAQBAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Technology_and_Barbarism.html?hl=&id=RLmIEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Technology_and_Barbarism-sample-pdf.acsm?id=RLmIEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RLmIEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These are some of the questions that run through this collection of essays, which explores the almost always ambiguous threshold that technology and culture have drawn between what is understood as human and what is not, living and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aggGEQAAQBAJ",
+      "etag": "J1dFjNXHSBY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aggGEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Dengue Boy",
+        "subtitle": "A Novel",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publisher": "Astra Publishing House",
+        "publishedDate": "2025-02-04",
+        "description": "For fans of David Cronenberg's films and lovers of Kafka, this gaucho-punk, sci-fi novel set in 2197 offers an explosive interpretation of an ultra-capitalistic society on the brink of climate collapse. The protagonist of this story has no understanding of the words “winter”, \"cold”, or \"snow\" because he has never experienced the phenomena they describe. We find ourselves in Victorica, a province of La Pampa, Argentina, some time after 2197 – the year in which the last of the Antarctic icecaps melted and an unprecedented climate catastrophe ensued, radically transforming the landscape of the region into a Caribbean Pampas. It is here that the Dengue Child grows up, a mutant mix of child and mosquito, the result of crazy experimenting driven by ultra-capitalistic corporations racing against each other to own viruses and their cures, destroying even their very own children’s existence to cash in on the stock exchange. Another of the surprising effects of the thaw is the appearance of powerful telepathic pebbles from the bowels of the earth that seem to encapsulate the world's original wisdom, and which are the subject of lucrative smuggling. Meanwhile, the wealthy of the region chose to cruise around on ships where they can experience ice-skating and hand carve ice from valuable remains of glaciers. In their ultra-air conditioned homes, their kids play Indians vs Christians, a brutal video game set in the historical 19th century. The future according to Michel Nieva looks frenetic and shocking. His is one of the most exciting literary voices emerging from Argentina, packing punches in a deeply intelligent, informed, and humorful prose which takes root in Latin American storytelling and sci-fi tradition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781662602641"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1662602642"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aggGEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aggGEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=aggGEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aggGEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aggGEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 88.97,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 88.97,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aggGEQAAQBAJ&rdid=book-aggGEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 88970000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 88970000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Dengue_Boy-sample-epub.acsm?id=aggGEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Dengue_Boy-sample-pdf.acsm?id=aggGEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aggGEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The protagonist of this story has no understanding of the words “winter”, &quot;cold”, or &quot;snow&quot; because he has never experienced the phenomena they describe."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7XapEAAAQBAJ",
+      "etag": "qEA0aJT9kvg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7XapEAAAQBAJ",
+      "volumeInfo": {
+        "title": "La infancia del mundo",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publisher": "Anagrama",
+        "publishedDate": "2023-02-08",
+        "description": "Una mirada ciberpunk a la crisis climática. Una de las voces más singulares de la literatura argentina contemporánea. El protagonista de esta historia no entiende el significado de las palabras «invierno», «frío» o «nieve» porque nunca ha experimentado los fenómenos que describen. Estamos en Victorica, provincia de La Pampa argentina, en fechas posteriores a 2197, año en el que se derriten los últimos hielos antárticos y sobreviene una catástrofe climática sin precedentes, que transforma radicalmente el paisaje de la región en un Caribe Pampeano. En este contexto crece el niño dengue, el protagonista, portador de este virus; un mosquito humanoide cuyo aspecto monstruoso no solo lo convierte en carne de cañón para sus compañeros de clase –comandados por un tirano llamado el Dulce–, sino que también provoca el desprecio de su propia madre. Otro de los sorprendentes efectos del deshielo es la aparición de unas poderosas piedritas telepáticas provenientes de las entrañas terrestres que parecen recuperar la sabiduría de la infancia del mundo, con las que el Dulce y su hermano contrabandean. Pero este «inmundo mundo», según las palabras de Aurora Venturini al comienzo de la novela, se ve amenazado por una crisis socioambiental que se transforma en fuente de especulación financiera, al tiempo que una multinacional de ingeniería planetaria promete adecuar las geografías de la Antártida Argentina, Marte, Júpiter y sus satélites a las exigencias del turismo internacional. Si el capitalismo ha destrozado la naturaleza, ¿puede reutilizar sus propios métodos para reconstruirla? ¿Acaso la realidad virtual que se les ofrece a los personajes en el videojuego Cristianos vs. Indios es más vivible que sus propias vidas? La infancia del mundo está escrita al ritmo frenético de las «virofinanzas», con una prosa delirante que traza puentes entre la picaresca, el manga, el body horror y la ciencia ficción gaucha-punk. Michel Nieva juega a «terraformar» (utilizando los términos de su propio universo) un mundo de mundos que es tan rico y amplio –siguiendo la estela de Kafka, Cronenberg, Octavia E. Butler, Philip K. Dick o Junji Ito– como inaugural. El resultado: una novela extraordinaria sobre un futuro enloquecido que se transparenta, quizá con demasiada claridad, en nuestro presente.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788433918321"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "843391832X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 99,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7XapEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7XapEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=7XapEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7XapEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7XapEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 67.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 67.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7XapEAAAQBAJ&rdid=book-7XapEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 67900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 67900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_infancia_del_mundo-sample-epub.acsm?id=7XapEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_infancia_del_mundo-sample-pdf.acsm?id=7XapEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7XapEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La infancia del mundo está escrita al ritmo frenético de las «virofinanzas», con una prosa delirante que traza puentes entre la picaresca, el manga, el body horror y la ciencia ficción gaucha-punk."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nYoYEQAAQBAJ",
+      "etag": "72y8CqDH9L4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nYoYEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Ciencia ficción capitalista",
+        "subtitle": "Cómo los multimillonarios nos salvarán del fin del mundo",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publisher": "Anagrama",
+        "publishedDate": "2024-10-23",
+        "description": "Crítica política y reivindicación literaria en un ensayo que alumbra las perversas conexiones entre la ciencia ficción y el capitalismo. El capitalismo tecnológico impulsado por Bezos, Musk y Zuckerberg, con sus viajes interplanetarios y sueños de inmortalidad, es una seductora narrativa que se ha apropiado del lenguaje de la ciencia ficción dura para especular con un supuesto futuro mejor. La ciencia ficción capitalista ha devenido en la fantástica narración de una «humanidad sin mundo», de turistas que viajan por el cosmos sacándose selfis mientras la Tierra se prende fuego. Este ensayo, que reivindica la literatura y hace una crítica política a la estetización tecnológica, nos muestra las perversas conexiones que existen entre la ciencia ficción y la historia del capitalismo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788433928993"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8433928996"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 71,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nYoYEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nYoYEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=nYoYEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nYoYEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nYoYEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 62.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 62.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nYoYEQAAQBAJ&rdid=book-nYoYEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 62900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 62900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Ciencia_ficci%C3%B3n_capitalista-sample-epub.acsm?id=nYoYEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Ciencia_ficci%C3%B3n_capitalista-sample-pdf.acsm?id=nYoYEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nYoYEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La ciencia ficción capitalista ha devenido en la fantástica narración de una «humanidad sin mundo», de turistas que viajan por el cosmos sacándose selfis mientras la Tierra se prende fuego."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZpXuEAAAQBAJ",
+      "etag": "3JiIC0i0VNk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZpXuEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Tecnología y barbarie",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publisher": "Anagrama",
+        "publishedDate": "2024-02-07",
+        "description": "Una colección de ensayos que revisa el binomio «tecnología y barbarie» a través de la historia del pensamiento y de la literatura latinoamericanas. La tecnología ha sido siempre documento de civilización, pero también de barbarie. Este libro expone algunos casos, como el del zoológico fundado en Hamburgo por Carl Hagenbeck, que en 1875 exhibió indígenas porque resultaban más económicos de importar que los animales; o el de Eduardo Kac, que en 2001 utilizó la ingeniería genética como lenguaje plástico en su obra Génesis, al encriptar una frase traducida a morse en pares de ADN e inocularla en bacterias. Según Michel Nieva, la historia de la literatura argentina se funda sobre esa fricción: la tecnología como cruce entre civilización y barbarie. En estas páginas encontramos una recopilación de ensayos que exploran, en la estela de Sarmiento y Borges –y con la colaboración de Agamben y Burroughs–, los imaginarios literarios y políticos que instituyeron el límite entre lo humano y lo no-humano, lo cultural y lo natural, lo que merece vivir y lo que debe ser exterminado y capitalizado. Desde textos de ciencia ficción o de fantasía científica decimonónica hasta muestras de arte contemporáneo y materiales sobre el covid-19, este libro estudia los impactos del capitalismo extractivista, el exterminio indígena y las políticas médicas en Latinoamérica. Publicado originalmente en 2020 en una pequeña edición de culto que se agotó, esta nueva presentación revisada y ampliada pasa los preceptos del ciberpunk por el tamiz histórico, social e identitario y reivindica las posibilidades de este género para captar el presente y sus delirios.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788433922571"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8433922572"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZpXuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZpXuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ZpXuEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZpXuEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZpXuEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 67.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 67.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZpXuEAAAQBAJ&rdid=book-ZpXuEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 67900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 67900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Tecnolog%C3%ADa_y_barbarie-sample-epub.acsm?id=ZpXuEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Tecnolog%C3%ADa_y_barbarie-sample-pdf.acsm?id=ZpXuEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZpXuEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Según Michel Nieva, la historia de la literatura argentina se funda sobre esa fricción: la tecnología como cruce entre civilización y barbarie."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TGwQzgEACAAJ",
+      "etag": "Wsx6XC/NUqg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TGwQzgEACAAJ",
+      "volumeInfo": {
+        "title": "Tecnología y barbarie",
+        "subtitle": "ocho ensayos sobre monos, virus, bacterias, escritura no-humana y ciencia ficción",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9873960260"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789873960260"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 145,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=TGwQzgEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=TGwQzgEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tecnolog%C3%ADa_y_barbarie.html?hl=&id=TGwQzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TGwQzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Tecnología y barbarie : ocho ensayos sobre monos, virus, bacterias, escritura no-humana y ciencia ficción, es una recopilación de textos que indagan en la ciencia ficción y la cultura latinoamericanas los imaginarios inmunológicos y ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XoJy0QEACAAJ",
+      "etag": "8e4B5zJ6Qic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XoJy0QEACAAJ",
+      "volumeInfo": {
+        "title": "¿Sueñan los gauchoides con ñandúes eléctricos?",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publishedDate": "2021",
+        "description": "\"En este libro la literatura se manifiesta metamundo, un sueño transhumano, a través de sus múltiples cableados textuales: libro cyberpunk, libro-implosión, inspecciona las entrañas robóticas de los «modelos para armar» que las naciones latinoamericanas suelen cultivar según antojo y necesidad. Se muestran con ritmo vertiginoso los contornos de los sueños hoy metálicos, saturados, copados por la omnipotencia corporativa: futurismo que empieza a avistarse no tan lejano. Las manos de Melville, Borges y Dick han urdido estos circuitos. Michel Nieva ha soldado los cables. [Miluska Benavides]\"--Publisher description.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6124831694"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786124831690"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Argentine fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=XoJy0QEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=XoJy0QEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sue%C3%B1an_los_gauchoides_con_%C3%B1and%C3%BAes_el.html?hl=&id=XoJy0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XoJy0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Las manos de Melville, Borges y Dick han urdido estos circuitos. Michel Nieva ha soldado los cables. [Miluska Benavides]&quot;--Publisher description."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0ikmEQAAQBAJ",
+      "etag": "7cpff4Z7uQU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0ikmEQAAQBAJ",
+      "volumeInfo": {
+        "title": "L'enfance du monde",
+        "subtitle": "Suivi de La Science-fiction capitaliste",
+        "authors": [
+          "Michel E. Nieva"
+        ],
+        "publisher": "Christian Bourgois éditeur",
+        "publishedDate": "2024-10-03T00:00:00+02:00",
+        "description": "Dans une Argentine profondément métamorphosée par le changement climatique et l'ultralibéralisme, un jeune garçon au corps de moustique est harcelé par ses camarades de classe à cause de sa difformité, de sa différence. Né d'une mère qui se tue au travail et d'un père absent, l'enfant dengue n'a d'autres choix que de se résoudre à son sort... ou de changer, radicalement, ce qu'il est au monde. En quelques pages, les destins s'entremêlent pour nous montrer une société dans toute sa splendeur et sa décadence. Ce futur étrange, où le numérique se fond parfois au réel, nous confronte aux vérités qui dérangent, tout en abordant des questions et des thèmes universels : l'identité, la famille, l'argent et, surtout, la violence. Car c'est elle le fil de ce récit : violence subie, violence donnée, elle est la peine et la rage de cette société. Héritier d'Ursula K. Le Guin, de Philip K.Dick et de Junji Ito, Michel Nieva tisse dans ce court roman une fiction spéculative excentrique, résolument politique, qui flirte avec le réalisme magique. Dans La science-ficiton capitaliste, Michel Nieva interroge la place actuelle de la science-fiction dans nos sociétés contemporaines, ou plutôt la manière dont certains de ses grands concepts ont pu à la fois imposer une certaine vision du futur dans l'imaginaire collectif, tout en donnant aux puissants seules les clés de l'avenir. Une déambulation passionnante, directe et radicale.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782267048476"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2267048477"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 181,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0ikmEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0ikmEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=0ikmEQAAQBAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=0ikmEQAAQBAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_enfance_du_monde.html?hl=&id=0ikmEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0ikmEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Héritier d&#39;Ursula K. Le Guin, de Philip K.Dick et de Junji Ito, Michel Nieva tisse dans ce court roman une fiction spéculative excentrique, résolument politique, qui flirte avec le réalisme magique."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4r2f0QEACAAJ",
+      "etag": "AzcLANCGSjw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4r2f0QEACAAJ",
+      "volumeInfo": {
+        "title": "L'infanzia del mondo",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publishedDate": "2025",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8842833770"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788842833772"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4r2f0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4r2f0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.com.br/books?id=4r2f0QEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=4r2f0QEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_infanzia_del_mondo.html?hl=&id=4r2f0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4r2f0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "af_m0AEACAAJ",
+      "etag": "qcE7FAHc68o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/af_m0AEACAAJ",
+      "volumeInfo": {
+        "title": "L'enfance du monde",
+        "subtitle": "Suivi de La science-fiction capitaliste",
+        "authors": [
+          "Michel E. Nieva"
+        ],
+        "publishedDate": "2024-10-03",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2267048469"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782267048469"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=af_m0AEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=af_m0AEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_enfance_du_monde.html?hl=&id=af_m0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=af_m0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Héritier d&#39;Ursula K. Le Guin, de Philip K. Dick et de Junji Ito, Michel Nieva tisse dans ce court roman une fiction spéculative excentrique, résolument politique, qui flirte avec le réalisme magique."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u3UWvwEACAAJ",
+      "etag": "5kTsYQHJqy4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u3UWvwEACAAJ",
+      "volumeInfo": {
+        "title": "Ascenso y apogeo del imperio argentino",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9873960147"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789873960147"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=u3UWvwEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=u3UWvwEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ascenso_y_apogeo_del_imperio_argentino.html?hl=&id=u3UWvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u3UWvwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-IQJEQAAQBAJ",
+      "etag": "5qJge2PKiFI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-IQJEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Dengue Boy",
+        "subtitle": "'Smart, funny and brutal' Mariana Enríquez",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publisher": "Serpent's Tail",
+        "publishedDate": "2025-02-20",
+        "description": "AN IRISH INDEPENDENT BOOK TO CATCH YOUR IMAGINATION IN 2025 'A psychedelic fever dream' ESQUIRE MOST ANTICIPATED BOOK OF 2025 'A rip-roaring satire of late capitalism and humanity's unerring instinct for self-sabotage' IRISH TIMES 'An incandescent imagination' VALERIA LUISELLI The year is 2272. New York and Buenos Aires were submerged years ago and the Patagonian archipelagos are the only habitable lands on Earth. Here, Dengue Boy is a humanoid mosquito whose monstrous appearance repulses everyone, including his own mother. As the world spirals to its end, Dengue Boy searches for the meaning of his life and his true origins. Elsewhere, adults exploit the value of pandemics on the Stock Exchange and waste the last of Earth's resources, while their privileged children plug into virtual realities and stream violent video games. For readers of China Miéville, Samanta Schweblin and Mariana Enríquez, with joyful, savage flair, Dengue Boy blends body horror and cyberpunk to deliver an extraordinary portrait of a demented future. Translated from Spanish by Rahul Bery",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781805220596"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1805220594"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 149,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-IQJEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-IQJEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=-IQJEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-IQJEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-IQJEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 73.97,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 73.97,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-IQJEQAAQBAJ&rdid=book--IQJEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 73970000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 73970000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Dengue_Boy-sample-epub.acsm?id=-IQJEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Dengue_Boy-sample-pdf.acsm?id=-IQJEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-IQJEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Here, Dengue Boy is a humanoid mosquito whose monstrous appearance repulses everyone, including his own mother. As the world spirals to its end, Dengue Boy searches for the meaning of his life and his true origins."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b863oQEACAAJ",
+      "etag": "rw0GMn5zNGI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b863oQEACAAJ",
+      "volumeInfo": {
+        "title": "Papelera de reciclaje",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "987158623X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789871586233"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=b863oQEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=b863oQEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Papelera_de_reciclaje.html?hl=&id=b863oQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b863oQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pot90QEACAAJ",
+      "etag": "vaMKaXbKs8w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pot90QEACAAJ",
+      "volumeInfo": {
+        "title": "Ficciones gauchopunks",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publishedDate": "2025",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9878272362"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789878272368"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=pot90QEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=pot90QEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ficciones_gauchopunks.html?hl=&id=pot90QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pot90QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tDD5zQEACAAJ",
+      "etag": "QPhfWoIA2cQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tDD5zQEACAAJ",
+      "volumeInfo": {
+        "title": "Blanco",
+        "subtitle": "fanzine",
+        "authors": [
+          "Michel Nieva"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:933887918"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Argentine poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=tDD5zQEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=tDD5zQEACAAJ&dq=inauthor:%22Michel+Nieva%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Blanco.html?hl=&id=tDD5zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tDD5zQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

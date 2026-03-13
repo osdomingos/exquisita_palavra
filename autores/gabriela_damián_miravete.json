@@ -1,0 +1,1184 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 15,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "JW1MzwEACAAJ",
+      "etag": "fVOY/8WV1JM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JW1MzwEACAAJ",
+      "volumeInfo": {
+        "title": "They Will Dream in the Garden",
+        "authors": [
+          "Gabroela Damian Miravete"
+        ],
+        "publishedDate": "2023-12-05",
+        "description": "InThey WillDream in the Garden,Otherwise Award-winning author, Gabriela DamiánMiravete elaborates the disconcerting experience of living as a womanin Mexico--aterritory characterized by its great contrasts, from violence andactivism to affectionate and communal resistance: flowers that arisefrom the earth to expand the cosmic consciousness of those who takeit, nuns who create artifacts so that their native languages do notperish, a memorial for the victims of femicide that the Statecontrols, but whose old guardian wants to turn into a laboratory toreturn their lost future... TheyWill Dream in the Gardenshows the journey that its author has undertaken towards a moreconscious writing that, through wonder and beauty, trusts in thepossibilities that literature offers to unite, question, andtransform our being in the world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798986614618"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JW1MzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JW1MzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=JW1MzwEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=JW1MzwEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/They_Will_Dream_in_the_Garden.html?hl=&id=JW1MzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JW1MzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "2023 Shirley Jackson Award Winner Best Collection InThey WillDream in the Garden,Otherwise Award-winning author, Gabriela DamiánMiravete elaborates the disconcerting experience of living as a womanin Mexico--aterritory characterized by its ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WdHb0AEACAAJ",
+      "etag": "FwdiiN0U8SQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WdHb0AEACAAJ",
+      "volumeInfo": {
+        "title": "La canción detrás de todas las cosas",
+        "authors": [
+          "Gabriela Damián Miravete"
+        ],
+        "publishedDate": "2024-08-15",
+        "description": "Este libro está escrito en clave geológica: sus cuentos, entre oníricos y tectónicos, están unidos en el más estricto sentido como las capas de la tierra, cada una con temperatura distinta pero a su vez profundamente relacionada con la previa y con la siguiente, para finalmente, conformar un todo único. La literatura de Gabriela abreva de la ciencia, la historia, la ficción y la literatura especulativa. Aquí hay textos conformados por un imaginario topográfico, mineral y animal. Al leer esta obra, es inevitable preguntarse qué pasaría si la tierra debajo de nuestros pies, soñara, ¿qué soñaría, cómo lo haría? ¿Y luego qué sucedería cada vez que la tierra intentase recordar sus sueños? En palabras de Verónica Murguía: “Gabriela ha imaginado pacientemente y durante muchos años, con el oído pegado al suelo y los dedos hundidos en los terrones, las voces que resuenan en la oscuridad, los ecos de la respiración y el latido del mundo”. Avanzar en la lectura de este libro es penetrar la masa oculta de la Tierra.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6078978055"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078978052"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=WdHb0AEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=WdHb0AEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_canci%C3%B3n_detr%C3%A1s_de_todas_las_cosas.html?hl=&id=WdHb0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WdHb0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La literatura de Gabriela abreva de la ciencia, la historia, la ficción y la literatura especulativa. Aquí hay textos conformados por un imaginario topográfico, mineral y animal."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BttzEQAAQBAJ",
+      "etag": "qFBpyuzYR8s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BttzEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Soñarán en el jardín",
+        "authors": [
+          "Gabriela Damián Miravete"
+        ],
+        "publisher": "ALFAGUARA",
+        "publishedDate": "2025-08-12",
+        "description": "«La Guardiana vio cumplido el anhelo de Las Argüenderas cuando las madres y los padres , y lashermanas y hermanos , y sus amistades , las veían dentro del jardín , vivas , sonrientes. Sentían esa dicha que la justicia no les había podido dar.» Se dice a menudo que « el futuro está escrito» como si eso robara toda la esperanza, pero es en la escritura donde se juega la imaginación subversiva de lo posible y la memoria indómita de lo que está al borde del olvido. ¿Y si, para los seres que el presente desprecia y mengua, el porvenir fuera el tiempo de la rebeldía y la comunidad? En los doce cuentos que componen Soñarán en el jardín , Gabriela Damián Miravete despoja la fantasía, el horror y la ficción especulativa del manto fúnebre de lo irreversible en una serie de ventanas a lo inesperado y asombroso. Y lo hace con una inteligencia insubordinada y un oficio artesano del arte de contar. Sus narradoras son, como ella, mujeres autónomas que confabulan para ingeniar máquinas y conjuros de libertad de cara a los páramos de la catástrofe. Las flores y los gatos, el agua y la montaña, deshacen con palabras indóciles la promesa de apocalipsis que intenta conquistar nuestro mañana y ocupan el lugar de los congéneres, en un mundo compartido y horizontal en el que los seres humanos no son la cumbre de ninguna evolución",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073862257"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6073862253"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BttzEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BttzEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=BttzEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=BttzEQAAQBAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/So%C3%B1ar%C3%A1n_en_el_jard%C3%ADn.html?hl=&id=BttzEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/So%C3%B1ar%C3%A1n_en_el_jard%C3%ADn-sample-epub.acsm?id=BttzEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/So%C3%B1ar%C3%A1n_en_el_jard%C3%ADn-sample-pdf.acsm?id=BttzEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BttzEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En los doce cuentos que componen Soñarán en el jardín , Gabriela Damián Miravete despoja la fantasía, el horror y la ficción especulativa del manto fúnebre de lo irreversible en una serie de ventanas a lo inesperado y asombroso."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zAxTEAAAQBAJ",
+      "etag": "I5aOvC0xtA0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zAxTEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Apex Magazine Issue 128",
+        "authors": [
+          "Renan Bernardo",
+          "Nina Munteanu",
+          "Cheryl S. Ntumy",
+          "Gabriela Damián Miravete",
+          "Tlotlo Tsamaase",
+          "Lavanya Lakshminarayan",
+          "Michalis Manolios",
+          "Maria Antònia Martí Escayol",
+          "Tarun K. Saint"
+        ],
+        "publisher": "Apex Publications",
+        "publishedDate": "2021-12-07",
+        "description": "Strange. Beautiful. Shocking. Surreal. International futurists edition! Guest-edited by Francesco Verso. APEX MAGAZINE is a digital dark science fiction and fantasy genre zine that features award-winning short fiction, essays, and interviews. Established in 2009, our fiction has won several Hugo and Nebula Awards. We publish every other month. Issue 128 contains the following short stories, essays, reviews, and interviews. EDITORIAL From the Sense of Wonder to the Sense of Wander by Francesco Verso ORIGINAL FICTION Soil of Our Home, Storm of Our Lives by Renan Bernardo Robin's Last Song by Nina Munteanu Godmother by Cheryl S. Ntumy The synchronism of touch by Gabriela Damián Miravete Dreamports by Tlotlo Tsamaase Samsāra in a Teacup by Lavanya Lakshminarayan CLASSIC FICTION Aethra by Michalis Manolios Francine (draft for the September lecture) by Maria Antònia Martí Escayol NONFICTION Highlighting Trends in Indian SF in the Twenty-first Century by Tarun K. Saint REVIEWS Words for Thought: Short Fiction Review by A.C. Wise INTERVIEWS An Interview with Author Renan Bernardo by Marissa van Uden An Interview with Author Nina Munteanu by Rebecca E. Treasure An Interview with Artist Chiara Topo by Jason Sizemore",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 285,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zAxTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zAxTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=zAxTEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zAxTEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zAxTEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.49,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 27.49,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zAxTEAAAQBAJ&rdid=book-zAxTEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27490000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 27490000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zAxTEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Established in 2009, our fiction has won several Hugo and Nebula Awards. We publish every other month. Issue 128 contains the following short stories, essays, reviews, and interviews."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K8WgEQAAQBAJ",
+      "etag": "xvL4HNB8NGQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K8WgEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Elles rêveront dans le jardin",
+        "authors": [
+          "Gabriela Damián Miravete"
+        ],
+        "publisher": "Rivages",
+        "publishedDate": "2026-01-07T00:00:00+01:00",
+        "description": "À travers le procès pour sorcellerie d’une nonne indigène, la découverte d’une fleur cosmique, l’expérience d’une apocalypse merveilleuse, la rencontre entre un romancier d’anticipation et sa muse, la visite d’un mémorial futuriste, et des contes sublimant les traumatismes de l’enfance, Gabriela Damián Miravete offre la vision positive d’un monde où les morts tendent la main pour aider les vivants et où des femmes conspirent pour concevoir des sortilèges de liberté. Mêlant fantastique, science-fiction et féminisme, un recueil de douze nouvelles dans la lignée d’Ursula K. Le Guin et du nouveau roman gothique latino-américain. Gabriela Damián Miravete est née à Mexico. Ses récits ont été traduits en six langues et publiés dans des anthologies finalistes des prix Hugo et World Fantasy. Son premier recueil Elles rêveront dans le jardin a remporté le prix Shirley Jackson en 2023, et la nouvelle éponyme le prix Otherwise en 2018. « Ces nouvelles suscitent une réflexion profonde. » Publishers Weekly",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782743669621"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2743669624"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K8WgEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K8WgEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=K8WgEQAAQBAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=K8WgEQAAQBAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Elles_r%C3%AAveront_dans_le_jardin.html?hl=&id=K8WgEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K8WgEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Son premier recueil Elles rêveront dans le jardin a remporté le prix Shirley Jackson en 2023, et la nouvelle éponyme le prix Otherwise en 2018. « Ces nouvelles suscitent une réflexion profonde. » Publishers Weekly À travers le ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZfhJEQAAQBAJ",
+      "etag": "b9YWTadOSSo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZfhJEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Cabezas en la ventana",
+        "subtitle": "Antología de terror latinoamericano",
+        "authors": [
+          "Mariana Enríquez",
+          "Verena Cavalcante",
+          "Elaine Vilar Madruga",
+          "Ramiro Sanchiz",
+          "Malena Salazar Maciá",
+          "Jumko Ogata Aguilar",
+          "Oscar Nestarez",
+          "Bernardo Esquinca",
+          "Zezé Atabales",
+          "Marina Yuszczuk",
+          "Hank T. Cohen",
+          "Natalia Chávez",
+          "Pabsi Livmar",
+          "Stephany Méndez Perico",
+          "Varela Leyva",
+          "Jacobo Villalobos",
+          "Isis Aquino",
+          "Lina María Parra Ochoa",
+          "Alberto Chimal",
+          "Alexandra Pagán Vélez",
+          "Gabriela Damián Miravete",
+          "Markus Edjical Goth",
+          "Natasha Rangel",
+          "Enrique Urbina",
+          "Solange Rodríguez Pappe",
+          "Gustavo Munckel",
+          "Enza García Arreaza"
+        ],
+        "publisher": "Elefanta Editorial",
+        "publishedDate": "2025-02-24",
+        "description": "¿Qué hay en el fondo de nosotrxs? ¿Qué hay, a su vez, en lo más profundo de lxs demás? El terror ilumina esas preguntas, es costura fina, una manera de explorar lugares lejanos, propios y ajenos, y de hablar de las diferencias, que hoy espantan a tanta gente. Sin duda, el terror descoloca nuestros prejuicios sobre la otredad, evoca los fantasmas que nos acompañan, piensa a la sociedad, la naturaleza, en nuestros límites, es una forma de mirar de cerca lo que, quizás, queremos esconder. ¿Qué significa el destape de lo macabro o, mejor dicho, de lo incomprensible? Este libro congrega textos inéditos de las voces más trascendentales (aunque no todas, claro) del terror actual latinoamericano. Una de las mejores dimensiones de la literatura híbrida sin duda reside en él. Con textos inéditos de: Mariana Enriquez (Argentina), Verena Cavalcante (Brasil), Elaine Vilar Madruga (Cuba), Ramiro Sanchiz (Uruguay), Malena Salazar Maciá (Cuba), Jumko Ogata Aguilar (México), Oscar Nestarez (Brasil), Bernardo Esquinca (México), Zezé Atabales (Chile), Marina Yuszczuk (Argentina), Hank T. Cohen (Colombia), Natalia Chávez (Bolivia), Pabsi Livmar (Puerto Rico), Stephany Méndez Perico (Colombia), Varela Leyva (Cuba), Jacobo Villalobos (Venezuela), Isis Aquino (República Dominicana), Lina María Parra Ochoa (Colombia), Alberto Chimal (México), Alexandra Pagán Vélez (Puerto Rico), Gabriela Damián Miravete (México), Markus Edjical Goth (República Dominicana), Natasha Rangel (Venezuela), Enrique Urbina (México), Solange Rodríguez Pappe (Ecuador), Gustavo Munckel (Bolivia) y Enza García Arreaza (Venezuela).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078978229"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6078978225"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 395,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZfhJEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZfhJEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ZfhJEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZfhJEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZfhJEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 102.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 102.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZfhJEQAAQBAJ&rdid=book-ZfhJEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 102900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 102900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cabezas_en_la_ventana-sample-epub.acsm?id=ZfhJEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cabezas_en_la_ventana-sample-pdf.acsm?id=ZfhJEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZfhJEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con textos inéditos de: Mariana Enriquez (Argentina), Verena Cavalcante (Brasil), Elaine Vilar Madruga (Cuba), Ramiro Sanchiz (Uruguay), Malena Salazar Maciá (Cuba), Jumko Ogata Aguilar (México), Oscar Nestarez (Brasil), Bernardo ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aMqIDwAAQBAJ",
+      "etag": "kiZzsUwsEZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aMqIDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Así se acaba el mundo",
+        "subtitle": "Cuentos mexicanos apocalípticos",
+        "authors": [
+          "Alejandro Badillo",
+          "Carlos Bustos",
+          "Miguel Cane",
+          "Libia Brenda Castro",
+          "Raquel Castro",
+          "Alberto Chimal",
+          "Gabriela Damián Miravete",
+          "Alejandro Espinoza",
+          "Cecilia Eudave",
+          "Agustín Fest",
+          "Rodolfo JM",
+          "Óscar Alejandro Luviano",
+          "Omegar Martínez",
+          "Erika Mergruen",
+          "Isaí Moreno",
+          "Sofía Ramírez",
+          "Arturo Vallejo"
+        ],
+        "publisher": "Ediciones SM",
+        "publishedDate": "2016-12-21",
+        "description": "El mundo no se acaba del mismo modo para todos. En este libro se presentan 19 versiones del anuncio milenarista que se cumplirá, o no, un día de diciembre de 2012... o cualquier otro. Estas historias abarcan un amplio registro, desde la fantasía hasta el realismo crudo, de la historia íntima a la histeria colectiva, del sentido del humor hilarante a la revelación trágica, de la ruptura amorosa a robots asesinos y fantasmas. Los personajes deciden cómo vivir el día final, y sus elecciones pasan por cantar en un avión rolas ochenteras o jugar el último nivel de un videojuego. Otros, claro, no deciden nada, pero el Fin los alcanza de todas maneras.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786072424302"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6072424309"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 203,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=aMqIDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aMqIDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aMqIDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aMqIDwAAQBAJ&rdid=book-aMqIDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As%C3%AD_se_acaba_el_mundo-sample-epub.acsm?id=aMqIDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As%C3%AD_se_acaba_el_mundo-sample-pdf.acsm?id=aMqIDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aMqIDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El mundo no se acaba del mismo modo para todos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "js2NEQAAQBAJ",
+      "etag": "aiBqWH5pvnU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/js2NEQAAQBAJ",
+      "volumeInfo": {
+        "title": "El día después del eclipse",
+        "authors": [
+          "Gabriela Damián Miravete"
+        ],
+        "publisher": "Minotauro Colombia",
+        "publishedDate": "2025-10-08",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786287586314"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6287586311"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=js2NEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=js2NEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=js2NEQAAQBAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=js2NEQAAQBAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_d%C3%ADa_despu%C3%A9s_del_eclipse.html?hl=&id=js2NEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=js2NEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Antología de ciencia ficción latinoamericana escrita por mujeres compilada por Gabriela Damián Miravete."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "euBZEQAAQBAJ",
+      "etag": "HrhKQIjnnfQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/euBZEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Hayao Miyazaky. El legado prodigioso (Magis 485)",
+        "authors": [
+          "Lizeth Arámbula",
+          "Gabriela Damián Miravete",
+          "Jorge Esquinca",
+          "Jesus Estrada",
+          "David Fernández, SJ"
+        ],
+        "publisher": "ITESO",
+        "publishedDate": "2022-01-01",
+        "description": "¿Puedes correr el riesgo de ser mejor persona? El arte y la búsqueda de la belleza tienen una importancia vital en nuestra existencia, en este número te internamos al mundo del cineasta japonés Hayao Miyazaki y motivarte a ver sus películas. Encuentra a Magis en https://magis.iteso.mx/ (ITESO), (ITESO, Universidad).",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": [
+          "Photography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.0.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=euBZEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=euBZEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=euBZEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=euBZEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=euBZEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=euBZEQAAQBAJ&rdid=book-euBZEQAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Hayao_Miyazaky_El_legado_prodigioso_Magi-sample-epub.acsm?id=euBZEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Hayao_Miyazaky_El_legado_prodigioso_Magi-sample-pdf.acsm?id=euBZEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=euBZEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "¿Puedes correr el riesgo de ser mejor persona?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZpMAzwEACAAJ",
+      "etag": "+g7hSrNhhfw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZpMAzwEACAAJ",
+      "volumeInfo": {
+        "title": "La Octava Maravilla",
+        "authors": [
+          "Vlady Kociancich"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6073030649"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073030649"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ZpMAzwEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ZpMAzwEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Octava_Maravilla.html?hl=&id=ZpMAzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZpMAzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;La octava maravilla se inscribe entre las novelas de género fantástico &quot;que suelen ser aventuras de la imaginación filosófica&quot;, afirma en su prólogo Adolfo Bioy Casares."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RxxDzwEACAAJ",
+      "etag": "fvitpS0rHV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RxxDzwEACAAJ",
+      "volumeInfo": {
+        "title": "Lucrecias",
+        "authors": [
+          "Alejandra Arévalo",
+          "Gabriela Damián Miravete",
+          "Diana del Ángel"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6079949407"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786079949402"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=RxxDzwEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=RxxDzwEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lucrecias.html?hl=&id=RxxDzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RxxDzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MkiR0QEACAAJ",
+      "etag": "lm3i/zLkP1g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MkiR0QEACAAJ",
+      "volumeInfo": {
+        "title": "Soñaran en el Jardín/ They Will Dream in the Garden",
+        "authors": [
+          "Gabriela Damián Miravete"
+        ],
+        "publisher": "Alfaguara",
+        "publishedDate": "2025-12-09",
+        "description": "«La Guardiana vio cumplido el anhelo de Las Argüenderas cuando las madres y los padres, y las hermanas y hermanos, y sus amistades, las veían dentro del jardín, vivas, sonrientes. Sentían esa dicha que la justicia no les había podido dar.» Se dice a menudo que «el futuro está escrito» como si eso robara toda la esperanza, pero es en la escritura donde se juega la imaginación subversiva de lo posible y la memoria indómita de lo que está al borde del olvido. ¿Y si, para los seres que el presente desprecia y mengua, el porvenir fuera el tiempo de la rebeldía y la comunidad? En los doce cuentos que componen Soñarán en el jardín, Gabriela Damián Miravete despoja la fantasía, el horror y la ficción especulativa del manto fúnebre de lo irreversible en una serie de ventanas a lo inesperado y asombroso. Y lo hace con una inteligencia insubordinada y un oficio artesano del arte de contar. Sus narradoras son, como ella, mujeres autónomas que confabulan para ingeniar máquinas y conjuros de libertad de cara a los páramos de la catástrofe. Las flores y los gatos, el agua y la montaña, deshacen con palabras indóciles la promesa de apocalipsis que intenta conquistar nuestro mañana y ocupan el lugar de los congéneres, en un mundo compartido y horizontal en el que los seres humanos no son la cumbre de ninguna evolución ENGLISH DESCRIPTION The Guardian fulfilled the longing of Las Argüenderas when mothers and fathers, and sisters and brothers, and their friends, saw them inside the garden, alive, smiling. They felt that joy that justice had not been able to give them. It is often said that \"the future is written\" as if that robs all hope, but it is in writing where the subversive imagination of the possible and the indomitable memory of what is on the verge of being forgotten are played out. What if, for the beings that the present despises and diminishes, the future were the time of rebellion and community? In the twelve stories that make up Dreaming in the Garden, Gabriela Damián Miravete strips fantasy, horror, and speculative fiction of the funeral mantle of the irreversible in a series of windows to the unexpected and astonishing. And she does so with insubordinate intelligence and a craftsman's skill in the art of storytelling. Her narrators are, like her, autonomous women who conspire to devise machines and spells of freedom in the face of the wastelands of catastrophe. Flowers and cats, water and mountains, undo with indocile words the promise of apocalypse that tries to conquer our tomorrow and occupy the place of the congeners, in a shared and horizontal world where human beings are not the pinnacle of any evolution.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6073857551"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073857550"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MkiR0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MkiR0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=MkiR0QEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=MkiR0QEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/So%C3%B1aran_en_el_Jard%C3%ADn_They_Will_Dream_i.html?hl=&id=MkiR0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MkiR0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the twelve stories that make up They Will Dream in the Garden, Gabriela Damián Miravete strips fantasy, horror, and speculative fiction of the funeral mantle of the irreversible in a series of windows to the unexpected and astonishing."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DYalzwEACAAJ",
+      "etag": "JwMToCrPzh4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DYalzwEACAAJ",
+      "volumeInfo": {
+        "title": "La casa que es el mundo",
+        "subtitle": "historia y fabulaciones sobre mundos posibles",
+        "authors": [
+          "Gabriela Damián Miravete"
+        ],
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1356905780"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=DYalzwEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=DYalzwEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_casa_que_es_el_mundo.html?hl=&id=DYalzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DYalzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Gf0G0QEACAAJ",
+      "etag": "osrujNdFccA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gf0G0QEACAAJ",
+      "volumeInfo": {
+        "title": "Im Garten werden Sie träumen",
+        "subtitle": "Soñarán en el jardín",
+        "authors": [
+          "Gabriela Damián Miravete"
+        ],
+        "publishedDate": "2024",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3910561055"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783910561052"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.br/books?id=Gf0G0QEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Gf0G0QEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Im_Garten_werden_Sie_tr%C3%A4umen.html?hl=&id=Gf0G0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gf0G0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pM9w0QEACAAJ",
+      "etag": "ww2m/KMSM3M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pM9w0QEACAAJ",
+      "volumeInfo": {
+        "title": "Estrellas sin noche",
+        "subtitle": "diez años de Mirabilia de cuentos de ciencia ficción",
+        "authors": [
+          "Juan Alberto Conde",
+          "Arturo Rozo",
+          "Luis Carlos Barragán Castro",
+          "Juan Diego Gómez",
+          "Laura Rodríguez Leiva",
+          "Luis Pestarini",
+          "Luis Noriega",
+          "Iván Darío Fontalvo",
+          "Campo Ricardo Burgos López",
+          "Mauro Vargas",
+          "Gabriela Arciniegas",
+          "Santiago López",
+          "Sofía Rhei",
+          "Laura Ponce",
+          "Diego Niño",
+          "Cristina Jurado",
+          "Rodrigo Bastidas Pérez",
+          "Antonio Escorcia",
+          "Raquel Castro",
+          "Natalia González Melo",
+          "Daniel Salvo",
+          "Boris Greiff",
+          "Juan David Rincón Huertas",
+          "Maielis González",
+          "Teresa López-Pellisa",
+          "Sierra Rusinque",
+          "Gabriela Damián Miravete",
+          "T. P. Mira-Echeverría",
+          "Andrés González Galante"
+        ],
+        "publishedDate": "2025",
+        "description": "Para leer este libro es necesario ir a lomos de un pegaso, pues es una quimera, un diálogo entre generaciones, estilos, intereses, y una muestra de las diversas formas de hacer, abordar y pensar la ciencia ficción en lengua española. Los textos que reúne, entre cuentos, microficciones, ensayos, artículos académicos, cómic y poesía, fueron escritos por las once personas que ganaron las once versiones del concurso Mirabilia de Cuentos, entre 2013 y 2022, y 18 de las 22 que hicieron parte de los correspondientes jurados, es decir, una selección de autoras y autores de Latinoamérica y España. Tomado de la contracubierta del libro",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6289621327"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786289621327"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=pM9w0QEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=pM9w0QEACAAJ&dq=inauthor:%22Gabriela+Dami%C3%A1n+Miravete%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estrellas_sin_noche.html?hl=&id=pM9w0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pM9w0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Para leer este libro es necesario ir a lomos de un pegaso, pues es una quimera, un diálogo entre generaciones, estilos, intereses, y una muestra de las diversas formas de hacer, abordar y pensar la ciencia ficción en lengua española."
+      }
+    }
+  ]
+}

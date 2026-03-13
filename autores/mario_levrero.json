@@ -1,0 +1,1492 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "W0dVEQAAQBAJ",
+      "etag": "dEsxvSZuQlU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W0dVEQAAQBAJ",
+      "volumeInfo": {
+        "title": "O discurso vazio",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "Companhia das Letras",
+        "publishedDate": "2025-06-17",
+        "description": "Mesclando ficção, diário pessoal e registros de exercícios caligráficos, um romance ao mesmo tempo cômico e angustiante sobre as relações entre vida e literatura. Um autor que tem encontrado cada vez mais leitores apaixonados — e um lugar central na literatura latino-americana. \"Um livro de extrema vanguarda, sumamente brilhante e sofisticado.\" — Juan Cárdenas \"Surpreendente, enganosamente simples.\" — Fernanda Trías \"Este livro pode mudar a sua vida, ou ao menos a sua letra.\" — Alejandro Zambra Em meio a uma crise criativa, o narrador deste livro decide preencher páginas e páginas para tentar modificar sua letra. Está convencido de que os exercícios caligráficos poderão melhorar não somente sua escrita, mas também sua vida. Os resultados iniciais parecem positivos, mas a capacidade de concentração do narrador logo é comprometida. Alicia, a esposa, invade a solidão do marido para tratar da mudança para uma nova casa. O filho Juan Ignacio e o cão Pongo demandam atenção. Jogos eletrônicos e experimentos sonoros no computador ocupam as madrugadas. A busca por organização mental precipita o escritor em uma espécie de nada. Ao longo de semanas e meses, ele anota no diário os esforços para \"capturar os conteúdos ocultos por trás do aparente vazio do discurso\". E logo os registros de sonhos e divagações filosóficas se misturam à crônica exasperante e bem-humorada de \"um emaranhado interminável de opressões cotidianas\". Neste livro extraordinário, publicado em 1996 e que abre caminho para o monumental O romance luminoso, Mario Levrero condensa toda a potência cativante de sua inconfundível escrita autobiográfica. Ao registrar a constante postergação de uma vida verdadeira e autêntica que só se pode vislumbrar, o diário íntimo dá acesso a uma espécie de \"mecanismo secreto\", que revela um \"mundo poderoso e perigoso\", oculto por trás da trivialidade dos dias. Uma obra personalíssima de um autor brutalmente contemporâneo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788535942200"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8535942203"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 151,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W0dVEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W0dVEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=W0dVEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=W0dVEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=W0dVEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 44.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 44.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=W0dVEQAAQBAJ&rdid=book-W0dVEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 44900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 44900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_discurso_vazio-sample-epub.acsm?id=W0dVEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W0dVEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Neste livro extraordinário, publicado em 1996 e que abre caminho para o monumental O romance luminoso, Mario Levrero condensa toda a potência cativante de sua inconfundível escrita autobiográfica."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jQFRDwAAQBAJ",
+      "etag": "1Mypv8GCBgE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jQFRDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O romance luminoso",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "Editora Companhia das Letras",
+        "publishedDate": "2018-04-13",
+        "description": "Considerado o principal romance latino-americano depois de 2666, de Roberto Bolaño, O romance luminoso é um romance sobre o desejo de escrever um romance. Um romance sobre manias, transtornos do sono, vício em computadores, hipocondria, o amor e a morte. Um romance sobre as experiências luminosas e sobre tudo aquilo que não se pode narrar. No ano 2000, Mario Levrero recebeu uma bolsa da Fundação Guggenheim para terminar de escrever O romance luminoso. O livro tinha sido iniciado em 1984, na mesma época em que o autor, endividado, se mudou de Montevidéu para Buenos Aires à procura de trabalho. Com a bolsa, em vez de se dedicar ao romance, no entanto, Levrero se lançou à escrita febril de um diário da escrita do romance, diário este que se tornaria, ele mesmo, o seu magistral O romance luminoso. O livro narra em detalhes as confusões cotidianas de um homem de sessenta anos. Estão aqui todos os tiques de um narrador obsessivo tomado por fobias e superstições. Para o autor uruguaio, a possível transcendência só poderia surgir da repetição de manias que atribui à vida real sua condição de permanente adiamento. Assim, a procrastinação e a busca deste livro \"luminoso\" são a própria matéria de que são feitas as horas, e a aventura literária se insinua através de idas e vindas da espera simbolizada pelos relatórios irônicos do andamento do projeto ao \"Sr. Guggenheim\", por visitas amorosas, madrugadas insones em frente ao computador, a busca pelo significado dos sonhos, passeios pelas ruas de Montevidéu e advertências, prefácios, prólogos e epílogos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788554511111"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8554511115"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 539,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jQFRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jQFRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=jQFRDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jQFRDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jQFRDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jQFRDwAAQBAJ&rdid=book-jQFRDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_romance_luminoso-sample-epub.acsm?id=jQFRDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_romance_luminoso-sample-pdf.acsm?id=jQFRDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jQFRDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Um romance sobre as experiências luminosas e sobre tudo aquilo que não se pode narrar. No ano 2000, Mario Levrero recebeu uma bolsa da Fundação Guggenheim para terminar de escrever O romance luminoso."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j8RAEQAAQBAJ",
+      "etag": "zELdjY/1RAs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j8RAEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Sleepy Stories",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "New York Review of Books",
+        "publishedDate": "2021-07-06",
+        "description": "A buoyant account of the nightly tug-of-war between a sleepy father and his son, and the richly imaginative \"sleepy stories\" they create Each story told in Sleepy Stories drifts deeper into a beguiling dream world, telling of an elastic gentleman who stretches his body across town to effortlessly slip into bed, or of another sleepy young man who curls inside an upside-down umbrella to take a snooze. In Diego Bianki's magical universe, the waking world is made small (a French press and a red top hat shrink before our eyes), while the dream world Levrero and his son Nicolás build together (a land of sly frogs, giant apes, and smiling squids) waltzes across the page. On the last of Bianki's whimsical illustrations, Nicolás holds the book over his father's nodding head and says, \"Another.\" This is a book to giggle with and curl up with, to take on every sleepy adventure.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781939810854"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "193981085X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 45,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j8RAEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j8RAEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=j8RAEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=j8RAEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=j8RAEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 94.26,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 94.26,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=j8RAEQAAQBAJ&rdid=book-j8RAEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 94260000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 94260000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Sleepy_Stories-sample-epub.acsm?id=j8RAEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Sleepy_Stories-sample-pdf.acsm?id=j8RAEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j8RAEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On the last of Bianki&#39;s whimsical illustrations, Nicolás holds the book over his father&#39;s nodding head and says, &quot;Another.&quot; This is a book to giggle with and curl up with, to take on every sleepy adventure."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8rM8YuyAMvUC",
+      "etag": "fkz8XCA/wSE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8rM8YuyAMvUC",
+      "volumeInfo": {
+        "title": "La novela luminosa",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "LITERATURA RANDOM HOUSE",
+        "publishedDate": "2010-11-12",
+        "description": "El miedo a la muerte, el amor, la pérdida del amor, la vejez, la poesía y la naturaleza de la ficción, las experiencias luminosas e inenarrables: todo cabe en esta monumental obra. En su obra póstuma, el excepcional novelista uruguayo Mario Levrero se entregó a la tarea de escribir una novela en la que fuera capaz de narrar ciertas experiencias extraordinarias, que él denominaba «luminosas», sin que perdieran tal cualidad. Una tarea imposible, según confiesa más adelante, pero en la que se embarca con el «Diario de la beca». En cada una de las entradas de este diario, que recorre un año de su vida, el autor nos habla de sí mismo, de sus manías, de su agorafobia, de sus trastornos del sueño, de su adicción a los ordenadores, de su hipocondría y del significado de sus sueños. Capítulo aparte merecen sus mujeres, en particular Chl, que lo alimenta y lo acompaña en sus escasos paseos por Montevideo en busca de libros de Rosa Chacel y de las novelas policíacas que lee compulsivamente. Reseñas: «Levrero es el reverso corriente de Kafka, una sombra manoseada de Camus en clave cómica.» Esperanza López Parada, Babelia, El País «La experiencia luminosa consistiría, simplemente, en cobrar conciencia, pese a todo. \"En eso consiste el verdadero aprendizaje\", escribe Levrero. \"No saber que se sabe, y de pronto saber.\"» Ignacio Echevarría «Esta novela es una invitación a dejar de encontrarse tanto en todas partes y perderse de una vez. He comenzado a leerla hace unos días y no pienso terminarla, al menos hasta que encuentre otro libro de Levrero.» Miguel Vitagliano",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788439723134"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "843972313X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 455,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.13.13.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8rM8YuyAMvUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8rM8YuyAMvUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=8rM8YuyAMvUC&printsec=frontcover&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=8rM8YuyAMvUC&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_novela_luminosa.html?hl=&id=8rM8YuyAMvUC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_novela_luminosa-sample-epub.acsm?id=8rM8YuyAMvUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_novela_luminosa-sample-pdf.acsm?id=8rM8YuyAMvUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8rM8YuyAMvUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En su obra póstuma, el excepcional novelista uruguayo Mario Levrero se entregó a la tarea de escribir una novela en la que fuera capaz de narrar ciertas experiencias extraordinarias, que él denominaba «luminosas», sin que perdieran tal ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qhInu5qH68cC",
+      "etag": "1xlh8gX6myE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qhInu5qH68cC",
+      "volumeInfo": {
+        "title": "El discurso vacío",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "CABALLO DE TROYA",
+        "publishedDate": "2010-11-12",
+        "description": "En clave kafkiana, o, si se prefiere, al modo de Juan Carlos Onetti, esta extraordinaria novela está protagonizada por un escritor que se dedica a observar su propia caligrafía en busca de respuestas sobre su identidad. Esos trazos sinuosos le brindan respuestas sobre el significado de escribir, sobre las angustias de la escritura creativa, y en especial, sobre la siempre mágica relación de la escritura con la vida.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788496594593"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8496594599"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qhInu5qH68cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qhInu5qH68cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=qhInu5qH68cC&printsec=frontcover&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=qhInu5qH68cC&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_discurso_vac%C3%ADo.html?hl=&id=qhInu5qH68cC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_discurso_vac%C3%ADo-sample-epub.acsm?id=qhInu5qH68cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_discurso_vac%C3%ADo-sample-pdf.acsm?id=qhInu5qH68cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qhInu5qH68cC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En clave kafkiana, o, si se prefiere, al modo de Juan Carlos Onetti, esta extraordinaria novela está protagonizada por un escritor que se dedica a observar su propia caligrafía en busca de respuestas sobre su identidad."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QvLzvQAACAAJ",
+      "etag": "0bTR20YP5V0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QvLzvQAACAAJ",
+      "volumeInfo": {
+        "title": "Trilogía involuntaria (La ciudad /El lugar / París)",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publishedDate": "2016-09-02",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8466336699"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788466336697"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=QvLzvQAACAAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=QvLzvQAACAAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trilog%C3%ADa_involuntaria_La_ciudad_El_luga.html?hl=&id=QvLzvQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QvLzvQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mario Levrero, rara avis de la literatura hispanoamericana, ha sido comparado con Kafka y Onetti, y venerado por sucesivas generaciones de escritores desde hace más de treinta años."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Kh9zHmq03PcC",
+      "etag": "Vor/t5pYIBQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Kh9zHmq03PcC",
+      "volumeInfo": {
+        "title": "Conversaciones con Mario Levrero",
+        "authors": [
+          "Pablo Silva Olazábal",
+          "Mario Levrero"
+        ],
+        "publisher": "Ediciones Trilce",
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789974324701"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "997432470X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Uruguayan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Kh9zHmq03PcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Kh9zHmq03PcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=Kh9zHmq03PcC&printsec=frontcover&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Kh9zHmq03PcC&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conversaciones_con_Mario_Levrero.html?hl=&id=Kh9zHmq03PcC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Conversaciones_con_Mario_Levrero-sample-pdf.acsm?id=Kh9zHmq03PcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Kh9zHmq03PcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "icYezCtrh_IC",
+      "etag": "XwjYGANULG4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/icYezCtrh_IC",
+      "volumeInfo": {
+        "title": "Fauna / Desplazamientos",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "MONDADORI",
+        "publishedDate": "2012-10-01",
+        "description": "Marcada por el velo onírico y hasta la parapsicología, la literatura de Mario Levrero conduce al lector a lugares insospechados. Estas dos historias de características sobrenaturales son acaso algunos de los pasajes más extraordinarios de la obra del genial autor uruguayo. Fauna y Desplazamientos son dos excepcionales novelas breves, unidas por las formas -a veces fantasmagóricas, a veces eróticas- del misterio femenino. Como en un juego de sombras chinas o muñecas rusas, todas las mujeres de estos relatos caben en una sola; ninguna existe en la realidad y sus mundos desaparecen cuando el hombre deja de inventarlos o encuentra el camino para llegar a través de sus disfraces.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789876581813"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9876581813"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 143,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.23.22.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=icYezCtrh_IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=icYezCtrh_IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=icYezCtrh_IC&printsec=frontcover&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=icYezCtrh_IC&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fauna_Desplazamientos.html?hl=&id=icYezCtrh_IC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Fauna_Desplazamientos-sample-epub.acsm?id=icYezCtrh_IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Fauna_Desplazamientos-sample-pdf.acsm?id=icYezCtrh_IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=icYezCtrh_IC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Marcada por el velo onírico y hasta la parapsicología, la literatura de Mario Levrero conduce al lector a lugares insospechados."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0x3qjwEACAAJ",
+      "etag": "VRNwJHQq+5M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0x3qjwEACAAJ",
+      "volumeInfo": {
+        "title": "The Luminous Novel",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "Constable",
+        "publishedDate": "2017-06-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1472123484"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781472123480"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=0x3qjwEACAAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=0x3qjwEACAAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Luminous_Novel.html?hl=&id=0x3qjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0x3qjwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zlRXEAAAQBAJ",
+      "etag": "DogW1olmjPM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zlRXEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Le discours vide",
+        "subtitle": "suivi de Roman lumineux",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "Noir sur Blanc",
+        "publishedDate": "2018-10-04T00:00:00+02:00",
+        "description": "Le Discours vide, une des œuvres les plus singulières de Mario Levrero, se lit comme le journal intime de l’auteur. On y découvre son humour dévastateur teinté d’érotisme et sa vision du monde pour le moins ébouriffante. Ce journal, dans lequel le narrateur est envahi par des considérations sur ses proches, sur son environnement immédiat, et surtout sur lui-même, est entrecoupé par une série d’exercices calligraphiques, dans le cadre d’une « auto-thérapie graphologique » que Levrero suit pour parfaire sa personnalité. Car pour soigner son esprit, il faut soigner son écriture ! Auteur culte, Mario Levrero est comparé par les critiques à Kakfa, Lewis Carroll, aux surréalistes ou encore à Felisberto Hernández.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782882505583"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2882505582"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zlRXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zlRXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=zlRXEAAAQBAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=zlRXEAAAQBAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Le_discours_vide.html?hl=&id=zlRXEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zlRXEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le Discours vide, une des œuvres les plus singulières de Mario Levrero, se lit comme le journal intime de l’auteur."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UZmvEAAAQBAJ",
+      "etag": "DprDpxU51G0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UZmvEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Trilogía involuntaria (La ciudad | El lugar | París)",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "RANDOM HOUSE",
+        "publishedDate": "2023-03-01",
+        "description": "La ciudad, El lugar y París son las tres primeras novelas de Mario Levrero. Publicadas entre 1970 y 1982, componen lo que él llamó \"Trilogía involuntaria\", pues comparten, sin deberse a un plan inicial, cierta unidad temática e incluso topológica. Sus personajes pueblan escenarios sembrados de lastre y dilación, en los que el sueño da paso a la amenaza y lo fantástico aparece entre las ruinas de lo real. En un volumen único, que incluye los prólogos de Ignacio Echevarría, Julio Llamazares y Constantino Bértolo, estas nouvelles ocupan un lugar central en la obra de este maestro secreto. La crítica dijo... «Cada uno de sus libros es mejor que el anterior». Damián Tabarovsky «Se podría arriesgar que el nombre de Levrero compone hoy, junto al de Fogwill y al de Roberto Bolaño, una suerte de canon involuntario latinoamericano». Maximiliano Tomas «Levrero es el reverso corriente de Kafka, una sombra manoseada de Camus en clave cómica». Babelia, El País «Mario Levrero es para las letras latinoamericanas un gran descubrimiento». Revista Ñ, Clarín",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789877692778"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9877692775"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UZmvEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UZmvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=UZmvEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=UZmvEAAAQBAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trilog%C3%ADa_involuntaria_La_ciudad_El_luga.html?hl=&id=UZmvEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Trilog%C3%ADa_involuntaria_La_ciudad_El_luga-sample-epub.acsm?id=UZmvEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Trilog%C3%ADa_involuntaria_La_ciudad_El_luga-sample-pdf.acsm?id=UZmvEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UZmvEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La ciudad, El lugar y París son las tres primeras novelas de Mario Levrero."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SBTWEAAAQBAJ",
+      "etag": "IqMUDH53HCQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SBTWEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Cartas a la princesa",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "RANDOM HOUSE",
+        "publishedDate": "2023-09-01",
+        "description": "Cartas que escribió entre 1987 y 1989 a su última mujer y que muestran gran parte de su universo literario y personal. «Princesa, esto no es una carta para vos (¿qué te puedo decir que ya no te haya dicho, de bueno y de malo?), sino que, como otras veces, utilizo tu imagen de interlocutor privilegiado para desarrollar mi monólogo de búsqueda, buscando precisamente que tu imagen me ayude a no salirme demasiado de la razón». Entre 1987 y 1989, mientras Mario Levrero vivía en Buenos Aires, trabajando en revistas de crucigramas para conseguir el dinero suficiente que le permitiera comprar lo que más anhelaba: tiempo para dedicarse a escribir, inició un romance con Alicia Hoppe, quien había sido la mujer de un viejo amigo y, más tarde, su médica personal, que lo acompañó durante años en sus devenires psicosomáticos. En ese momento, ella residía en Colonia, y estas cartas son testimonio del inicio y crecimiento de ese amor adulto y, también, registro literario de las obsesiones, temores e ilusiones de un singular escritor, con un poder de observación y análisis extraordinario. Este libro inédito existe gracias a la cuidada edición de Ignacio Echevarría y a la generosidad de Alicia, quien, como en aquellos años, una vez más despertó el alma rezagada del escritor, que a veces se perdía en sus propios laberintos",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789915678481"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9915678487"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SBTWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SBTWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=SBTWEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=SBTWEAAAQBAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cartas_a_la_princesa.html?hl=&id=SBTWEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cartas_a_la_princesa-sample-epub.acsm?id=SBTWEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cartas_a_la_princesa-sample-pdf.acsm?id=SBTWEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SBTWEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Entre 1987 y 1989, mientras Mario Levrero vivía en Buenos Aires, trabajando en revistas de crucigramas para conseguir el dinero suficiente que le permitiera comprar lo que más anhelaba: tiempo para dedicarse a escribir, inició un romance ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uyWVDwAAQBAJ",
+      "etag": "6dKqSMuFfmU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uyWVDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Empty Words",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "Coffee House Press",
+        "publishedDate": "2019-05-21",
+        "description": "A writer begins keeping a notebook of handwriting exercises hoping that, if he is able to improve his penmanship, he himself will also improve. What begins as a mere physical exercise is filled involuntarily with humorous reflections and tender anecdotes about living, writing, and the sense—or nonsense—of existence.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781566895545"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1566895545"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uyWVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uyWVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=uyWVDwAAQBAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=uyWVDwAAQBAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Empty_Words.html?hl=&id=uyWVDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uyWVDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From a legendary cult figure in Latin American literature, the story of a writer who obsessively observes his own handwriting in search of answers about his identity."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B98CoQEACAAJ",
+      "etag": "Thg4n4M0j6M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B98CoQEACAAJ",
+      "volumeInfo": {
+        "title": "Un silencio menos",
+        "subtitle": "conversaciones con Mario Levrero",
+        "authors": [
+          "Mario Levrero",
+          "Elvio E. Gandolfo",
+          "Enrique Estrázulas"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9871474768"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789871474769"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 213,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Uruguayan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=B98CoQEACAAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=B98CoQEACAAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Un_silencio_menos.html?hl=&id=B98CoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B98CoQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NsBdrulgvA8C",
+      "etag": "Nr+kTQErXG8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NsBdrulgvA8C",
+      "volumeInfo": {
+        "title": "El alma de Gardel",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "Ediciones Trilce",
+        "publishedDate": "1996",
+        "description": "\"Novela corta de este talentoso narrador cuyo protagonista reflexiona sobre la relación y significado de los objetos y personas que lo rodean y con los que tiene una conexión que el narrador desde su perspectiva juega a adjudicarles un halo de misterio\"--Handbook of Latin American Studies, v. 58.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9974321387"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789974321380"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NsBdrulgvA8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NsBdrulgvA8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=NsBdrulgvA8C&printsec=frontcover&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=NsBdrulgvA8C&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_alma_de_Gardel.html?hl=&id=NsBdrulgvA8C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_alma_de_Gardel-sample-pdf.acsm?id=NsBdrulgvA8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NsBdrulgvA8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Novela corta de este talentoso narrador cuyo protagonista reflexiona sobre la relación y significado de los objetos y personas que lo rodean y con los que tiene una conexión que el narrador desde su perspectiva juega a adjudicarles un ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0SIeAQAAIAAJ",
+      "etag": "LqdxrYEEwTw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0SIeAQAAIAAJ",
+      "volumeInfo": {
+        "title": "La ciudad",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105035972277"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.8.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0SIeAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0SIeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=0SIeAQAAIAAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=0SIeAQAAIAAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_ciudad.html?hl=&id=0SIeAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0SIeAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tUeezQEACAAJ",
+      "etag": "CIdSaUP/JVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tUeezQEACAAJ",
+      "volumeInfo": {
+        "title": "The Luminous Novel",
+        "publisher": "And Other Stories",
+        "publishedDate": "2021-08-03",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1913505014"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781913505011"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tUeezQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tUeezQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=tUeezQEACAAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=tUeezQEACAAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Luminous_Novel.html?hl=&id=tUeezQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tUeezQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;Perhaps the luminous novel is this thing that I started writing today, just now."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jlgfAAAAMAAJ",
+      "etag": "McoH3STKZrI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jlgfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La máquina de pensar en Gladys",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015028330465"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jlgfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jlgfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=jlgfAAAAMAAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=jlgfAAAAMAAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_m%C3%A1quina_de_pensar_en_Gladys.html?hl=&id=jlgfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jlgfAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wb8RAAAAQBAJ",
+      "etag": "nqb8/32Fr0Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wb8RAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Diario de un canalla / Burdeos, 1972",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "MONDADORI",
+        "publishedDate": "2013-08-01",
+        "description": "Novelas autobiográficas. Diario de Burdeos es inédita. \"No estoy escribiendo para ningún lector, ni siquiera para leerme yo. Escribo para escribirme yo; es un acto de autoconstrucción. Aquí me estoy recuperando, aquí estoy luchando por rescatar pedazos de mí mismo que han quedado adheridos a mesas de operación, a ciertas mujeres, a ciertas ciudades, a las descascaradas y macilentas paredes de mi apartamento montevideano, que ya no volveré a ver, a ciertos paisajes, a ciertas presencias. Sí, lo voy a hacer. Lo voy a lograr. No me fastidien con el estilo ni con la estructura: esto no es una novela, carajo. Me estoy jugando la vida.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789876582254"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9876582259"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 91,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.17.17.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wb8RAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wb8RAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=wb8RAAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=wb8RAAAAQBAJ&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diario_de_un_canalla_Burdeos_1972.html?hl=&id=wb8RAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Diario_de_un_canalla_Burdeos_1972-sample-epub.acsm?id=wb8RAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Diario_de_un_canalla_Burdeos_1972-sample-pdf.acsm?id=wb8RAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wb8RAAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lilián López, Letras Libres «Me decidí por Diario de un canalla Diario de un canalla?/?Burdeos, 1972 porque yo a Levrero lo leo también como una especie de salvavidas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VZONaEiCxt8C",
+      "etag": "WWbNQW2FaxY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VZONaEiCxt8C",
+      "volumeInfo": {
+        "title": "Nick Carter (se divierte mientras el lector es asesinado y yo agonizo)",
+        "authors": [
+          "Mario Levrero"
+        ],
+        "publisher": "MONDADORI",
+        "publishedDate": "2011-04-01",
+        "description": "Con mejor puntería que nunca, el genio único de Levrero nos conduce por una serie de pasajes y galerías que suman la sordidez y la contundencia del thriller con la intriga de la novela de espías para dejarnos en el umbral majestuoso donde nos es dado reconocer y admirar la más generosa y refinada literatura. Estados Unidos tiene un plan para apoderarse, como siempre, del universo. Mientras todos llegamos tarde, Nick Carter tiene un plan para derrotar a cualquiera que quiera apoderarse del universo. Universo en el que él, quien lo escribe y quien lo lee comparten ese destino formidable de la narrativa de Mario Levrero, donde «plan», «misión», «método» y «azar» se convierten en palabras con un significado distinto del que tienen habitualmente. Así como «triunfo» o «éxito».",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789876580724"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9876580728"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 78,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.23.23.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VZONaEiCxt8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VZONaEiCxt8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=VZONaEiCxt8C&printsec=frontcover&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=VZONaEiCxt8C&dq=inauthor:%22Mario+Levrero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nick_Carter_se_divierte_mientras_el_lect.html?hl=&id=VZONaEiCxt8C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nick_Carter_se_divierte_mientras_el_lect-sample-epub.acsm?id=VZONaEiCxt8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nick_Carter_se_divierte_mientras_el_lect-sample-pdf.acsm?id=VZONaEiCxt8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VZONaEiCxt8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Universo en el que él, quien lo escribe y quien lo lee comparten ese destino formidable de la narrativa de Mario Levrero, donde «plan», «misión», «método» y «azar» se convierten en palabras con un significado distinto del que ..."
+      }
+    }
+  ]
+}

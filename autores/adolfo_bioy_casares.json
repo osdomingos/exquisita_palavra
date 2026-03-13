@@ -1,0 +1,1524 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Q7NmEAAAQBAJ",
+      "etag": "5jP6jrpORA4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q7NmEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Obras completas de Adolfo Bioy Casares – Volume C",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publisher": "Globo Livros",
+        "publishedDate": "2022-03-31",
+        "description": "Terceiro e último volume das obras completas de Adolfo Bioy Casares Um clássico da literatura latino-americana que reúne pela primeira vez os textos do autor escritos entre 1972 e 1999 Um dos grandes mestres da literatura mundial, Adolfo Bioy Casares (1914-1999) foi um escritor de extraordinária originalidade e sutileza, marcado pela fluidez de sua prosa e por uma serena perfeição que nunca deixa de exaltar o amor como paixão suprema. Este volume inclui seus textos escritos entre 1972 e 1999, e contém romances, contos e textos diversos do terço final da vida do grande escritor argentino. Neste livro, constam também as anotações de diários do período em que Bioy Casares esteve no Brasil, o registro de suas impressões e de seus encontros com personalidades como Alberto Moravia, Graham Greene e Cecília Meireles. Mesmo em um texto notadamente pessoal, há nesses diários um fio que perpassa a trama: a história de um amor perdido, que Bioy, como uma personagem criada por si mesmo, buscava encontrar no período em que esteve entre Brasília, São Paulo e Rio de Janeiro. O volume se encerra com textos esparsos, prefácios, escritos de encomenda a periódicos e depoimentos a veículos diversos, em que discorre sobre o tango, seus livros prediletos e sua amizade com Jorge Luis Borges.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786558301707"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6558301709"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1223,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q7NmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q7NmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=Q7NmEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Q7NmEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Q7NmEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 74.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 74.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Q7NmEAAAQBAJ&rdid=book-Q7NmEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 74900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 74900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Obras_completas_de_Adolfo_Bioy_Casares_V-sample-epub.acsm?id=Q7NmEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Obras_completas_de_Adolfo_Bioy_Casares_V-sample-pdf.acsm?id=Q7NmEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q7NmEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Terceiro e último volume das obras completas de Adolfo Bioy Casares Um clássico da literatura latino-americana que reúne pela primeira vez os textos do autor escritos entre 1972 e 1999 Um dos grandes mestres da literatura mundial, Adolfo ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tB9zDwAAQBAJ",
+      "etag": "bQXRTJNu4bU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tB9zDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A invenção de Morel",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publisher": "Biblioteca Azul",
+        "publishedDate": "2018-10-19",
+        "description": "O clássico romance da literatura fantástica em língua espanhola Um cidadão venezuelano se esconde em uma ilha deserta para fugir de uma condenação legal. Porém, aos poucos, ele percebe que o local é povoado por figuras humanas distantes. Coisas estranhas começam acontecer e as pessoas ali presentes parecem repetir cenas como se estivessem presas em um universo cinematográfico. Enquanto se alimenta de raízes de efeitos desconhecidos, o expatriado se vê cada vez mais confuso entre a realidade e a imaginação e começa a fazer notas de suas impressões. Publicado originalmente em 1940, o primeiro e mais famoso romance do escritor argentino Adolfo Bioy Casares é um misto de literatura fantástica e narrativa psicológica. A invenção de Morel é, sobretudo, uma reflexão sobre as consequências da solidão, dos avanços tecnológicos na psicologia humana e do desejo de imortalidade.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788525063526"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8525063525"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tB9zDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tB9zDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=tB9zDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tB9zDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tB9zDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 49.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 49.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tB9zDwAAQBAJ&rdid=book-tB9zDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 49900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_inven%C3%A7%C3%A3o_de_Morel-sample-epub.acsm?id=tB9zDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_inven%C3%A7%C3%A3o_de_Morel-sample-pdf.acsm?id=tB9zDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tB9zDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A invenção de Morel é, sobretudo, uma reflexão sobre as consequências da solidão, dos avanços tecnológicos na psicologia humana e do desejo de imortalidade."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-tNuBgAAQBAJ",
+      "etag": "VxOcj8cCLKk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-tNuBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Obras completas de Adolfo Bioy Casares – volume A",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publisher": "Biblioteca Azul",
+        "publishedDate": "2015-01-29",
+        "description": "No ano em que se comemora o centenário de Adolfo Bioy Casares, a Biblioteca Azul dá início à publicação das Obras Completasdeste grande nome da literatura do século XX. O primeiro volume reúne seis livros do autor, de seu romance mais conhecido, A invenção de Morel, ao inédito As vésperas de Fausto, raridade lançada em uma edição independente em 1949. A edição apresenta novas traduções de títulos escritos entre 1940 e 1958 e traz ainda textos dispersos em diários, revistas ou publicações de distribuição limitada. Leitor voraz e apreciador do que chamou de literatura fantástica, Bioy Casares é autor de histórias que misturam suspense, referências a romances policiais e elementos inesperados, tudo isso permeado pelo refinamento adquirido ao longo de uma vida dedicada à literatura. Amigo e parceiro de Jorge Luis Borges, com quem escreveu as histórias do personagem H. Bustos Domecq, que estão sendo relançados pela Biblioteca Azul, Bioy Casares recebe enfim uma edição que destaca a extensão e a qualidade de sua produção, que o coloca entre os principais autores de língua espanhola. O primeiro volume das Obras Completas inclui títulos Plano de Fuga, A trama celeste e História prodigiosa lançados pela primeira vez em português. A organização de toda a obra completa, que será publicada em três volumes, é do pesquisador argentino Daniel Martino, especialista na obra do escritor, responsável pelo estabelecimento do texto e pelas notas que apontam as variações de texto ao longo da obra. História prodigiosa e O sonho dos heróis são os últimos livros a integrar o volume. Além dos títulos, parte da edição é dedicada a textos dispersos, a maioria prólogos e resenhas publicadas entre 1940-58, que ressaltam o humor e a ironia de um apaixonado pela literatura. Os apêndices reúnem ideias iniciais para a criação de obras que integram o primeiro volume como os contos Dos reis do futuro e O outro labirinto. Obras Completas não se destina apenas aos admiradores do autor, mas também àqueles desejam conhecer melhor o trabalho de um mestre da literatura. A Biblioteca Azul publicará o segundo e o terceiro volume das Obras completas de Bioy Casares em 2015.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788525059963"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "852505996X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 809,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-tNuBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-tNuBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=-tNuBgAAQBAJ&printsec=frontcover&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-tNuBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-tNuBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 74.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 74.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-tNuBgAAQBAJ&rdid=book--tNuBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 74900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 74900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Obras_completas_de_Adolfo_Bioy_Casares_v-sample-epub.acsm?id=-tNuBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Obras_completas_de_Adolfo_Bioy_Casares_v-sample-pdf.acsm?id=-tNuBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-tNuBgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "No ano em que se comemora o centenário de Adolfo Bioy Casares, a Biblioteca Azul dá início à publicação das Obras Completasdeste grande nome da literatura do século XX. O primeiro volume reúne seis livros do autor, de seu romance ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m6uMDwAAQBAJ",
+      "etag": "LFWLGuqQtcg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m6uMDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Obras completas de Adolfo Bioy Casares – Volume B",
+        "subtitle": "(1959-1971)",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publisher": "Biblioteca Azul",
+        "publishedDate": "2019-03-11",
+        "description": "Um dos grandes mestres da literatura mundial, Adolfo Bioy Casares (1914-1999) é um escritor de extraordinária originalidade e sutileza, marcado pela fluidez de sua prosa e por uma serena perfeição que nunca deixa de exaltar o amor como paixão suprema. Este volume das Obras completas reúne pela primeira vez no Brasil seus textos escritos entre 1959 e 1971. Além dos livros Grinalda de amores, O lado da sombra, O grão-serafim, A outra aventura, Diário da guerra do porco e Memória sobre os pampas e os gaúchos, o volume traz ainda textos dispersos em diários, revistas ou publicações de distribuição limitada, inéditos no Brasil.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788525068491"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8525068497"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1062,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m6uMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m6uMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=m6uMDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=m6uMDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=m6uMDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 74.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 74.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=m6uMDwAAQBAJ&rdid=book-m6uMDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 74900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 74900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Obras_completas_de_Adolfo_Bioy_Casares_V-sample-epub.acsm?id=m6uMDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Obras_completas_de_Adolfo_Bioy_Casares_V-sample-pdf.acsm?id=m6uMDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m6uMDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Um dos grandes mestres da literatura mundial, Adolfo Bioy Casares (1914-1999) é um escritor de extraordinária originalidade e sutileza, marcado pela fluidez de sua prosa e por uma serena perfeição que nunca deixa de exaltar o amor como ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K03SEAAAQBAJ",
+      "etag": "8uv3K8KTX9k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K03SEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Diário da Guerra aos Porcos",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publisher": "CAVALO DE FERRO",
+        "publishedDate": "2023-09-11",
+        "description": "Um romance perfeito sobre o envelhecimento, a morte e o suceder das gerações que ocupa um lugar cimeiro na obra de Adolfo Bioy Casares e de toda a literatura sul-americana. Um certo dia, de forma inesperada, os jovens de Buenos Aires decidem que quem tem mais de cinquenta anos é inútil à sociedade. Inicia-se uma misteriosa e terrível «guerra aos porcos», na qual, durante uma semana, os jovens da cidade fazem uma caça aos «velhos» com o intuito de os eliminar. Isidoro Vidal e o seu grupo de amigos já reformados são apanhados desprevenidos no meio da violenta revolução geracional. A guerra obriga-os a alterar hábitos e a improvisar uma defesa desesperada. Têm de aprender a deslocar-se pela cidade em horas improváveis e esconder-se dos seus próprios filhos, agora seus inimigos. No entanto, no meio do terrível conflito, como num moderno Romeu e Julieta, floresce o amor secreto entre o velho Vidal e a jovem Nélida... Publicado em 1969, durante a ditadura argentina, e posteriormente adaptado ao cinema, Diário da Guerra aos Porcos é um dos romances essenciais da bibliografia de Bioy Casares e da literatura sul-americana — uma alegoria irónica, visionária e cruel sobre a passagem do tempo, o medo da morte e a fragmentação do mundo, na qual paira a atmosfera do sonho e do fantástico. Tradução de Sofia Castro Rodrigues e Virgílio Tenreiro Viseu Os elogios da crítica: «Uma ficção perfeita sobre o envelhecimento e a proximidade da morte.» Ana Cristina Leonardo, Expresso – Actual «Um travelling sobre as lacunas eternas do medo. Que [Casares] o faça deixando-nos com um sorriso nos lábios é apenas uma das marcas da sua mestria.» João Bonifácio, Público «Casares é um dos maiores escritores da América Latina, com uma vasta obra onde a fantasia e a realidade se sobrepõem numa harmonia magistral.» Jorge Luis Borges «Quem me dera ser o Bioy. Sempre o admirei como escritor e o estimei como pessoa.» Julio Cortázar «Casares foi sempre o maior especialista em descobrir a irrealidade que está presente nas nossas vidas e em transpô-la para histórias emocionantes que nos ensinam a viver de outra forma.» Octavio Paz, Prémio Nobel de Literatura",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789897874345"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9897874348"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 221,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K03SEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K03SEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=K03SEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=K03SEAAAQBAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1rio_da_Guerra_aos_Porcos.html?hl=&id=K03SEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_da_Guerra_aos_Porcos-sample-epub.acsm?id=K03SEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_da_Guerra_aos_Porcos-sample-pdf.acsm?id=K03SEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K03SEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Publicado em 1969, durante a ditadura argentina, e posteriormente adaptado ao cinema, Diário da Guerra aos Porcos é um dos romances essenciais da bibliografia de Bioy Casares e da literatura sul-americana — uma alegoria irónica, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N-rxzwEACAAJ",
+      "etag": "v/FzrLrPCuQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N-rxzwEACAAJ",
+      "volumeInfo": {
+        "title": "Antologia de la literatura fantastica",
+        "authors": [
+          "Jorge Luis Borges",
+          "Adolfo Bioy Casares",
+          "Silvina Ocampo"
+        ],
+        "publishedDate": "2019-04-23",
+        "description": "Clássico absoluto da literatura em língua espanhola, este volume reúne 75 contos fantásticos de todos os tempos, de mestres do gênero como Edgar Allan Poe, H. G. Wells, Franz Kafka e Julio Cortázar, entre outros. Numa noite de 1937, ao conversar sobre ficções fantásticas, três amigos — Jorge Luis Borges, Adolfo Bioy Casares e Silvina Ocampo — resolveram criar uma antologia com seus autores preferidos. Do filósofo Martin Buber ao explorador Richard Burton, passando pela tradição dos contos orientais, além de Cortázar, Kafka, Cocteau, Joyce, Wells e Rabelais, são 75 histórias — não só contos, como fragmentos de romance e peças de teatro — que nos apresentam uma literatura marcada pelo imaginário e por um modo diferente de representar a realidade. “A nossa sociedade — global, multilinguística, imensamente irracional — talvez só possa descrever a si mesma com a linguagem intuitiva da fantasia”, anota a escritora Ursula K. Le Guin no posfácio desta edição.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8535931635"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788535931631"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=N-rxzwEACAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=N-rxzwEACAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antologia_de_la_literatura_fantastica.html?hl=&id=N-rxzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N-rxzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Numa noite de 1937, ao conversar sobre ficções fantásticas, três amigos — Jorge Luis Borges, Adolfo Bioy Casares e Silvina Ocampo — resolveram criar uma antologia com seus autores preferidos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pPXEEAAAQBAJ",
+      "etag": "giaZsI0CL1w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pPXEEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Bioy & Borges",
+        "subtitle": "Obra completa em colaboração",
+        "authors": [
+          "Adolfo Bioy Casares",
+          "Jorge Luis Borges"
+        ],
+        "publisher": "Companhia das Letras",
+        "publishedDate": "2023-08-21",
+        "description": "Um acontecimento literário. A história de uma profunda amizade. Um diálogo vigoroso. Pela primeira vez num único volume tudo o que escreveram juntos dois dos autores latino-americanos mais influentes de todos os tempos. Este livro reúne todos os romances, contos, crônicas e textos esparsos que os argentinos Adolfo Bioy Casares e Jorge Luis Borges escreveram juntos durante meio século. É o registro da mais emblemática parceria da história da literatura e, sobretudo, a história de uma amizade intensa. Quando se conheceram, no início da década de 1930, Bioy tinha dezessete anos, e Borges, pouco mais de trinta. Borges conta que um dos principais acontecimentos de sua vida foi o início dessa relação. A partir de então, e por muito tempo, passaram a se encontrar quase que diariamente para discutir textos, inventar e aperfeiçoar personagens e tramas. Bioy escrevia e ambos debatiam o enredo, norteados por uma série de regras: oralidade triunfante, propostas alternadas, exigência mútua, direito permanente de veto, prioridade ao jogo e ao prazer. \"Começamos a escrever\", diz Borges, \"de um jeito que não se parecia nem a Bioy nem a Borges. Criamos entre os dois um terceiro personagem que só existe quando estamos conversando\". Com posfácios de Davi Arrigucci Jr., Júlio Pimentel Pinto e Michel Lafon, este livro é uma ode à cumplicidade de dois dos autores mais extraordinários das letras mundiais. Uma obra-prima a ser descoberta e redescoberta. \"Ao se opor a meu gosto pelo patético, pelo sentencioso e pelo barroco, Bioy fez-me sentir que a discrição e o comedimento são mais convenientes. [...] Eu diria que Bioy foi me levando aos poucos ao classicismo.\" — Jorge Luis Borges \"Toda colaboração com Borges equivalia a anos de trabalho. [...] Quando duas pessoas escrevem juntas e não são vaidosas o resultado é melhor do que quando trabalham separadas.\" — Adolfo Bioy Casares \"A escrita de Borges e Bioy era grandiloquente e extravagante, e não a mera superposição da voz dos autores, mas sua transcendência, nascida de um elo misterioso que só existia no ato da colaboração.\" — Michel Lafon e Benoît Peeters \"Eram o mesmo outro: um terceiro escritor, inassimilável tanto a um quanto a outro, profundamente excêntrico.\" — Alan Pauls",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788535935608"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8535935606"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 692,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pPXEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pPXEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=pPXEEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pPXEEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pPXEEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pPXEEAAAQBAJ&rdid=book-pPXEEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Bioy_Borges-sample-epub.acsm?id=pPXEEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pPXEEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Quando se conheceram, no início da década de 1930, Bioy tinha dezessete anos, e Borges, pouco mais de trinta. Borges conta que um dos principais acontecimentos de sua vida foi o início dessa relação."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FSp9uwEACAAJ",
+      "etag": "D0HwsOaNiwA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FSp9uwEACAAJ",
+      "volumeInfo": {
+        "title": "Borges",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publishedDate": "2006",
+        "description": "Durante cinco décadas de amistad y complicidad literaria, Adolfo Bioy Casares visitó infinidad de veces a Jorge Luis Borges. Este libro es el diario que Bioy fue escribiendo sobre esos encuentros entre 1947 y 1989. El resultado es el retrato más completo y más íntimo de Borges jamás presentado a los lectores y la crónica minuciosa y deliciosa de una amistad legendaria. Bioy y Borges fueron amigos entrañables y compañeros de aventuras literarias. Durante años se reunían todos los días: escribían juntos, trabajaban juntos, paseaban, veraneaban y comían juntos. Con discreción pero con la puntillosidad y la constancia de quien sabe qué está destinado a hacer un aporte fundamental, Bioy anotaba sus impresiones, los diálogos, las consideraciones de su amigo sobre escritores clásicos y contemporáneos, sobre el amor, la amistad, los sueños, la muerte, Dios, el destino, la filosofía, la comida, las mujeres, la política, las costumbres de su época, la idiosincrasia de los pueblos. El presente libro es reflejo de ese intercambio que enriqueció a uno y otro, y torció para siempre el rumbo de la literatura en español. El relato por parte de Bioy de aspectos poco conocidos de la vida de Borges, la transmisión precisa de sus ideas originales y brillantes, el dibujo de su personalidad, en general poco conocida o poco evidente, quedan plasmados en este libro como es posible que no logre hacerlo ninguna biografía. En ese sentido, Bioy Casares es el interlocutor perfecto, como un tamiz hecho a medida para que se luciera la inteligencia del amigo, para dialogar con él en condiciones de igualdad y transmitirlo al papel con talento inigualable.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8423338738"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788423338733"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Argentine"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FSp9uwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FSp9uwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=FSp9uwEACAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=FSp9uwEACAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Borges.html?hl=&id=FSp9uwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FSp9uwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Durante cinco décadas de amistad y complicidad literaria, Adolfo Bioy Casares visitó infinidad de veces a Jorge Luis Borges. Este libro es el diario que Bioy fue escribiendo sobre esos encuentros entre 1947 y 1989."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eKmlBQAAQBAJ",
+      "etag": "n/cMFuv5c5I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eKmlBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Um modelo para a morte | Os suburbanos | O paraíso dos crentes",
+        "authors": [
+          "Adolfo Bioy Casares",
+          "Jorge Luis Borges"
+        ],
+        "publisher": "Biblioteca Azul",
+        "publishedDate": "2014-12-02",
+        "description": "Tudo começou com um panfleto para uma fábrica de iogurte. Para atender família Casares. Para atender a encomenda, os amigos se reuniram em uma casa de campo para escrever e começaram uma parceria que deu origem não apenas a livros, mas a dois autores. A Biblioteca Azul publica novas edições dos três volumes escritos por Borges e Bioy em uma colaboração tão íntima que heterônimos,com a peculiaridade de serem “heterônimos de dois”. \"Um modelo para a morte\" é o único texto assinado por B. Suárez Lynch, discípulo literário de Bustos Domecq. O conto é uma sátira às novelas policiais, misturando investigação rigorosa, exageros racionais e comentários aleatórios. Os roteiros de cinema \"Os suburbanos\" e \"O paraíso dos crentes\" são assinados pela dupla Borges e Bioy. O primeiro narra uma história de Julio Morales, que em sua jornada à procura de um homem de coragem busca a si mesmo. \"O paraíso dos crentes\" faz uma incursão pelo lado obscuro de Buenos Aires enquanto parodia filmes de gângster. O escritor argentino Alan Pauls afirma que \"amparados por um pseudônimo Borges e Bioy lançaram mão de elementos que não poderiam nunca figurar em suas obras individuais\", como \"o uso brutal da cultura popular, atrevimento e paixão rasteiras\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788525059673"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8525059676"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eKmlBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eKmlBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=eKmlBQAAQBAJ&printsec=frontcover&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eKmlBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eKmlBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 27.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eKmlBQAAQBAJ&rdid=book-eKmlBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 27900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Um_modelo_para_a_morte_Os_suburbanos_O_p-sample-epub.acsm?id=eKmlBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Um_modelo_para_a_morte_Os_suburbanos_O_p-sample-pdf.acsm?id=eKmlBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eKmlBQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "O escritor argentino Alan Pauls afirma que &quot;amparados por um pseudônimo Borges e Bioy lançaram mão de elementos que não poderiam nunca figurar em suas obras individuais&quot;, como &quot;o uso brutal da cultura popular, atrevimento e paixão ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rjC9rQEACAAJ",
+      "etag": "sKIUFYPtBFg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rjC9rQEACAAJ",
+      "volumeInfo": {
+        "title": "Antologia da literatura fantástica",
+        "authors": [
+          "Adolfo Bioy Casares",
+          "Jorge Luis Borges",
+          "Silvina Ocampo"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8540504545"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788540504547"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 444,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=rjC9rQEACAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=rjC9rQEACAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antologia_da_literatura_fant%C3%A1stica.html?hl=&id=rjC9rQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rjC9rQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qQNJAAAAYAAJ",
+      "etag": "v7rFMWXYRwk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qQNJAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Invention of Morel",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173016203883"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qQNJAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qQNJAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=qQNJAAAAYAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=qQNJAAAAYAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Invention_of_Morel.html?hl=&id=qQNJAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qQNJAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QQTtlAEACAAJ",
+      "etag": "Oc5lc7jFw5E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QQTtlAEACAAJ",
+      "volumeInfo": {
+        "title": "Histórias fantásticas",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8579490561"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788579490569"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 335,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=QQTtlAEACAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=QQTtlAEACAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3rias_fant%C3%A1sticas.html?hl=&id=QQTtlAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QQTtlAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4212zQEACAAJ",
+      "etag": "PMHNVK8mU1E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4212zQEACAAJ",
+      "volumeInfo": {
+        "title": "Seis problemas para dom Isidro Parodi / Duas fantasias memoráveis",
+        "authors": [
+          "Jorge Luis Borges",
+          "ADOLFO BIOY CASARES",
+          "Maria Paula Gurgel Ribeiro"
+        ],
+        "publisher": "Globo Livros",
+        "publishedDate": "2008",
+        "description": "'Seis problemas para Dom Isidro Parodi & Duas fantasias memoráveis', de Jorge Luis Borges & Adolfo Bioy Casares, foi escrito sob o pseudônimo H. Bustos Domecq. Por trás do jogo de máscaras da autoria, em que os dois grandes escritores argentinos dão lugar, na verdade, a um heterônimo, ao menos dois aspectos se destacam; a raridade da literatura a quatro mãos e a modernidade do autor como outra criação do autor. Pois se o autor cria a obra, cria também, ao criá-la, a si mesmo como autor. Obra e autor criam-se, então, mutuamente. E como todos os aspectos da criação tornaram-se conscientes na modernidade, isto gera a possibilidade - mais ainda, a necessidade - de tornar tal consciência criativa parte da própria criação.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8525043869"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788525043863"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=4212zQEACAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=4212zQEACAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Seis_problemas_para_dom_Isidro_Parodi_Du.html?hl=&id=4212zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4212zQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5IAMAAAAIAAJ",
+      "etag": "nHWK8IHifes",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5IAMAAAAIAAJ",
+      "volumeInfo": {
+        "title": "The Dream of Heroes",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publisher": "Plymbridge Distributors Limited",
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015039642239"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5IAMAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5IAMAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=5IAMAAAAIAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=5IAMAAAAIAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dream_of_Heroes.html?hl=&id=5IAMAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5IAMAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zyyFAAAAIAAJ",
+      "etag": "h1GuEpg7eMc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zyyFAAAAIAAJ",
+      "volumeInfo": {
+        "title": "La otra aventura",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106013807562"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "categories": [
+          "Literature, Modern"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zyyFAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zyyFAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=zyyFAAAAIAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=zyyFAAAAIAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_otra_aventura.html?hl=&id=zyyFAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zyyFAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ggRJAAAAYAAJ",
+      "etag": "r1wMSVYzQ+E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ggRJAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Una muñeca rusa",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publisher": "Tusquets Editores, S.A.",
+        "publishedDate": "1991",
+        "description": "Sólo los grandes maestros como Bioy Casares dominan con maestría el arte de contar historias sencillas, propias de la pequeña odisea cotidiana del ser humano, que, no obstante, sin que el lector perciba exactamente cuándo ni cómo, lo precipitan en una atmósfera de inaprensible extrañeza o enajenación, a veces inquietante, como en «Un encuentro en Rauch», a veces atroz, como en «Margarita o El poder de la farmacopea», y a veces delirante, como en «A propósito de un olor» o en «Bajo el agua». En estos casos, como en «Una muñeca rusa», es lo grotesco lo que vuelca insidiosamente la realidad ; y, en otros aún, como en «Catón», la amarga ironía de las contradicciones entre el arte y la política es la que nos compromete en una reflexión turbadora. De la risa incontenible al desasosiego, Bioy Casares nos conduce hacia ese asombroso lugar fronterizo entre lo real y lo fantástico en el que la ficción, todopoderosa, nos envuelve completamente.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173028018845"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ggRJAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ggRJAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ggRJAAAAYAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ggRJAAAAYAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Una_mu%C3%B1eca_rusa.html?hl=&id=ggRJAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ggRJAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sólo los grandes maestros como Bioy Casares dominan con maestría el arte de contar historias sencillas, propias de la pequeña odisea cotidiana del ser humano, que, no obstante, sin que el lector perciba exactamente cuándo ni cómo, lo ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sTXRYmaCs8MC",
+      "etag": "SHbY/6GG06c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sTXRYmaCs8MC",
+      "volumeInfo": {
+        "title": "A Russian Doll & Other Stories",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publisher": "New Directions Publishing",
+        "publishedDate": "1992-09-17",
+        "description": "This collection of traditional and experimental stories by Argentinian novelist Bioy Casares ( The Adventures of a Photographer in La Plata ) offers sophisticated, seamless prose, as well as magical realism and biting political satire. - Publishers Weekly A Russian Doll and Other Stories is the ninth collection of short fiction by one of this century's premier Argentinian writers who, with his fellow countrymen Julio Cortázar and Jorge Luis Borges, helped change the world's perception of Latin American literature. Bioy Casares's narratives are elegant and urbane, his style precise and streamlined, as he paces his characters through seriocomic traps of fate––ensnared by love, impelled by lust, ambition, or plain greed, even metamorphosed by pharmaceuticals. These are not stories in a psychological mode but like the image of the Russian doll of the title piece are carefully wrought congeries of intractable selves within selves.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780811221870"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0811221873"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sTXRYmaCs8MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sTXRYmaCs8MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=sTXRYmaCs8MC&printsec=frontcover&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=sTXRYmaCs8MC&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Russian_Doll_Other_Stories.html?hl=&id=sTXRYmaCs8MC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_Russian_Doll_Other_Stories-sample-epub.acsm?id=sTXRYmaCs8MC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_Russian_Doll_Other_Stories-sample-pdf.acsm?id=sTXRYmaCs8MC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sTXRYmaCs8MC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This collection of traditional and experimental stories by Argentinian novelist Bioy Casares ( The Adventures of a Photographer in La Plata ) offers sophisticated, seamless prose, as well as magical realism and biting political satire."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UwwFuwAACAAJ",
+      "etag": "77JStVUXrug",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UwwFuwAACAAJ",
+      "volumeInfo": {
+        "title": "SEIS PROBLEMAS PARA DOM ISIDRO PARODI",
+        "subtitle": "AUTORES LATINOS",
+        "authors": [
+          "JORGE LUIS BORGES",
+          "ADOLFO BIOY CASARES"
+        ],
+        "description": "'Seis problemas para dom Isidro Parodi' é um clássico da literatura argentina no gênero policial. São seis tramas misteriosas envolvendo personagens caricatos. O inescrupuloso Gervásio Montenegro, as damas de sociedade Mariana Ruiz Villalba e sua irmã Pumita, o poeta moderno Carlos Anglada entre outros. Casos policiais solucionados por dom Isidro Parodi, um barbeiro acusado de um crime que não cometeu e condenado a 21 anos de prisão na Penitenciária de Buenos Aires. Dom Isidro Parodi é o primeiro investigador encarcerado da história da literatura policial mundial. H. Bustos Domecq é o pseudônimo de Jorge Luis Borges e Adolfo Bioy Casares. Os escritores se conheceram em 1941. Um ano depois, escreveram Seis problemas para dom Isidro Parodi. O primeiro de livro de uma série de colaborações.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8586488127"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788586488122"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 230,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=UwwFuwAACAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=UwwFuwAACAAJ&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SEIS_PROBLEMAS_PARA_DOM_ISIDRO_PARODI.html?hl=&id=UwwFuwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UwwFuwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vq-n5Q5XxU8C",
+      "etag": "TJ53E1xjpIQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vq-n5Q5XxU8C",
+      "volumeInfo": {
+        "title": "Asleep in the Sun",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publisher": "Plume",
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0525485376"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525485377"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Vq-n5Q5XxU8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Vq-n5Q5XxU8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Vq-n5Q5XxU8C&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Vq-n5Q5XxU8C&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Asleep_in_the_Sun.html?hl=&id=Vq-n5Q5XxU8C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vq-n5Q5XxU8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dp4l6K3tMEAC",
+      "etag": "ryieR7WsjwE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dp4l6K3tMEAC",
+      "volumeInfo": {
+        "title": "El perjurio de la nieve",
+        "authors": [
+          "Adolfo Bioy Casares"
+        ],
+        "publisher": "Ediciones Colihue SRL",
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9505810571"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789505810574"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.16.10.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dp4l6K3tMEAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dp4l6K3tMEAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=dp4l6K3tMEAC&printsec=frontcover&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=dp4l6K3tMEAC&dq=inauthor:%22Adolfo+Bioy+Casares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_perjurio_de_la_nieve.html?hl=&id=dp4l6K3tMEAC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_perjurio_de_la_nieve-sample-pdf.acsm?id=dp4l6K3tMEAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dp4l6K3tMEAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,1401 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1q9XeHdIH5EC",
+      "etag": "BlshK0TEaKw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1q9XeHdIH5EC",
+      "volumeInfo": {
+        "title": "The Garden Next Door",
+        "authors": [
+          "José Donoso"
+        ],
+        "publisher": "Grove Press",
+        "publishedDate": "1994",
+        "description": "A Chilean writer named Julio and his wife, Gloria, are at a low point in their lives. Constantly bickering, the pair are beset by worries about money, their writing, and their son (who may or may not be plying the oldest profession in Marrakesh). When Julio's boyhood best friend, now a famous artist, lends the couple his luxurious Madrid apartment for the summer, it is an escape for both - but in particular for Julio, who fantasizes about the garden next door and the erotic life of the lovely young aristocratic woman who inhabits it. But Julio's life - and career - unravel In Madrid: he is rebuffed by a famous literary agent, Nuria Monclus, who detests him and his novel; his son's friend from Marrakesh moves in and causes havoc; and Gloria begins to drink. In the face of pitiless adversity, Julio's talent inexorably begins to fade. The garden next door, however, is also Gloria, who has been doing some creating of her own. It is this twist that transforms Donoso's brilliant satire of the writer's life into something even greater: a carefully crafted and bitteily comic meditation on gardens, deceit, and the nature of a writer's muse.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0802133681"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780802133687"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1q9XeHdIH5EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1q9XeHdIH5EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=1q9XeHdIH5EC&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=1q9XeHdIH5EC&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Garden_Next_Door.html?hl=&id=1q9XeHdIH5EC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Garden_Next_Door-sample-pdf.acsm?id=1q9XeHdIH5EC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1q9XeHdIH5EC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the face of pitiless adversity, Julio&#39;s talent inexorably begins to fade. The garden next door, however, is also Gloria, who has been doing some creating of her own."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qIhdAAAAMAAJ",
+      "etag": "PzxiRDBEs9M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qIhdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Hell Has No Limits",
+        "authors": [
+          "José Donoso"
+        ],
+        "publishedDate": "1995",
+        "description": "\"With its stark atmosphere, powerful characterizations, and dazzling alterations of perspective in time and gender, Jose Donoso's early masterwork, Hell Has No Limits, anticipates the qualities of better-known works of this Chilean magic-realist such as The Obscene Bird of Night.\" \"Originally published in 1966, this grimly vivid novel evokes the sweetness and despair during one fateful day in the collective existence of Estacion El Olivo, a decayed community marked for doom as surely as Donoso's central character, the transvestite dancer/prostitute la Manuela, whose virginal daughter operates the brothel out of which she/he works.\" \"La Manuela is menaced both by his would-be protector, the local politician/land baron who wants to raze Estacion El Olivo for his expanding vineyards, and by a coldly vengeful trucker, nursing a lifetime of hurts, deprivation, and suppressed sexual ambiguity. The lives of this trio - past and present - are indelibly forged in the novel's stunning climax, which combines a shocking act of violence in the present with a bizarre erotic encounter from decades before.\" --Book Jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015040637483"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qIhdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qIhdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=qIhdAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=qIhdAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hell_Has_No_Limits.html?hl=&id=qIhdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qIhdAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; &quot;Originally published in 1966, this grimly vivid novel evokes the sweetness and despair during one fateful day in the collective existence of Estacion El Olivo, a decayed community marked for doom as surely as Donoso&#39;s central character, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3WZdAAAAMAAJ",
+      "etag": "M7oCMThqyK0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3WZdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "El jardín de al lado",
+        "authors": [
+          "José Donoso"
+        ],
+        "publishedDate": "1981",
+        "description": "El Jardín de al Lado, es una novela sobre el fracaso, pero tambien, de algun modo, sobre la salvación. Desagarrada y tragicómica, cotidiana y patética, explora los laberintos de la marginalidad interior, más alla de los destierros obligados o voluntarios, de las miserias físicas de las ambiguedades del deseo.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015009369128"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.13.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3WZdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3WZdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=3WZdAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=3WZdAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_jard%C3%ADn_de_al_lado.html?hl=&id=3WZdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3WZdAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El Jardín de al Lado, es una novela sobre el fracaso, pero tambien, de algun modo, sobre la salvación."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q6kDzDawKFwC",
+      "etag": "ljnsy866mf4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q6kDzDawKFwC",
+      "volumeInfo": {
+        "title": "Este domingo",
+        "authors": [
+          "José Donoso"
+        ],
+        "publisher": "Andres Bello",
+        "publishedDate": "1976",
+        "description": "\"En los almuerzos familiares convergen la vejez y la infancia, la burguesia y el hampa: las historias de la Chepa y don Alvaro -un matrimonio burgues-, y de la Violeta -la criada- y Maya -el delincuente-, revelan la mutua fascinacion entre estos dos mundos y un destino de incomprension, soledad y desamor.\"",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q6kDzDawKFwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q6kDzDawKFwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=q6kDzDawKFwC&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=q6kDzDawKFwC&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Este_domingo.html?hl=&id=q6kDzDawKFwC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Este_domingo-sample-pdf.acsm?id=q6kDzDawKFwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q6kDzDawKFwC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;En los almuerzos familiares convergen la vejez y la infancia, la burguesia y el hampa: las historias de la Chepa y don Alvaro -un matrimonio burgues-, y de la Violeta -la criada- y Maya -el delincuente-, revelan la mutua fascinacion entre ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MILoAAAAMAAJ",
+      "etag": "pFRLRpVrLlY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MILoAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Este domingo",
+        "subtitle": "versión teatral de la novela homónima de José Donoso",
+        "authors": [
+          "José Donoso",
+          "Carlos Cerda"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173026711042"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MILoAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MILoAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=MILoAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=MILoAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Este_domingo.html?hl=&id=MILoAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MILoAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RJTh8i12HRgC",
+      "etag": "GxMbUGzrY3o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RJTh8i12HRgC",
+      "volumeInfo": {
+        "title": "El obsceno pájaro de la noche",
+        "authors": [
+          "José Donoso"
+        ],
+        "publishedDate": "1970",
+        "description": "Humberto Peąloza, el Mudito, quien al principio de la obra sirve en la Casa de Ejercicios Espirituales de la Encarnacin̤ de la Chimba, funge como narrador de los sucesos. A travš de ľ nos enteramos de dos historias paralelas que convergen en la relacin̤ entre amos y sirvientes. La familia Azcoita̕, millonarios terratenientes de abolengo, representan el paradigma econm̤ico, polt̕ico y social de los integrantes de su clase, odiada, temida y envidiada por los de abajo.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822008547572"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 564,
+        "printType": "BOOK",
+        "categories": [
+          "Aristocracy (Social class)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RJTh8i12HRgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RJTh8i12HRgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=RJTh8i12HRgC&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=RJTh8i12HRgC&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_obsceno_p%C3%A1jaro_de_la_noche.html?hl=&id=RJTh8i12HRgC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RJTh8i12HRgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Humberto Peąloza, el Mudito, quien al principio de la obra sirve en la Casa de Ejercicios Espirituales de la Encarnacin̤ de la Chimba, funge como narrador de los sucesos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j-JdAAAAMAAJ",
+      "etag": "OuYVpbQrJEE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j-JdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "El Obsceno Pajaro de la Noche",
+        "authors": [
+          "José Donoso"
+        ],
+        "publishedDate": "1979",
+        "description": "\"The story of the last member of the aristocratic Azcoitia family, a monstrous mutation protected from the knowledge of his deformity by being surrounded with other freaks as his companions, The Obscene Bird of Night is a triumph of imaginative, visionary writing. Among its luxuriance, fecundity, horror, and energy will not soon fade from the reader's mind.\"--BOOK JACKET.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015011304154"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j-JdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j-JdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=j-JdAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=j-JdAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Obsceno_Pajaro_de_la_Noche.html?hl=&id=j-JdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j-JdAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The story of the last member of the aristocratic Azcoitia family, a monstrous mutation protected from the knowledge of his deformity by being surrounded with other freaks as his companions, The Obscene Bird of Night is a triumph of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Su0yYgEACAAJ",
+      "etag": "nR/wugJ2Kig",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Su0yYgEACAAJ",
+      "volumeInfo": {
+        "title": "Hell Has No Limits",
+        "authors": [
+          "José Donoso"
+        ],
+        "publisher": "Sun and Moon Press",
+        "publishedDate": "1995",
+        "description": "A reprint of the powerful novel by Chilean writers, Jose Donoso.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1557131872"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781557131874"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Su0yYgEACAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Su0yYgEACAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hell_Has_No_Limits.html?hl=&id=Su0yYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Su0yYgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A reprint of the powerful novel by Chilean writers, Jose Donoso."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1qgsAAAAMAAJ",
+      "etag": "+gJUn++aLgQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1qgsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Gaspard de la nuit",
+        "subtitle": "",
+        "authors": [
+          "José Donoso"
+        ],
+        "publisher": "Knopf Books for Young Readers",
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015043528689"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "categories": [
+          "Short stories, Spanish American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.15.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1qgsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1qgsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=1qgsAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=1qgsAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gaspard_de_la_nuit.html?hl=&id=1qgsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1qgsAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XsASAAAAYAAJ",
+      "etag": "9V/ymKlanDE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XsASAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Coronación",
+        "authors": [
+          "José Donoso"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024533759"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XsASAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XsASAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=XsASAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=XsASAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Coronaci%C3%B3n.html?hl=&id=XsASAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XsASAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2NTpeldQpsgC",
+      "etag": "PLbdFxxVwDs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2NTpeldQpsgC",
+      "volumeInfo": {
+        "title": "The Lizard's Tale",
+        "subtitle": "A Novel",
+        "authors": [
+          "José Donoso"
+        ],
+        "publisher": "Northwestern University Press",
+        "publishedDate": "2011-10-30",
+        "description": "\"At the center of The Lizard's Tale is Antonio Muñoz-Roa, a prominent painter whose circumstances bear a striking resemblance to Donoso's own when he wrote the novel. Hiding in his Barcelona apartment, obsessed with the ruins of his past, Muñoz-Roa relates the story of his flight to the small town of Dors with Luisa, his cousin, lover, and benefactor, after his scandalous defection from the 'Informalist' movement (an ironic reference to a contemporary Catalan art movement and possibly also a veiled allusion to the boom).\"--P. [2] of jacket.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780810127029"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0810127024"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2NTpeldQpsgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2NTpeldQpsgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=2NTpeldQpsgC&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=2NTpeldQpsgC&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lizard_s_Tale.html?hl=&id=2NTpeldQpsgC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Lizard_s_Tale-sample-pdf.acsm?id=2NTpeldQpsgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2NTpeldQpsgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;At the center of The Lizard&#39;s Tale is Antonio Muñoz-Roa, a prominent painter whose circumstances bear a striking resemblance to Donoso&#39;s own when he wrote the novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K4L4SC8oo14C",
+      "etag": "xRT5STMsZWI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K4L4SC8oo14C",
+      "volumeInfo": {
+        "title": "Taratuta ; And, Still Life with Pipe",
+        "subtitle": "Two Novellas",
+        "authors": [
+          "José Donoso"
+        ],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "1994",
+        "description": "These striking novellas are the witty crystalizations of Jose Donoso's concerns over a lifetime of writing. In them he poses many of the questions raised by his fellow Latin American writers, Fuentes, Garcia Marquez, and Vargas Llosa. Taratuta is a mystery story in which a writer tries to track a slippery Russian revolutionary in history and in life. Still Life with Pipe shows the comeuppance of an ambitious man when he meets true art and can't escape its grasp.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0393311643"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393311648"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K4L4SC8oo14C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K4L4SC8oo14C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=K4L4SC8oo14C&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=K4L4SC8oo14C&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Taratuta_And_Still_Life_with_Pipe.html?hl=&id=K4L4SC8oo14C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K4L4SC8oo14C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These striking novellas are the witty crystalizations of Jose Donoso&#39;s concerns over a lifetime of writing."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ss5-yybncfUC",
+      "etag": "bcy+QlPLGsw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ss5-yybncfUC",
+      "volumeInfo": {
+        "title": "Curfew",
+        "subtitle": "A Novel",
+        "authors": [
+          "José Donoso"
+        ],
+        "publisher": "Grove Press",
+        "publishedDate": "1994",
+        "description": "Curfew takes place during one twenty-four hour period in January 1985. Matilde Neruda, widow of the Nobel Prize-winning poet, has just passed away, and various factions are rallying to turn the event to their advantage: for Pinochet's junta, it represents a chance to assert political authority, while for the intellectuals who had basked in the Nerudas' light, it is an opportunity to grab the spoils of the estate. Against this backdrop of complex, often conflicting motivations, Donoso weaves a portrait of a society struggling to fashion a daily existence for itself, and of an intelligentsia vainly attempting to salvage the remnants of glory days long gone by. But Curfew is also a story of the tragic love between Judit Torre, an upper-middle-class radical who wants to escape her bitter past; and Mañntilde;ungo Vera, a native son returning after a successful career as a European pop singer. In the zone between documentary-like realism and grotesque absurdity, Joséeacute; Donoso evokes the suffocating atmosphere of a country under dictatorship, and its quietly devastating effect on the actions of those who live there.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0802133819"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780802133816"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.15.18.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ss5-yybncfUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ss5-yybncfUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=ss5-yybncfUC&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ss5-yybncfUC&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Curfew.html?hl=&id=ss5-yybncfUC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Curfew-sample-epub.acsm?id=ss5-yybncfUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Curfew-sample-pdf.acsm?id=ss5-yybncfUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ss5-yybncfUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Curfew takes place during one twenty-four hour period in January 1985."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LkA0AQAAIAAJ",
+      "etag": "fv1uRZ53LA8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LkA0AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Coronation",
+        "authors": [
+          "José Donoso"
+        ],
+        "publishedDate": "1965",
+        "description": "A glum, middle-aged bachelor, Don Andres, is the heir of a formerly wealthy and respected Chilean family. Andres suffers from decadence and solitude. He hires young Estela in order to look after his abusive and almost crazy grandmother. The differences in class and age don't stop Andres from courting Estela, whose fiancé Mario tries to make some money off of his well-to-do rival. The suffocating atmosphere of the run-down mansion mimics the deterioration of the Bourgeoisie, and threatens Andres' own mental state.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B704630"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Bachelors"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LkA0AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LkA0AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=LkA0AQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=LkA0AQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Coronation.html?hl=&id=LkA0AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LkA0AQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A glum, middle-aged bachelor, Don Andres, is the heir of a formerly wealthy and respected Chilean family."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x7ndEAAAQBAJ",
+      "etag": "fcIi7hBUGR4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x7ndEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Obscene Bird of Night",
+        "subtitle": "unabridged, centennial edition",
+        "authors": [
+          "José Donoso"
+        ],
+        "publisher": "New Directions Publishing",
+        "publishedDate": "2024-04-30",
+        "description": "Newly revised and updated by Megan McDowell, and with a new introduction by Alejandro Zambra: at last, the unabridged, centennial edition of Donoso’s terrifying masterpiece sees the light of day Deep in a maze of musty, forgotten hallways, Mudito rummages through piles of old newspapers. The mute caretaker of the crumbling former abbey, he is hounded by a coven of ancient witches who are bent on transforming him, bit by bit, into the terrifying imbunche: a twisted monster with all of its orifices sewn up, buried alive in its own body. Once, Mudito walked upright and spoke clearly; once he was the personal assistant to one of Chile’s most powerful politicians, Jerónimo de Azcoitía. Once, he ruled over a palace of monsters, built to shield Jeronimo’s deformed son from any concept of beauty. Once, he plotted with the wise woman Peta Ponce to bed Inés, Jerónimo’s wife. Mudito was Humberto, Jerónimo was strong, Inés was beautiful—once upon a time... Narrated in voices that shift and multiply, The Obscene Bird of Night frets the seams between master and slave, rich and poor, reality and nightmares, man and woman, self and other in a maniacal inquiry into the horrifying transformations that power can wreak on identity. Now, star translator Megan McDowell has revised and updated the classic translation, restoring nearly twenty pages of previously untranslated text that was mysteriously cut from the 1972 edition. Newly complete, with missing motifs restored, plots deepened, and characters more richly shaded, Donoso’s pajarito (little bird), as he called it, returns to print to celebrate the centennial of its author’s birth in full plumage, as brilliant as it is bizarre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780811232234"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0811232239"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 379,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x7ndEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x7ndEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=x7ndEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=x7ndEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=x7ndEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 105.68,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 105.68,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=x7ndEAAAQBAJ&rdid=book-x7ndEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 105680000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 105680000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Obscene_Bird_of_Night-sample-epub.acsm?id=x7ndEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Obscene_Bird_of_Night-sample-pdf.acsm?id=x7ndEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x7ndEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Newly revised and updated by Megan McDowell, and with a new introduction by Alejandro Zambra: at last, the unabridged, centennial edition of Donoso’s terrifying masterpiece sees the light of day Deep in a maze of musty, forgotten hallways ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HiMrAAAAIAAJ",
+      "etag": "NcltpjUGNac",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HiMrAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Coronación",
+        "subtitle": "novela",
+        "authors": [
+          "José Donoso"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105035658231"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HiMrAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HiMrAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=HiMrAAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=HiMrAAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Coronaci%C3%B3n.html?hl=&id=HiMrAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HiMrAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Sm3AAAAIAAJ",
+      "etag": "hGVX4zZukLU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Sm3AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Charleston & Other Stories",
+        "authors": [
+          "José Donoso"
+        ],
+        "publishedDate": "1977",
+        "description": "In the world of José Donoso, all is not what it seems. Behind the bland rituals of everyday life lurk impulses that can disturb and even destroy. In these crisp, impeccably written stories, the great Chilean writer follows with precision and compassion the emergence of such impulses: an otherwise nondescript office worker becomes crazed by a bizarre obsession that at first seems innocent enough; an American boy living in a remote Mexican village is destroyed by forces beyond his control; a man is overpowered by his passion for sleeping. Many of these stories are explorations of perception. Children play large parts in them, either as participants or as perceivers; with their peculiar sensitivity they are aware of what their elders recognize only dimly, if at all. In \"Ana María,\" a charming but somehow terrifying child undermines the lives of an elderly couple; in \"A Walk,\" the disintegration of a formal bourgeois household is observed through the eyes of a boy. But for all the subtleties of these tales, Donoso is first and foremost a story teller. They begin, as do all stories, but unlike some stories, they also end firmly with the reader carried along from first word to last.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4278928"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Sm3AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Sm3AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=7Sm3AAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=7Sm3AAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Charleston_Other_Stories.html?hl=&id=7Sm3AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Sm3AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Many of these stories are explorations of perception. Children play large parts in them, either as participants or as perceivers; with their peculiar sensitivity they are aware of what their elders recognize only dimly, if at all."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4IRdAAAAMAAJ",
+      "etag": "EBQpild6ttY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4IRdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Cuatro para Delfina",
+        "authors": [
+          "José Donoso"
+        ],
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015008243928"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Women in literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4IRdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4IRdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=4IRdAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=4IRdAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuatro_para_Delfina.html?hl=&id=4IRdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4IRdAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U4t20QEACAAJ",
+      "etag": "NdneuOmEQqU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U4t20QEACAAJ",
+      "volumeInfo": {
+        "title": "The Obscene Bird of Night",
+        "subtitle": "A Novel",
+        "authors": [
+          "José Donoso"
+        ],
+        "publisher": "David R. Godine Publisher",
+        "publishedDate": "1973",
+        "description": "This haunting jungle of a novel has been hailed as \"a masterpiece\" by Luis Bunuel and \"one of the great novels not only of Spanish America, but of our time\" by Carlos Fuentes. The story of the last member of the aristocratic Azcoitia family, a monstrous mutation protected from the knowledge of his deformity by being surrounded with other freaks as companions, The Obscene Bird of Night is a triumph of imaginative, visionary writing. Its luxuriance, fecundity, horror, and energy will not soon fade from the reader's mind -- Back cover",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1567920462"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781567920468"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U4t20QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U4t20QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=U4t20QEACAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=U4t20QEACAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Obscene_Bird_of_Night.html?hl=&id=U4t20QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U4t20QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story of the last member of the aristocratic Azcoitia family, a monstrous mutation protected from the knowledge of his deformity by being surrounded with other freaks as companions, The Obscene Bird of Night is a triumph of imaginative, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "osASAAAAYAAJ",
+      "etag": "u277Mq57x9I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/osASAAAAYAAJ",
+      "volumeInfo": {
+        "title": "This Sunday",
+        "authors": [
+          "José Donoso"
+        ],
+        "publisher": "New York : Knopf",
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024533726"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "categories": [
+          "Chilean fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=osASAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=osASAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=osASAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=osASAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Donoso%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_Sunday.html?hl=&id=osASAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=osASAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

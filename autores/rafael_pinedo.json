@@ -1,0 +1,720 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 12,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "LIcpEAAAQBAJ",
+      "etag": "HSNeqYP96Us",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LIcpEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Plop",
+        "authors": [
+          "Rafael Pinedo"
+        ],
+        "publisher": "Editions Gallimard",
+        "publishedDate": "2021-05-01T00:00:00+02:00",
+        "description": "Plop ! C’est le bruit qu’il a fait en tombant dans la boue à sa naissance. Plop. C’est le nom dont on l’affublera désormais au sein de la tribu. Le Groupe qui l’accepte évolue dans un monde d’après : déchets, gravats, pluie incessante. Cette fin du monde a pour décor des immondices, pour habitants des humains en fuite permanente et soumis à une loi du plus fort exténuante. Mais Plop est différent, il va plus loin que les autres, il se hisse, sort du trou. Un roman cru et sauvage, picaresque et futuriste. Mieux qu’une provocation, un livre impitoyable.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782072802195"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2072802199"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LIcpEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LIcpEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=LIcpEAAAQBAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=LIcpEAAAQBAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Plop.html?hl=&id=LIcpEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LIcpEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Plop ! C’est le bruit qu’il a fait en tombant dans la boue à sa naissance. Plop. C’est le nom dont on l’affublera désormais au sein de la tribu."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ERr5ugAACAAJ",
+      "etag": "EiZXxRcyFWw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ERr5ugAACAAJ",
+      "volumeInfo": {
+        "title": "Subte",
+        "authors": [
+          "Rafael Pinedo"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8415065299"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788415065296"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ERr5ugAACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ERr5ugAACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Subte.html?hl=&id=ERr5ugAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ERr5ugAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Pocos autores han sabido hablar del desamparo radical que viene después como lo hizo Rafael Pinedo, autor de culto de una obra extraña y original."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "09oAtAEACAAJ",
+      "etag": "XFOOk2eg2M4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/09oAtAEACAAJ",
+      "volumeInfo": {
+        "title": "פלופ",
+        "authors": [
+          "Rafael Pinedo"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1015565891"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "iw",
+        "previewLink": "http://books.google.com.br/books?id=09oAtAEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=09oAtAEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D7%A4%D7%9C%D7%95%D7%A4.html?hl=&id=09oAtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=09oAtAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S94CaAEACAAJ",
+      "etag": "SDD/4JeUHdo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S94CaAEACAAJ",
+      "volumeInfo": {
+        "title": "Frío",
+        "authors": [
+          "Rafael Pinedo"
+        ],
+        "publisher": "Salto de Pagina",
+        "publishedDate": "2011",
+        "description": "Frío nos presenta una historia de supervivencia con pinceladas fantásticas, narrada en el estilo desnudo y preciso característico de Pinedo. La acción se ubica en un extraño convento situado en algún lugar de Argentina, en un tiempo indeterminado. Una especie de ola de frío de origen desconocido avanza desde el sur, precedida por columnas de refugiados que huyen de unas condiciones cada vez más inhóspitas. La protagonista de la historia es una monja que decidirá quedarse en el convento cuando todo el mundo parte, y que aprenderá a sobrevivir con las únicas criaturas que permanecen en el lugar pese al avance del frío: las ratas. Entre ellas y la protagonista comenzará a forjarse una relación de carácter religioso en la ésta adquirirá progresivamente los rasgos de una sacerdotisa con los roedores como únicos feligreses de este insólito culto. Con la edición de Frío, hasta ahora inédita, nos proponemos continuar la publicación de la original obra de Rafael Pinedo que iniciamos con la edición de Plop en 2007. Con ello se pretende dar a conocer la obra de un autor argentino prácticamente desconocido para el público español, pero progresivamente redescubierto y valorado por la crítica. La difusión de su obra se vio dramáticamente interrumpida por su temprana muerte; pero en los últimos años ha sido señalado como un autor con una sensibilidad original y alejada de la de sus contemporáneos, cuyos textos abordan en clave metafórica y desde géneros oblicuos el contexto de la crisis económica que atravesó su país en los noventa, al tiempo que plantean cuestiones antropológicas y culturales más amplias que garantizan su vigencia e interés más allá de dicho contexto. RAFAEL PINEDO (1954-2006) nació en Buenos Aires. Se licenció en la Facultad de Ciencias Exactas y Naturales de esa ciudad, donde ejerció como informático y, durante un tiempo, actor teatral. A los dieciocho años quemó todo lo que había escrito hasta entonces, y sólo a los cuarenta retomó la producción literaria. Su primera novela, Plop, obtuvo el Primer Premio de Novela Casa de las Américas en 2002. Fue editada en Cuba en 2003 y en Argentina en 2004, en la prestigiosa colección Línea C de narrativa fantástica y de ciencia ficción que dirigió Marcelo Cohen para Interzona editora. Desde su publicación en Argentina, Plop fue considerada una obra de culto, elogiada por la crítica como una novela excepcionalmente original y atípica. Lamentablemente la carrera literaria de Pinedo se vio truncada por el fallecimiento del autor en diciembre de 2006. Su última obra, Frío, resultó finalista del Premio Planeta Argentina en 2004, pero la novela no llegó a publicarse y ha permanecido inédita hasta 2011 (Salto de Página).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8415065043"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788415065043"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 151,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S94CaAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S94CaAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=S94CaAEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=S94CaAEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fr%C3%ADo.html?hl=&id=S94CaAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S94CaAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Frío nos presenta una historia de supervivencia con pinceladas fantásticas, narrada en el estilo desnudo y preciso característico de Pinedo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HkLzzwEACAAJ",
+      "etag": "Qz0Xhasyhvc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HkLzzwEACAAJ",
+      "volumeInfo": {
+        "title": "PLOP N/E",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9877900505"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789877900507"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=HkLzzwEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=HkLzzwEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/PLOP_N_E.html?hl=&id=HkLzzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HkLzzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mzYKvwEACAAJ",
+      "etag": "hrinmoAcHF8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mzYKvwEACAAJ",
+      "volumeInfo": {
+        "title": "Total Hip Replacement in the UK",
+        "subtitle": "Cost-effectiveness of a Prediction Tool and Outcomes Mapping",
+        "authors": [
+          "Rafael Pinedo Villanueva"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1064577154"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=mzYKvwEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=mzYKvwEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Total_Hip_Replacement_in_the_UK.html?hl=&id=mzYKvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mzYKvwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LR9xjwEACAAJ",
+      "etag": "9Ht80G+Mnx0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LR9xjwEACAAJ",
+      "volumeInfo": {
+        "title": "La ninfa en la feliz venida de S. M. la Reyna Regente de Etruria y su Real familia : Anacreóntica",
+        "authors": [
+          "Rafael Pinedo"
+        ],
+        "publishedDate": "1808*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:920145102"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=LR9xjwEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=LR9xjwEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_ninfa_en_la_feliz_venida_de_S_M_la_Re.html?hl=&id=LR9xjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LR9xjwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j0CIAQAACAAJ",
+      "etag": "igFgXdqkiwM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j0CIAQAACAAJ",
+      "volumeInfo": {
+        "title": "La Junta Municipal de Sanidad de esta Capital ha experimentado que por no dar cuenta los Médicos á la misma de los enfermos que visitan de enfermedades ... por contagio ... causa notable perjuicio ... de no usar los medios preservativos á su extincion ... con peligro de contaminarse un Pueblo y aun la Provincia ...",
+        "authors": [
+          "València (Comunitat Valenciana). Ajuntament. Junta Municipal de Sanitat"
+        ],
+        "publishedDate": "1815",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:969605952"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=j0CIAQAACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=j0CIAQAACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Junta_Municipal_de_Sanidad_de_esta_Ca.html?hl=&id=j0CIAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j0CIAQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DQwM0AEACAAJ",
+      "etag": "2r+YNJCygvY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DQwM0AEACAAJ",
+      "volumeInfo": {
+        "title": "Froid",
+        "subtitle": "suivi de Métro puis de, Labyrinthe",
+        "authors": [
+          "Rafael Pinedo"
+        ],
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2490437194"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782490437191"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=DQwM0AEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=DQwM0AEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Froid.html?hl=&id=DQwM0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DQwM0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xTO9oQEACAAJ",
+      "etag": "HpE4b9isUN4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xTO9oQEACAAJ",
+      "volumeInfo": {
+        "title": "Monografía de Fresnillo",
+        "authors": [
+          "Rafael Pinedo Robles"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:888193635"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "categories": [
+          "Fresnillo (Mexico)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=xTO9oQEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=xTO9oQEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Monograf%C3%ADa_de_Fresnillo.html?hl=&id=xTO9oQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xTO9oQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NMC1rQEACAAJ",
+      "etag": "f3wKvCaZPwg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NMC1rQEACAAJ",
+      "volumeInfo": {
+        "title": "Frío",
+        "subtitle": "Subte ; seguido por El laberinto",
+        "authors": [
+          "Rafael Pinedo"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9871920083"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789871920082"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 209,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=NMC1rQEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=NMC1rQEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fr%C3%ADo.html?hl=&id=NMC1rQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NMC1rQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ou5bjwEACAAJ",
+      "etag": "Nm+5IqalGyw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ou5bjwEACAAJ",
+      "volumeInfo": {
+        "title": "Testimonios de nuestra historia",
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:912728709"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=Ou5bjwEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Ou5bjwEACAAJ&dq=inauthor:%22Rafael+Pinedo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Testimonios_de_nuestra_historia.html?hl=&id=Ou5bjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ou5bjwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

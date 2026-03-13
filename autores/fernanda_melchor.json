@@ -1,0 +1,1648 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "3Aq6EAAAQBAJ",
+      "etag": "G3AWh/6ZsnY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3Aq6EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Temporada de Furacões",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "ELSINORE",
+        "publishedDate": "2023-03-03",
+        "description": "Livro vencedor do Prémio Literário Casino da Póvoa/Correntes d'Escritas 2024 Um dos melhores livros do ano 2023: Expresso Nesta obra multipremiada de uma das vozes mais entusiasmantes da literatura sul-americana, o romance policial e a história de terror encontram-se para traçar um retrato de um México sem lei nem esperança. Uma experiência literária hipnótica e devastadora. A Bruxa está morta. Um grupo de crianças encontrou o seu corpo mutilado a flutuar num canal de irrigação. Esta descoberta macabra leva a polícia de La Matosa, um lugar perdido no México, a procurar os envolvidos no crime. Cada um contará a sua versão dos acontecimentos, abrindo as portas de um inferno de violência e abandono, onde as drogas, o sexo, a pobreza e o desespero convivem com a superstição e a mitologia, traçando o retrato assustador de um México sem lei nem esperança. Aclamado pela crítica internacional, que o compara a obras de Cormac McCarthy e de Roberto Bolaño, com ecos da melhor tradição da literatura sul-americana, de Gabriel García Márquez a Juan Rulfo, Temporada de Furacões é um romance originalíssimo, escrito no limite da oralidade, que subverte as convenções da crónica e do romance negro, revelando um lirismo inesperado. Os elogios da crítica: «Uma escrita nos limites do que é humanamente suportável associada ao gesto irresistível do virar de página. A leitura de Temporada de Furacões e a sua narração confluem numa vertigem.» Isabel Lucas, Público [5 estrelas] «Um poderoso romance que é um prodígio.» José Mário Silva, Expresso «Violento, mas extremamente belo, Temporada de Furacões é um retrato do que existe de pior no ser humano, mas também da capacidade que este tem de suportar e sobreviver às piores atrocidades.» Rita Cipriano, Observador «Um romance deslumbrante de uma das mais entusiasmantes novas vozes da literatura mexicana.» The Guardian «Um romance que se afunda como chumbo no abismo da nossa alma.» Los Angeles Review of Books «Uma história de terror que nasce do próprio lirismo da sua linguagem.» The New York Review of Books «Este romance alastra como um fungo do centro negro do espaço literário, onde o romance policial e a história de terror se encontram. Melchor é a Bruxa e este seu romance é um poderoso feitiço.» NPR «Um dos escritores mais prometedores e proeminentes saídos do México. Uma prosa virtuosa.» Bookforum «Uma notável, indelével obra de arte.» Powell's Books «Uma experiência literária intensa e hipnótica, na qual a violência física e a hostilidade da paisagem se aliam para formar um microcosmo de desespero.» Mariana Enriquez «Fernanda Melchor é detentora de uma voz poderosa, e por poderosa entendo implacável, devastadora, a voz de alguém que escreve com raiva e que tem o talento para a exprimir.» Samanta Schweblin",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789896239657"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9896239657"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 257,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3Aq6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3Aq6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=3Aq6EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=3Aq6EAAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Temporada_de_Furac%C3%B5es.html?hl=&id=3Aq6EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Temporada_de_Furac%C3%B5es-sample-epub.acsm?id=3Aq6EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Temporada_de_Furac%C3%B5es-sample-pdf.acsm?id=3Aq6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3Aq6EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A leitura de Temporada de Furacões e a sua narração confluem numa vertigem.» Isabel Lucas, Público [5 estrelas] «Um poderoso romance que é um prodígio.» José Mário Silva, Expresso «Violento, mas extremamente belo, Temporada de ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IlZTEQAAQBAJ",
+      "etag": "CPeOkEN90g0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IlZTEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Isto não É Miami",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "ELSINORE",
+        "publishedDate": "2025-04-14",
+        "description": "Livro de relatos híbridos, entre a crónica jornalística e a ficção, baseados em histórias reais, da consagrada autora de Temporada de Furacões. Num dos muitos relatos impressionantes, mas também caricatos, que compõem este livro uma inteira prisão em Veracruz, no México, é esvaziada à pressa dos seus mil reclusos para servir de cenário a um filme de Hollywood. No entanto, para garantir um efeito mais realístico ao filme, polícias, ex-reclusos e criminosos são contratados como figurantes, tornando-se impossível distinguir quem é quem durante as filmagens e instalando-se assim o pânico. De igual modo, no texto que dá título ao volume, um grupo de clandestinos desesperados confunde a cidade de Veracruz com Miami. É neste jogo de aparências, na ténue linha que separa o verdadeiro do inverosímil, que se posiciona Isto não É Miami , um livro de relatos que tem por base histórias verdadeiras recolhidas por Fernanda Melchor ao longo de dez anos, espelho de uma sociedade que se confronta com o rosto da injustiça e da brutalidade, e que granjeou à autora o imediato reconhecimento da crítica internacional como uma das mais singulares escritoras da atualidade. Os elogios da crítica: «Melchor brinca com a forma para expor mentiras, hipocrisias, ódios e equívocos que suavizam ou contornam a realidade do mal humano.» Los Angeles Times",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789895839483"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9895839480"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IlZTEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IlZTEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=IlZTEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=IlZTEQAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Isto_n%C3%A3o_%C3%89_Miami.html?hl=&id=IlZTEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Isto_n%C3%A3o_%C3%89_Miami-sample-epub.acsm?id=IlZTEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Isto_n%C3%A3o_%C3%89_Miami-sample-pdf.acsm?id=IlZTEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IlZTEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "De igual modo, no texto que dá título ao volume, um grupo de clandestinos desesperados confunde a cidade de Veracruz com Miami. É neste jogo de aparências, na ténue linha que separa o verdadeiro do inverosímil, que se posiciona Isto ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hbbDDwAAQBAJ",
+      "etag": "4cSbaSzVuUk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hbbDDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hurricane Season",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "New Directions Publishing",
+        "publishedDate": "2020-10-06",
+        "description": "The English-language debut of one of the most thrilling and accomplished young Mexican writers Winner of the Queen Sofía Spanish Institute's Tanslation Prize Longlisted for the National Book Award Shortlisted for the Booker Prize Winner of the Internationaler Literaturpreis New York Public Library Best Books of 2020 Chicago Public Library Best Book of 2020 The Witch is dead. And the discovery of her corpse has the whole village investigating the murder. As the novel unfolds in a dazzling linguistic torrent, with each unreliable narrator lingering on new details, new acts of depravity or brutality, Melchor extracts some tiny shred of humanity from these characters—inners whom most people would write off as irredeemable—forming a lasting portrait of a damned Mexican village. Like Roberto Bolaño’s 2666 or Faulkner’s novels, Hurricane Season takes place in a world saturated with mythology and violence—real violence, the kind that seeps into the soil, poisoning everything around: it’s a world that becomes more and more terrifying the deeper you explore it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780811228046"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0811228045"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 213,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hbbDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hbbDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=hbbDDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=hbbDDwAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hurricane_Season.html?hl=&id=hbbDDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Hurricane_Season-sample-epub.acsm?id=hbbDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Hurricane_Season-sample-pdf.acsm?id=hbbDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hbbDDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As the novel unfolds in a dazzling linguistic torrent, with each unreliable narrator lingering on new details, new acts of depravity or brutality, Melchor extracts some tiny shred of humanity from these characters—inners whom most people ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "icGhEAAAQBAJ",
+      "etag": "7Oh9w9/DUHg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/icGhEAAAQBAJ",
+      "volumeInfo": {
+        "title": "This is Not Miami",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "New Directions Publishing",
+        "publishedDate": "2023-04-04",
+        "description": "A searing collection of true stories from “one of Mexico’s most exciting new voices” (The Guardian) LONGLISTED FOR THE 2024 NATIONAL TRANSLATION AWARD IN PROSE Set in and around the Mexican city of Veracruz, This Is Not Miami delivers a series of devastating stories—spiraling from real events—that bleed together reportage and the author’s rich and rigorous imagination. These narrative nonfiction pieces probe deeply into the motivations of murderers and misfits, into their desires and circumstances, forcing us to understand them—and even empathize—despite our wish to simply label them monsters. As in her hugely acclaimed novels Hurricane Season and Paradais, Fernanda Melchor’s masterful stories show how the violent and shocking aberrations that make the headlines are only the surface ruptures of a society on the brink of chaos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780811228060"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0811228061"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=icGhEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=icGhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=icGhEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=icGhEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=icGhEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 87.66,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 87.66,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=icGhEAAAQBAJ&rdid=book-icGhEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 87660000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 87660000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/This_is_Not_Miami-sample-epub.acsm?id=icGhEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/This_is_Not_Miami-sample-pdf.acsm?id=icGhEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=icGhEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A searing collection of true stories from “one of Mexico’s most exciting new voices” (The Guardian) LONGLISTED FOR THE 2024 NATIONAL TRANSLATION AWARD IN PROSE Set in and around the Mexican city of Veracruz, This Is Not Miami delivers ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KHtQEAAAQBAJ",
+      "etag": "jUVneWTogaA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KHtQEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Paradais",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "New Directions Publishing",
+        "publishedDate": "2022-05-10",
+        "description": "Now in paperback,\"Paradais continues Melchor’s examination into the metaphysical assault embedded in patriarchy and classism” (Jessica Jacolbe, Vulture) Inside a luxury housing complex, two misfit teenagers sneak around and get drunk. Franco Andrade, lonely, overweight, and addicted to porn, obsessively fantasizes about seducing his neighbor—an attractive married woman and mother—while Polo dreams about quitting his grueling job as a gardener within the gated community and fleeing his overbearing mother and their narco-controlled village. Each facing the impossibility of getting what he thinks he deserves, Franco and Polo hatch a mindless and macabre scheme. Written in a chilling torrent of prose by one of our most thrilling new writers, Paradais explores the explosive fragility of Mexican society—with its racist, classist, hyper violent tendencies—and how the myths, desires, and hardships of teenagers can tear life apart at the seams.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780811231336"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "081123133X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 119,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KHtQEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KHtQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=KHtQEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KHtQEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KHtQEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 87.66,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 87.66,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KHtQEAAAQBAJ&rdid=book-KHtQEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 87660000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 87660000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Paradais-sample-epub.acsm?id=KHtQEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Paradais-sample-pdf.acsm?id=KHtQEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KHtQEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Now in paperback,&quot;Paradais continues Melchor’s examination into the metaphysical assault embedded in patriarchy and classism” (Jessica Jacolbe, Vulture) Inside a luxury housing complex, two misfit teenagers sneak around and get drunk."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8lWREAAAQBAJ",
+      "etag": "kS0XiDz5ISE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8lWREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Páradais / Paradise",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2021-05-18",
+        "description": "Nominada para el Man Booker Internacional 2022 «Fernanda Melchor explora la violencia y la desigualdad en esta novela brutal. Lo hace con una destreza técnica deslumbrante, oído absoluto para la oralidad y precisión de neurocirujana para la crueldad. Páradais es un breve e inexorable descenso al infierno». -Mariana Enríquez En un conjunto residencial de lujo, dos adolescentes inadaptados se reúnen por las noches para embriagarse a escondidas y compartir sus descabelladas fantasías. Franco Andrade, obeso y solitario, adicto a la pornografía, sueña con seducir a la vecina de al lado- una atractiva mujer casada, madre de familia-, por quien ha desarrollado una obsesión malsana; mientras que Polo, su reacio compañero, fantasea con renunciar a su agobiante empleo como jardinero del exclusivo fraccionamiento y huir de su casa, de su pueblo infestado de narcos, y del yugo de su dominante madre. Ante la imposibilidad de conseguir lo que cada uno cree merecer, Franco y Polo maquinarán un plan tan pueril como macabro. Páradais, escrita por Fernanda Melchor, una de las escritoras mexicanas más destacadas de la actualidad, explora la facilidad con la que el deseo puede convertirse en obsesión y, más aún, en violencia, al tiempo que narra la alianza entre los polos opuestos de la sociedad mexicana contemporánea. ENGLISH DESCRIPTION Longlisted for the 2022 International Man Booker Prize “Fernanda Melchor explores violence and inequity in this brutal novel. She does it with dazzling technical prowess, a perfect pitch for orality, and a neurosurgeon’s precision for cruelty. Paradais is a short inexorable descent into Hell.” —Mariana Enríquez In a luxurious residential complex, two outcast teenagers sneak at night to get drunk and share their outrageous fantasies. Franco Andrade, a fat and lonely porn addict, dreams of seducing his next-door neighbor, an attractive wife and mother for whom he has developed an unwholesome obsession. Polo, his reluctant sidekick, fantasizes about quitting his back-breaking job as a gardener in this exclusive complex and running away from home, leaving their narco-infested town and his overbearing mother’s grip behind. Faced with the impossibility of getting what they both believe they deserve; Franco and Polo will come up with a plan that is every bit as childish as it is macabre. Written by Fernanda Melchor, one of the most outstanding Mexican writers of today, Paradais explores how easily desire can turn into obsession, and then further into violence, all the while describing the alliance between opposite sides of contemporary Mexican society.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073187978"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6073187971"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8lWREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8lWREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=8lWREAAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=8lWREAAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1radais_Paradise.html?hl=&id=8lWREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8lWREAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ENGLISH DESCRIPTION Longlisted for the 2022 International Man Booker Prize “Fernanda Melchor explores violence and inequity in this brutal novel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iIDxEAAAQBAJ",
+      "etag": "wspX7n9uXNc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iIDxEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Paradaise",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "ELSINORE",
+        "publishedDate": "2024-02-19",
+        "description": "Da autora de Temporada de Furacões , este é um romance de leitura contagiante, escrito numa prosa torrencial, que retrata a fragilidade e a violência da sociedade mexicana. Livro nomeado para o International Booker Prize e finalista do International Dublin Literary Award e do Los Angeles Times Book Prize for Fiction Polo, um adolescente nascido no meio da pobreza e da violência, vê-se obrigado a servir os ricos e a ser explorado pelo seu odioso patrão como jardineiro num condomínio de luxo chamado Paradise - pronuncie-se Paradaise, situado na margem oposta do rio que divide a localidade mexicana de Progreso, onde vive. Aí conhece o obeso e solitário Franco, filho de um advogado influente, com quem estabelece uma amizade momentânea, regada a álcool, cigarros, baboseiras e fantasias. Viciado em pornografia, Franco alimenta uma obsessão por uma vizinha, a atraente senhora Marián, casada com uma celebridade da televisão. Num dos seus encontros junto ao cais, longe dos olhares dos guardas e dos residentes do condomínio, Franco e Polo engendram um plano macabro para finalmente obter, sem olhar a meios, o que julgam merecer. Descrito pela crítica como uma descida ao Inferno, Paradaise, a mais recente obra da autora de Temporada de Furacões , é um romance de leitura contagiante, escrito numa prosa certeira, sobre uma sociedade fraturada pela raça, a classe e a misoginia, à mercê da banalidade da violência e da complexidade do mal. Os elogios da crítica: «Fernanda Melchor reincide na excelência com um livro que explora o poder do mal.» Sérgio Almeida, JN «Um romance extraordinário que constitui uma obra-prima contemporânea.» Times Literary Supplement «O movimento do obsceno para a metáfora, a rutura entre ver e ver, e a violência quotidiana são a clareira onde Paradaise reside. Uma clareira bela e terrível.» Los Angeles Review of Books",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789897878121"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9897878122"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 123,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iIDxEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iIDxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=iIDxEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=iIDxEAAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Paradaise.html?hl=&id=iIDxEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Paradaise-sample-epub.acsm?id=iIDxEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Paradaise-sample-pdf.acsm?id=iIDxEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iIDxEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Os elogios da crítica: «Fernanda Melchor reincide na excelência com um livro que explora o poder do mal.» Sérgio Almeida, JN «Um romance extraordinário que constitui uma obra-prima contemporânea.» Times Literary Supplement «O ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I22ADwAAQBAJ",
+      "etag": "x67F4BeZsWk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I22ADwAAQBAJ",
+      "volumeInfo": {
+        "title": "Saison der Wirbelstürme",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "Verlag Klaus Wagenbach",
+        "publishedDate": "2019-03-14",
+        "description": "Die Hexe ist tot, ermordet – aber hat sie's nicht genau so gewollt? Sprachgewaltig, schmutzig und mit der Sogkraft eines Wirbelsturms schreibt Fernanda Melchor, eine der wichtigsten jungen Stimmen Lateinamerikas, über die viel zu alltägliche Gewalt gegen Frauen: La Matosa, eine gottverlassene Gegend in der mexikanischen Provinz. In der brütenden Hitze bewegt sich eine Gruppe von Kindern durchs Zuckerrohrdickicht. Zwischen Plastiktüten und Schilf stoßen sie auf eine Tote, ihr Gesicht ist zu einer grausig lächelnden Grimasse entstellt: La Bruja, die Hexe, eine von den Dorfbewohnern so gefürchtete wie fasziniert umkreiste Heilerin. Manche sagen, in ihrer schwefligen Küche braue sie Tränke gegen Krankheit und Leid, andere sagen, die Alte treibe es mit dem Teufel. An Mordmotiven fehlt es nicht: Eifersucht, Drogenhandel, Leidenschaften, die besser nicht ruchbar werden – und hat die Hexe nicht doch einen Schatz versteckt? Selbst die Polizei sucht nach dem Geld ... \"Saison der Wirbelstürme\" ist die Chronik dieses unvermeidlichen Todes und zugleich die schwindelerregende Reise ins finstere Herz eines Landes, das bis in den letzten Winkel von Gewalt durchdrungen ist – vor allem gegen Frauen. Fernanda Melchor schafft eine brodelnde Atmosphäre, in der jede Geste der Zärtlichkeit im nächsten Augenblick in Brutalität umschlagen kann, gegen die kein Kraut, kein Zauberspruch mehr hilft.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783803142467"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3803142466"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I22ADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=I22ADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.br/books?id=I22ADwAAQBAJ&printsec=frontcover&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=I22ADwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=I22ADwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 77.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 77.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=I22ADwAAQBAJ&rdid=book-I22ADwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 77900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 77900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I22ADwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fernanda Melchor schafft eine brodelnde Atmosphäre, in der jede Geste der Zärtlichkeit im nächsten Augenblick in Brutalität umschlagen kann, gegen die kein Kraut, kein Zauberspruch mehr hilft."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4lKREAAAQBAJ",
+      "etag": "pO3hCoxS0fE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4lKREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Temporada de huracanes / Hurricane Season",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2017-10-31",
+        "description": "FINALISTA DEL PREMIO MAN BOOKER INTERNACIONAL 2020 NOMINADA PARA EL NATIONAL BOOK AWARD 2020 FINALISTA DEL DUBLIN LITERARY AWARD En la lista de los 100 mejores libros del 2020 del New York Times. Con un ritmo y un lenguaje magistrales, Fernanda Melchor, autora de Falsa liebre explora en esta obra las sinrazones que subyacen a los actos más desesperados de barbarie pasional. Una novela cruda y desgarradora en la que el lector quedará envuelto, atrapado por las palabras y la atmósfera de terrible, aunque gozosa, fatalidad. Un grupo de niños encuentra un cadáver flotando en las aguas turbias de un canal de riego cercano a la ranchería de La Matosa. El cuerpo resulta ser de la Bruja, una mujer que heredó dicho oficio de su madre fallecida, y a quienes los pobladores de esa zona rural respetaban y temían. Tras el macabro hallazgo, las sospechas y habladurías recaerán sobre un grupo de muchachos del pueblo, a quienes días antes una vecina vio mientras huían de casa de la hechicera, cargando lo que parecía ser un cuerpo inerte. A partir de ahí, los personajes involucrados en el crimen nos contarán su historia mientras los lectores nos sumergimos en la vida de este lugar acosado por la miseria y el abandono, y donde convergen la violencia del erotismo más oscuro y las sórdidas relaciones de poder. “Un viaje nocturno a las profundidades del alma humana con el estilo más radical de su generación.” -Martín Solares “Fernanda Melchor no sólo escribe con la potencia rabiosa que le reclaman los temas que ha decidido investigar, sino que en cada página muestra un oído y una agudeza pocas veces vista en nuestra literatura.” -Yuri Herrera ENGLISH DESCRIPTION SHORTLISTED FOR THE 2020 MAN BOOKER INTERNATIONAL PRIZE AND THE DUBLIN LITERARY AWARD Longlisted • National Book Award (Translated Literature) New York Times Notable Book of 2020 The English-language debut of one of the most thrilling and accomplished young Mexican writers The Witch is dead. And the discovery of her corpse―by a group of children playing near the irrigation canals―propels the whole village into an investigation of how and why this murder occurred. Rumors and suspicions spread. As the novel unfolds in a dazzling linguistic torrent, with each unreliable narrator lingering on new details, new acts of depravity or brutality, Melchor extracts some tiny shred of humanity from these characters that most would write off as utterly irredeemable, forming a lasting portrait of a damned Mexican village. Like Roberto Bolano’s 2666 or Faulkner’s greatest novels, Hurricane Season takes place in a world filled with mythology and violence―real violence, the kind that seeps into the soil, poisoning everything around: it’s a world that becomes more terrifying and more terrifyingly real the deeper you explore it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073152730"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6073152736"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4lKREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4lKREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=4lKREAAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=4lKREAAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Temporada_de_huracanes_Hurricane_Season.html?hl=&id=4lKREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4lKREAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As the novel unfolds in a dazzling linguistic torrent, with each unreliable narrator lingering on new details, new acts of depravity or brutality, Melchor extracts some tiny shred of humanity from these characters that most would write off ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zyNpEQAAQBAJ",
+      "etag": "xJFtfn1GUyM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zyNpEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Das hier ist nicht Miami",
+        "subtitle": "Crónicas",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "Verlag Klaus Wagenbach",
+        "publishedDate": "2025-08-14",
+        "description": "Eine Karnevalskönigin wird zur Kindsmörderin, ein junger Mann erlebt eine Teufelsaustreibung, ein Dorf übt von der Polizei geduldete Lynchjustiz, und Mel Gibson sucht ein Gefängnis wie im Hollywood-Film. Was in diesem Buch geschieht, hätte überall passieren können, aber aus irgendwelchen Gründen konnte es doch nur hier passieren: in Veracruz. Ausgehend von realen Ereignissen und Alltagsmythen erzählt Fernanda Melchor von ihrer tropischen Heimatstadt am Meer: von den Florida-Träumen karibischer Migranten, von der Herrschaft der Narcos und den Legenden, hinter denen sich die Abgründe der Gewalt, besonders gegen Frauen, verbergen. Melchor erfindet nichts und meidet doch billige True-Crime-Effekte. »Das hier ist nicht Miami« ist der furchtlose Versuch, zu ergründen, welche Begierden, Vorurteile und sozialen Umstände Verbrechen hervorbringen – und warum das Böse in jede Ritze der mexikanischen Realität hineinzukriechen scheint.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783803144256"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3803144256"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 153,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zyNpEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zyNpEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.br/books?id=zyNpEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zyNpEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zyNpEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 117.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 117.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zyNpEQAAQBAJ&rdid=book-zyNpEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 117900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 117900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zyNpEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ausgehend von realen Ereignissen und Alltagsmythen erzählt Fernanda Melchor von ihrer tropischen Heimatstadt am Meer: von den Florida-Träumen karibischer Migranten, von der Herrschaft der Narcos und den Legenden, hinter denen sich die ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pS-ODwAAQBAJ",
+      "etag": "KpUP+ceM71A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pS-ODwAAQBAJ",
+      "volumeInfo": {
+        "title": "La saison des ouragans",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "Grasset",
+        "publishedDate": "2019-03-20",
+        "description": "Inspiré d’un fait divers, La saison des ouragans s’ouvre sur la découverte d’un cadavre. Dans le canal d’irrigation, aux abords du petit village de La Matosa, un groupe d’enfants tombe sur le corps sans vie de la Sorcière. À la fois redoutée et respectée, elle habitait une maison pleine de mystères où les femmes de la région venaient lui rendre visite pour lui demander de l’aide : maladies, mauvais sort, mais aussi avortements discrets. À l’instar de Chronique d’une mort annoncée de Gabriel García Márquez, nous découvrons au fil du roman les événements qui ont mené à son assassinat, les histoires des bourreaux qui sont autant de mobiles expliquant les raisons du meurtre de cette envoûtante Sorcière de La Matosa. Yesenia a vu son cousin Luismi, accompagné de Brando, sortir de la maison de la Sorcière avec un corps. Il y a également Munra, le beau-père boîteux de Luismi, qui conduisait le camion le jour de l’assassinat, un simple exécutant dit-il aux policiers. Luismi vit avec Norma, une jeune fille de 13 ans. Elle a été admise à l’hôpital pour d’importants saignements à la suite d’une visite chez la Sorcière. Brando, lui, a besoin d’argent pour ses projets. Un trésor serait caché dans la maison de la femme maléfique. Autant de raisons pour commettre l’irréparable et autant de perspectives qui nous plongent dans la campagne mexicaine où la misère, la drogue et la violence poussent les gens à la folie autant que l’extrême chaleur qui s’installe. Ce qui, en plein mois de mai, semble annoncer que la saison des ouragans sera violente... Grâce à cette intrigue policière à rebours, Fernanda Melchor dresse un formidable portrait du Mexique et de ses démons. Sa langue est crue, musicale, elle retranscrit la brutalité avec beaucoup de talent. Il s’agit d’un livre sur les pulsions et la violence mais également sur l’une des figures du féminisme – souvent fantasmée, toujours persécutée –, qu’on a cherché à abattre depuis la nuit des temps : la sorcière. Traduit de l'espagnol (Mexique) par Laura Alcoba.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782246815709"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2246815703"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 243,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pS-ODwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pS-ODwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=pS-ODwAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=pS-ODwAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_saison_des_ouragans.html?hl=&id=pS-ODwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pS-ODwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Inspiré d’un fait divers, La saison des ouragans s’ouvre sur la découverte d’un cadavre."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8PtaEQAAQBAJ",
+      "etag": "YmDG29xXYAM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8PtaEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Ici, c'est pas Miami",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "Grasset",
+        "publishedDate": "2025-05-07",
+        "description": "Veracruz, sur la côte caribéenne du Mexique, est l’une des villes les plus dangereuses du monde. C’est aussi le lieu de naissance de Fernanda Melchor, figure incontournable des lettres latino-américaines. Avec ce recueil de chroniques littéraires, la romancière fait le portrait d’une cité portuaire ravagée par le narcotrafic depuis les années 1970. Dans chaque récit, Fernanda Melchor raconte comment ses habitants vivent sous le joug d’une violence généralisée où les fusillades, les règlements de compte et la corruption n’épargnent personne. Une ancienne reine du carnaval, accusée d’infanticide, est traitée comme une paria ; un avocat, convoqué par un membre du cartel Los Zetas, s’arrange avec la vérité ; des clandestins dominicains, épuisés par leur traversée, croient être à Miami quand ils accostent à Veracruz ; une adolescente, possédée par un démon, doit subir un exorcisme. La réalité de Veracruz est cruelle, mais les bourreaux ont aussi des élans d’humanité, et les victimes leur part d’ombre. Dans la grande tradition du journalisme littéraire qui va de Truman Capote à Leila Guerriero, Fernanda Melchor interroge l’origine du mal, en affirmant le pouvoir des mots pour le combattre. L’intelligence de cette observatrice de son temps et de la condition humaine fait d’Ici, c’est pas Miami une lecture dont nul ne peut sortir indemne. Traduit de l’espagnol (Mexique) par Laura Alcoba",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782246838999"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2246838991"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8PtaEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8PtaEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=8PtaEQAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=8PtaEQAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ici_c_est_pas_Miami.html?hl=&id=8PtaEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8PtaEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans chaque récit, Fernanda Melchor raconte comment ses habitants vivent sous le joug d’une violence généralisée où les fusillades, les règlements de compte et la corruption n’épargnent personne."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aAhCDwAAQBAJ",
+      "etag": "dajb09J6QaE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aAhCDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Aquí no es Miami",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "RANDOM HOUSE",
+        "publishedDate": "2018-01-19",
+        "description": "Las crónicas de Fernanda Melchor dan cuenta de la degradación humana en uno de sus aspectos más sórdidos. Lo que su libro hace es manifestar la ignominia en toda esta rudeza. En una época de límites borrosos entre la verdad y la mentira, el caos y el orden, el horror y la indolencia, la delincuencia organizada y el Estado, aparece Aquí no es Miami, un libro de relatos híbridos, aleación entre periodismo y literatura, que aborda lúcidamente las condiciones que germinaron el terror de la llamada Guerra contra el Narcotráfico en un estado especialmente golpeado por esta debacle como lo es Veracruz. Más allá de la intención de entregar un recuento de datos duros, Melchor nos ofrece historias sobre personas: víctimas y criminales, sí, pero sobre todo hombres y mujeres comunes entregados a la lucha por la supervivencia, con esa mirada suya honda y compasiva, pero cruda y directa, con la que es inevitable involucrarse y conmoverse. El Veracruz de Fernanda Melchor no es tanto un escenario sino un personaje en esta ola de violencia. La cercanía de la autora con las historias que narra, y un uso siempre arriesgado del lenguaje, son las mayores fortalezas de esta nueva edición revisitada que cuenta con una nueva crónica. Y aunque estos relatos se enmarcan en una temporalidad, son aún reflejo deun país cuyas arenas siguen siendo movedizas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073161169"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6073161166"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aAhCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aAhCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=aAhCDwAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=aAhCDwAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Aqu%C3%AD_no_es_Miami.html?hl=&id=aAhCDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aAhCDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Las crónicas de Fernanda Melchor dan cuenta de la degradación humana en uno de sus aspectos más sórdidos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4jCHEAAAQBAJ",
+      "etag": "ZkwhMMsvH3w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4jCHEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Sezonul Uraganelor",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "Editura Trei SRL",
+        "publishedDate": "2022",
+        "description": "Roman finalist al International Booker Prize 2020 și National Book Award 2020 „O experiență literară intensă și hipnotică.\" Mariana Enríquez Vrăjitoarea a murit. După ce corpul ei este descoperit plutind pe apele canalului de irigație, satul La Mantosa este cutremurat de zvonuri despre circumstanțele în care a avut loc crima. Într-un adevărat torent lingvistic, Fernanda Melchor realizează un portret colectiv al vieții localnicilor, oameni apăsați de sărăcie și violență, misoginie, superstiții și prejudecăți. Străbătut de un lirism captivant și tulburător, Sezonul uraganelor este o frescă formidabilă a lumii contemporane mexicane, cu demonii și rarele ei străfulgerări de lumină. „Sezonul uraganelor este, înainte de toate, o poveste de groază – iar groaza vine tocmai din lirismul prozei lui Melchor, mai curând decât să contrasteze cu acesta.\" The New York Review of Books „Un debut formidabil.\" The Guardian „Fernanda Melchor are o voce plină de forță, devastatoare, vocea cuiva care scrie cu mânie.\" Samanta Schweblin „Literatura ultimilor ani pare anemică în comparație cu ceea ce realizează Fernanda Melchor în Sezonul uraganelor.\" Ben Lerner",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786069785461"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6069785460"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4jCHEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4jCHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ro",
+        "previewLink": "http://books.google.com.br/books?id=4jCHEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4jCHEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4jCHEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 54.35,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 54.35,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4jCHEAAAQBAJ&rdid=book-4jCHEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 54350000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 54350000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Sezonul_Uraganelor-sample-epub.acsm?id=4jCHEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Sezonul_Uraganelor-sample-pdf.acsm?id=4jCHEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4jCHEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; The New York Review of Books „Un debut formidabil.&quot; The Guardian „Fernanda Melchor are o voce plină de forță, devastatoare, vocea cuiva care scrie cu mânie."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DYTX0QEACAAJ",
+      "etag": "2QNM1omY/24",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DYTX0QEACAAJ",
+      "volumeInfo": {
+        "title": "Temporada de Huracanes (ed. Especial) / Hurricane Season",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "Literatura Random House",
+        "publishedDate": "2026-06-23",
+        "description": "Uno de los mejores libros del Siglo XXI según el New York Times FINALISTA DEL PREMIO MAN BOOKER INTERNACIONAL 2020 NOMINADA PARA EL NATIONAL BOOK AWARD 2020 FINALISTA DEL DUBLIN LITERARY AWARD En la lista de los 100 mejores libros del 2020 del New York Times. El libro que ha inspirado una adaptación en Netflix. Con un ritmo y un lenguaje magistrales, Fernanda Melchor, autora de Falsa liebre explora en esta obra las sinrazones que subyacen a los actos más desesperados de barbarie pasional. Una novela cruda y desgarradora en la que el lector quedará envuelto, atrapado por las palabras y la atmósfera de terrible, aunque gozosa, fatalidad. Un grupo de niños encuentra un cadáver flotando en las aguas turbias de un canal de riego cercano a la ranchería de La Matosa. El cuerpo resulta ser de la Bruja, una mujer que heredó dicho oficio de su madre fallecida, y a quienes los pobladores de esa zona rural respetaban y temían. Tras el macabro hallazgo, las sospechas y habladurías recaerán sobre un grupo de muchachos del pueblo, a quienes días antes una vecina vio mientras huían de casa de la hechicera, cargando lo que parecía ser un cuerpo inerte. A partir de ahí, los personajes involucrados en el crimen nos contarán su historia mientras los lectores nos sumergimos en la vida de este lugar acosado por la miseria y el abandono, y donde convergen la violencia del erotismo más oscuro y las sórdidas relaciones de poder. \"Un viaje nocturno a las profundidades del alma humana con el estilo más radical de su generación.\" -Martín Solares \"Fernanda Melchor no sólo escribe con la potencia rabiosa que le reclaman los temas que ha decidido investigar, sino que en cada página muestra un oído y una agudeza pocas veces vista en nuestra literatura.\" -Yuri Herrera ENGLISH DESCRIPTION One of the New York Times's 100 Best Books of the 21st Century SHORTLISTED FOR THE 2020 MAN BOOKER INTERNATIONAL PRIZE AND THE DUBLIN LITERARY AWARD Longlisted - National Book Award (Translated Literature) New York Times Notable Book of 2020 The book that inspired the adapted film, now on Netflix. The English-language debut of one of the most thrilling and accomplished young Mexican writers The Witch is dead. And the discovery of her corpse―by a group of children playing near the irrigation canals―propels the whole village into an investigation of how and why this murder occurred. Rumors and suspicions spread. As the novel unfolds in a dazzling linguistic torrent, with each unreliable narrator lingering on new details, new acts of depravity or brutality, Melchor extracts some tiny shred of humanity from these characters that most would write off as utterly irredeemable, forming a lasting portrait of a damned Mexican village. Like Roberto Bolano's 2666 or Faulkner's greatest novels, Hurricane Season takes place in a world filled with mythology and violence―real violence, the kind that seeps into the soil, poisoning everything around: it's a world that becomes more terrifying and more terrifyingly real the deeper you explore it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6073864191"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073864190"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DYTX0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DYTX0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=DYTX0QEACAAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=DYTX0QEACAAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Temporada_de_Huracanes_ed_Especial_Hurri.html?hl=&id=DYTX0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DYTX0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As the novel unfolds in a dazzling linguistic torrent, with each unreliable narrator lingering on new details, new acts of depravity or brutality, Melchor extracts some tiny shred of humanity from these characters that most would write off ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Da1iEAAAQBAJ",
+      "etag": "WgAE4dwUTsk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Da1iEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Paradaïze",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "Grasset",
+        "publishedDate": "2022-03-09",
+        "description": "Dans un complexe résidentiel pour ultra-riches, deux adolescents passent leurs soirées à boire et à fumer. Polo travaille comme jardinier pour les co-propriétaires de « Paradaïze » alors que Franco vit ici, avec ses grands-parents. En surpoids, grand consommateur de films pornos, ce dernier n’a qu’une obsession depuis l’arrivée d’une nouvelle famille dans le quartier : coucher avec madame Marián. Pour Franco, cette mère de famille est un objet de désirs, souvent violents, largement nourris par les vidéos que le jeune homme regarde à longueur de journée. Polo écoute son compagnon avec mépris lorsque ce dernier lui dévoile ses plans pour conquérir le cœur et le corps de madame Marián, d’autant que lui-même a des ambitions bien plus sérieuses. Quitter son travail tout d’abord, et partir loin du logement miteux où il vit avec sa mère et son affreuse cousine. Peu importe s’il doit vendre son âme aux cartels, il est prêt à tout pour fuir son quotidien. De son côté, Franco commence à se rapprocher des enfants de madame Marián, puis à s’infiltrer dans la maison pour renifler les sous-vêtements de leur mère. Et lorsqu’il est suffisamment familier des lieux, il décide de passer à l’action, en pleine nuit, avec le soutien du jeune jardinier. Le plan est mis à exécution, mais il va se révéler bien plus macabre que prévu... Ce nouveau roman de Fernanda Melchor est une plongée dans l’extrême violence de notre société. Tensions sociales, consumérisme, hypersexualisation des adolescents, glorification de la virilité et banalité du viol, un cocktail absolument tragique. A l’instar de Parasite de Bong Joon-ho, Paradaïze nous conduit inexorablement vers un final explosif, que l’on redoute depuis les premières lignes, et qui nous coupe le souffle jusqu’à la dernière. Traduit de l'espagnol (Mexique) par Laura Alcoba",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782246827726"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2246827728"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Da1iEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Da1iEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=Da1iEAAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Da1iEAAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Parada%C3%AFze.html?hl=&id=Da1iEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Da1iEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le plan est mis à exécution, mais il va se révéler bien plus macabre que prévu... Ce nouveau roman de Fernanda Melchor est une plongée dans l’extrême violence de notre société."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NtueEQAAQBAJ",
+      "etag": "wTtQNlSV6Sc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NtueEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Ábrándozók",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "Európa Könyvkiadó",
+        "publishedDate": "2025-09-24",
+        "description": "Paradais - luxuslakópark valahol egy folyó partján. A csillogó épületek árnyékában két kallódó tinédzser élete váratlanul összefonódik a parton folytatott bulizásban és a sorsfordító tervek szövögetésében. Polo szegényebb sorban élő, iskolakerülő, ugyanakkor mély igazságérzettel megáldott fiú, akinek egyetlen vágya, hogy végre otthagyhassa a zárt közösségben végzett fárasztó kertészmunkát, és elmenekülhessen anyja szigora elől. Hajlandó lenne akár az unokatestvérét követve beállni a bűnözők közé is, hogy ezzel legalább tekintélyt szerezzen magának a környéken. Társa a magányos, túlsúlyos, pornófüggő Franco, akinek mindene megvan, egyvalamit leszámítva. Megszállottan arról fantáziál, hogy egyszer majd elcsábítja a szomszéd nőt, a vonzó férjes asszonyt és anyát. A két fiú azonban jó kedélyű, delíriumos esti rituáléja közepette szembesül azzal, mennyire lehetetlen elérni álmaikat, amelyekről úgy gondolják, megérdemlik, hogy teljesüljenek. Éppen ezért úgy döntenek, a kezükbe veszik a sorsukat, és egy esztelen, hátborzongató tervet eszelnek ki... Fernanda Melchor, a nagy sikerű Hurrikánok évada szerzője az egyik legizgalmasabb kortárs író a világirodalomban. Az Ábrándozók című új könyvének fullasztó és hömpölygő prózaáradatával a mexikói társadalom robbanásveszélyes törékenységét mutatja meg, és hogy az élet szövedéke miként tud a tinédzserek ábrándjai, vágyai és megpróbáltatásai mentén felfesleni. Melchor könyörtelen regényében alászállunk egy másik pokolba: a Paradicsomba.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789635049844"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9635049846"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NtueEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NtueEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "hu",
+        "previewLink": "http://books.google.com.br/books?id=NtueEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NtueEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NtueEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 57.68,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 57.68,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NtueEQAAQBAJ&rdid=book-NtueEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 57680000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 57680000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/%C3%81br%C3%A1ndoz%C3%B3k-sample-epub.acsm?id=NtueEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/%C3%81br%C3%A1ndoz%C3%B3k-sample-pdf.acsm?id=NtueEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NtueEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Az Ábrándozók című új könyvének fullasztó és hömpölygő prózaáradatával a mexikói társadalom robbanásveszélyes törékenységét mutatja meg, és hogy az élet szövedéke miként tud a tinédzserek ábrándjai, vágyai ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7atRDgAAQBAJ",
+      "etag": "DaM5RkKNioo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7atRDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Temporada de huracanes",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "RANDOM HOUSE",
+        "publishedDate": "2017-05-12",
+        "description": "Con un ritmo y un lenguaje magistrales, Fernanda Melchor, autora de Falsa liebre explora en esta obra las sinrazones que subyacen a los actos más desesperados de barbarie pasional. Una novela cruda y desgarradora en la que el lector quedará envuelto, atrapado por las palabras y la atmósfera de terrible, aunque gozosa, fatalidad. Un grupo de niños encuentra un cadáver flotando en las aguas turbias de un canal de riego cercano a la ranchería de La Matosa. El cuerpo resulta ser de la Bruja, una mujer que heredó dicho oficio de su madre fallecida, y a quienes los pobladores de esa zona rural respetaban y temían. Tras el macabro hallazgo, las sospechas y habladurías recaerán sobre un grupo de muchachos del pueblo, a quienes días antes una vecina vio mientras huían de casa de la hechicera, cargando lo que parecía ser un cuerpo inerte. A partir de ahí, los personajes involucrados en el crimen nos contarán su historia mientras los lectores nos sumergimos en la vida de este lugar acosado por la miseria y el abandono, y donde convergen la violencia del erotismo más oscuro y las sórdidas relaciones de poder. \"Temporada de huracanes y Paradise de Fernanda Melchor son libros que me parecen brillantes. Creo que se está haciendo literatura escrita por mujeres muy interesante.\" -Guillermo Arriaga",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073152679"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6073152671"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7atRDgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7atRDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=7atRDgAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=7atRDgAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Temporada_de_huracanes.html?hl=&id=7atRDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7atRDgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Temporada de huracanes y Paradise de Fernanda Melchor son libros que me parecen brillantes. Creo que se está haciendo literatura escrita por mujeres muy interesante.&quot; -Guillermo Arriaga"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZDefEQAAQBAJ",
+      "etag": "aBCSnAnj0wM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZDefEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Parădais",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "Editura Trei",
+        "publishedDate": "2025-10-30",
+        "description": "Roman nominalizat la International Booker Prize Autoarea bestsellerului Sezonul Uraganelor Într-un complex rezidențial de lux, doi adolescenți se ascund de adulți și se îmbată. Franco Andrade, singuratic, supraponderal și dependent de pornografie, fantazează obsesiv plănuind să-și seducă vecina – o femeie atractivă, căsătorită și mamă a doi copii –, în timp ce Polo visează să renunțe la slujba istovitoare de grădinar al complexului și să fugă de mama autoritară și din satul lor controlat de traficanții de droguri. Confruntați cu o lume nedreaptă, violentă și plină de umilințe, Franco și Polo pun la cale un plan macabru și fără sens. Parădais explorează fragilitatea explozivă a societății mexicane – cu tendințele rasiste, intolerante și hiperviolente – și felul în care deformează caracterul celor mai vulnerabili dintre membrii ei. „Fernanda Melchor are o voce puternică, nemiloasă, devastatoare, vocea cuiva care scrie cu furie și are puterea de a-și transmite ideile.“ - Samanta Schweblin „Fernanda Melchor explorează în acest roman brutal violența și inechitatea socială și o face cu măiestrie tehnică uimitoare. Ea are un simț perfect al oralității și, când vine vorba de cruzime, etalează precizia unui neurochirurg. Parădais este o scurtă coborâre în iad.“ - Mariana Enríquez „Romanul lui Melchor evocă povestirile lui Flannery O’Connor sau Scurtă istorie a șapte crime, de Marlon James. Impresionant.“ - The New York Times „Cu o stăpânire abilă a resurselor tehnice ale romanului și o înțelegere extraordinară a forțelor iraționale care acționează în societate, cărțile Fernandei Melchor explorează o realitate impregnată de violență, rasism și sex... În lumea lui Melchor, nu există rezistență la violență, cu atât mai puțin ură față de ea. Tot ce poate face un romancier, pare să sugereze scriitoarea, e să arunce o privire atentă și nemiloasă asupra iadului pe care l-am creat.“ - Juan Gabriel Vásquez Fernanda Melchor (n. 1982, Veracruz, Mexic) a absolvit jurnalismul la Universidad Veracruzana și din 2013 s-a dedicat exclusiv scrisului. Sezonul uraganelor a propulsat-o în anul 2017 în rândul celor mai buni tineri scriitori mexicani, aducându-i nenumărate premii și nominalizări internaționale în anii ce au urmat: Internationaler Literaturpreis 2019, Anna Seghers-Preis 2019, nominalizare la International Dublin Literary Award 2021 și la National Book Award for Translated Literature. Următorul ei roman, Parădais, a fost nominalizat în 2022 la International Booker Prize și este în curs de ecranizare. În 2024 i s-a decernat premiul Ryszard Kapuściński pentru volumul de reportaje Aquí no es Miami.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786064030023"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "606403002X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 79,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZDefEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZDefEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ro",
+        "previewLink": "http://books.google.com.br/books?id=ZDefEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZDefEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZDefEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 51.41,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 51.41,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZDefEQAAQBAJ&rdid=book-ZDefEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 51410000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 51410000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Par%C4%83dais-sample-epub.acsm?id=ZDefEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Par%C4%83dais-sample-pdf.acsm?id=ZDefEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZDefEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Parădais explorează fragilitatea explozivă a societății mexicane – cu tendințele rasiste, intolerante și hiperviolente – și felul în care deformează caracterul celor mai vulnerabili dintre membrii ei. „Fernanda Melchor are o ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cx5tEAAAQBAJ",
+      "etag": "51cXG/6/Ta4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cx5tEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Falsa liebre",
+        "authors": [
+          "Fernanda Melchor"
+        ],
+        "publisher": "RANDOM HOUSE",
+        "publishedDate": "2022-05-13",
+        "description": "Falsa liebre es una historia que fascina y horroriza, de la que es difícil apartarse por el ritmo de la prosa, capaz también de trazar a profundidad personajes al límite, que experimentan la violencia y el abandono. Esta es la primera novela de Fernanda Melchor, quien ha conquistado un lugar importante en las letras hispanoamericanas. La oscuridad del puerto lo envuelve todo. Pachi y Vinicio se adentran en la playa, van camino a una fiesta improvisada; andan buscando con qué entumir el cuerpo, con qué acabar de borrarse. El verano ha sido largo y el día, mucho peor. No muy lejos de ahí, Zahir fantasea con su próximo viaje a la capital o al norte de México, fuera del alcance de la tía que le exige dinero, lo aplaca a golpes y que había orillado a su hermano pequeño, Andrik, a huir de la casa común para terminar en otra: la de un hombre que acaricia y pega con la misma mano. Ahora sólo debe convencer a Andrik de comenzar una nueva vida y asegurarse de encontrar la salida de esa playa que parece no tener fin. «Fernanda Melchor escribe con la intensidad de quien rescata un libro de un incendio para que arda en la imaginación.» Juan Villoro",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073814850"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6073814852"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cx5tEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cx5tEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=cx5tEAAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=cx5tEAAAQBAJ&dq=inauthor:%22Fernanda+Melchor%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Falsa_liebre.html?hl=&id=cx5tEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cx5tEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Falsa liebre es una historia que fascina y horroriza, de la que es difícil apartarse por el ritmo de la prosa, capaz también de trazar a profundidad personajes al límite, que experimentan la violencia y el abandono."
+      }
+    }
+  ]
+}

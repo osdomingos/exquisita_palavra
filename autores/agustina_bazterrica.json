@@ -1,0 +1,1612 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "toOREQAAQBAJ",
+      "etag": "6ByMr2mbtmU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/toOREQAAQBAJ",
+      "volumeInfo": {
+        "title": "Saboroso Cadáver",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "Darkside Books",
+        "publishedDate": "2025-10-30",
+        "description": "O banquete mais sinistro de todos os tempos Diz o antigo ditado que \"Você é o que você come\". No romance Saboroso Cadáver , de Agustina Bazterrica, esse ditado é levado às últimas consequências. O livro conta a história de um vírus que se espalha entre os animais de todo o planeta e torna sua carne mortal aos humanos. Impossibilitados de utilizar os animais para a alimentação, a sociedade regulariza a criação e a reprodução de seres humanos como animais de abate, transformando o mundo num lugar cinzento, cínico e inóspito. Nesse romance visceral, grotesco, repleto de descrições vívidas e nauseantes capaz de nos alimentar na medida certa, vamos acompanhar a rotina de Marcos Tejo, funcionário do frigorífico Krieg,, que recebe de presente uma mulher viva, considerada \"carne de primeira\". Ironicamente, esse funcionário parece ser o mais humano nesse mundo terrível. Seguindo seus passos, presenciamos o processo metódico da criação de pessoas, abates, experimentos de laboratório, caçadas humanas e suntuosos jantares canibais. Publicado originalmente em 2017, Saboroso Cadáver ganhou o Prêmio Clarín Novela naquele mesmo ano, na Argentina. Três anos depois, a tradução americana do livro recebeu o Ladies of Horror Fiction Award como melhor romance de 2020. Além disso, de acordo com o jornal Washington Post , foi um dos melhores lançamentos de horror, ficção científica e fantasia de 2020, ao lado de Temporada de Caça , de Stephen Graham Jones. Uma das pessoas que participaram da seleção foi ninguém menos que Silvia Moreno-Garcia, autora de Gótico Mexicano ( DarkSide® Books, 2021), sucesso entre os darksiders. Bazterrica afirmou que \"escrever é uma experiência feroz e minha intenção é tirar o leitor dessa letargia em que vivemos e em que, muitas vezes, a violência é naturalizada\". Distopia arrepiante, Saboroso Cadáver imagina um mundo em que a violência e o canibalismo são de fato naturalizados, embora ainda haja espaço para a compaixão, a solidariedade e o cuidado com os outros, enquanto a batalha pela sobrevivência se torna uma aventura de desfecho incerto. Com seu romance marcante e poderoso, Bazterrica nos coloca dentro de um pesadelo em que o canibalismo se legitima na maior parte do mundo e a sociedade fica dividida entre aqueles que comem e aqueles que são comidos. Haveria caminhos para a humanidade, quando os corpos dos mortos são cremados para evitar que sejam devorados? Quais as relações passíveis de serem forjadas, quando na verdade somos o que comemos? Saboroso Cadáver é um prato raro, uma iguaria literária impiedosa, alegórica e realista, agridoce e suculenta, capaz de alimentar de ternura os corações",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786555985870"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6555985879"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=toOREQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=toOREQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=toOREQAAQBAJ&printsec=frontcover&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=toOREQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=toOREQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 48.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 48.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=toOREQAAQBAJ&rdid=book-toOREQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 48900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 48900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Saboroso_Cad%C3%A1ver-sample-epub.acsm?id=toOREQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Saboroso_Cad%C3%A1ver-sample-pdf.acsm?id=toOREQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=toOREQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "O banquete mais sinistro de todos os tempos Diz o antigo ditado que &quot;Você é o que você come&quot;. No romance Saboroso Cadáver , de Agustina Bazterrica, esse ditado é levado às últimas consequências."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XaPGDwAAQBAJ",
+      "etag": "xQOVaD/Rorg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XaPGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tender is the Flesh",
+        "subtitle": "The dystopian cannibal horror everyone is talking about! Tiktok made me buy it!",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "Pushkin Press",
+        "publishedDate": "2020-01-06",
+        "description": "'A thrilling dystopia that everyone should read' DAZED'A hideous, bold, unforgettable vision of the future' i-D MAGAZINE'A gut-churning, brilliantly realised novel' DAILY MAIL If everyone was eating human meat, would you? Marcos is in the business of slaughtering humans - only no one calls them that. He works with numbers, consignments, processing. One day, he's given a specimen of the finest quality. He leaves her tied up in an outhouse, a problem to be disposed of later. But she haunts Marcos. Her trembling body, and watchful gaze, seem to understand. And soon, he becomes tortured by what has been lost - and what might still be saved...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781782275589"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1782275584"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XaPGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XaPGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=XaPGDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XaPGDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XaPGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 52.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 52.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XaPGDwAAQBAJ&rdid=book-XaPGDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 52900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 52900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Tender_is_the_Flesh-sample-epub.acsm?id=XaPGDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Tender_is_the_Flesh-sample-pdf.acsm?id=XaPGDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XaPGDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;A thrilling dystopia that everyone should read&#39; DAZED&#39;A hideous, bold, unforgettable vision of the future&#39; i-D MAGAZINE&#39;A gut-churning, brilliantly realised novel&#39; DAILY MAIL If everyone was eating human meat, would you?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z9qsEAAAQBAJ",
+      "etag": "Iop2zaPXuWg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z9qsEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Nineteen Claws and a Black Bird",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "Pushkin Press",
+        "publishedDate": "2023-05-04",
+        "description": "In these tense, macabre stories, bodies fall from the sky, perfect nails conceal grisly secrets and violence pulses behind gleaming façades. From hellish visions to obsessive relationships, acclaimed author Agustina Bazterrica takes us to the dark heart of human desires and fears.Shocking, brutal, yet glinting with sharp humour, Nineteen Claws and a Black Bird is a breathtaking dive into human monstrousness from a master of contemporary horror.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781782279020"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1782279024"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z9qsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z9qsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Z9qsEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Z9qsEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Z9qsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 59.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 59.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Z9qsEAAAQBAJ&rdid=book-Z9qsEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 59900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 59900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nineteen_Claws_and_a_Black_Bird-sample-epub.acsm?id=Z9qsEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nineteen_Claws_and_a_Black_Bird-sample-pdf.acsm?id=Z9qsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z9qsEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In these tense, macabre stories, bodies fall from the sky, perfect nails conceal grisly secrets and violence pulses behind gleaming façades."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ffhKyQEACAAJ",
+      "etag": "Y7xeyoX1/UI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ffhKyQEACAAJ",
+      "volumeInfo": {
+        "title": "Tender Is the Flesh",
+        "authors": [
+          "Agustina María Bazterrica"
+        ],
+        "publishedDate": "2020-02",
+        "description": "Everyone's eating human meat. Would you? A vivid, shocking dystopian novel from an Argentinian rising star.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1782275576"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781782275572"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ffhKyQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ffhKyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=ffhKyQEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ffhKyQEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tender_Is_the_Flesh.html?hl=&id=ffhKyQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ffhKyQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Everyone&#39;s eating human meat. Would you? A vivid, shocking dystopian novel from an Argentinian rising star."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oEgMEQAAQBAJ",
+      "etag": "BQIJYNv8kTU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oEgMEQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Unworthy",
+        "subtitle": "A Novel",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2025-03-04",
+        "description": "NATIONAL BESTSELLER The long-awaited new novel from the author of global sensation Tender Is the Flesh: a thrilling work of literary horror about a woman cloistered in a secretive, violent religious order, while outside the world has fallen into chaos. From her cell in a mysterious convent, a woman writes the story of her life in whatever she can find—discarded ink, dirt, and even her own blood. A lower member of the Sacred Sisterhood, deemed an unworthy, she dreams of ascending to the ranks of the Enlightened at the center of the convent and of pleasing the foreboding Superior Sister. Outside, the world is plagued by catastrophe—cities are submerged underwater, electricity and the internet are nonexistent, and bands of survivors fight and forage in a cruel, barren landscape. Inside, the narrator is controlled, punished, but safe. But when a stranger makes her way past the convent walls, joining the ranks of the unworthy, she forces the narrator to consider her long-buried past—and what she may be overlooking about the Enlightened. As the two women grow closer, the narrator is increasingly haunted by questions about her own past, the environmental future, and her present life inside the convent. How did she get to the Sacred Sisterhood? Why can’t she remember her life before? And what really happens when a woman is chosen as one of the Enlightened? A searing, dystopian tale about climate crisis, ideological extremism, and the tidal pull of our most violent, exploitative instincts, this is another unforgettable novel from a master of feminist horror.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781668051894"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1668051893"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oEgMEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oEgMEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=oEgMEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oEgMEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oEgMEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 73.6,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 73.6,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oEgMEQAAQBAJ&rdid=book-oEgMEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 73600000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 73600000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Unworthy-sample-epub.acsm?id=oEgMEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oEgMEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A searing, dystopian tale about climate crisis, ideological extremism, and the tidal pull of our most violent, exploitative instincts, this is another unforgettable novel from a master of feminist horror."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qSqq0QEACAAJ",
+      "etag": "ljGdyVJNt3w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qSqq0QEACAAJ",
+      "volumeInfo": {
+        "title": "Nineteen Claws and a Black Bird",
+        "subtitle": "Stories",
+        "authors": [
+          "Agustina María Bazterrica"
+        ],
+        "publishedDate": "2023",
+        "description": "A collection of nineteen dark, wildly imaginative short stories from the author of the award-winning TikTok sensation Tender Is the Flesh. From celebrated author Agustina Bazterrica, this collection of nineteen brutal, darkly funny short stories takes into our deepest fears and through our most disturbing fantasies. Through stories about violence, alienation, and dystopia, Bazterrica's vision of the human experience emerges in complex, unexpected ways--often unsettling, sometimes thrilling, and always profound. In \"Roberto,\" a girl claims to have a rabbit between her legs. A woman's neighbor jumps to his death in \"A Light, Swift, and Monstrous Sound,\" and in \"Candy Pink,\" a woman fails to contend with a difficult breakup in five easy steps. Written in Bazterrica's signature clever, vivid style, these stories question love, friendship, family relationships, and unspeakable desires.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1668033860"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781668033869"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "FICTION"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=qSqq0QEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=qSqq0QEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nineteen_Claws_and_a_Black_Bird.html?hl=&id=qSqq0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qSqq0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From celebrated author Agustina Bazterrica, this collection of nineteen brutal, darkly funny short stories takes into our deepest fears and through our most disturbing fantasies."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NT_X0QEACAAJ",
+      "etag": "5tihavvo6RQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NT_X0QEACAAJ",
+      "volumeInfo": {
+        "title": "The Unworthy",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publishedDate": "2026-02-12",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1805331876"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781805331872"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NT_X0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NT_X0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=NT_X0QEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=NT_X0QEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Unworthy.html?hl=&id=NT_X0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NT_X0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JELb0QEACAAJ",
+      "etag": "kpg4tLSkMkM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JELb0QEACAAJ",
+      "volumeInfo": {
+        "title": "Tender is the Flesh",
+        "subtitle": "A Novel",
+        "authors": [
+          "Agustina María Bazterrica"
+        ],
+        "publishedDate": "2024",
+        "description": "\"Working at the local processing plant, Marcos is in the business of slaughtering humans--though no one calls them that anymore. First an infectious virus made all animal meat poisonous to humans. Then governments initiated the \"Transition.\" Now, eating \"special meat\" is legal. Then one day he is given a live specimen of the finest quality. Though aware that any form of personal contact is forbidden on pain of death, little by little Marcos starts to treat her like a human being. And soon, he becomes tortured by what has been lost--and what might still be saved\"--Adapted from front flap",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1668087111"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781668087114"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Cannibalism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=JELb0QEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=JELb0QEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tender_is_the_Flesh.html?hl=&id=JELb0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JELb0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Working at the local processing plant, Marcos is in the business of slaughtering humans--though no one calls them that anymore."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NP7UEAAAQBAJ",
+      "etag": "kyMHS0QhiuU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NP7UEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Las indignas",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "ALFAGUARA",
+        "publishedDate": "2023-09-01",
+        "description": "La nueva novela de la aclamada autora de Cadáver exquisito, premio Clarín de Novela y un fenómeno mundial con más de doscientos mil lectores en una treintena de países. «Perturbadora desde sus primeras páginas. [...] Lleva al lector al límite para provocar en él tanto vértigo como dudas sobre sí mismo. [...] Muy recomendable». Ana Bretón, El Mundo «Nadie le dice que no a la Hermana Superior. Nadie que quiera seguir viva». El mundo como lo conocemos ha desaparecido después del gran apagón,guerras por el agua y catástrofes ambientales. Los días pasan de gélidos a sofocantes en cuestión de horas, apenas hay animales ni naturaleza y pocas personas han sobrevivido. En este presente desolador, varias mujeres viven confinadas en la Casa de la Hermandad Sagrada, sometidas a los designios de un culto religioso. Una de ellas cuenta esta historia, escrita a escondidas noche tras noche para que un día alguien sepa todo lo que pasa entre esas paredes: torturas, sacrificios y ceremonias terroríficas en nombre de la iluminación. Se encuentran bajo el mando estricto de la Hermana Superior, por encima de quien solo se erige «Él». ¿Quién es Él? Poco se sabe; nadie puede verlo, pero domina desde las sombras. Agustina Bazterrica, la autora de la inolvidable Cadáver exquisito, nos ofrece en esta nueva y esperada novela una distopía perturbadora en la que resplandece la naturaleza oscura de una falsa divinidad, un dios abusivo, pero también la forma subrepticia, aunque poderosa, de la amistad. «Perturbadora desde sus primeras páginas. [...] Lleva al lector al límite para provocar en él tanto vértigo como dudas sobre sí mismo. [...] Muy recomendable». Ana Bretón, El Mundo «Entrecorta la respiración». Concha García, La Razón «La narrativa, con su prosa poética y el cruce entre crueldad y lirismo, ofrece una experiencia intensa y sobrecogedora del horror, dejando al mismo tiempo un espacio vislumbrado para la esperanza». Carmen Gómez Moreno, El Generacional Post «Atrapa. La inmediatez, el secretismo y el suspense mantenido obligan al lector a [...] no apartar la vista del libro, impactado por la violencia de lo relatado. La autora consigue transmitir esa repugnancia desde un estilo muy poético, logrando así el equilibrio que nos hace disfrutar hasta de la imagen más oscura y nos impulsa a seguir leyendo». Lucía Pérez García, Madrid Actual «Una historia que no te deja indiferente. El personaje de Lucía es un gran personaje. Muy bueno». Rosa Sánchez de la Vega, El Español «El género de terror está de enhorabuena desde hace unos años gracias a un buen número de escritoras latinoamericanas que han firmado obras de alto nivel. [ Las indignas] tiene una potentísima capacidad de provocar angustia, repulsión y miedo a la vez que atracción. Se trata de uno de esos libros que engancha desde la primera página, que no se quiere soltar hasta no saber qué es lo que va a pasar aunque se presienta que no va a ser más amable». Carmen López, elDiario «Terrorífica y absorbente». Isabel Loscertales, Woman Sobre Cadáver exquisito: «Desde un primer momento, el lector de Cadáver exquisito se da cuenta de que se convirtió en un animal más, un ser que, a los tumbos, entiende que este libro en realidad es un matadero y nada de lo que está por pasarle será bonito». The New York Times Book Review «Horriblemente eficaz [...]. Esta provocativa novela empuña hábilmente un cuchillo de doble filo». The Guardian",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788420477176"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8420477176"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 166,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.11.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NP7UEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NP7UEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=NP7UEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=NP7UEAAAQBAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_indignas.html?hl=&id=NP7UEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_indignas-sample-epub.acsm?id=NP7UEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_indignas-sample-pdf.acsm?id=NP7UEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NP7UEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Agustina Bazterrica, la autora de la inolvidable Cadáver exquisito, nos ofrece en esta nueva y esperada novela una distopía perturbadora en la que resplandece la naturaleza oscura de una falsa divinidad, un dios abusivo, pero también la ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YGWREAAAQBAJ",
+      "etag": "djaRo09YoUA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YGWREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Cadáver exquisito (Premio Clarín 2017) / Tender is the Flesh",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2020-08-18",
+        "description": "PREMIO CLARÍN 2017 En esta despiadada distopía -tan brutal como sutil, tan alegórica como realista-, Agustina Bazterrica inspira, con el poder explosivo de la ficción, sensaciones y debates de suma actualidad. La súbita aparición de un virus letal que ataca a los animales modifica de manera irreversible el mundo: desde las fieras hasta las mascotas deben ser sistemáticamente sacrificadas, y su carne ya no puede ser consumida. Los gobiernos enfrentan la situación con una decisión drástica: legalizando la cría, reproducción, matanza y procesamiento de carne humana. El canibalismo es ley y la sociedad ha quedado dividida en dos grupos: los que comen y los que son comidos. Marcos Tejo, encargado general del frigorífico Krieg, separado de su esposa y a cargo de su padre, es un oscuro burócrata. El día en que recibe como regalo una mujer criada para el consumo, las tentaciones lo transforman en una conciencia peligrosa de pliegues truculentos que lo llevará a transgredir las nuevas normas hasta límites que la sociedad desconoce. ¿Qué resto de humanidad cabe cuando los muertos son cremados para evitar su consumo? ¿Quién es el otro si, de verdad, somos lo que comemos? ENGLISH DESCRIPTION The electrifying, award-winning, internationally bestselling novel about a dystopian world in which animals have been wiped out, humans are being harvested for food, and society has been divided into those who eat and those who are eaten. Working at the local processing plant, Marcos is in the business of slaughtering humans—though no one calls them that anymore. His wife has left him, his father is sinking into dementia, and Marcos tries not to think about how he makes a living. After all, it happened so quickly. First, it was reported that animals had been infected with a virus and their meat had become poisonous. Then governments initiated the Transition. Now, human meat—“special meat”—is legal. Marcos tries to stick to numbers, consignments, processing. Then one day he’s given a gift: a specimen of the finest quality. He leaves her in his barn, tied up, a problem to be disposed of later. But she haunts Marcos. Her trembling body, her watchful, knowing eyes. Though he’s aware that any form of personal contact is forbidden on pain of death, little by little he starts to treat her like a human being. And soon, he becomes tortured by what has been lost—and what might still be saved. From Agustina Bazterrica, one of Latin America’s most celebrated and original new voices, Tender Is the Flesh is propulsive and profound, a searing cautionary tale about the cost of consumption and the ties that bind and break us.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788420433424"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "842043342X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YGWREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YGWREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=YGWREAAAQBAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=YGWREAAAQBAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cad%C3%A1ver_exquisito_Premio_Clar%C3%ADn_2017_T.html?hl=&id=YGWREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YGWREAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From Agustina Bazterrica, one of Latin America’s most celebrated and original new voices, Tender Is the Flesh is propulsive and profound, a searing cautionary tale about the cost of consumption and the ties that bind and break us."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "68BxEQAAQBAJ",
+      "etag": "kmNlCjSrqks",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/68BxEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Diecinueve garras y un pájaro oscuro",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "ALFAGUARA",
+        "publishedDate": "2025-07-17",
+        "description": "Diecinueve garras y un pájaro oscuro es la reedición revisada y ampliada del volumen de cuentos publicado en 2016 con el título Antes del encuentro feroz. « Tengo un conejo entre las piernas. Es negro. Yo le digo Roberto, pero se podría llamar Ignacio o incluso Carla, pero le digo Roberto porque tiene forma de Roberto. Es lindo porque es peludo y duerme mucho. Le conté a mi amiga Isabel. Le dije: \"Isa, hace poco me creció un conejo entre las piernas. ¿Vos también tenés uno?\".» Con la publicación de Cadáver exquisito (Premio Clarín Novela 2017), Agustina Bazterrica logró dos cosas al mismo tiempo: consagrarse como una de las escritoras argentinas más leídas y respetadas en todo el mundo, y transformar el libro en un clásico instantáneo. Esa distopía acerca de un mundo casi inhumano, que no cesa de cuestionar nuestro modo de vida actual y que dispara toda clase de preguntas acerca de lo contemporáneo, tiene historia. La autora lleva muchos años escribiendo relatos y cuentos breves, que hoy Alfaguara reedita en este volumen. Diecinueve cuentos que nos llevan al corazón de nuestros miedos, de las fantasías más delirantes y oscuras y también del humor más negro. Textos que cuestionan el amor, la amistad, las relaciones familiares y los deseos inconfesables. Una lectura absorbente que confirma un estilo y una profundidad únicos en el panorama de la literatura en castellano. Sobre Cadáver exquisito la crítica ha dicho... «Una sólida y escalofriante novela futurista con un inesperado final de cuento. Una alegoría sobre la sociedad caníbal en la que vivimos; un trama sorprendente y bien dosificada, escrita con una prosa afilada como un cuchillo.» Jorge Fernández Díaz «Con un lenguaje directo y despojado, Cadáver exquisito incursiona en los mecanismos siniestros de una sociedad distópica y caníbal. Las imágenes, tanto repulsivas como fascinantes, se suceden una tras otra y recuerdan por momentos a los cuadros violentos de Francis Bacon y de Carlos Alonso. La novela rodea al lector con una sensación de amenaza al volver visibles algunas prácticas oscuras y normalizadas de la vida cotidiana actual.» Pedro Mairal «Novela mayor, cuya acción transcurre en el interior de una atmófera densa e hipnótica en la que el lector queda atrapado desde las primeras líneas como si fuera uno de sus personajes.» Juan José Millás «Bazterrica administra dosis de suspenso a la historia de una rebeldía individual que crece desde el asco, el odio y lo prohibido. El personaje de Tejo, cuyo hijo acaba de morir y cuyo padre no termina de morir, se recorta con nitidez en una trama perturbadora.» Daniel Gigena «Cadáver exquisito nos lleva al corazón del horror sin alejarse nunca de la construcción minuciosa de una realidad posible y de la indagación valiente de esa díada literaria fundamental: un personaje y una historia.» Ariel Dilon",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788410496606"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8410496607"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=68BxEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=68BxEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=68BxEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=68BxEQAAQBAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diecinueve_garras_y_un_p%C3%A1jaro_oscuro.html?hl=&id=68BxEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Diecinueve_garras_y_un_p%C3%A1jaro_oscuro-sample-epub.acsm?id=68BxEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Diecinueve_garras_y_un_p%C3%A1jaro_oscuro-sample-pdf.acsm?id=68BxEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=68BxEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con la publicación de Cadáver exquisito (Premio Clarín Novela 2017), Agustina Bazterrica logró dos cosas al mismo tiempo: consagrarse como una de las escritoras argentinas más leídas y respetadas en todo el mundo, y transformar el ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wUDYEAAAQBAJ",
+      "etag": "V6Y7g0HrPbs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wUDYEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Cadáver exquisito (Mapa de las lenguas)",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "ALFAGUARA",
+        "publishedDate": "2023-09-28",
+        "description": "Un fenómeno literario con más de un millón de lectores y traducido a más de 30 idiomas PREMIO CLARÍN DE NOVELA «El lector queda atrapado desde las primeras líneas como si fuera uno de sus personajes.» Juan José Millás «Maneja con maestría un cuchillo de doble filo.» The Guardian El Premio Clarín 2017 fue otorgado a esta novela mayor, una sólida y escalofriante pesadilla futurista en la que el canibalismo es legitimado en gran parte del mundo a causa de un virus que afecta a los animales y resulta mortal para los seres humanos. ¿Qué resto de humanismo puede caber cuando los cuerpos de los muertos son cremados para evitar su consumo? ¿En qué lugar queda el vínculo con el otro si, de verdad, somos lo que comemos? En esta despiadada distopía -tan brutal como sutil, tan alegórica como realista-, Agustina Bazterrica inspira, con el poder explosivo de la ficción, sensaciones y debates de suma actualidad. Reseña: «Desde las primeras palabras de la segunda novela de la novelista argentina Agustina Bazterrica, Cadáver exquisito, el lector ya es el ganado de la fila, tambaleándose, primordialmente consciente de que este libro es una carnicería, y nada de lo que suceda a continuación va a ser bonito». New York Times Book Review «Con un arte perfectamente calibrado con la ironía, [ella] presenta un asombroso retrato de una humanidad dispuesta a hacer cualquier cosa para satisfacerse, incluso a expensas de sí misma». Le Monde «Una expresión mordaz y sin concesiones de lo que ocurre a diario en nuestra sociedad». La Nación «Con un lenguaje directo y despojado, Cadáver exquisito incursiona en los mecanismos siniestros de una sociedad distópica y caníbal. Las imágenes, tanto repulsivas como fascinantes, recuerdan por momentos a los cuadros violentos de Francis Bacon. La novela rodea al lector con una sensación de amenaza al volver visibles algunas prácticas oscuras y normalizadas de la vida actual». Pedro Mairal «Escrita con lenguaje minimalista, de alta precisión, Cadáver exquisito es una fábula impactante sobre la crueldad entre los seres humanos, aunque no desprovista de poesía». Clarín «Punzante historia caníbal. [...] Hay una verbalización incisiva e impiadosa de lo que sucede en la sociedad [...]. No hay eufemismos en Cadáver exquisito». Ma José R. Murguiondo, La Nación «Bazterrica delinea un lenguaje dúctil, universal; capaz de condensar el terror, el drama, la empatía y la desesperanza». Marvel Aguilera, Revista Kunst",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788420477886"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8420477885"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 159,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wUDYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wUDYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=wUDYEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=wUDYEAAAQBAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cad%C3%A1ver_exquisito_Mapa_de_las_lenguas.html?hl=&id=wUDYEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cad%C3%A1ver_exquisito_Mapa_de_las_lenguas-sample-epub.acsm?id=wUDYEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cad%C3%A1ver_exquisito_Mapa_de_las_lenguas-sample-pdf.acsm?id=wUDYEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wUDYEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En esta despiadada distopía -tan brutal como sutil, tan alegórica como realista-, Agustina Bazterrica inspira, con el poder explosivo de la ficción, sensaciones y debates de suma actualidad."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "To4o0AEACAAJ",
+      "etag": "K4U5EDdHbnA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/To4o0AEACAAJ",
+      "volumeInfo": {
+        "title": "Las Indignas / the Unworthy",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "Alfaguara",
+        "publishedDate": "2023-12-05",
+        "description": "La nueva novela de la aclamada autora de Cadáver exquisito, premio Clarín de Novela y un fenómeno mundial con más de 200.000 lectores en una treintena de países. «Nadie le dice que no a la Hermana Superior. Nadie que quiera seguir viva». El mundo como lo conocemos ha desaparecido después del gran apagón y de varias crisis climáticas. Apenas hay animales ni naturaleza y pocas personas han sobrevivido. Varias mujeres llegaron a una suerte de convento buscando refugio y han sido captadas por una secta religiosa. Una de ellas cuenta esta historia, escrita a escondidas noche tras noche para que alguien sepa todo lo que pasa entre esas paredes: torturas, sacrificios y ceremonias terroríficas en nombre de la iluminación. Se encuentran bajo el mando estricto de la Hermana Superior, por encima de quien solo se erige \"Él\". ¿Quién es Él? Poco se sabe, nadie puede verlo, pero domina desde las sombras. Agustina Bazterrica, la autora de la inolvidable Cadáver exquisito, nos ofrece en esta nueva y esperada novela una distopía perturbadora, en la que resplandece la naturaleza oscura de una falsa divinidad, un dios abusivo, pero también la forma subrepticia, aunque poderosa, de la amistad. ENGLISH DESCRIPTION The latest novel by the acclaimed author of Cadáver exquisito [Tender Is the Flesh], winner of Argentina's Clarín Novel Prize, and a worldwide sensation with more than 200,000 readers in dozens of countries. \"No one says no to the Mother Superior. No one who wants to live.\" The world as we know it has disappeared following a mass blackout and successive climate crises. Plants and wildlife have been largely obliterated, and few people remain. Several female survivors seek refuge at what appears to be a convent, where they are taken in by a religious sect. One of these women is the narrator of this story, written in secret night after night so that someone will know what went on behind these walls: torture, sacrifice and hair-raising ceremonies, all in the guise of enlightenment. Presiding over it all is a Mother Superior, whose authority is exceeded only by \"Him,\" a mysterious figure who governs from the shadows. The eagerly anticipated new novel by Agustina Bazterrica, author of the unforgettable Cadáver exquisito [Tender Is the Flesh], transports readers to a dystopian reality ruled by the dark dictates of a false and abusive god but illuminated by the surreptitious power of friendship.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798890980137"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=To4o0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=To4o0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=To4o0AEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=To4o0AEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_Indignas_the_Unworthy.html?hl=&id=To4o0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=To4o0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;El mundo atravesó guerras por el agua y catástrofes ambientales."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_f_-EAAAQBAJ",
+      "etag": "igY+vZJv3KE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_f_-EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Noi, carnivorii",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "Editura Trei",
+        "description": "La abatorul local, Marcos este un foarte eficient manageradjunct în branșa sacrificării oamenilor – deși nimeni nu le mai spune așa. Soția la părăsit, tatăl piere în ghearele demenței, iar el depune eforturi supraomenești să nu se gândească la felul în careși câștigă existența. După ce animalele, infectate de un virus otrăvitor, au fost omorâte, și după o perioadă de Tranziție plină de ipocrizie, consumul de carne umană — „carne specială\" — a devenit legal. Întro zi, Marcos primește în dar un exemplar de „calitate superioară\", pe care, în ciuda interdicțiilor, îl tratează ca pe o ființă umană. De aici și până la ași pune întrebarea dacă nu cumva am renunțat la umanitate în schimbul proteinei animale nu mai e decât un pas. „Cu o măiestrie perfect calibrată prin ironie, Bazterrica ne prezintă un portret stupefiant al umanității care ar face orice pentru a obține satisfacția, chiar cu prețul propriei existențe.\" Le Monde „Din teama față de ceea ce ne rezervă viitorul, Bazterrica a extras un roman extraordinar despre maleabilitatea valorilor noastre morale și despre ceea ce Hannah Arendt a numit banalitatea răului.\" Lire „Puternic, magnetic, tulburător – romanul anului.\" Cultura Mas „De la primele cuvinte ale acestui roman al scriitoarei argentiniene, cititorul se află printre «exemplarele» de sacrificiu, conștient că se găsește întrun abator și că nimic din ce urmează nu va fi prea plăcut.\" The New York Times Book Review Agustina Bazterrica (n. 1974, Buenos Aires) este o romancieră și autoare argentiniană de proză scurtă, figură centrală a scenei literare din Buenos Aires. A publicat două volume de povestiri și două romane. Cel deal doilea roman al ei, Noi, carnivorii, a devenit un adevărat fenomen editorial internațional, vândut în peste jumătate de milion de exemplare în toată lumea și tradus în peste 25 de limbi. Romanul este în curs de ecranizare.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786069787083"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6069787080"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 149,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_f_-EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_f_-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ro",
+        "previewLink": "http://books.google.com.br/books?id=_f_-EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_f_-EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_f_-EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 59.18,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 59.18,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_f_-EAAAQBAJ&rdid=book-_f_-EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 59180000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 59180000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Noi_carnivorii-sample-epub.acsm?id=_f_-EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Noi_carnivorii-sample-pdf.acsm?id=_f_-EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_f_-EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cel deal doilea roman al ei, Noi, carnivorii, a devenit un adevărat fenomen editorial internațional, vândut în peste jumătate de milion de exemplare în toată lumea și tradus în peste 25 de limbi."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jsebDwAAQBAJ",
+      "etag": "tIO13xcce3M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jsebDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cadavre exquis",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "Flammarion",
+        "publishedDate": "2019-08-21T00:00:00+02:00",
+        "description": "Un virus a fait disparaître la quasi-totalité des animaux de la surface de la Terre. Pour pallier la pénurie de viande, des scientifiques ont créé une nouvelle race, à partir de génomes humains, qui servira de bétail pour la consommation. Ce roman est l’histoire d’un homme qui travaille dans un abattoir et ressent un beau jour un trouble pour une femelle de « première génération ». Or, tout contact inapproprié avec ce qui est considéré comme un animal d’élevage est passible de la peine de mort. À l’insu de tous, il va peu à peu la traiter comme un être humain. Le tour de force d’Agustina Bazterrica est de nous faire accepter ce postulat de départ en nous précipitant dans un suspense insoutenable. Roman d’une brûlante actualité, tout à la fois allégorique et réaliste, Cadavre exquis utilise tous les ressorts de la fiction pour venir bouleverser notre conception des relations humaines et animales.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782081481169"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2081481162"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jsebDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jsebDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=jsebDwAAQBAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=jsebDwAAQBAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cadavre_exquis.html?hl=&id=jsebDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jsebDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans un monde de plus en plus déshumanisé, elle nous pousse à une réflexion vertigineuse sur la violence, l&#39;amour, le pouvoir.» Kerenn Elkaïm - LIVRES HEBDO « Une fiction qui ne s’enferme dans aucun genre littéraire et dresse un ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v5QAEAAAQBAJ",
+      "etag": "WAS3CbHl4wo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v5QAEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Schitterend lichaam",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "Atlas Contact, Uitgeverij",
+        "publishedDate": "2020-10-07",
+        "description": "'Schitterend lichaam' van Agustina Bazterrica is een dystopische roman die gaat over Marcos Tejo. Hij is een van de weinigen die zich de tijd nog kan herinneren waarin vlees gewoon vlees was, afkomstig van koeien, varkens en gevogelte. Die tijd is voorbij. Een virus zorgde ervoor dat dierenvlees niet langer eetbaar was. Een radicale oplossing werd gevonden. Als opzichter in een verwerkingsbedrijf is Marcos verantwoordelijk voor het verloop van de slacht en de productie van speciaal vlees. Zijn ogenschijnlijke afstandelijkheid maakt hem uitermate geschikt voor het werk. Maar dan geeft een zakenrelatie Marcos een 'exemplaar' van uitzonderlijke klasse cadeau en dreigt zijn blik te verzachten. 'Schitterend lichaam' gaat over rouw en dehumanisering én komt met verrassend geloofwaardige én gruwelijke oplossingen voor prangende mondiale problemen. Bazterrica zet een genadeloos kritisch en huiveringwekkend beeld neer van een moreel failliete maatschappij.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789025453718"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9025453716"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v5QAEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v5QAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "nl",
+        "previewLink": "http://books.google.com.br/books?id=v5QAEAAAQBAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=v5QAEAAAQBAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Schitterend_lichaam.html?hl=&id=v5QAEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v5QAEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;Schitterend lichaam&#39; van Agustina Bazterrica is een dystopische roman die gaat over Marcos Tejo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h2gP0QEACAAJ",
+      "etag": "SsJuV5uj82Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h2gP0QEACAAJ",
+      "volumeInfo": {
+        "title": "Les indignes",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publishedDate": "2025-01-08",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2080441043"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782080441041"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h2gP0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h2gP0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=h2gP0QEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=h2gP0QEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Les_indignes.html?hl=&id=h2gP0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h2gP0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Et que son arrivée apporte enfin une lueur d&#39;espoir dans un monde de ténèbres. À travers cette nouvelle dystopie aussi envoûtante que glaçante, Agustina Bazterrica nous interroge sur les croyances, les règles et les hiérarchies que ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ISgW0QEACAAJ",
+      "etag": "V32Ewe8AJgg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ISgW0QEACAAJ",
+      "volumeInfo": {
+        "title": "Diecinueve Garras Y Un Pájaro Oscuro / Nineteen Claws and a Black Bird: Stories",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "Alfaguara",
+        "publishedDate": "2025-05-06",
+        "description": "Diecinueve garras y un pájaro oscuro es la reedición revisada y ampliada del volumen de cuentos publicado en 2016 con el título Antes del encuentro feroz. «Tengo un conejo entre las piernas. Es negro. Yo le digo Roberto, pero se podría llamar Ignacio o incluso Carla, pero le digo Roberto porque tiene forma de Roberto. Es lindo porque es peludo y duerme mucho. Le conté a mi amiga Isabel. Le dije: \"Isa, hace poco me creció un conejo entre las piernas. ¿Vos también tenés uno?\".» Con la publicación de Cadáver exquisito (Premio Clarín Novela 2017), Agustina Bazterrica logró dos cosas al mismo tiempo: consagrarse como una de las escritoras argentinas más leídas y respetadas en todo el mundo, y transformar el libro en un clásico instantáneo. Esa distopía acerca de un mundo casi inhumano, que no cesa de cuestionar nuestro modo de vida actual y que dispara toda clase de preguntas acerca de lo contemporáneo, tiene historia. La autora lleva muchos años escribiendo relatos y cuentos breves, que hoy Alfaguara reedita en este volumen. Diecinueve cuentos que nos llevan al corazón de nuestros miedos, de las fantasías más delirantes y oscuras y también del humor más negro. Textos que cuestionan el amor, la amistad, las relaciones familiares y los deseos inconfesables. Una lectura absorbente que confirma un estilo y una profundidad únicos en el panorama de la literatura en castellano. ENGLISH DESCRIPTION A collection of nineteen dark, wildly imaginative short stories from the author of the award-winning TikTok sensation Tender Is the Flesh. From celebrated author Agustina Bazterrica, this collection of nineteen brutal, darkly funny short stories takes into our deepest fears and through our most disturbing fantasies. Through stories about violence, alienation, and dystopia, Bazterrica's vision of the human experience emerges in complex, unexpected ways--often unsettling, sometimes thrilling, and always profound. In \"Roberto,\" a girl claims to have a rabbit between her legs. A woman's neighbor jumps to his death in \"A Light, Swift, and Monstrous Sound,\" and in \"Candy Pink,\" a woman fails to contend with a difficult breakup in five easy steps. Written in Bazterrica's signature clever, vivid style, these stories question love, friendship, family relationships, and unspeakable desires.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798890984197"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ISgW0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ISgW0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ISgW0QEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ISgW0QEACAAJ&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diecinueve_Garras_Y_Un_P%C3%A1jaro_Oscuro_Ni.html?hl=&id=ISgW0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ISgW0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Con la publicaciâon de Cadâaver exquisito (Premio Clarâin Novela2017), Agustina Bazterrica logrâo dos cosas al mismo tiempo: consagrarse como una de las escritoras argentinas mâas leâidas y respetadas en todo el mundo, y transformar ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LOPJDwAAQBAJ",
+      "etag": "pjle1U8sYaw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LOPJDwAAQBAJ",
+      "volumeInfo": {
+        "title": "食人輓歌",
+        "subtitle": "Cadáver exquisito",
+        "authors": [
+          "奧古斯蒂娜．巴斯特里卡（Agustina Bazterrica）"
+        ],
+        "publisher": "小異出版",
+        "publishedDate": "2020-02-01",
+        "description": "拉丁美洲西班牙語創作最高榮譽號角小說獎2017年得主 淡江大學西語系、拉丁美洲研究所教授陳小雀導讀 在這個吃人合法的世界裡， 我要使我的肉吃起來很苦， 不讓任何人享受我的死亡。 這是一個動物被奇特病毒侵襲的世界，一旦吃了被感染的肉，人類也會死亡，無藥可醫。人類安全可靠的動物蛋白質來源只剩下自己的同類。昔日的養殖場、肉品加工廠、鞣革廠、肉鋪中所培育、加工、販賣的，如今都是食用人。 各國政府對人民洗腦，說現在只是過渡期，但這種匪夷所思的生活情境，早就發生許多詭異的效應：人們用「你的肉吃起來味道如何？」來評價彼此；宗教團體號稱自願成為食用人可洗滌自身的罪惡；黑市賣的肉則有名有姓，但貧窮的食腐客並不在意自己吃的是被謀殺身亡的屍體。 食用人到底是不是人？在肉品加工廠工作的馬可仕無法釋懷。但他喜歡去廢棄的動物園，懷念以前看到的動物。沒有動物的世界少了很多聲音與樂趣，跟他的內心一樣孤寂。養殖場的老闆為了跟馬可仕套關係，送了雌性食用人給他。馬可仕沒有把牠賣到屠宰場，反而對牠悉心照料，還漸漸產生感情。馬可仕的違法行徑已經到了無法回頭的地步…… 《食人輓歌》充滿畫面感的文字，將同類相食的殘酷環節忠實呈現，這些惡夢般的故事情節，也能發人深省：當吃人成為生存的唯一希望，人類成為彼此的食物，人性的善惡將面臨怎樣的考驗？ 推薦好評 《食人輓歌》是一部精采的小說，深入探討一個反烏托邦食人社會的陰暗運作機制，全書氛圍凝重且催眠，情節出人意表，語言風格直接赤裸，當今人類的日常生活受規範下所做出的諸多黑暗行為，在本作中了然於目。——2017年號角小說獎（Premio Clarín de Novela）講評 從第一行文字起讀者便宛如書中人物，陷入凝重且催眠的氛圍中。——西班牙作家胡安．荷西．米雅斯（Juan José Millas） 內容扎實，令人不寒而慄，結局出人意表。這是一則關於我們所處的食人社會的寓言，情節出乎意料、安排縝密，風格如刀刃般銳利。——阿根廷記者、作家赫黑．費南德斯．迪亞斯（Jorge Fernández Díaz） 《食人輓歌》文字風格直接赤裸，深入探討一個反烏托邦食人社會的陰暗運作機制，書中營照的畫面既噁心且迷人，接二連三襲來，不時令人想起法蘭西斯．培根（Francis Bacon）和卡洛斯．阿隆索（Carlos Alonso）富有暴力色彩的畫作。小說透過當今人類的日常生活受規範下所做出的諸多黑暗行為，營造出一股威脅感，將讀者層層包圍。——阿根廷小說家、詩人貝德羅．馬依拉爾（Pedro Mairal） 《食人輓歌》所營造的反烏托邦社會與當今人類社會並沒有太大的不同，唯一的差別在於動物的肉已禁止食用，食用人肉通過合法化，禁忌顯得稀鬆平常，被社會接受的觀念反倒扭曲變形。——阿根廷號角報（Clarín）",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789869763028"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9869763022"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LOPJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LOPJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "zh-CN",
+        "previewLink": "http://books.google.com.br/books?id=LOPJDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LOPJDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LOPJDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 66.67,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 66.67,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LOPJDwAAQBAJ&rdid=book-LOPJDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 66670000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 66670000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/%E9%A3%9F%E4%BA%BA%E8%BC%93%E6%AD%8C-sample-epub.acsm?id=LOPJDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/%E9%A3%9F%E4%BA%BA%E8%BC%93%E6%AD%8C-sample-pdf.acsm?id=LOPJDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LOPJDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "拉丁美洲西班牙語創作最高榮譽號角小說獎2017年得主 淡江大學西語系、拉丁美洲研究所教授陳小雀導讀 在這個吃人合法的世界裡， 我要使我的肉吃起來很苦， ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SyyhEQAAQBAJ",
+      "etag": "U2hrQujZg0Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SyyhEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Literatura o muerte",
+        "authors": [
+          "Agustina Bazterrica"
+        ],
+        "publisher": "Ediciones Godot",
+        "publishedDate": "2025-10-10",
+        "description": "Bazterrica despliega su ética del trabajo literario; una poética del rigor y la cadencia, del detalle y el vértigo, donde cada palabra importa y cada silencio pesa. Este no es un libro sobre escribir. Es el registro del deseo y el dolor de quien, página a página, se deja devorar por la literatura para poder, apenas, seguir viva. La autora imagina con el cuerpo, corrige con los huesos, respira a través de letras y pule cada oración como si en ello se jugara la vida. Cada frase late, punza, arde. Leer para escribir, escribir para vivir. Y sobrevivir, inevitablemente, a través de la literatura.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786316689429"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "631668942X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SyyhEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SyyhEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=SyyhEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Agustina+Bazterrica%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SyyhEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SyyhEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 57.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 57.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SyyhEQAAQBAJ&rdid=book-SyyhEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 57900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 57900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Literatura_o_muerte-sample-epub.acsm?id=SyyhEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Literatura_o_muerte-sample-pdf.acsm?id=SyyhEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SyyhEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bazterrica despliega su ética del trabajo literario; una poética del rigor y la cadencia, del detalle y el vértigo, donde cada palabra importa y cada silencio pesa."
+      }
+    }
+  ]
+}

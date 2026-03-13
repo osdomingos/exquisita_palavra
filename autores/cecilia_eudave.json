@@ -1,0 +1,1879 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "W1qmEAAAQBAJ",
+      "etag": "Kv7gciec8lA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W1qmEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Universos breves: antologia do microconto de língua espanhola",
+        "authors": [
+          "Esther Andradi",
+          "Jorge Ávalos",
+          "Alberto Barrera Tyszka",
+          "Pía Barros",
+          "Bibiana Bernal",
+          "Raúl Brasca",
+          "Guillermo Bustamante Zamudio",
+          "Homero Carvalho Oliva",
+          "Rafael Courtoisie",
+          "Lilian Elphick",
+          "Lorena Escudero Sánchez",
+          "Patricia Esteban Erlés",
+          "Cecilia Eudave",
+          "Henry Ficher",
+          "Marco Flecha Torres",
+          "Miguel Gomes",
+          "Ibeth Guzmán",
+          "Rafael Ángel Herra",
+          "Fernando Iwasaki",
+          "Enrique Jaramillo Levi",
+          "Isabel Mellado",
+          "José María Merino",
+          "Augustín Monsreal",
+          "Diego Muñoz Valenzuela",
+          "Andrés Neuman",
+          "Julia Otxoa",
+          "Kras Quintana",
+          "Ednodio Quintero",
+          "Solange Rodríguez Pappe",
+          "Nana Rodríguez Romero",
+          "Alberto Sánchez Argüello",
+          "Rolando Sánchez Mejías",
+          "Ana María Shua",
+          "Ricardo Sumalavia",
+          "Aida Elizabeth Toledo",
+          "Luisa Valenzuela",
+          "Ana Lydia Vega",
+          "Laura Elisa Vizcaíno",
+          "José Zeleya"
+        ],
+        "publisher": "Editora Cobogó",
+        "publishedDate": "2023-01-06",
+        "description": "Marcado pela liberdade e a inventividade, o microconto é um gênero que coloca a literatura no fio da navalha. Assim como na poesia, em que a profundidade é construída pela escassez, nestas breves narrativas cada palavra vale seu peso em ouro – e o silêncio muitas vezes é o que mais revela. Organizado por Francisca Noguerol, da Universidade de Salamanca, na Espanha, Universos breves, publicado pela Editora Cobogó em parceria com o Instituto Cervantes, é uma antologia que reúne 39 expoentes contemporâneos do microconto em língua espanhola. São autoras e autores de 21 países (Argentina, Bolívia, Chile, Colômbia, Costa Rica, Cuba, Equador, El Salvador, Espanha, Estados Unidos, Guatemala, Honduras, México, Nicarágua, Panamá, Paraguai, Peru, Porto Rico, República Dominicana, Uruguai e Venezuela) e de diferentes gerações, desde os consagrados Luisa Valenzuela e Rafael Ángel Herra ao jovem José Zelaya. Enquanto alguns dialogam diretamente com as tensões dos tempos atuais, outros apostam nos mundos incomuns, nos jogos linguísticos e na reflexão filosófica. Todos, no entanto, enfatizam a vitalidade e a força narrativa dos microcontos, apresentando, em poucas linhas, epifanias inesgotáveis. Para Francisca Noguerol, o espírito desses universos breves cabe em algumas lúdicas e curtas linhas — como não poderia deixar de ser: abc do microconto Acrobático, bem-humorado, certeiro, desinibido, elegante, flexível, genial, hipnótico, impactante, jubiloso, kantiano, lúcido, musical, notável, oblíquo, potente, quixotesco, rápido, sóbrio, terno, único, veloz, wonderful, xilofônico, yin-yang, zeloso. O livro reúne microcontos das autoras e autores: Esther Andradi; Jorge Ávalos; Alberto Barrera Tyszka; Pía Barros; Bibiana Bernal; Raúl Brasca; Guillermo Bustamante Zamudio; Homero Carvalho Oliva; Rafael Courtoisie; Lilian Elphick; Lorena Escudero Sánchez; Patricia Esteban Erlés; Cecilia Eudave; Henry Ficher; Marco Flecha Torres; Miguel Gomes; Ibeth Guzmán; Rafael Ángel Herra; Fernando Iwasaki; Enrique Jaramillo Levi; Isabel Mellado; José María Merino; Augustín Monsreal; Diego Muñoz Valenzuela; Andrés Neuman; Julia Otxoa; Kras Quintana; Ednodio Quintero; Solange Rodríguez Pappe; Nana Rodríguez Romero; Alberto Sánchez Argüello; Rolando Sánchez Mejías; Ana María Shua; Ricardo Sumalavia; Aida Elizabeth Toledo; Luisa Valenzuela; Ana Lydia Vega; Laura Elisa Vizcaíno; José Zeleya",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786556910949"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6556910945"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 197,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W1qmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W1qmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=W1qmEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=W1qmEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=W1qmEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 58.14,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 58.14,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=W1qmEAAAQBAJ&rdid=book-W1qmEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 58140000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 58140000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Universos_breves_antologia_do_microconto-sample-epub.acsm?id=W1qmEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Universos_breves_antologia_do_microconto-sample-pdf.acsm?id=W1qmEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W1qmEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "O livro reúne microcontos das autoras e autores: Esther Andradi; Jorge Ávalos; Alberto Barrera Tyszka; Pía Barros; Bibiana Bernal; Raúl Brasca; Guillermo Bustamante Zamudio; Homero Carvalho Oliva; Rafael Courtoisie; Lilian Elphick; ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6I1dEAAAQBAJ",
+      "etag": "fUWYPkMhWCY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6I1dEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Al final del miedo",
+        "authors": [
+          "Cecilia Eudave"
+        ],
+        "publisher": "Editorial Páginas de Espuma",
+        "publishedDate": "2021-02-03",
+        "description": "Con su narrativa inusual, Cecilia Eudave nos inquieta y perturba al tiempo que nos ubica, con estas historias llenas de extrañeza, en el umbral, en esa delgada línea que separa lo real de lo insólito. ¿Qué tienen en común un fotógrafo abordado por una joven diminuta en su computadora, una mujer que ha olvidado a las personas de su vida, un hombre anodino en busca de una historia extraordinaria, unos amigos que buscan un bar siniestro, un policía desesperado por resolver un brutal asesinato, unos mellizos acosados por una presencia escurridiza, un matrimonio que por accidente golpea un bulto con apariencia semihumana y un contador público que, con el fin de ligarse a una chica, se apropia de una profecía ancestral para explicar la aparición de los agujeros oscuros y profundos diseminados por la ciudad, por el planeta? El lector decidirá, tras la lectura de este libro, de qué lado de la balanza quiere situarse y llegar como un personaje más al final de sus miedos. \"Su escritura es irreverente, audaz, singular, y tiene la capacidad de llevarnos siempre a los sutiles límites que existen entre lo insólito y lo real\", Margo Glantz \"Una voz que sabe contar desde la ternura, el humor y el asombro el absurdo maravilloso que es estar vivos\", Patricia Esteban Erlés \"Una peculiar mirada expresionista de lo cotidiano, diferente del realismo habitual, con precisión y sin que falten el humor ni la sugestión poética\", José María Merino \"Una genuina mezcla de imaginación, inteligencia, humor y crítica social que ha venido a renovar las narrativas de lo insólito\", Teresa López-Pellisa",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788483936696"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8483936690"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6I1dEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6I1dEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=6I1dEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6I1dEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6I1dEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6I1dEAAAQBAJ&rdid=book-6I1dEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6I1dEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con su narrativa inusual, Cecilia Eudave nos inquieta y perturba al tiempo que nos ubica, con estas historias llenas de extrañeza, en el umbral, en esa delgada línea que separa lo real de lo insólito. ¿Qué tienen en común un ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JWi5EAAAQBAJ",
+      "etag": "dyA5vVkWF9A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JWi5EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Para viajeros improbables (versión Reloaded)",
+        "authors": [
+          "Cecilia Eudave"
+        ],
+        "publisher": "UNAM, Dirección General de Publicaciones y Fomento Editorial",
+        "publishedDate": "2023-04-12",
+        "description": "Paisajes desconocidos donde habitan sirenas mudas o llenas de mercurio, centauros sicalípticos que trabajan en carruseles de ferias, dragones que se aparecen en conferencias. Inquietantes, acompañados de humor y fabulación construida con agudeza, los 39 microrrelatos reunidos en este volumen nos muestran ángulos nuevos de personajes fantásticos y mitológicos que creíamos conocidos y que se transforman ante nuestra mirada: momias, vampiros y otras criaturas reconocibles adquieren giros y dimensiones inesperados; incluso somos testigos de una conversación única entre Frankenstein y su creación o de cómo Medusa permite que conozcamos su \"historia no oficial\". Un universo literario poblado de referencias a la literatura clásica, donde encontramos una renovación de los tópicos de la escritura dedicada a lo anómalo. En este mapa trazado por Cecilia Eudave transitamos por geografías edificadas desde y para un viaje con muchos retornos, territorios que nos invita a explorar en breves líneas, pero que nos despliegan el campo vasto de la imaginación.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073062749"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6073062745"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 109,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JWi5EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JWi5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=JWi5EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JWi5EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JWi5EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=JWi5EAAAQBAJ&rdid=book-JWi5EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Para_viajeros_improbables_versi%C3%B3n_Reloa-sample-epub.acsm?id=JWi5EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Para_viajeros_improbables_versi%C3%B3n_Reloa-sample-pdf.acsm?id=JWi5EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JWi5EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En este mapa trazado por Cecilia Eudave transitamos por geografías edificadas desde y para un viaje con muchos retornos, territorios que nos invita a explorar en breves líneas, pero que nos despliegan el campo vasto de la imaginación."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qCDmAAAAMAAJ",
+      "etag": "/iWSsiCLQag",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qCDmAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Registro de imposibles",
+        "authors": [
+          "Cecilia Eudave"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173006592370"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qCDmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qCDmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=qCDmAAAAMAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=qCDmAAAAMAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Registro_de_imposibles.html?hl=&id=qCDmAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qCDmAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0cc1EQAAQBAJ",
+      "etag": "35x7MeVcY0w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0cc1EQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Summer of the Serpent",
+        "authors": [
+          "Cecilia Eudave"
+        ],
+        "publisher": "Soho Press Inc",
+        "publishedDate": "2026-06-30",
+        "description": "A kaleidoscopic descent into the small violences and hidden horrors of a sweltering Guadalajara summer Guadalajara, Mexico, 1977. In a quiet residential neighborhood, children witness things they can never forget: a serpent girl weeping in a carnival glass box, a neighbor who dangles his dog from a tree, and a ghost who returns night after night, desperate to tell its story. Meanwhile, the grown-ups drift through the season half-oblivious, their spirits eroding as the relentless summer wears on. Told in colliding voices—children and adults, ghosts and the haunted, the living and the almost-invisible—The Summer of the Serpent is a prismatic portrait of the past, where memory is shot through with myth. Each narrator offers a fragment of the truth, until the stories twist together into a shape as elusive and mesmerizing as the boa constrictor that winds its way through the neighborhood. Strange yet deeply human, this brilliantly fragmented novel captures the moment when childhood innocence begins to corrode—and how those memories can coil through a lifetime.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781641295826"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1641295821"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0cc1EQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0cc1EQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=0cc1EQAAQBAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=0cc1EQAAQBAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Summer_of_the_Serpent.html?hl=&id=0cc1EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0cc1EQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Strange yet deeply human, this brilliantly fragmented novel captures the moment when childhood innocence begins to corrode—and how those memories can coil through a lifetime."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UjZYEAAAQBAJ",
+      "etag": "lu2rKU83adQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UjZYEAAAQBAJ",
+      "volumeInfo": {
+        "title": "El verano de la serpiente",
+        "authors": [
+          "Cecilia Eudave"
+        ],
+        "publisher": "ALFAGUARA",
+        "publishedDate": "2022-01-20",
+        "description": "«No sé qué hicimos para merecernos una fantasma. Cada uno de nosotros ha reflexionado, no pocas veces, cómo la adquirimos, por qué se pegó a esta familia y nos siguió a todas partes. Fue agotador. Al principio no entendíamos muy bien su naturaleza, porque no siempre estuvo con nosotros y porque no somos expertos en fantasmas.» El verano de la serpiente es una historia magistralmente narrada desde perspectivas distintas que van confeccionando y perfilando a cada uno de los personajes. En sus páginas, asistimos al momento decisivo en la vida de una familia, durante el verano de 1977, que se desliza inquietante, develando los secretos que cada uno de ellos guarda. En una feria ambulante, Maricarmen, la hermana mayor, pedirá conocer su futuro a una muchacha serpiente: la respuesta de esta será críptica y, por lo mismo, aterradora. A partir de ahí, sus vidas, y de quienes los rodean, irán zigzagueando entre una boa real que acecha el vecindario y una mujer fantasmal. Una novela que danza entre la alegoría y la realidad, en la que Eudave nos lleva de la mano por la imaginación o las certezas de dos niñas que empiezan a descubrir el mundo, y se acercan a un momento decisivo y desconcertante que las llevará a cruzar el umbral de la infancia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073802741"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6073802749"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 85,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UjZYEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UjZYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=UjZYEAAAQBAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=UjZYEAAAQBAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_verano_de_la_serpiente.html?hl=&id=UjZYEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UjZYEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Al principio no entendíamos muy bien su naturaleza, porque no siempre estuvo con nosotros y porque no somos expertos en fantasmas.» El verano de la serpiente es una historia magistralmente narrada desde perspectivas distintas que van ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0yDmAAAAMAAJ",
+      "etag": "m1ZpEK1bPeU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0yDmAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Técnicamente humanos",
+        "authors": [
+          "Cecilia Eudave"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173003059117"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0yDmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0yDmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=0yDmAAAAMAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=0yDmAAAAMAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/T%C3%A9cnicamente_humanos.html?hl=&id=0yDmAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0yDmAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N9mT4_RtH0EC",
+      "etag": "gQHRUrYykgQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N9mT4_RtH0EC",
+      "volumeInfo": {
+        "title": "Las batallas desiertas del pensamiento del 68",
+        "subtitle": "un acercamiento analítico a Ciudades Desiertas, de José Agustín",
+        "authors": [
+          "Cecilia Eudave"
+        ],
+        "publisher": "UDG",
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789702711414"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "970271141X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N9mT4_RtH0EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N9mT4_RtH0EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=N9mT4_RtH0EC&printsec=frontcover&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=N9mT4_RtH0EC&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_batallas_desiertas_del_pensamiento_d.html?hl=&id=N9mT4_RtH0EC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_batallas_desiertas_del_pensamiento_d-sample-pdf.acsm?id=N9mT4_RtH0EC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N9mT4_RtH0EC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aMqIDwAAQBAJ",
+      "etag": "/8h8M9/rBmI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aMqIDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Así se acaba el mundo",
+        "subtitle": "Cuentos mexicanos apocalípticos",
+        "authors": [
+          "Alejandro Badillo",
+          "Carlos Bustos",
+          "Miguel Cane",
+          "Libia Brenda Castro",
+          "Raquel Castro",
+          "Alberto Chimal",
+          "Gabriela Damián Miravete",
+          "Alejandro Espinoza",
+          "Cecilia Eudave",
+          "Agustín Fest",
+          "Rodolfo JM",
+          "Óscar Alejandro Luviano",
+          "Omegar Martínez",
+          "Erika Mergruen",
+          "Isaí Moreno",
+          "Sofía Ramírez",
+          "Arturo Vallejo"
+        ],
+        "publisher": "Ediciones SM",
+        "publishedDate": "2016-12-21",
+        "description": "El mundo no se acaba del mismo modo para todos. En este libro se presentan 19 versiones del anuncio milenarista que se cumplirá, o no, un día de diciembre de 2012... o cualquier otro. Estas historias abarcan un amplio registro, desde la fantasía hasta el realismo crudo, de la historia íntima a la histeria colectiva, del sentido del humor hilarante a la revelación trágica, de la ruptura amorosa a robots asesinos y fantasmas. Los personajes deciden cómo vivir el día final, y sus elecciones pasan por cantar en un avión rolas ochenteras o jugar el último nivel de un videojuego. Otros, claro, no deciden nada, pero el Fin los alcanza de todas maneras.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786072424302"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6072424309"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 203,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=aMqIDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aMqIDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aMqIDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aMqIDwAAQBAJ&rdid=book-aMqIDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As%C3%AD_se_acaba_el_mundo-sample-epub.acsm?id=aMqIDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As%C3%AD_se_acaba_el_mundo-sample-pdf.acsm?id=aMqIDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aMqIDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El mundo no se acaba del mismo modo para todos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ef20EQAAQBAJ",
+      "etag": "Nta3WLVsLic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ef20EQAAQBAJ",
+      "volumeInfo": {
+        "title": "10 años. Premio de Literatura Ciudad y Naturaleza José Emilio Pacheco",
+        "authors": [
+          "Karla Alejandrina Planter Pérez",
+          "José Trinidad Padilla López",
+          "Marisol Schulz Manaut",
+          "Eduardo Santana Castellón",
+          "Laura Emilia Pacheco Romo",
+          "Raúl Padilla López",
+          "Cristina Romo Hernández",
+          "José Emilio Pacheco Berny",
+          "Jorge Gutiérrez Reyna",
+          "León Plascencia Ñol",
+          "Brenda Sol Becette",
+          "Santiago Acosta",
+          "Claudia Cabrera Espinosa",
+          "Marco Antonio Rodríguez Murillo",
+          "Carlos Oswaldo Hernández Trujillo",
+          "George Alexander Portillo Galán",
+          "Jorge Alejandro von Düben Padilla",
+          "Valeria Elizabeth Guzmán Pérez",
+          "Francisco López Serrano",
+          "Coral Bracho Carpizo",
+          "Hernán Bravo Varela",
+          "Silvia Eugenia Castillero Manzano",
+          "Ana García Bergua",
+          "Eduardo Antonio Parra Caballero",
+          "Mónica Lavín Maroto",
+          "José María Espinasa Ylades",
+          "Bernardo Esteban Esquinca Azcarate",
+          "Irma Cecilia Eudave Robles",
+          "Karen Villeda Álvarez",
+          "Miriam Estela Moscona Yosifova",
+          "Liliana Valderrama Blum",
+          "Octavio Escobar Giraldo",
+          "Socorro Venegas Pérez",
+          "Carmen Villoro Ruiz",
+          "Jorge Edmundo Esquinca Azcarate",
+          "Rogelio Guedea Noriega"
+        ],
+        "publisher": "Editorial Universidad de Guadalajara",
+        "publishedDate": "2026-01-20",
+        "description": "Desde sus inicios, el premio Ciudad y Naturaleza José Emilio Pacheco se ha caracterizado por dar voz a aquellas muestras de la naturaleza que, aunque muchas veces desplazadas por la mancha urbana, ponen en evidencia cómo los ecosistemas resisten y se manifiestan de forma inesperada aún en medio de la ciudad más asfaltada. La presente edición conmemora el décimo aniversario de este galardón reuniendo la pluma de aquellos que han recibido este reconocimiento, quienes no solo reafirman su apuesta por la literatura para reimaginar y sentir el espacio urbano, sino que renuevan su compromiso para promover la relación sostenible entre ciudad y naturaleza a través de la creatividad y la reflexión del entorno.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786075817194"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6075817190"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ef20EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ef20EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=Ef20EQAAQBAJ&printsec=frontcover&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ef20EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ef20EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Ef20EQAAQBAJ&rdid=book-Ef20EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/10_a%C3%B1os_Premio_de_Literatura_Ciudad_y_N-sample-epub.acsm?id=Ef20EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/10_a%C3%B1os_Premio_de_Literatura_Ciudad_y_N-sample-pdf.acsm?id=Ef20EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ef20EQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Desde sus inicios, el premio Ciudad y Naturaleza José Emilio Pacheco se ha caracterizado por dar voz a aquellas muestras de la naturaleza que, aunque muchas veces desplazadas por la mancha urbana, ponen en evidencia cómo los ecosistemas ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EMqIDwAAQBAJ",
+      "etag": "/yIoSk4NZcc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EMqIDwAAQBAJ",
+      "volumeInfo": {
+        "title": "La tienda de los sueños",
+        "subtitle": "Un siglo de cuento fantástico mexicano",
+        "authors": [
+          "Alberto Chimal",
+          "Amado Nervo",
+          "Elena Garro",
+          "Leonora Carrington",
+          "Juan José Arreola",
+          "Guadalupe Dueñas",
+          "Amparo Dávila",
+          "Inés Arredondo",
+          "José Emilio Pacheco",
+          "Agustín Monsreal",
+          "Guillermo Samperio",
+          "Álvaro Uribe",
+          "Verónica Murguía",
+          "Norma Lazo",
+          "Cecilia Eudave",
+          "Ignacio Padilla",
+          "Fernando de León",
+          "Bernardo Esquinca",
+          "Magali Velasco",
+          "Iliana Vargas",
+          "Édgar Omar Avilés"
+        ],
+        "publisher": "Ediciones SM",
+        "publishedDate": "2016-02-15",
+        "description": "La literatura vuelve realidad todo. Y así lo ha demostrado una innumerable cantidad de autores desde hace cientos de años. Aquí no encontrarás elfos, dragones ni niños magos con lentes y varitas, sino que te enfrentarás a encuentros con el Diablo, desapariciones inexplicables, personas duplicadas, saltos en el tiempo, criaturas informes que van a estrujarte el cerebro en tu intento por comprenderlas... ¿Qué es lo fantástico? Aquello inexplicable, la presencia de lo raro, eso que o logramos entender... lo imposible que se hace posible gracias a la literatura.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786072418097"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6072418090"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=EMqIDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EMqIDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EMqIDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EMqIDwAAQBAJ&rdid=book-EMqIDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_tienda_de_los_sue%C3%B1os-sample-epub.acsm?id=EMqIDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_tienda_de_los_sue%C3%B1os-sample-pdf.acsm?id=EMqIDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EMqIDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Aquello inexplicable, la presencia de lo raro, eso que o logramos entender... lo imposible que se hace posible gracias a la literatura."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f99RwAEACAAJ",
+      "etag": "KKdn66xG8Ms",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f99RwAEACAAJ",
+      "volumeInfo": {
+        "title": "Bestiaria vida",
+        "authors": [
+          "Cecilia Eudave"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8417315292"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788417315290"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=f99RwAEACAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=f99RwAEACAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bestiaria_vida.html?hl=&id=f99RwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f99RwAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2wunDwAAQBAJ",
+      "etag": "prO7/fm+XxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2wunDwAAQBAJ",
+      "volumeInfo": {
+        "title": "El canto de la salamandra",
+        "subtitle": "Antología de la literatura brevísima mexicana",
+        "authors": [
+          "Rogelio Guedea",
+          "Genaro Estrada",
+          "Mariano Silva y Aceves",
+          "Carlos Díaz Dufoo (hijo)",
+          "Alfonso Reyes",
+          "Julio Torri",
+          "Max Aub",
+          "Nelly Campobello",
+          "Francisco Tario",
+          "Juan José Arreola",
+          "Augusto Monterroso",
+          "Otto-Raúl González",
+          "Salvador Elizondo",
+          "René Avilés Fabila",
+          "Felipe Garrido",
+          "Guillermo Samperio",
+          "Óscar de la Borbolla",
+          "Mónica Lavín",
+          "Marcíal Fernández",
+          "Jaime Muñoz Vargas",
+          "Cecilia Eudave",
+          "Alberto Chimal",
+          "Édgar Omar Avilés",
+          "Hugo López Araiza Bravo"
+        ],
+        "publisher": "Arlequín",
+        "publishedDate": "2017-10-19",
+        "description": "La literatura brevísima es un animal elástico y anfibio que cambia de hábitat a la menor provocación: de ahí su capacidad de rozar otros géneros (cuento, poesía, ensayo, aforismo) de manera inverosímil (como la salamandra y sus metamorfosis) y construir una sinfonía en corto que no deja de sonar y asombrar a cada lectura. Siguiendo esta descripción, y bajo la premisa de Baltasar Gracián, \"lo bueno, si breve...\", Rogelio Guedea antologa a escritores mexicanos de comienzos del siglo XX hasta las voces actuales que ejercitan el género con plena conciencia. El censo de autores abarca desde los canónicos nombres de Dufoo, Reyes, Arreola, Tario, Monterroso, o contemporáneos como Alberto Chimal, Cecilia Eudave, Édgar Omar Avilés, entre otros. Su método para decantar esa enorme producción de brevedades es la selección minuciosa de una decena de textos por autor.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786079046811"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6079046814"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 143,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2wunDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2wunDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=2wunDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2wunDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2wunDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 27.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2wunDwAAQBAJ&rdid=book-2wunDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 27900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_canto_de_la_salamandra-sample-epub.acsm?id=2wunDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_canto_de_la_salamandra-sample-pdf.acsm?id=2wunDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2wunDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Siguiendo esta descripción, y bajo la premisa de Baltasar Gracián, &quot;lo bueno, si breve...&quot;, Rogelio Guedea antologa a escritores mexicanos de comienzos del siglo XX hasta las voces actuales que ejercitan el género con plena conciencia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KOcnN6tTT4QC",
+      "etag": "pVTQXJa9Yzk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KOcnN6tTT4QC",
+      "volumeInfo": {
+        "title": "De vuelta a Verne en 13 viajes ilustrados",
+        "authors": [
+          "Irma Cecilia Eudave Robles"
+        ],
+        "publisher": "Mendoza Publishing Group, I",
+        "publishedDate": "2020-12-16",
+        "description": "An homage to Jules Verne, these 13 graphic novel stories are voyages through uncharted waters and undiscovered lands. The arresting illustrations, graphics, and designs of each story are a portal to a different world. Un homenaje a Jules Verne, estos 13 cuentos ilustrados son una travesía por regiones desconocidas. Las ilustraciones, gráficas y el diseño de cada cuento abre una nueva puerta hacia un mundo inesperado.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780978854904"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "097885490X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KOcnN6tTT4QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KOcnN6tTT4QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=KOcnN6tTT4QC&printsec=frontcover&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=KOcnN6tTT4QC&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_vuelta_a_Verne_en_13_viajes_ilustrado.html?hl=&id=KOcnN6tTT4QC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/De_vuelta_a_Verne_en_13_viajes_ilustrado-sample-pdf.acsm?id=KOcnN6tTT4QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KOcnN6tTT4QC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An homage to Jules Verne, these 13 graphic novel stories are voyages through uncharted waters and undiscovered lands."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RA9EDwAAQBAJ",
+      "etag": "caaQzeF8hbk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RA9EDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Sombras. Cuentos de extraña imaginación",
+        "subtitle": "Cuentos de extraña imaginación",
+        "authors": [
+          "Andrés Acosta",
+          " Raquel  Castro",
+          " Karen  Chacek",
+          " Alberto  Chimal",
+          " Cecilia  Eudave",
+          " Rodolfo  JM.",
+          " Erika Mergruen",
+          " Jaime Alfonso Sandoval",
+          " José Luis Zárate"
+        ],
+        "publisher": "Ediciones Castillo",
+        "publishedDate": "2015-01-01",
+        "description": "Este libro contiene los torcidos frutos de nueve fértiles imaginaciones, nueve correrías por regiones de luminosas vidas cotidianas que han sido invadidas por la oscuridad. Si te aventuras a internarte en sus páginas en compañía de José Luis Zárate, Karen Chacek, Raquel Castro, Rodolfo JM, Erika Mergruen, Andrés Acosta, Cecilia Eudave, Alberto Chimal y Jaime Alfonso Sandoval, es muy probable que halles tus miedos menos explorados, tus más tétricas quimeras, que no salgas a salvo de ellas. No es un reto, es una invitación… Criaturas que navegan a través del ancho río que marca la frontera entre lo tangible y lo imaginario; transitan de ida y vuelta entre las explicaciones de la ciencia y lo inexplicable; levitan sobre el abismo que divide lo real de lo inconcebible.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786076219492"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6076219491"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RA9EDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RA9EDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=RA9EDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RA9EDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RA9EDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 49.49,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 49.49,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RA9EDwAAQBAJ&rdid=book-RA9EDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49490000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 49490000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Sombras_Cuentos_de_extra%C3%B1a_imaginaci%C3%B3n-sample-epub.acsm?id=RA9EDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Sombras_Cuentos_de_extra%C3%B1a_imaginaci%C3%B3n-sample-pdf.acsm?id=RA9EDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RA9EDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Si te aventuras a internarte en sus páginas en compañía de José Luis Zárate, Karen Chacek, Raquel Castro, Rodolfo JM, Erika Mergruen, Andrés Acosta, Cecilia Eudave, Alberto Chimal y Jaime Alfonso Sandoval, es muy probable que halles ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RtGcMwEACAAJ",
+      "etag": "lF5FKcZL5Cw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RtGcMwEACAAJ",
+      "volumeInfo": {
+        "title": "Para viajeros improbables",
+        "authors": [
+          "Cecilia Eudave"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6079046253"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786079046255"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 78,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=RtGcMwEACAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=RtGcMwEACAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Para_viajeros_improbables.html?hl=&id=RtGcMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RtGcMwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RkWwNAEACAAJ",
+      "etag": "IgJK8xnT7BQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RkWwNAEACAAJ",
+      "volumeInfo": {
+        "title": "Papá Oso",
+        "authors": [
+          "Cecilia Eudave",
+          "Jacobo Muñiz"
+        ],
+        "publisher": "Buen Paso",
+        "publishedDate": "2015-03-15",
+        "description": "\"Ana es una niña que lleva una vida normal hasta el día en el que su papá cambia de trabajo y empieza a portarse como un oso. La madre de Ana le explica que es todo culpa del señor Estrés. Ana decidirá entonces encontrar al señor Estrés para pedirle que deje en paz a su padre. Siguiendo endo los pasos de esta chica que, al escuchar los gruñidos que salen de la boca de su padre se pregunta qué le pasó al hombre al que le encantaba ayudarla a descubrir el mundo y que ahora apenas le habla, el lector conocerá el más espantoso monstruo de nuestros tiempos: el estrés\" --",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8493721158"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788493721152"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": [
+          "Family problems"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RkWwNAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RkWwNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=RkWwNAEACAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=RkWwNAEACAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pap%C3%A1_Oso.html?hl=&id=RkWwNAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RkWwNAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ana es una niña que lleva una vida normal hasta el día en el que su papá cambia de trabajo y empieza a portarse como un oso."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qRt8zwEACAAJ",
+      "etag": "ojXqw9rjzq0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qRt8zwEACAAJ",
+      "volumeInfo": {
+        "title": "Para viajeros improbables",
+        "subtitle": "(versión reloadad)",
+        "authors": [
+          "Cecilia Eudave"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6073045301"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073045308"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=qRt8zwEACAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=qRt8zwEACAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Para_viajeros_improbables.html?hl=&id=qRt8zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qRt8zwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pk4bEAAAQBAJ",
+      "etag": "SVshJUe/TH4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pk4bEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Jergario tapatío ilustrado",
+        "authors": [
+          "Rogelio Villarreal",
+          "Sayri Karp",
+          "Josel Josel",
+          "Abril Posas",
+          "Alejandra Huerta",
+          "Alicia Caldera",
+          "Álvaro Abitia",
+          "Ana Guerrerosantos",
+          "Ángel Ortuño",
+          "Angélica Íñiguez",
+          "Arlette Solano",
+          "Brenda Sánchez Núñez",
+          "Xel-Ha López",
+          "Carlos Enrique Orozco",
+          "Patricia Landino",
+          "Carmina Nahuatlato Frías",
+          "Carolina Aranda",
+          "Celia del Palacio",
+          "Cristian Zermeño",
+          "David Izazaga",
+          "Diana Solórzano",
+          "Édgar Velasco",
+          "Eduardo Castañeda H.",
+          "Eduardo Quijano",
+          "Elba Castro",
+          "Enrique Blanc",
+          "Eugenia Coppel",
+          "Eugenio Partida",
+          "Federico Fabregat Vidrio",
+          "Fernando Hernández Becerra",
+          "Fernando Rodríguez Ureña",
+          "Frank Lozano",
+          "Pancho Madrigal",
+          "Francisco Vázquez",
+          "Javier Reyes Ruiz",
+          "Gabriel Orozco",
+          "Gabriel Trujillo",
+          "Gerardo Lammers",
+          "Gilberto Domínguez",
+          "Godofredo Olivares",
+          "Cecilia Eudave",
+          "Iván González Vega",
+          "Antonio Martz",
+          "Joaquín Peón Íñiguez",
+          "Jorge Souza Jauffred",
+          "Jorge Fábregas",
+          "José Alonso Torres",
+          "Andrés Haro",
+          "Toñimex Toñimex",
+          "Bernardo Masini",
+          "Gabriel Zarzoza",
+          "José Israel Carranza",
+          "Manuel Fons",
+          "José Miguel Tomasena",
+          "Rodolfo García Mateos",
+          "Juan Alberto Vázquez",
+          "Juan Carlos Núñez",
+          "Juan Felipe Cobián",
+          "Pancho Rodríguez",
+          "Juan Vázquez Gama",
+          "Juan Nepote",
+          "León Plascencia Ñol",
+          "Lilián Bañuelos",
+          "Lorena Peña Brito",
+          "Luis Felipe Lomelí",
+          "Luis G. Abbadie",
+          "Luis González de Alba",
+          "Marco Islas-Espinosa",
+          "Marco Aurelio Larios",
+          "Alicia Peredo Merlo",
+          "Dolores Garnica",
+          "Yolanda Zamora",
+          "Mariana Quirarte",
+          "Mariana Recamier",
+          "Emely Sanchez",
+          "Martín Mora",
+          "Miguel Ángel Navarro",
+          "Mónica del Arena",
+          "Mónica Nepote",
+          "Naomi Seydel Zaragoza Flores",
+          "Nayeli Zaragoza",
+          "Olga Villegas",
+          "René González",
+          "Patricia Mignani",
+          "Pedro Goche",
+          "Perla Araleci Blas Alvarado",
+          "Priscilla Carrillo Gutiérrez",
+          "Raúl Acéves",
+          "Rebeca Pérez Vega",
+          "Ricardo Sigala",
+          "Salvador Camarena",
+          "Santiago Baeza",
+          "Sergio René de Dios Corona",
+          "Silvia Eugenia Castillero",
+          "Susana Alejandrina del Real Ponce",
+          "Teresa Sánchez",
+          "Ulises Corona Samayoa",
+          "Vanessa García Leyva",
+          "Verónica González",
+          "Verónica de Santos",
+          "Verónica López",
+          "Wendy Selene Pérez",
+          "Xitlálitl Rodríguez Mendoza",
+          "Xóchitl Ramírez",
+          "Alejandra Barba",
+          "Cecilia Rébora",
+          "Chop Suey",
+          "Gretel Gretel",
+          "Arturo Carloz",
+          "Yazz Casillas",
+          "Amable Desconocida",
+          "Erandini Erandini",
+          "Quirarte Quirarte",
+          "Oldemar Oldemar",
+          "Gibrán Julián",
+          "El Jay Jay",
+          "Cox Cox",
+          "Jors Jors",
+          "Jabaz Jabaz",
+          "Mack Mack"
+        ],
+        "publisher": "Editorial Universidad de Guadalajara",
+        "publishedDate": "2020-10-21",
+        "description": "Ira, aquí se arrejuntan las más mejores palabras de nuestra chora cotidiana, chuchuluqueadas para que gusgueés el lenguaje y peles los ojos en cada página. Más de 130 cuates nos pusimos a lerendear y reunir bien muchos piensos y monos paquines para echar lío y armar este despedorre, buscando semblantear el cuchileo local.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786077423829"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6077423823"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pk4bEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pk4bEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=pk4bEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pk4bEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pk4bEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 64.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 64.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pk4bEAAAQBAJ&rdid=book-pk4bEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 64900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 64900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Jergario_tapat%C3%ADo_ilustrado-sample-epub.acsm?id=pk4bEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Jergario_tapat%C3%ADo_ilustrado-sample-pdf.acsm?id=pk4bEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pk4bEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ira, aquí se arrejuntan las más mejores palabras de nuestra chora cotidiana, chuchuluqueadas para que gusgueés el lenguaje y peles los ojos en cada página."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CjAIyAEACAAJ",
+      "etag": "n/bkzKHg9hc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CjAIyAEACAAJ",
+      "volumeInfo": {
+        "title": "Microcolapsos",
+        "authors": [
+          "Cecilia Eudave"
+        ],
+        "publishedDate": "2019",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8417315756"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788417315757"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=CjAIyAEACAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=CjAIyAEACAAJ&dq=inauthor:%22Cecilia+Eudave%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Microcolapsos.html?hl=&id=CjAIyAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CjAIyAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

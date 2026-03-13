@@ -1,0 +1,1736 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "KGJPEQAAQBAJ",
+      "etag": "5XBMw0jS6j0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KGJPEQAAQBAJ",
+      "volumeInfo": {
+        "title": "O Bom Mal",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "ELSINORE",
+        "publishedDate": "2025-03-31",
+        "description": "Seis histórias magistrais, únicas e desconcertantes que assinalam o aguardado regresso de Samanta Schweblin e a confirmam como uma das escritoras mais talentosas da atualidade. Os territórios ambíguos da realidade humana, nas suas manifestações mais belas mas também mais perturbadoras, como a culpa que nasce da dor e traz um sopro de vida e a justifica, são o húmus do novo livro de contos da consagrada escritora argentina Samanta Schweblin. Situadas no limbo entre o real e o onírico, o reconhecível e o estranho, estas seis narrativas abrem-se, sem certezas nem seguranças, ao encanto do extraordinário, aos assombros do quotidiano, criando tensão e avidez em quem as lê. Os elogios da crítica: «Na experiência de ler a grande Schweblin, há um antes e um depois, e a recordação de alguma coisa que nunca mais nos vai abandonar.» Enrique Vila-Matas «Ninguém escreve como Samanta Schweblin. As suas histórias são únicas... maravilhosamente imprevisíveis e cativantemente estranhas.» Lorrie Moore «Escritos con uma precisão que roça o prodígio, os seis contos de O Bom Mal de Samanta Schweblin alargam os limites do que se entende por \"conto\" e a confirmam como uma das escritoras mais notáveis da literatura atual.» Raúl Zurita",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789895838363"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9895838360"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 167,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KGJPEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KGJPEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=KGJPEQAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=KGJPEQAAQBAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_Bom_Mal.html?hl=&id=KGJPEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Bom_Mal-sample-epub.acsm?id=KGJPEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Bom_Mal-sample-pdf.acsm?id=KGJPEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KGJPEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As suas histórias são únicas... maravilhosamente imprevisíveis e cativantemente estranhas.» Lorrie Moore «Escritos con uma precisão que roça o prodígio, os seis contos de O Bom Mal de Samanta Schweblin alargam os limites do que se ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FTw6EAAAQBAJ",
+      "etag": "HWd4yiPxHtA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FTw6EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Kentukis",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Fósforo",
+        "publishedDate": "2021-07-15",
+        "description": "O que aconteceria se fosse permitido às pessoas entrar na casa de desconhecidos e circular livremente por meio de um dispositivo tão adorável quanto um robô de pelúcia? Do que somos capazes quando guiados pelas regras incertas de um novo contrato social e sob a garantia do anonimato? Neste romance original e divertido, mas também aterrador, Samanta Schweblin, uma das principais vozes da literatura argentina atual, explora o lado inquietante da tecnologia e constrói um poderoso retrato da vida moderna. Solidão, afeto e generosidade, mas também oportunismo, infâmia e perversão, são alguns dos sentimentos que, atravessados pela virtualidade e pela paradoxal fragilidade da comunicação contemporânea, compõem este romance demasiado humano, verdadeira anatomia moral de nossos dias.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786589733096"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6589733090"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 247,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FTw6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FTw6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=FTw6EAAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FTw6EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FTw6EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 59.4,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 59.4,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FTw6EAAAQBAJ&rdid=book-FTw6EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 59400000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 59400000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Kentukis-sample-epub.acsm?id=FTw6EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Kentukis-sample-pdf.acsm?id=FTw6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FTw6EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Neste romance original e divertido, mas também aterrador, Samanta Schweblin, uma das principais vozes da literatura argentina atual, explora o lado inquietante da tecnologia e constrói um poderoso retrato da vida moderna."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bzeWzwEACAAJ",
+      "etag": "dL43Wy9TItI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bzeWzwEACAAJ",
+      "volumeInfo": {
+        "title": "Distância de resgate",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publishedDate": "2016",
+        "description": "\"Uma narrativa hipnótico, incômoda e fascinante O campo se transformou diante de nossos olhos sem que ninguém percebesse. Talvez não se trate de estiagens ou de herbicidas – e sim do fio vital e afiado que nos prende a nossos filhos, e do veneno que lançamos sobre eles. Nada é clichê quando afinal acontece. Distância de resgate acompanha esta fatalidade vertiginosa fazendo sempre as mesmas perguntas: Existe por acaso algum apocalipse que não seja pessoal? Qual é o ponto exato em que, sem saber, damos o passo em falso que acaba nos condenando?\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8501107484"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788501107480"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Mother and child"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=bzeWzwEACAAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=bzeWzwEACAAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dist%C3%A2ncia_de_resgate.html?hl=&id=bzeWzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bzeWzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nada é clichê quando afinal acontece. Distância de resgate acompanha esta fatalidade vertiginosa fazendo sempre as mesmas perguntas: Existe por acaso algum apocalipse que não seja pessoal?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wsdqEAAAQBAJ",
+      "etag": "iN5oYd7ADBI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wsdqEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Pássaros na boca e Sete casas vazias:",
+        "subtitle": "Contos reunidos",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Fósforo",
+        "publishedDate": "2022-04-15",
+        "description": "É famosa a afirmação de Júlio Cortázar de que no \"embate que se trava entre um texto apaixonante e o leitor, o romance ganha sempre por pontos, enquanto o conto deve vencer por nocaute\". Herdeira direta de uma distinta linhagem de nocauteadores, da qual fazem parte Adolfo Bioy Casares e o próprio Cortázar,Samanta Schweblin, que já afirmou se identificar como autora de contos, mais do que de romances, está à frente de uma geração de escritores que renovam os votos de afinidade entre a forma breve e a ficção latino-americana. A autora recupera também a tradição do conto fantástico novecentista europeu, que encontra na Argentina solo fértil para o florescimento de um novo insólito, calcado nas particularidades do país. Esta reunião de dois volumes de contos da autora, o cultuado Pássaros na boca (2009), em tradução revisada de Joca Reiners Terron, e Sete casas vazias (2015), inédito no Brasil, apresenta uma miríade de personagens incomuns, narrativas fantásticas, elementos sobrenaturais, sanguinolentos e grotescos que fizeram de Schweblin um destaque internacional da literatura contemporânea. Pássaros na boca é título homônimo de um conto em que uma menina passa a se alimentar de pássaros vivos, para desespero de seus pais. Se isso não parece verossímil, tampouco o são os demais personagens: uma esposa assassinada em uma mala torna-se obra de arte, um herdeiro milionário age como criança na loja de brinquedos, um rapaz passa por uma prova inusitada a fim de se tornar um assassino de aluguel, entre outros. Sete casas vazias, por sua vez, explora o espaço doméstico como palco de um terror que, por ser cotidiano, não é menos inquietante. Aqui, o metrô, o trânsito, os mercadinhos de bairro e apartamentos pequenos são cenários de divórcios, suicídios, doenças e dos não ditos que preenchem cômodos e ilustram com nitidez o estranho familiar [Unheimlich] descrito por Freud. Medos se combinam à intimidade das famílias e ao caos que pode reinar entre um cigarro e uma xícara de café, ou numa simples ida à farmácia. Em ambos os livros, Schweblin oferece uma exímia contística e flerta com o lado sombrio e com o horror ao mesmo tempo em que reconhece a graciosidade e a inocência dos deslocados, mostrando que seu lado melancólico pode ocasionar tanto o riso quanto a reflexão.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786589733799"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6589733791"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wsdqEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wsdqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=wsdqEAAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wsdqEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wsdqEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 69.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 69.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wsdqEAAAQBAJ&rdid=book-wsdqEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 69900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 69900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/P%C3%A1ssaros_na_boca_e_Sete_casas_vazias-sample-epub.acsm?id=wsdqEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/P%C3%A1ssaros_na_boca_e_Sete_casas_vazias-sample-pdf.acsm?id=wsdqEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wsdqEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Esta reunião de dois volumes de contos da autora, o cultuado Pássaros na boca (2009), em tradução revisada de Joca Reiners Terron, e Sete casas vazias (2015), inédito no Brasil, apresenta uma miríade de personagens incomuns, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ikk9EQAAQBAJ",
+      "etag": "qP5SAcrhZ8E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ikk9EQAAQBAJ",
+      "volumeInfo": {
+        "title": "Good and Evil and Other Stories",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2025-09-16",
+        "description": "INTERNATIONAL BESTELLER • A haunting, unforgettable collection of tales by Samanta Schweblin, winner of the 2022 National Book Award for Translated Literature and three-time Booker Prize finalist. “Nobody understands the balance of light and darkness of the human mind as well as Samanta Schweblin. She is a master of the edge, of the contour, the suggestion. The most brilliant writer of short stories writing today, she now delivers her most haunting, fierce and provocative book.”—Valeria Luiselli, author of Lost Children Archive \"Schweblin creates characters whose lifelines reach some of the most extraordinary questions ever articulated in our literature.\" —Karen Russell, author of The Antidote and Swamplandia! “In Samanta Schweblin’s hands a single story becomes a theory of just about everything. You can hear all the atoms of the universe bouncing around. Remarkably taut, clear, precise, and yet capable of capturing the extent of our human messiness, these stories are perfect for the times we dwell inside.” —Colum McCann, author of Let the Great World Spin The characters of Good and Evil find themselves at a point of no return, dazzled by the glare of impending tragedy. Vulnerable and profoundly human, they become trapped in the instant in which the uncanny has lurched into their lives. Some are transformed, some are isolated, others waver between guilt or tenderness. All of them are riven by uncertainty. Schweblin’s prose uses tension and truth to construct a literary universe in which the monsters of everyday life come so close to us that we can almost feel their breath. Her writing provokes awe and disquiet, a state of alarm that at the same time transports us to a hypnotic world as recognizable as it is strange.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593803103"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593803108"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ikk9EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ikk9EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Ikk9EQAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Ikk9EQAAQBAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Good_and_Evil_and_Other_Stories.html?hl=&id=Ikk9EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Good_and_Evil_and_Other_Stories-sample-pdf.acsm?id=Ikk9EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ikk9EQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THE NEW YORK TIMES BOOK REVIEW EDITORS&#39; CHOICE • INTERNATIONAL BESTSELLER • A haunting, unforgettable collection of tales by Samanta Schweblin, winner of the 2022 National Book Award for Translated Literature and three-time Booker Prize ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "n8BZEAAAQBAJ",
+      "etag": "W/bgvaWyifM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n8BZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Seven Empty Houses (National Book Award Winner)",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2022-10-18",
+        "description": "Winner of the 2022 National Book Award for Translated Literature A blazing new story collection that will make you feel like the house is collapsing in on you, from the 3 time International Booker Prize finalist, \"lead[ing] a vanguard of Latin American writers forging their own 21st-century canon.” –O, the Oprah magazine The seven houses in these seven stories are strange. A person is missing, or a truth, or memory; some rooms are enticing, some unmoored, others empty. But in Samanta Schweblin's tense, visionary tales, something always creeps back inside: a ghost, a fight, trespassers, a list of things to do before you die, a child's first encounter with darkness or the fallibility of parents. In each story, twists and turns will unnerve and surprise: Schweblin never takes the expected path and instead digs under the skin, revealing surreal truths about our sense of home, of belonging, and of the fragility of our connections with others. This is a masterwork from one of our most brilliant modern writers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525541417"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525541411"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 209,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=n8BZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=n8BZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=n8BZEAAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=n8BZEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=n8BZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 49.1,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 49.1,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=n8BZEAAAQBAJ&rdid=book-n8BZEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49100000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 49100000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Seven_Empty_Houses_National_Book_Award_W-sample-epub.acsm?id=n8BZEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n8BZEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a masterwork from one of our most brilliant modern writers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sggT0QEACAAJ",
+      "etag": "pgSrrnhTM0U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sggT0QEACAAJ",
+      "volumeInfo": {
+        "title": "Untitled4180sc",
+        "authors": [
+          "Varios Autores"
+        ],
+        "publisher": "Literatura Random House",
+        "publishedDate": "2025-04-08",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798890984180"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sggT0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sggT0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=sggT0QEACAAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=sggT0QEACAAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Untitled4180sc.html?hl=&id=sggT0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sggT0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Magnéticos e irresistibles. En cada uno de los cuentos de El buen mal, Samanta Schweblin nos abduce a otra dimensión donde quedamos en contacto íntimo con sus personajes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rZGoDAAAQBAJ",
+      "etag": "4ODyhkmb0RU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rZGoDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Fever Dream",
+        "subtitle": "A Novel",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2017-01-10",
+        "description": "“A wonderful nightmare of a book: tender and frightening, disturbing but compassionate. Fever Dream is a triumph of Schweblin’s outlandish imagination.” –Juan Gabriel Vasquez, author of The Sound of Things Falling and Reputations A young woman named Amanda lies dying in a rural hospital clinic. A boy named David sits beside her. She’s not his mother. He's not her child. Together, they tell a haunting story of broken souls, toxins, and the power and desperation of family. Fever Dream is a nightmare come to life, a ghost story for the real world, a love story and a cautionary tale. One of the freshest new voices to come out of the Spanish language and translated into English for the first time, Samanta Schweblin creates an aura of strange psychological menace and otherworldly reality in this absorbing, unsettling, taut novel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780399184611"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0399184619"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rZGoDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rZGoDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=rZGoDAAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=rZGoDAAAQBAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fever_Dream.html?hl=&id=rZGoDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Fever_Dream-sample-epub.acsm?id=rZGoDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rZGoDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fever Dream is a triumph of Schweblin’s outlandish imagination.” –Juan Gabriel Vasquez, author of The Sound of Things Falling and Reputations A young woman named Amanda lies dying in a rural hospital clinic."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WMNUDwAAQBAJ",
+      "etag": "oDhNnDwL6Ys",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WMNUDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Mouthful of Birds",
+        "subtitle": "Stories",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2019-01-08",
+        "description": "\"Superb\" -- Vogue \"What makes Schweblin so startling as a writer, however, what makes her rare and important, is that she is impelled not by mere talent or ambition but by vision.\" -- New York Times A powerful, eerily unsettling story collection from a major international literary star. The brilliant stories in Mouthful of Birds burrow their way into your psyche and don't let go. Samanta Schweblin haunts and mesmerizes in this extraordinary collection featuring women on the edge, men turned upside down, the natural world at odds with reality. We think life is one way, but often, it's not -- our expectations for how people act, love, fear can all be upended. Each character in Mouthful of Birds must contend with the unexpected, whether a family coming apart at the seams or a child transforming or a ghostly hellscape or a murder. Schweblin's stories have the feel of a sleepless night, where every shadow and bump in the dark take on huge implications, leaving your pulse racing, and the line between the real and the strange blurs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780399184642"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0399184643"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WMNUDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WMNUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=WMNUDwAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WMNUDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WMNUDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 73.72,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 73.72,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WMNUDwAAQBAJ&rdid=book-WMNUDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 73720000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 73720000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Mouthful_of_Birds-sample-epub.acsm?id=WMNUDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WMNUDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Samanta Schweblin haunts and mesmerizes in this extraordinary collection featuring women on the edge, men turned upside down, the natural world at odds with reality."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PuO3DwAAQBAJ",
+      "etag": "B+hCR0GhyVU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PuO3DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Little Eyes",
+        "subtitle": "A Novel",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2020-05-05",
+        "description": "LONGLISTED FOR THE 2020 MAN BOOKER INTERNATIONAL PRIZE A NEW YORK TIMES NOTABLE BOOK OF THE YEAR \"Her most unsettling work yet — and her most realistic.\" --New York Times Named a Best Book of the Year by The New York Times, O, The Oprah Magazine, NPR, Vulture, Bustle, Refinery29, and Thrillist A visionary novel about our interconnected present, about the collision of horror and humanity, from a master of the spine-tingling tale. They've infiltrated homes in Hong Kong, shops in Vancouver, the streets of in Sierra Leone, town squares in Oaxaca, schools in Tel Aviv, bedrooms in Indiana. They're everywhere. They're here. They're us. They're not pets, or ghosts, or robots. They're real people, but how can a person living in Berlin walk freely through the living room of someone in Sydney? How can someone in Bangkok have breakfast with your children in Buenos Aires, without your knowing? Especially when these people are completely anonymous, unknown, unfindable. The characters in Samanta Schweblin's brilliant new novel, Little Eyes, reveal the beauty of connection between far-flung souls—but yet they also expose the ugly side of our increasingly linked world. Trusting strangers can lead to unexpected love, playful encounters, and marvelous adventure, but what happens when it can also pave the way for unimaginable terror? This is a story that is already happening; it's familiar and unsettling because it's our present and we're living it, we just don't know it yet. In this prophecy of a story, Schweblin creates a dark and complex world that's somehow so sensible, so recognizable, that once it's entered, no one can ever leave.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525541387"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525541381"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PuO3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PuO3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=PuO3DwAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PuO3DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PuO3DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 85.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 85.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PuO3DwAAQBAJ&rdid=book-PuO3DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 85990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 85990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Little_Eyes-sample-epub.acsm?id=PuO3DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PuO3DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a story that is already happening; it&#39;s familiar and unsettling because it&#39;s our present and we&#39;re living it, we just don&#39;t know it yet."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nFPuDwAAQBAJ",
+      "etag": "3Oto/+NBt8k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nFPuDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Vis febril",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Grup Editorial Litera",
+        "publishedDate": "2020-06-29",
+        "description": "Cu tine în depărtare spune povestea Emiliei, o tânără studentă de origine chiliană din Franța care sosește la Santiago pentru a studia opera misterioasei scriitoare Vera Sigall. La scurtă vreme după ce face cunoștință cu ea, Vera suferă un accident bizar în urma căruia rămâne în comă. În timp ce îi așteaptă refacerea în spital, Emilia îl cunoaște pe Daniel, un vecin și bun prieten al scriitoarei care bănuiește că Vera a căzut pe scări nu accidental, ci împinsă de o mână criminală. Căutarea adevărului va fi marcată de false indicii și de descoperiri neașteptate, căci lucrurile care ies la lumină și se dovedesc hotărâtoare pentru soarta Emiliei și a lui Daniel nu sunt ceea ce ei se așteptau să găsească. Desfășurarea sinuoasă a evenimentelor va revela identitatea reală a tuturor personajelor și raporturile dintre ele, punând în același timp în discuție problema creatorului de geniu în relația sa cu lumea, a legăturilor de familie și a dragostei care-i unește și-i desparte pe oameni. „Un roman de suspans literar construit cu mare eficacitate narativă în jurul unui memorabil personaj feminin și al puterii genialității. Autoarea a știut să împletească iubiri și enigme într-o scriitură complexă și în același timp transparentă.” Din argumentarea juriului Premiului Alfaguara",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786063361814"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6063361812"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 74,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.29.25.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nFPuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nFPuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ro",
+        "previewLink": "http://books.google.com.br/books?id=nFPuDwAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nFPuDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nFPuDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.34,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 16.34,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nFPuDwAAQBAJ&rdid=book-nFPuDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16340000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 16340000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Vis_febril-sample-epub.acsm?id=nFPuDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Vis_febril-sample-pdf.acsm?id=nFPuDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nFPuDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cu tine în depărtare spune povestea Emiliei, o tânără studentă de origine chiliană din Franța care sosește la Santiago pentru a studia opera misterioasei scriitoare Vera Sigall."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wBi8DwAAQBAJ",
+      "etag": "TymC2a7ZMqY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wBi8DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Little Eyes",
+        "subtitle": "LONGLISTED FOR THE BOOKER INTERNATIONAL PRIZE, 2020",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2020-03-18",
+        "description": "A visionary novel about our interconnected world, about the collision of horror and humanity, from the Man Booker-shortlisted master of the spine-tingling tale A Guardian & Observer Best Fiction Book of 2020 * A Sunday Times Best Science Fiction Book of the Year * The Times Best Science Fiction Books of the Year * NPR Best Books of the Year World Literature Today's 75 Notable Translations of 2020 * Ebook Travel Guides Best 5 Books of 2020 * A New York Times Notable Book of 2020 They’re not pets. Not ghosts or robots. These are kentukis, and they are in your home. You can trust them. They care about you... They've infiltrated apartments in Hong Kong, shops in Vancouver, the streets of Sierra Leone, town squares of Oaxaca, schools in Tel Aviv, bedrooms in Indiana. Anonymous and untraceable, these seemingly cute cuddly toys reveal the beauty of connection between far-flung souls – but they also expose the ugly truth of our interconnected society. Samanta Schweblin's wildly imaginative new novel pulls us into a dark and complex world of unexpected love, playful encounters and marvellous adventures. But beneath the cuddly exterior, kentukis conceal a truth that is unsettlingly familiar and exhilaratingly real. This is our present and we’re living it – we just don’t know it yet. *Little Eyes comes with two different covers, and the cover you receive will be chosen at random*",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786077936"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1786077930"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wBi8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wBi8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=wBi8DwAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wBi8DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wBi8DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 47.3,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.3,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wBi8DwAAQBAJ&rdid=book-wBi8DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47300000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47300000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Little_Eyes-sample-epub.acsm?id=wBi8DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wBi8DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is our present and we’re living it – we just don’t know it yet. *Little Eyes comes with two different covers, and the cover you receive will be chosen at random*"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NfHBzQEACAAJ",
+      "etag": "mUYdsht2HSM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NfHBzQEACAAJ",
+      "volumeInfo": {
+        "title": "Little Eyes",
+        "subtitle": "Longlisted for the Booker International Prize 2020",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Oneworld",
+        "publishedDate": "2021-02-04",
+        "description": "A visionary novel about our interconnected world, about the collision of horror and humanity, from the Man Booker-shortlisted master of the spine-tingling tale",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1786078619"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786078612"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NfHBzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NfHBzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=NfHBzQEACAAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=NfHBzQEACAAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Little_Eyes.html?hl=&id=NfHBzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NfHBzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is our present and we&#39;re living it - we just don&#39;t know it yet. *Little Eyes comes with two different covers, and the cover you receive will be chosen at random*"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "afJADAAAQBAJ",
+      "etag": "oUOorGPFdPk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/afJADAAAQBAJ",
+      "volumeInfo": {
+        "title": "Granta #7 : Service",
+        "authors": [
+          "Ida Therén",
+          "Dimitris Alevras",
+          "Susanna Alakoski",
+          "Åke Smedberg",
+          "Julia Stenroth",
+          "Elin Cullhed",
+          "Lars Berge",
+          "Eivind Hofstad Evjemo",
+          "Yukiko Motoya",
+          "Siddhartha Mukherjee",
+          "Brad Watson",
+          "Mathias Énard",
+          "Samanta Schweblin",
+          "Joanna Walsh",
+          "Rachel Shichor"
+        ],
+        "publisher": "Albert Bonniers Förlag",
+        "publishedDate": "2016-11-01",
+        "description": "I Granta #7 om service gör nya och etablerade författare en översyn av ett ord som väcker känslor och skapar debatt. Lars Berge ringer till bredbandssupporten och granskar servicesamhället, debutanten Julia Stenroth skildrar det monotona arbetet på en svinfarm och Dimitris Alevras berättar om en nybliven nattklubbschef omgiven av spritfläckar och minnen. Ida Therén ritar upp June Mansfield Millers liv och Susanna Alakoski beskriver sjukvårdsupplysningens tjänster. Åke Smedberg skriver om komplexa relationer i en trött småstad och så undersöker Elin Cullhed maktbalansen i ett familjehem. Ur internationella Granta kommer bland annat en berättelse om ett butiksbiträde som gör allt för sin kund, en novell om en dubbelarbetande mamma och en historia om dödshjälp. Svenska Granta är del av ett internationellt nätverk med engelskspråkiga Granta som nav. Tidskriften grundades av studenter i Cambridge i slutet av 1800-talet. År 1979 fick den sin nuvarande form som en arena för nyskriven skönlitteratur och litterära reportage. I dag finns Grantaredaktioner i ett tiotal länder världen över, från Kina till Brasilien. www.albertbonniersforlag.se/granta Twitter/Instagram: GrantaSweden",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789100148935"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9100148938"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 159,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=afJADAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=afJADAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "sv",
+        "previewLink": "http://books.google.com.br/books?id=afJADAAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=afJADAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=afJADAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 62.39,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 62.39,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=afJADAAAQBAJ&rdid=book-afJADAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 62390000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 62390000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=afJADAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I Granta #7 om service gör nya och etablerade författare en översyn av ett ord som väcker känslor och skapar debatt."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Fp4eEAAAQBAJ",
+      "etag": "XV5bFn52JE4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Fp4eEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Kentuki",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Gyldendal A/S",
+        "publishedDate": "2021-04-07",
+        "description": "De er overalt. De er her. De er os. De har infiltreret hjem i Hong Kong, butikker i Vancouver, gaderne i Sierra Leone, torve i Oaxaca, skoler i Tel Aviv, soveværelser i Indiana. De er ikke kæledyr eller spøgelser eller robotter. De er rigtige mennesker, men hvordan kan en person, der bor i Berlin, gå frit gennem stuen hos nogen i Sydney? Hvordan kan nogen i Bangkok spise morgenmad med dine børn i Buenos Aires, uden at du ved det? Især når disse mennesker er helt anonyme, ukendte, ikke sporbare. Gennem skiftende perspektiver, i et samfund hvor kentukier, nuttede bamser med hjul, øjne og ører, der ser og hører, er den nye dille blandt mennesker rundt omkring i verden, afsløres skønheden ved forbindelsen mellem fjerntboende sjæle - men der er også en hæslig bagside ved vores stadig mere sammenkædede verden. At stole på fremmede kan føre til uventet kærlighed, legende møder og vidunderlige eventyr, men hvad hvis det også kan bane vejen for ufattelig terror? Schweblin har skabt en mørk og kompleks verden, der både er velkendt, men også underligt foruroligende, fordi det er vores samtid, og vi lever i den - vi ved det bare ikke endnu.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788702306217"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8702306212"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Fp4eEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Fp4eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "da",
+        "previewLink": "http://books.google.com.br/books?id=Fp4eEAAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Fp4eEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Fp4eEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 98.87,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 98.87,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Fp4eEAAAQBAJ&rdid=book-Fp4eEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 98870000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 98870000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Kentuki-sample-epub.acsm?id=Fp4eEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Fp4eEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Schweblin har skabt en mørk og kompleks verden, der både er velkendt, men også underligt foruroligende, fordi det er vores samtid, og vi lever i den - vi ved det bare ikke endnu."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UDMHEQAAQBAJ",
+      "etag": "flXX5Bbnfio",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UDMHEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Sept maisons vides",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Grasset",
+        "publishedDate": "2024-05-15",
+        "description": "La normalité est un malentendu. C’est le constat que fait la grande autrice argentine Samanta Schweblin dans Sept maisons vides, son recueil couronné en 2022 par le prestigieux National Book Award du meilleur livre étranger. Une femme s’introduit dans des pavillons de banlieue pour sauver des objets du mauvais goût de leurs propriétaires, des enfants confiés à leurs grands-parents naturistes disparaissent, des vêtements sont jetés chaque matin par-dessus une clôture, et une vieille dame est incapable de se souvenir du prénom de son fils - autant de formes de démence qui hantent chacune de ces sept maisons argentines formant le livre. Erreurs impardonnables, silences trop lourds et méprises dramatiques en sont les vrais habitants. Les hommes et les femmes, eux, n’ont pas d’autres choix que de succomber à la folie pour tenter de conjurer leurs peurs et s’en libérer. Avec sa prose acérée, Samanta Schweblin explore dans Sept maisons vides le désarroi du quotidien et la tragédie du domestique. Un chef-d’œuvre d’humour noir qui nous révèle que les frontières de l’étrange commencent au pas de notre porte. Traduit de l’espagnol (Argentine) par Isabelle Gugnon",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782246835691"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2246835690"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UDMHEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UDMHEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=UDMHEQAAQBAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=UDMHEQAAQBAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sept_maisons_vides.html?hl=&id=UDMHEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UDMHEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Avec sa prose acérée, Samanta Schweblin explore dans Sept maisons vides le désarroi du quotidien et la tragédie du domestique."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nsZHEQAAQBAJ",
+      "etag": "9gdtQ0CD6Is",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nsZHEQAAQBAJ",
+      "volumeInfo": {
+        "title": "El buen mal",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "RANDOM HOUSE",
+        "publishedDate": "2025-03-01",
+        "description": "Samanta Schweblin, la maestra del cuento contemporáneo latinoamericano, regresa con un libro destinado a convertirse en un clásico global Magnéticos e irresistibles. En cada uno de los cuentos de El buen mal, Samanta Schweblin nos abduce a otra dimensión donde quedamos en contacto íntimo con sus personajes. Encandilados por el fulgor de la inminente tragedia, vulnerables y profundamente humanos, advierten cuánto podría transformarlos la irrupción de lo inesperado. A algunos los dejará de pie frente al dolor, a otros dialogando con la culpa y a todos atravesados por la incertidumbre. ¿Importa saber qué es verdad? Se trata, de principio a fin, de ser partícipes de un fenomenal artificio literario. Con inédita perspicacia, Schweblin intuye el punto de quiebre de una voluntad, la intensidad premonitoria de un temblor y la lejanía que impone la ternura. Conoce la mejor de las infinitas posibilidades de una historia y el modo de encajar las piezas de una trama para dar con un gran relato que se hunda y proyecte, oscurezca e ilumine el día a día de la época y el alma de quienes la habitan. En su literatura, premiada internacionalmente, los filos entre realidad y ensueño deslumbran como los de un cuchillo. La crítica comento: «Nadie escribe como Samanta Schweblin. Sus historias son únicas... maravillosamente impredecibles y cautivadoramente extrañas». Lorrie Moore «La atmósfera en estos cuentos, construidos con nitidez sobrecogedora, presagia que, en algún momento, todo va a torcerse, y que los efectos de esa torsión perseguirán a los protagonistas para siempre. No son historias de fantasmas. Son algo mucho peor y mucho mejor: son historias de seres humanos». Leila Guerriero «Samanta Schweblin combina el impulso urgente que caracteriza a toda gran narrativa con precisas, aunque inquietantes, descripciones de sentimientos humanos que a menudo no tienen nombre, esas zonas ambiguas de la realidad humana donde se entremezclan el asombro, el temor y el deseo». Siri Hustvedt «Escritos con una precisión que roza el prodigio, los seis relatos de El buen mal, de Samanta Schweblin, no solo amplían los límites de lo que entendíamos por cuento, sino que la confirman como una de las escritoras más notables de la literatura actual». Raúl Zurita «Los nuevos cuentos de Samanta Schweblin son tan vívidos, impredecibles y perturbadores que cuesta creer que los haya escrito: parece haberlos soñado». Damián Szifron",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788439745761"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8439745761"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nsZHEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nsZHEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=nsZHEQAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=nsZHEQAAQBAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_buen_mal.html?hl=&id=nsZHEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_buen_mal-sample-epub.acsm?id=nsZHEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_buen_mal-sample-pdf.acsm?id=nsZHEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nsZHEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En cada uno de los cuentos de El buen mal, Samanta Schweblin nos abduce a otra dimensión donde quedamos en contacto íntimo con sus personajes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jNx5EAAAQBAJ",
+      "etag": "R4u/QJKE3MI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jNx5EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Yedi Boş Ev",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Can Yayınları",
+        "publishedDate": "2022-06-22",
+        "description": "Kendimi bildim bileli evlere bakmak için dışarılarda geziniriz, yakışmayan çiçek ve saksıları bahçelerden alırız. Sulama aletlerinin yerini değiştirir, posta kutularını düzeltir, ağır olduklarından çimlere konmaması gereken süs eşyalarını kaldırırız. Ayaklarım pedallara yetişecek yaşa geldiğimde arabayı ben kullanmaya başladım. Böylece annem biraz daha özgürlük kazandı. Yıpranmış ilişkiler, takıntılı eşler, sinir krizi geçiren ebeveynler, aklını kaybeden yaşlılar, ortadan kaybolan çocuklar… Samanta Schweblin 2015 Ribera del Duero Öykü Ödülü’nü kazanan Yedi Boş Ev’deki öykülerde akıl sağlığı pamuk ipliğine bağlı bir insanlığa ayna tutuyor. #delilik #aile #ilişki #kadın #anne #çocuk #psikoloji #yalnızlık #gerilim",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789750757907"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9750757904"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "categories": [
+          "Antiques & Collectibles"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jNx5EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jNx5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "tr",
+        "previewLink": "http://books.google.com.br/books?id=jNx5EAAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jNx5EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jNx5EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.43,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 2.43,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jNx5EAAAQBAJ&rdid=book-jNx5EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2430000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 2430000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Yedi_Bo%C5%9F_Ev-sample-epub.acsm?id=jNx5EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jNx5EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Yıpranmış ilişkiler, takıntılı eşler, sinir krizi geçiren ebeveynler, aklını kaybeden yaşlılar, ortadan kaybolan çocuklar… Samanta Schweblin 2015 Ribera del Duero Öykü Ödülü’nü kazanan Yedi Boş Ev’deki öykülerde ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3o4qAQAAIAAJ",
+      "etag": "mEz4v/6DU5c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3o4qAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Pájaros en la boca",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105133107933"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3o4qAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3o4qAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=3o4qAQAAIAAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=3o4qAQAAIAAJ&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1jaros_en_la_boca.html?hl=&id=3o4qAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3o4qAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1JBsEAAAQBAJ",
+      "etag": "QKD5wHlc7Oo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1JBsEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ağızdaki Kuşlar",
+        "authors": [
+          "Samanta Schweblin"
+        ],
+        "publisher": "Can Yayınları",
+        "publishedDate": "2018-02-15",
+        "description": "Aynanın karşısında dikilip gülüşüyoruz. İçimizdeki his, seyahate çıkarken hissedilenin tam tersi. Mutluluğumuzun sebebi yola çıkmak değil, bulunduğumuz yerde kalmak. Hayatındaki en harika yıla, aynı koşullarla yaşayacağın bir yıl daha eklemişsin sanki. Aynı yolda devam etmek için bir fırsat. Fantastik ve bilinmezden ilham alan bu öykülerde modern yaşamın normalliği göreceli bir kavram olarak karşımıza çıkıyor. Çağdaş Arjantin edebiyatının en çok konuşulan öykücülerinden Samanta Schweblin olağanlığı beklenmedik sapmalarla kışkırtarak insanların, ilişkilerin ve medeniyetin kırılganlığına dair gölgeli kesitler sunuyor. Arjantinli devlere olduğu kadar Kafka, Poe ve Carver’a da göz kırpan Ağızdaki Kuşlar’ı tekinsiz bir keyifle okuyacaksınız. “Günümüz İspanyolca edebiyatın en ümit vaat eden yeteneklerinden biri. Bu genç yazarın önünde parlak bir geleceğin uzandığına hiç şüphem yok.” – Mario Vargas Llosa “Yeni Arjantin anlatısının en güçlü seslerinden. Bioy Casares’in veliahdı.” – El Mundo",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789750756696"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "975075669X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+          "Antiques & Collectibles"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1JBsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1JBsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "tr",
+        "previewLink": "http://books.google.com.br/books?id=1JBsEAAAQBAJ&printsec=frontcover&dq=inauthor:%22samanta+schweblin%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1JBsEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1JBsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.81,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 2.81,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1JBsEAAAQBAJ&rdid=book-1JBsEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2810000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 2810000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A%C4%9F%C4%B1zdaki_Ku%C5%9Flar-sample-epub.acsm?id=1JBsEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A%C4%9F%C4%B1zdaki_Ku%C5%9Flar-sample-pdf.acsm?id=1JBsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1JBsEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fantastik ve bilinmezden ilham alan bu öykülerde modern yaşamın normalliği göreceli bir kavram olarak karşımıza çıkıyor. Çağdaş Arjantin edebiyatının en çok konuşulan öykücülerinden Samanta Schweblin olağanlığı ..."
+      }
+    }
+  ]
+}

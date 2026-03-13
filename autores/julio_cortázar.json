@@ -1,0 +1,1642 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "6wC9EAAAQBAJ",
+      "etag": "6R8Woi3JYws",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6wC9EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Bestiário",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "CAVALO DE FERRO",
+        "publishedDate": "2023-05-15",
+        "description": "Primeiro volume de contos de Julio Cortázar e um marco da literatura moderna. Plano Nacional de Leitura Literatura – 15 - 18 anos - Maiores de 18 anos Animais invisíveis, como o tigre do conto que dá título ao volume, que se desloca a seu bel-prazer pelos quartos de uma casa, obrigando a família que ali vive a mil cuidados e precauções a fim de evitar encontros indesejados; animais imaginários, como as mancúspias que anunciam as fases da «Cefaleia»; animais que despontam do nada, como os coelhinhos da «Carta a uma Rapariga em Paris»; ou outros ainda subjugados a arcanos poderes, que ganham novas formas e sentidos em «Circe»; todos eles compõem este bestiário fantástico de Julio Cortázar, no qual a descrição realista de atmosferas familiares faz luz sobre a vida secreta de uma sociedade povoada por tensões misteriosas e irracionais. Publicado originalmente em 1951, Bestiário é o primeiro volume de contos de Julio Cortázar e um dos marcos da carreira deste autor e da moderna literatura. Os elogios da crítica: «Quem não lê Cortázar está condenado.» Pablo Neruda «Uma imaginação literária de elite.» The New York Times Review of Books «Julio Cortázar foi um dos grandes mestres do século xx na difícil arte do conto.» José Mário Silva, Expresso «A capacidade criativa do autor atira-nos exactamente para esse território das situações menos comuns, onde o que às vezes importa é a escrita e os sonhos que ela transporta para defronte dos nossos olhos.» Fernando Sobral, Jornal de Negócios",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789897871238"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9897871233"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 127,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6wC9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6wC9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=6wC9EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=6wC9EAAAQBAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Besti%C3%A1rio.html?hl=&id=6wC9EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Besti%C3%A1rio-sample-epub.acsm?id=6wC9EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Besti%C3%A1rio-sample-pdf.acsm?id=6wC9EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6wC9EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Publicado originalmente em 1951, Bestiário é o primeiro volume de contos de Julio Cortázar e um dos marcos da carreira deste autor e da moderna literatura."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MqqzEAAAQBAJ",
+      "etag": "xW6HK8Iz81g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MqqzEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Os prêmios",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "Companhia das Letras",
+        "publishedDate": "2023-05-23",
+        "description": "Depois de ser premiado com um cruzeiro, um grupo embarca numa viagem misteriosa. Primeiro romance publicado de Julio Cortázar, Os prêmios retorna em nova tradução. Em 1960, Julio Cortázar vai de navio a Nova York e durante a viagem, \"para não se entediar\", escreve Os prêmios. Este romance, o primeiro publicado pelo autor argentino e antessala do estilo que o consagraria em O jogo da amarelinha, começa de modo enigmático. Homens e mulheres de diferentes idades, profissões e classes sociais são contemplados, ao acaso, numa dita Loteria Turística: o prêmio é uma viagem num luxuoso cruzeiro com duração incerta e destino desconhecido. Ao longo do percurso, a busca por prazer e descanso dá lugar a uma série de mistérios, conflitos e intrigas envolvendo os passageiros e a tripulação a bordo do Malcolm, embarcação da companhia Magenta Star. Lançado em 1960, Os prêmios é uma combinação magnética de alegoria surrealista, reality show avant la lettre, aventura metafísica e sátira político-social da Argentina do período. Numa habilidosa construção de tipos sociais e suas relações, e de mãos dadas ao universo angustiante de Kafka e ao absurdo de obras como O anjo exterminador, de Luis Buñuel, e O deserto dos tártaros, de Dino Buzzati, a imaginação e a liberdade criativa de Cortázar nos alcançam, como uma garrafa ao mar. \"Se uma viagem tem alguma regra é a de que nunca se volta o mesmo após sua conclusão. Você também não será igual ao terminar este romance, um retrato das múltiplas vozes que convulsionavam a Argentina dos anos 1960.\" — Joca Reiners Terron",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788535934397"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8535934391"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 449,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MqqzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MqqzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=MqqzEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MqqzEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MqqzEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MqqzEAAAQBAJ&rdid=book-MqqzEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Os_pr%C3%AAmios-sample-epub.acsm?id=MqqzEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MqqzEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Primeiro romance publicado de Julio Cortázar, Os prêmios retorna em nova tradução. Em 1960, Julio Cortázar vai de navio a Nova York e durante a viagem, &quot;para não se entediar&quot;, escreve Os prêmios."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NL_aEAAAQBAJ",
+      "etag": "nSkOrt7MGxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NL_aEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Volta ao Dia em 80 Mundos",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "CAVALO DE FERRO",
+        "publishedDate": "2023-10-09",
+        "description": "Obra de literatura total, A Volta ao Dia em 80 Mundos é uma espécie de enciclopédia pessoal de Julio Cortázar e de leitura indispensável. Obra de literatura total e uma espécie de enciclopédia ou almanaque pessoal do autor, que nela incluiu imagens, contos, poesia, ensaios, comentários humorísticos e autobiográficos, A Volta ao Dia em 80 Mundos é um conjunto de «alianças fulminantes», usando um termo do próprio Cortázar, com efeitos de improvisação e de digressão ao longo de oitenta mundos, no qual Júlio Verne e o jazz combinam harmoniosamente entre si. Trata-se de uma das obras fundamentais e incontornáveis de Julio Cortázar, publicada originalmente quatro anos depois de O Jogo do Mundo (Rayuela) . Tradução do castelho de Alberto Simões. Os elogios da crítica: «Brilhante, estimulante e, para mais, com ordem de leitura arbitrária.» Ana Cristina Leonardo, Actual/Expresso « A Volta ao Dia em 80 Mundos é um monumento, um cruzamento entre vida e literatura e jazz.» Hélder Beja, Os Meus Livros",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789897875144"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "989787514X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 362,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NL_aEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NL_aEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=NL_aEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=NL_aEAAAQBAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Volta_ao_Dia_em_80_Mundos.html?hl=&id=NL_aEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_Volta_ao_Dia_em_80_Mundos-sample-epub.acsm?id=NL_aEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_Volta_ao_Dia_em_80_Mundos-sample-pdf.acsm?id=NL_aEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NL_aEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Obra de literatura total, A Volta ao Dia em 80 Mundos é uma espécie de enciclopédia pessoal de Julio Cortázar e de leitura indispensável."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_x2TDwAAQBAJ",
+      "etag": "F2jM9skGUhU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_x2TDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O jogo da amarelinha",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "Editora Companhia das Letras",
+        "publishedDate": "2019-06-07",
+        "description": "Tão radical quanto inclassificável, a obra-prima de Julio Cortázar mudou para sempre a história da literatura — e chega agora em nova edição ao leitor brasileiro. \"A verdade, a triste ou bela verdade, é que cada vez gosto menos de romances, da arte romanesca tal como é praticada nestes tempos. O que estou escrevendo agora será (se algum dia eu terminar) algo assim como um antirromance, uma tentativa de romper os moldes em que esse gênero está petrificado\", escreveu Julio Cortázar numa carta de 1959, quando iniciava a escrita do que viria a ser O jogo da amarelinha. Publicado em 1963, o relato de amor entre um intelectual argentino no exílio, Horacio Oliveira, e uma misteriosa uruguaia, a Maga, ao acaso das ruas e das pontes de Paris, é um marco da literatura do século vinte. A nova edição brasileira traz uma seleção de cartas do autor sobre a escrita e a recepção de O jogo da amarelinha, tradução de Eric Nepomuceno, projeto gráfico de Richard McGuire e textos de Haroldo de Campos, Mario Vargas Llosa, Julio Ortega e Davi Arrigucci Jr. \"Cortázar é o melhor.\" — Roberto Bolaño \"Estamos diante de um romancista realmente criador, o único da América Latina de hoje que se pode ombrear com o nosso Guimarães Rosa.\" — Haroldo de Campos \"Nenhum outro escritor deu ao jogo a mesma dignidade literária. A obra do autor argentino abriu portas inéditas.\" — Mario Vargas Llosa \"O O jogo da amarelinha é uma construção literária e, a uma só vez, um projeto paradoxal de destruição da literatura. Uma obra em constante gestação, um texto que se vai tecendo à medida que se lê.\" — Davi Arrigucci Jr. \"As grandes obras são as que, passados os anos, continuam sendo inclassificáveis. E penso que O jogo da amarelinha ainda é um romance inclassificável. Talvez só agora estejamos prontos para ler, de verdade, Cortázar.\" — Alejandro Zambra",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788554513887"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8554513886"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 736,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_x2TDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_x2TDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=_x2TDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_x2TDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_x2TDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 37.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 37.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_x2TDwAAQBAJ&rdid=book-_x2TDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 37950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 37950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_jogo_da_amarelinha-sample-epub.acsm?id=_x2TDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_x2TDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "E penso que O jogo da amarelinha ainda é um romance inclassificável. Talvez só agora estejamos prontos para ler, de verdade, Cortázar.&quot; — Alejandro Zambra"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5pZpEQAAQBAJ",
+      "etag": "jNhkGWhHmeU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5pZpEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Contos Completos 1",
+        "subtitle": "(1945-1966)",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "CAVALO DE FERRO",
+        "publishedDate": "2025-07-07",
+        "description": "Numa iniciativa editorial inédita no nosso país, reúne-se pela primeira vez a totalidade dos contos de Julio Cortázar. Contos Completos 1 inclui famosos títulos como Bestiário, As Armas Secretas ou Histórias de Cronópios e de Famas. Júlio Cortázar deixou-nos ao longo de quase quatro décadas doze famosos volumes de contos, a que se juntam os vários dispersos e inéditos descobertos no início deste século coligidos em Papéis Inesperados . Celebrados por gerações de leitores e considerados obras-primas do género, superam no seu conjunto as mil páginas. Nestes textos, Cortázar desafia as zonas de fronteira da criação literária, num estilo tão alucinante como o improviso no jazz e tão surpreendente como um combate de boxe. Dos contos inaugurais de A Outra Margem , do universo inconfundível, repleto de liberdade e de ousadia, de Bestiário e de Todos os Fogos o Fogo à invenção fantasiosa dos cronópios e das famas, estala a revolução cortaziana na literatura do século xx. Numa iniciativa editorial inédita no nosso país, reúne-se pela primeira vez a totalidade dos contos do autor em dois únicos volumes. Este primeiro abarca o período entre 1945 e 1966, e inclui os títulos: A Outra Margem , Bestiário , As Armas Secretas , Final do Jogo , Histórias de Cronópios e de Famas , Todos os Fogos o Fogo e quatro Histórias Inesperadas . Os elogios da crítica: «Nos livros de Cortázar o autor joga, o narrador joga, as personagens jogam e joga o leitor, forçado a fazê-lo pelas armadilhas diabólicas que o esperam ao virar de cada página.» Mario Vargas Llosa",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789895892617"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9895892616"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 954,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5pZpEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5pZpEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=5pZpEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=5pZpEQAAQBAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contos_Completos_1.html?hl=&id=5pZpEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Contos_Completos_1-sample-epub.acsm?id=5pZpEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Contos_Completos_1-sample-pdf.acsm?id=5pZpEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5pZpEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Contos Completos 1 inclui famosos títulos como Bestiário, As Armas Secretas ou Histórias de Cronópios e de Famas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xGelEAAAQBAJ",
+      "etag": "D/znFkkElMc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xGelEAAAQBAJ",
+      "volumeInfo": {
+        "title": "O Jogo do Mundo (Rayuela)",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "CAVALO DE FERRO",
+        "publishedDate": "2023-01-06",
+        "description": "Considerado o romance que melhor retrata as inquietudes e melhor resume o século xx na visão latino-americana do mundo. A publicação de Rayuela - O jogo do mundo em 1963 foi uma verdadeira revolução no romance mundial: pela primeira vez, um escritor levava até às últimas consequências a vontade de transgredir a ordem tradicional de uma história e a linguagem usada para a contar. O resultado é este livro único, cheio de humor, de risco e de uma originalidade sem precedentes. Considerado o romance que melhor retrata as inquietudes e melhor resume o século xx na visão latino-americana do mundo, desde a sua publicação, gerações de escritores são, de uma maneira ou de outra, devedoras de O jogo do mundo. « O Jogo do Mundo é o jogo perfeito das palavras.» Diário de Notícias « O Jogo do Mundo é uma obra-prima.» Expresso «O fascínio que fez deste livro um monumento literário único e mítico para legiões de leitores e escritores mantém-se intacto.» Time Out",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789896238056"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9896238057"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 761,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.12.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xGelEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xGelEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=xGelEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=xGelEAAAQBAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_Jogo_do_Mundo_Rayuela.html?hl=&id=xGelEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Jogo_do_Mundo_Rayuela-sample-epub.acsm?id=xGelEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Jogo_do_Mundo_Rayuela-sample-pdf.acsm?id=xGelEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xGelEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Considerado o romance que melhor retrata as inquietudes e melhor resume o século xx na visão latino-americana do mundo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4WaCEAAAQBAJ",
+      "etag": "aoWlEAoJd0M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4WaCEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Um Certo Lucas",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "CAVALO DE FERRO",
+        "publishedDate": "2022-08-19",
+        "description": "Inédito até à data no nosso país, Um Certo Lucas é um concentrado de virtuosismo cortáziano, um verdadeiro manual contra a formalidade e o tédio de leitura essencial. Sob o nome de Lucas, um certo Julio oferece ao leitor uma apaixonada colecção de pequenas ficções, sobre os seus pianistas favoritos, sobre os costumes de determinadas famílias argentinas ou o fim de uma história de amor. Transgressor nato e dono de uma estranha sabedoria, também nos apresenta as melhores dicas para calçar sapatos, escrever poemas reversíveis, dar palestras, os modos de sair de um concerto ou de nadar numa piscina infantil. Tudo isto numa prosa lúdica e irónica, com a qual transformou a literatura do século XX. Os elogios da crítica: «Julio Cortázar foi um dos grandes mestres do século XX na difícil arte do conto.» — José Mário Silva, Expresso «A capacidade criativa do autor atira-nos exactamente para esse território das situações menos comuns, onde o que às vezes importa é a escrita e os sonhos que ela transporta para defronte dos nossos olhos.» — Fernando Sobral, Jornal de Negócios",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789896233655"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9896233659"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4WaCEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4WaCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=4WaCEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=4WaCEAAAQBAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Um_Certo_Lucas.html?hl=&id=4WaCEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Um_Certo_Lucas-sample-epub.acsm?id=4WaCEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Um_Certo_Lucas-sample-pdf.acsm?id=4WaCEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4WaCEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Inédito até à data no nosso país, Um Certo Lucas é um concentrado de virtuosismo cortáziano, um verdadeiro manual contra a formalidade e o tédio de leitura essencial."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9M8tEAAAQBAJ",
+      "etag": "4AhdKxucAh0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9M8tEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Todos os contos",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "Companhia das Letras",
+        "publishedDate": "2021-06-28",
+        "description": "Pela primeira vez no Brasil, todos os contos do autor argentino, reunidos em dois volumes com capa dura, numa caixa com projeto gráfico especial. Vencedor do Prêmio Jabuti na categoria \"Tradução\". \"A verdadeira revolução de Cortázar está nos contos. Neles, Cortázar não experimentou: ele encontrou, descobriu, criou algo que não perece\", anotou o escritor Mario Vargas Llosa. Com novas traduções de Heloisa Jahn e Josely Vianna Baptista, uma edição com os contos completos de Julio Cortázar chega pela primeira vez ao leitor brasileiro. Considerado um dos autores mais inventivos do século XX, Cortázar modificou para sempre o gênero e escreveu clássicos como \"Casa tomada\", \"A autoestrada do sul\", \"Carta a uma senhorita em Paris\", \"Continuidade dos parques\", \"As babas do diabo\", \"A ilha ao meio-dia\", entre muitos outros. Esta edição de Todos os contos, em dois volumes com capa dura e mais de 1200 páginas, vem numa caixa com projeto especial de Elaine Ramos. Bestiário, Todos os fogos o fogo, As armas secretas, Octaedro, Fim do jogo, Histórias de cronópios e de famas, todos os livros fundamentais de Cortázar estão aqui. A edição conta ainda com os dois célebres ensaios do autor sobre a escrita de contos, \"Alguns aspectos do conto\", de 1963, e \"Do conto breve e seus arredores\", de 1969, além de um estudo do crítico argentino Jaime Alazraki sobre o Cortázar contista. \"Em Cortázar, o conto é entendido como uma totalidade orgânica, uma narrativa de economia rigorosa, uma estrutura em tensão, limitada quanto ao tempo e quanto ao espaço, na qual todos os elementos devem estar, necessariamente, em função do efeito unitário do conjunto.\" — Davi Arrigucci Jr.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786557822418"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6557822411"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1563,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9M8tEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9M8tEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=9M8tEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9M8tEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9M8tEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 44.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 44.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9M8tEAAAQBAJ&rdid=book-9M8tEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 44950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 44950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Todos_os_contos-sample-epub.acsm?id=9M8tEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9M8tEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Esta edição de Todos os contos, em dois volumes com capa dura e mais de 1200 páginas, vem numa caixa com projeto especial de Elaine Ramos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UfWSEQAAQBAJ",
+      "etag": "MgcnXloMMvc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UfWSEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Contos Completos 2",
+        "subtitle": "(1969-1983)",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "CAVALO DE FERRO",
+        "publishedDate": "2025-11-03",
+        "description": "Volume que encerra a publicação dos contos completos de Julio Cortázar, mestre da narrativa breve, inclui clássicos como Octaedro ou Gostamos Tanto da Glenda, e textos inéditos. Julio Cortázar, nome maior da narrativa breve celebrado e revisitado por gerações de leitores, deixou-nos ao longo de quase quatro décadas doze volumes de contos - o palco da sua revolução literária -, a que se juntam os dispersos e inéditos descobertos no início deste século coligidos em Papéis Inesperados . Somando mais de mil páginas, estas obras-primas rompem com o modelo clássico da narrativa para abrir espaço ao fantástico, ao experimentalismo, ao labiríntico, ao humor, ao inexplicável no encontro do eu com o outro e com o real, e nelas desfilam temas que, como poucos, Cortázar soube converter em Literatura. Numa iniciativa editorial inédita no nosso país, reúne-se pela primeira vez a totalidade dos contos do autor em dois únicos volumes. Este segundo abarca o período entre 1969 e 1983 e inclui os títulos: Último Round , Octaedro , Alguém que Anda Por Aí , Um Certo Lucas , Gostamos Tanto da Glenda , Desoras e várias Histórias (Inesperadas) . Os elogios da crítica: «Um clarão chamado Julio Cortázar. Experimentais, insólitas, ficções breves que revelam o avesso do real - ou dão-nos o real como uma entre muitas possibilidades. Uma edição que merece celebração.» Isabel Lucas, Público",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789895896158"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9895896158"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 833,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UfWSEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UfWSEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=UfWSEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=UfWSEQAAQBAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contos_Completos_2.html?hl=&id=UfWSEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Contos_Completos_2-sample-epub.acsm?id=UfWSEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Contos_Completos_2-sample-pdf.acsm?id=UfWSEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UfWSEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Julio Cortázar, nome maior da narrativa breve celebrado e revisitado por gerações de leitores, deixou-nos ao longo de quase quatro décadas doze volumes de contos - o palco da sua revolução literária -, a que se juntam os dispersos e ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JOqVEQAAQBAJ",
+      "etag": "EO4AUSNAocQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JOqVEQAAQBAJ",
+      "volumeInfo": {
+        "title": "As cartas do Boom",
+        "authors": [
+          "Julio Cortázar",
+          "Carlos Fuentes",
+          "Gabriel García Márquez"
+        ],
+        "publisher": "Record",
+        "publishedDate": "2025-11-10",
+        "description": "Um dos momentos mais importantes da história literária visto por dentro. Conheça a vasta correspondência trocada entre quatro dos autores mais influentes da literatura latino-americana, Julio Cortázar, Carlos Fuentes, Gabriel García Márquez e Mario Vargas Llosa. As décadas de 1950 a 1970 testemunharam um dos momentos mais célebres da história literária do século XX: o Boom da literatura latino-americana. Muito além de uma simples coincidência de talentos, o que se formou foi uma constelação intelectual movida por afinidades eletivas, ambições estéticas e compromissos políticos que, juntos, produziram uma reconfiguração sem precedentes da literatura latino-americana. A projeção internacional de autores da região marcou um momento de inflexão em que a América Latina passou a ocupar o centro das atenções do circuito literário global. O Boom, ao contrário do que pode se pensar, não foi um fenômeno isolado e contou com uma pré-história e um rol de outros nomes que o antecedeu ou o acompanhou – Borges, Rulfo, Carpentier, entre tantos outros. Mas, em um recorte mais aproximado, é possível identificar quatro figuras-chave: Carlos Fuentes, Julio Cortázar, Gabriel García Márquez e Mario Vargas Llosa. Os autores surgem sob os holofotes não apenas pelo êxito de suas carreiras literárias, mas pela relação nutrida entre o quarteto, que se manteve próximo em diferentes níveis durante a extensão de seus anos dourados. As cartas do Boom oferece ao leitor um acesso privilegiado à intimidade desse movimento por meio da correspondência trocada pelo quarteto, que registra com franqueza os bastidores da criação literária, os dilemas editoriais, as tensões ideológicas e os afetos — ora solidários, ora conflituosos — que compuseram esse momento de euforia e ruptura. Mais do que documentos biográficos, esses escritos epistolares revelam a complexa teia de relações que sustentaram o Boom, bem como seus inevitáveis desgastes. Aqui, estão desde as repercussões da publicação de Cem anos de solidão até as angústias pelos golpes de Estado no continente e os projetos de férias em grupo à beira-mar. Esta edição permite não apenas reconstruir os bastidores de uma das mais decisivas revoluções literárias do século XX, mas também repensar o papel do escritor latino-americano diante de um mundo em incessante transformação. As cartas expõem tanto o fazer literário quanto as contradições e as grandezas de uma geração que ousou imaginar uma literatura capaz de dialogar com o universal sem trair suas raízes históricas e culturais.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788501925596"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8501925594"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JOqVEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JOqVEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=JOqVEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JOqVEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JOqVEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 59.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 59.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=JOqVEQAAQBAJ&rdid=book-JOqVEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 59900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 59900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As_cartas_do_Boom-sample-epub.acsm?id=JOqVEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As_cartas_do_Boom-sample-pdf.acsm?id=JOqVEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JOqVEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As cartas do Boom oferece ao leitor um acesso privilegiado à intimidade desse movimento por meio da correspondência trocada pelo quarteto, que registra com franqueza os bastidores da criação literária, os dilemas editoriais, as ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rpYjEQAAQBAJ",
+      "etag": "R9XhhKBooCg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rpYjEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Os Melhores Contos do Mundo",
+        "authors": [
+          "James Joyce",
+          "Julio Cortázar",
+          "Franz Kafka",
+          "Edgar Allan Poe",
+          "Oscar Wilde",
+          "Jorge Luis Borges",
+          "O. Henry",
+          "Ray Bradbury",
+          "Horácio Quiroga",
+          "Jack London",
+          "Ernest Hemingway",
+          "Nikolai Gogol",
+          "H.P. Lovecraft",
+          "Fiodor Dostoievski",
+          "Guy de Maupassant",
+          "Gabriel Garcia Marques",
+          "Arthur C. Clarke",
+          "Virginia Woolf",
+          "Machado de Assis",
+          "Lima Barreto",
+          "Monteiro Lobato"
+        ],
+        "publisher": "Lebooks Editora",
+        "publishedDate": "2024-09-23",
+        "description": "Este é mais um volume da bestseller Coleção Melhores Contos, uma seleção de obras primas de autores de diversas nacionalidades e com temáticas das mais variadas, mas que tem em comum uma enorme e talvez a mais importante qualidade literária: dar prazer ao leitor. Neste volumet o leitor terá acesso aos Melhores Contos do Mundo, uma espetacular seleção de contos internacionais jamais reunida. São 25 memoráveis contos escritos por grandes mestres contistas da literatura internacional como: James Joyce, Julio Cortázar, Borges, Horácio Quiroga, Edgar Allan Poe, Dostoievski, Hemingway, Jack London, Gogol... sem falar dos brasileiros Machado de Assis. Graciliando Ramos e Lima Barreto entre outros gigantes da literatura. Juntamente com os contos, o leitor terá um resumo biográfico de seu autor. Os Melhores Contos do Mundo é uma obra única e imperdível!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786558944980"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6558944987"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 329,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rpYjEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rpYjEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=rpYjEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rpYjEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rpYjEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 9.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rpYjEQAAQBAJ&rdid=book-rpYjEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 9900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Os_Melhores_Contos_do_Mundo-sample-epub.acsm?id=rpYjEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Os_Melhores_Contos_do_Mundo-sample-pdf.acsm?id=rpYjEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rpYjEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Graciliando Ramos e Lima Barreto entre outros gigantes da literatura. Juntamente com os contos, o leitor terá um resumo biográfico de seu autor. Os Melhores Contos do Mundo é uma obra única e imperdível!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PGy4NAEACAAJ",
+      "etag": "t11t9VTf4wc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PGy4NAEACAAJ",
+      "volumeInfo": {
+        "title": "Histórias de cronópios e de famas",
+        "authors": [
+          "Julio Cortázar",
+          "Alfacinha Silva"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9723314177"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789723314175"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=PGy4NAEACAAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=PGy4NAEACAAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3rias_de_cron%C3%B3pios_e_de_famas.html?hl=&id=PGy4NAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PGy4NAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KKJfgl1Cy6AC",
+      "etag": "F/aZAu8x3Jg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KKJfgl1Cy6AC",
+      "volumeInfo": {
+        "title": "Cronopios and Famas",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "New Directions Publishing",
+        "publishedDate": "1999",
+        "description": "This volume presents an integrated epidemiologic, social, and economic analysis of the global epidemics of HIV among sex workers in low- and middle-income countries. The book provides a comprehensive review and synthesis of the available public health and social science data to characterize the nature, scope, and complexities of these epidemics. A community empowerment-based approach to HIV prevention, treatment, and care is outlined and demonstrated to be cost-effective across multiple settings, with a significant projected impact on HIV incidence among sex workers and transmission dynamics overall. The Global HIV Epidemics among Sex Workers seeks to assist governments, public health implementing agencies, donors, and sex worker communities to better understand and respond to the epidemics among a population facing heightened social and structural vulnerabilities to HIV. The book combines a systematic review of the global epidemiology of HIV among sex workers and in-depth case studies of the epidemiology, policy and programmatic responses and surrounding social contexts for HIV prevention, care and treatment in eight countries. The authors employ mathematical modeling and cost-effectiveness analysis to assess the potential country-level impact of a community empowerment-based approach to HIV prevention, treatment, and care among sex workers when taken to scale in four countries representing diverse sociopolitical contexts and HIV epidemics: Brazil, Kenya, Thailand, and Ukraine. In each setting, greater investment in prevention, treatment, and care for sex workers is shown to significantly reduce HIV. Together these findings underline the urgency of further global investment in comprehensive, human rights-based responses to HIV among sex workers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0811214028"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780811214025"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KKJfgl1Cy6AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KKJfgl1Cy6AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=KKJfgl1Cy6AC&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=KKJfgl1Cy6AC&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cronopios_and_Famas.html?hl=&id=KKJfgl1Cy6AC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cronopios_and_Famas-sample-epub.acsm?id=KKJfgl1Cy6AC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cronopios_and_Famas-sample-pdf.acsm?id=KKJfgl1Cy6AC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KKJfgl1Cy6AC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume presents an integrated epidemiologic, social, and economic analysis of the global epidemics of HIV among sex workers in low- and middle-income countries."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lpF6HAcjgWUC",
+      "etag": "TxTqwFmNihA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lpF6HAcjgWUC",
+      "volumeInfo": {
+        "title": "Todos os fogos o fogo",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "Editora Record",
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8520006140"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788520006146"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lpF6HAcjgWUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lpF6HAcjgWUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=lpF6HAcjgWUC&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=lpF6HAcjgWUC&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Todos_os_fogos_o_fogo.html?hl=&id=lpF6HAcjgWUC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lpF6HAcjgWUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m1YxEQAAQBAJ",
+      "etag": "Ms6X3aF1vd8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m1YxEQAAQBAJ",
+      "volumeInfo": {
+        "title": "62: A Model Kit",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2025-08-14",
+        "description": "‘A deeply touching, enjoyable novel, beautifully written and fascinatingly mysterious and intricate in its designs’ New York Times In a city that could be Paris, London or Vienna, a loose-knit group of travellers, artists, and dreamers gather – drawn together by a cryptic passage from a book. Among them are the exiled writer Juan, the elusive Hélène, and the troubled Celia, each slipping between reality and illusion as their lives intertwine. Conversations turn into riddles, encounters take on the weight of fate, and a dark undercurrent of violence pulses beneath it all. Both playful and disorienting, 62: A Model Kit is Julio Cortázar’s most enigmatic puzzle – an intricate, hypnotic novel that challenges the very nature of storytelling.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529956856"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1529956854"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m1YxEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m1YxEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=m1YxEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=m1YxEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=m1YxEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 81.37,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 81.37,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=m1YxEQAAQBAJ&rdid=book-m1YxEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 81370000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 81370000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/62_A_Model_Kit-sample-epub.acsm?id=m1YxEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m1YxEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Both playful and disorienting, 62: A Model Kit is Julio Cortázar’s most enigmatic puzzle – an intricate, hypnotic novel that challenges the very nature of storytelling."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4FUxEQAAQBAJ",
+      "etag": "K2AoKHq/UYc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4FUxEQAAQBAJ",
+      "volumeInfo": {
+        "title": "A Manual for Manuel",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2025-08-14",
+        "description": "In 1970s Paris, a group of revolutionaries plot the daring kidnapping of a powerful Latin American official. But among them is Andrés, a man adrift in a world of high-stakes politics. As Andrés spirals into a crisis of identity, Cortázar intersects the group’s story with real-life documents, newspaper clippings, and personal reflections to construct a compelling mosaic that explores the complexities of revolution, commitment, and the human spirit.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781529956801"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1529956803"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 395,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4FUxEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4FUxEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=4FUxEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4FUxEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4FUxEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 81.37,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 81.37,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4FUxEQAAQBAJ&rdid=book-4FUxEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 81370000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 81370000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_Manual_for_Manuel-sample-epub.acsm?id=4FUxEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4FUxEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As Andrés spirals into a crisis of identity, Cortázar intersects the group’s story with real-life documents, newspaper clippings, and personal reflections to construct a compelling mosaic that explores the complexities of revolution, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a4pCDwAAQBAJ",
+      "etag": "GbBRi67EL/Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a4pCDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Imagen de John Keats",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "ALFAGUARA",
+        "publishedDate": "2018-01-01",
+        "description": "Un homenaje de Cortázar a Keats, dos autores hermanados a dos siglos de distancia en la misma idea de la vida y la tarea poética. Imagen de John Keats , escrita por Julio Cortázar entre 1951 y 1952, no quiso ser ni una biografía ni un ensayo, sino «una especie de diálogo donde Keats estuviera lo más presente posible». A través de cartas y poemas traza un retrato entrañable del poeta, pasea y conversa con él, sigue el itinerario de su vida, comenta su obra. Llega así a rastrear y formular una poética del camaleón que llegará a ser la suya propia. «Libro suelto y despeinado, lleno de interpolaciones y saltos y grandes aletazos y zambullidos»: quizás estas palabras del autor sean las que mejor den idea del tono de este libro que durmió durante casi cincuenta años.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789877384307"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9877384302"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 575,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a4pCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a4pCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=a4pCDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=a4pCDwAAQBAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Imagen_de_John_Keats.html?hl=&id=a4pCDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Imagen_de_John_Keats-sample-epub.acsm?id=a4pCDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Imagen_de_John_Keats-sample-pdf.acsm?id=a4pCDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a4pCDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Imagen de John Keats , escrita por Julio Cortázar entre 1951 y 1952, no quiso ser ni una biografía ni un ensayo, sino «una especie de diálogo donde Keats estuviera lo más presente posible»."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GQFCAAAAYAAJ",
+      "etag": "pPrS03OhjJA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GQFCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Alguien que anda por ahí y otros relatos",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publishedDate": "1977",
+        "description": "Someone who walks around is a selection of stories by Argentine author Julio Cortázar , published in 1977. His publication was censored in Argentina by the military regime (1976 - 1983). In these stories, Cortázar covers various genres, literary and thematic morphologies.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027904201"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+          "Argentine fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GQFCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GQFCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=GQFCAAAAYAAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=GQFCAAAAYAAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alguien_que_anda_por_ah%C3%AD_y_otros_relato.html?hl=&id=GQFCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GQFCAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "His publication was censored in Argentina by the military regime (1976 - 1983). In these stories, Cortázar covers various genres, literary and thematic morphologies."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dg9JAAAAYAAJ",
+      "etag": "Rjb0m+0sHa8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dg9JAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Queremos tanto a Glenda",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publisher": "Austral",
+        "publishedDate": "2007",
+        "description": "Julio Cortázar (1914-1984), uno de los escritores más importantes e influyentes del siglo XX, escribió una gran cantidad de relatos que se han convertido en claros referentes del género. Algunos de ellos se encuentran en Queremos tanto a Glenda, un volumen de piezas maestras en el que la realidad y la ficción se confunden.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173032812780"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dg9JAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dg9JAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=dg9JAAAAYAAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=dg9JAAAAYAAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Queremos_tanto_a_Glenda.html?hl=&id=dg9JAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dg9JAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Julio Cortázar (1914-1984), uno de los escritores más importantes e influyentes del siglo XX, escribió una gran cantidad de relatos que se han convertido en claros referentes del género."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DrMrAAAAYAAJ",
+      "etag": "fb5cDva2n/g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DrMrAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Libro de Manuel",
+        "authors": [
+          "Julio Cortázar"
+        ],
+        "publishedDate": "1978",
+        "description": "\"A Cuban of our acquaintance describes Cortázar as \"the best French writer in Spanish.\" Not only because he has the candor to set his fiction in Paris, where so many South American writers have found breathing room, but because he has a truly French feel for the miscellaneous, kitchen-sinky, birds-eye texture of dally life. In A Manual for Manuel, you'll meet Andres, Marco, Francine, Lonstein, Lucienne, Patricio, and Susanna: a mixed group of French intellectuals and \"Argentines who don't know what they're doing\" in Paris. Together they make up \"the Screwery,\" a collective that's more \"pataphysical\" than strictly revolutionary - involved in projects as diverse as collecting a scrapbook of newspaper clippings for Manuel (Patricio and Susanna's baby son), guerrilla theatre in department stores, counterfeiting and currency smuggling, and, grandest of all, the kidnapping of a bigwig from a multinational corporation in return for the release of captured revolutionaries in Latin America. Cortázar's narrative, as we've come to expect, is totally fractured into digressions, essays, undifferentiated dialogue, philosophical meditation, Finnegan's Wake-ish pun-prose, letters, Telexes, etc. Even the book's big, wonderful action scene (this charming crew's disastrous kidnap attempt) is muffled under all the stylistic swaddling. Cortázar is often at his best here: writing about a large group of friends, making them individual yet coherent - smart people being confused together. But the book suffers by comparison with his earlier, more substantial Hopscotch; even in Rabassa's adept and sympathetic translation, Manuel seems to lack the intensity and rich ambience we look for in prime Cortázar.\"--Kirkus",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X000142717"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 388,
+        "printType": "BOOK",
+        "categories": [
+          "Argentine fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DrMrAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DrMrAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=DrMrAAAAYAAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=DrMrAAAAYAAJ&dq=inauthor:%22Julio+Cort%C3%A1zar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Libro_de_Manuel.html?hl=&id=DrMrAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DrMrAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But the book suffers by comparison with his earlier, more substantial Hopscotch; even in Rabassa&#39;s adept and sympathetic translation, Manuel seems to lack the intensity and rich ambience we look for in prime Cortázar.&quot;--Kirkus"
+      }
+    }
+  ]
+}

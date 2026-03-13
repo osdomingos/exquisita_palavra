@@ -1,0 +1,1487 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Z_YdAQAAIAAJ",
+      "etag": "lNPkZOuTbbY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z_YdAQAAIAAJ",
+      "volumeInfo": {
+        "title": "A máquina de Hyerónimus e outras histórias",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publisher": "Editora Da Ufscar",
+        "publishedDate": "1997",
+        "description": "Jornalista, cineasta, fotógrafo, poeta, escritor e artista plástico, André Carneiro é o típico intelectual desconhecido do público brasileiro. Como romancista, sua arte centra-se em um enfoque psicossocial, em que a crítica à estrutura vigente mostra-se sempre aguda e sutil.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105029581084"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z_YdAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z_YdAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=Z_YdAQAAIAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Z_YdAQAAIAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_m%C3%A1quina_de_Hyer%C3%B3nimus_e_outras_hist.html?hl=&id=Z_YdAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z_YdAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jornalista, cineasta, fotógrafo, poeta, escritor e artista plástico, André Carneiro é o típico intelectual desconhecido do público brasileiro."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zkwhEQAAQBAJ",
+      "etag": "yX1xvjuLcxg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zkwhEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Ser Quilombola",
+        "subtitle": "Novos caminhos para o acesso à justiça",
+        "authors": [
+          "Clarissa Marques",
+          "André Carneiro Leão "
+        ],
+        "publisher": "Pimenta Cultural",
+        "publishedDate": "2024-09-13",
+        "description": "Esta é uma coletânea de reflexões oriundas do Projeto SER Quilombola. O projeto partiu da constatação de que eram poucas as demandas de comunidades quilombolas que tramitavam na Defensoria Pública da União em Pernambuco. Assim, a DPU uniu-se ao Grupo de Estudos e Pesquisas Transdisciplinares - GEPT/UPE e juntos buscaram promover a identificação da distribuição territorial das comunidades quilombolas em PE e a realização de uma pesquisa de necessidades jurídicas, para garantir o acesso à justiça mais efetivo. O eBook é organizado por Clarissa Marques e André Carneiro Leão, tendo acesso gratuito no site da Pimenta Cultural.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zkwhEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zkwhEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=zkwhEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zkwhEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zkwhEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zkwhEQAAQBAJ&rdid=book-zkwhEQAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Ser_Quilombola-sample-pdf.acsm?id=zkwhEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zkwhEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Esta é uma coletânea de reflexões oriundas do Projeto SER Quilombola."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jo8OAQAAIAAJ",
+      "etag": "USzgvNZNEAI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jo8OAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Introdução ao estudo da \"science-fiction.\"",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B493922"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": [
+          "Brazilian literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jo8OAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jo8OAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=Jo8OAQAAIAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Jo8OAQAAIAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introdu%C3%A7%C3%A3o_ao_estudo_da_science_fictio.html?hl=&id=Jo8OAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jo8OAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GHeMCwAAQBAJ",
+      "etag": "1m5x/SeRZ0A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GHeMCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Lugares, tempos e pessoas: povoamento rural romano no Alto Alentejo - vol. I",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publisher": "Imprensa da Universidade de Coimbra / Coimbra University Press",
+        "publishedDate": "2014-12-01",
+        "description": "O propósito do presente estudo centra-se na leitura do que terá sido a rede de povoamento rural em época romana na região do Alto Alentejo. Uma área territorial extensa e com uma paisagem muito diversa, o que permite tentar perceber como se alteram os padrões de organização de sítios, em função desse quadro natural, mas também das comunidades que já habitavam este território. Também o tempo escolhido é intencionalmente longo, pois na análise considera-se a evolução desde o estabelecimento da paisagem imperial até à data de 711, marco temporal que de alguma forma se assume como significante para estabelecer a fronteira com o mundo antigo. Assim, com uma forte componente de trabalho de prospecção, procede-se a uma análise dos factores que motivaram a criação de uma paisagem onde, durante o Império e a Antiguidade Tardia, as mais diversas pessoas habitaram e modificaram o território que é hoje o Alto Alentejo. The aim of the present study is to offer a reading of what the distribution of the rural population of Alto Alentejo may have looked like in Roman times. Dealing with such an extensive territorial area and with such a diverse landscape has allowed us to better understand how the patterns of organisation of rural human settlements were influenced both by the natural environment as well as the pre-existing rural communities. The period studied is intentionally long: our analysis begins with the formation of the imperial landscape and ends in 711, a milestone which is considered significant in establishing the boundary with the Ancient World. Drawing on substantial work of archaeological prospection, this study therefore proceeds to analyse the factors that motivated the creation of a landscape that was inhabited and modified throughout Empire and Late Antiquity by many diverse people.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789892608310"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9892608313"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 424,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GHeMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GHeMCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=GHeMCwAAQBAJ&printsec=frontcover&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GHeMCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GHeMCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GHeMCwAAQBAJ&rdid=book-GHeMCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Lugares_tempos_e_pessoas_povoamento_rura-sample-pdf.acsm?id=GHeMCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GHeMCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "O propósito do presente estudo centra-se na leitura do que terá sido a rede de povoamento rural em época romana na região do Alto Alentejo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yGlwBwAAQBAJ",
+      "etag": "CLmk1md8H3M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yGlwBwAAQBAJ",
+      "volumeInfo": {
+        "title": "Imaginários - contos de fantasia, ficção científica e terror",
+        "authors": [
+          "Alexandre Heredia",
+          "Eric Novello",
+          "Sacha Ramos",
+          "João Barreiros",
+          "Luís Filipe Silva",
+          "Saint-Clair Stockler",
+          "Tibor Moricz",
+          "André Carneiro",
+          "Jorge Candeias"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2015-03-13",
+        "description": "Grandes e novos autores exploram infinitos imaginários nesta coletânea da Editora Draco. A coleção Imaginários trará, a cada volume, contos inéditos que explorarão o fantástico em todas as suas variantes, contando histórias de ontem, de hoje, de amanhã e – por que não? – de nunca.É hora de começar a viagem. Prepare-se para uma aventura inesquecível da primeira à última linha, nessa coleção que já é referência do que há de melhor na literatura fantástica nacional.Neste volume da coleção Imaginários da Editora Draco, os organizadores Tibor Moricz, Saint‐Clair Stockler e Eric Novello também participam com contos fantásticos ao lado dos autores João Barreiros, Jorge Candeias, Alexandre Heredia, Sacha Ramos, Luís Filipe Silva e André Carneiro, desafiando as fronteiras do real e apresentando excelentes histórias de fantasia, ficção-científica e terror.ContosSe acordar antes de morrer – João BarreirosÀs vezes eu os vejo – Saint-Clair StocklerFlor do Trovão – Jorge CandeiasO toque invisível – Alexandre HerediaO cheiro do suor – Eric NovelloA Rosa Negra – Sacha RamosA casa de um homem – Luís Filipe SilvaEu te amo, papai – Tibor MoriczUma questão de língua – André Carneiro",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788582431405"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8582431406"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 137,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yGlwBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yGlwBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=yGlwBwAAQBAJ&printsec=frontcover&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yGlwBwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yGlwBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yGlwBwAAQBAJ&rdid=book-yGlwBwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Imagin%C3%A1rios_contos_de_fantasia_fic%C3%A7%C3%A3o-sample-epub.acsm?id=yGlwBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Imagin%C3%A1rios_contos_de_fantasia_fic%C3%A7%C3%A3o-sample-pdf.acsm?id=yGlwBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yGlwBwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Prepare-se para uma aventura inesquecível da primeira à última linha, nessa coleção que já é referência do que há de melhor na literatura fantástica nacional.Neste volume da coleção Imaginários da Editora Draco, os ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xn-sEAAAQBAJ",
+      "etag": "TKhm+pqqrp4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xn-sEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Amorquia, Piscina Livre e outras histórias",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publisher": "AVEC Editora",
+        "publishedDate": "2023-02-03",
+        "description": "Para comemorar o centenário de seu nascimento do autor foi feita esta edição que reúne o chamado Ciclo Libertário, com os 2 (dois) romances, \"Amorquia\" e \"Piscina Livre\"; 8 (oito) contos e 3 (três) poemas relacionados do seu universo mais importante, um conjunto de narrativas ambientadas num futuro de fortes traços hedonistas, direcionados para a satisfação e os prazeres sexuais sem qualquer restrição moral ou religiosa. Amorquia (1991) e Piscina Livre (1980) mostram uma provocadora visão do futuro que nos obriga a repensar o presente. Trazem uma narrativa sofisticada e perturbadora, com uma abordagem rara e estilo inovador, sem evitar temas polêmicos. São histórias humanistas, preocupadas com os impactos que a ciência e a tecnologia podem ter sobre a sociedade e a cultura.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788554471569"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8554471563"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 518,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xn-sEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xn-sEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=xn-sEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xn-sEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xn-sEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xn-sEAAAQBAJ&rdid=book-xn-sEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Amorquia_Piscina_Livre_e_outras_hist%C3%B3ri-sample-epub.acsm?id=xn-sEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Amorquia_Piscina_Livre_e_outras_hist%C3%B3ri-sample-pdf.acsm?id=xn-sEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xn-sEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Para comemorar o centenário de seu nascimento do autor foi feita esta edição que reúne o chamado Ciclo Libertário, com os 2 (dois) romances, &quot;Amorquia&quot; e &quot;Piscina Livre&quot;; 8 (oito) contos e 3 (três) poemas relacionados do seu universo ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rHeMCwAAQBAJ",
+      "etag": "TCBgmwfmlBU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rHeMCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Lugares, tempos e pessoas: povoamento rural romano no Alto Alentejo - vol. II",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publisher": "Imprensa da Universidade de Coimbra / Coimbra University Press",
+        "publishedDate": "2014-12-01",
+        "description": "O propósito do presente estudo centra-se na leitura do que terá sido a rede de povoamento rural em época romana na região do Alto Alentejo. Uma área territorial extensa e com uma paisagem muito diversa, o que permite tentar perceber como se alteram os padrões de organização de sítios, em função desse quadro natural, mas também das comunidades que já habitavam este território. Também o tempo escolhido é intencionalmente longo, pois na análise considera-se a evolução desde o estabelecimento da paisagem imperial até à data de 711, marco temporal que de alguma forma se assume como significante para estabelecer a fronteira com o mundo antigo. Assim, com uma forte componente de trabalho de prospecção, procede-se a uma análise dos factores que motivaram a criação de uma paisagem onde, durante o Império e a Antiguidade Tardia, as mais diversas pessoas habitaram e modificaram o território que é hoje o Alto Alentejo. The aim of the present study is to offer a reading of what the distribution of the rural population of Alto Alentejo may have looked like in Roman times. Dealing with such an extensive territorial area and with such a diverse landscape has allowed us to better understand how the patterns of organisation of rural human settlements were influenced both by the natural environment as well as the pre-existing rural communities. The period studied is intentionally long: our analysis begins with the formation of the imperial landscape and ends in 711, a milestone which is considered significant in establishing the boundary with the Ancient World. Drawing on substantial work of archaeological prospection, this study therefore proceeds to analyse the factors that motivated the creation of a landscape that was inhabited and modified throughout Empire and Late Antiquity by many diverse people.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789892608334"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "989260833X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "categories": [
+          "Alto Alentejo (Portugal)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rHeMCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rHeMCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=rHeMCwAAQBAJ&printsec=frontcover&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rHeMCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rHeMCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rHeMCwAAQBAJ&rdid=book-rHeMCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Lugares_tempos_e_pessoas_povoamento_rura-sample-pdf.acsm?id=rHeMCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rHeMCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "O propósito do presente estudo centra-se na leitura do que terá sido a rede de povoamento rural em época romana na região do Alto Alentejo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UdCWEAAAQBAJ",
+      "etag": "PJdLihFTttU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UdCWEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Planner Conexão Mente Corpo Alma 2022",
+        "authors": [
+          "André Carneiro E Mari Mendes"
+        ],
+        "publisher": "Clube de Autores",
+        "publishedDate": "2022-01-17",
+        "description": "Desenvolva e rastreie novos hábitos saudáveis. Faça reflexões e se expresse todas as semanas. Registre seus progressos diários e tenha mais clareza nas suas escolhas de vida. Autoconhecimento é a chave e esta é a melhor ferramenta para te ajudar!",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:3410004185714"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 65,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UdCWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UdCWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=UdCWEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UdCWEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UdCWEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 55.86,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 55.86,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UdCWEAAAQBAJ&rdid=book-UdCWEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 55860000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 55860000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Planner_Conex%C3%A3o_Mente_Corpo_Alma_2022-sample-pdf.acsm?id=UdCWEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UdCWEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Desenvolva e rastreie novos hábitos saudáveis."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nL4tAAAAYAAJ",
+      "etag": "ynNkf/eeD48",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nL4tAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Pássaros florescem",
+        "subtitle": "poesia",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018334408"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nL4tAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nL4tAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=nL4tAAAAYAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=nL4tAAAAYAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1ssaros_florescem.html?hl=&id=nL4tAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nL4tAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8jZTAAAAMAAJ",
+      "etag": "tgCTkAp28e8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8jZTAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Diário da nave perdida",
+        "subtitle": "contos",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publishedDate": "1963",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023950670"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Science fiction, Brazillian"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8jZTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8jZTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=8jZTAAAAMAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=8jZTAAAAMAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1rio_da_nave_perdida.html?hl=&id=8jZTAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8jZTAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q2QtAAAAYAAJ",
+      "etag": "4iqF6TatsNM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q2QtAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Sopoesia",
+        "subtitle": "antologia",
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018307256"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "categories": [
+          "Brazilian poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q2QtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q2QtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=Q2QtAAAAYAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Q2QtAAAAYAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sopoesia.html?hl=&id=Q2QtAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q2QtAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N701AAAAIAAJ",
+      "etag": "kzkHmUAWlzE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N701AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Piscina livre",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3609814"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N701AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N701AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=N701AAAAIAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=N701AAAAIAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Piscina_livre.html?hl=&id=N701AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N701AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N8AtAAAAYAAJ",
+      "etag": "EfNKxwzLRhI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N8AtAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Amorquia",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172119409895"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N8AtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N8AtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=N8AtAAAAYAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=N8AtAAAAYAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Amorquia.html?hl=&id=N8AtAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N8AtAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0zZTAAAAMAAJ",
+      "etag": "SSzmUmh/0w0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0zZTAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Ângulo e face",
+        "subtitle": "poemas",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023950660"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0zZTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0zZTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=0zZTAAAAMAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=0zZTAAAAMAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%C3%82ngulo_e_face.html?hl=&id=0zZTAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0zZTAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CTdTAAAAMAAJ",
+      "etag": "TLtQEGTT0lY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CTdTAAAAMAAJ",
+      "volumeInfo": {
+        "title": "O homem que adivinhava",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023950681"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CTdTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CTdTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=CTdTAAAAMAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=CTdTAAAAMAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_homem_que_adivinhava.html?hl=&id=CTdTAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CTdTAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pSdXAAAAMAAJ",
+      "etag": "/5RLYSTt944",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pSdXAAAAMAAJ",
+      "volumeInfo": {
+        "title": "O mundo misterioso do hipnotismo",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publishedDate": "1963",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023913357"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Hypnotism"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pSdXAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pSdXAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=pSdXAAAAMAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=pSdXAAAAMAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_mundo_misterioso_do_hipnotismo.html?hl=&id=pSdXAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pSdXAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gCHgDwAAQBAJ",
+      "etag": "Ue/7GWaQIxg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gCHgDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Urban Transformations in the Late Antique West: Materials, Agents, and Models",
+        "authors": [
+          "André Carneiro",
+          "Neil Christie",
+          "Pilar Diarte Blasco"
+        ],
+        "publisher": "Imprensa da Universidade de Coimbra / Coimbra University Press",
+        "publishedDate": "2020",
+        "description": "This volume is the fruit of a highly productive international research gathering academic and professional (field- and museum) colleagues to discuss new results and approaches, recent finds and alternative theoretical assessments of the period of transition and transformation of classical towns in Late Antiquity. Experts from an array of modern countries attended and presented to help compare and contrast critically archaeologies of diverse regions and to debate the qualities of the archaeology and the current modes of study. While a number of papers inevitably focused on evidence available for both Spain and Portugal, we were delighted to have a spread of contributions that extended the picture to other territories in the Late Roman West and Mediterranean. The emphasis was very much on the images presented by archaeology (rescue and research works, recent and past), but textual data were also brought into play by various contributors.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789892618982"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "989261898X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gCHgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gCHgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=gCHgDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gCHgDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gCHgDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gCHgDwAAQBAJ&rdid=book-gCHgDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Urban_Transformations_in_the_Late_Antiqu-sample-pdf.acsm?id=gCHgDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gCHgDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume is the fruit of a highly productive international research gathering academic and professional (field- and museum) colleagues to discuss new results and approaches, recent finds and alternative theoretical assessments of the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tAkavgAACAAJ",
+      "etag": "13arFX5g7AM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tAkavgAACAAJ",
+      "volumeInfo": {
+        "title": "CAPITAES DO FIM DO MUNDO",
+        "authors": [
+          "ANDRÉ CARNEIRO DE ALBUQUERQUE"
+        ],
+        "description": "As Tropas volantes em Pernambuco representam mais do que uma força de repressão ao cangaço. Representam a utilização de saberes de uma região, incorporados a uma Instituição pautada na hierarquia e disciplina, que contribuíram na composição da estratégia de combate baseada no inimigo. A Tropa Volante, mais do que uma força de contenção do Estado, foi a solução possível que o Estado encontrou para lidar com o cangaço . Através de uma análise profunda e bem documentada sobre a sociedade sertaneja, o cangaço e a Polícia Militar, o historiador André Carneiro de Albuquerque, desenvolve a história das Tropas Volantes em Pernambuco entre os anos de 1922 a 1938. O apenas dito, o quase vazio ou inexistente a respeito do perseguidor policial nos manuais de História do cangaço, tornou-se um espaço onde é possível estudar a Força Pública no sertão do Estado ao longo do período lampiônico, bem como perceber as formas de ação desenvolvidas por estas tropas em oposição aos bandos de cangaceiros. Ainda são poucos os trabalhos acadêmicos que tratam a respeito das Tropas Volantes, e muito menos sua relação com o meio social e com os grupos de cangaceiros existentes. Muitas vezes, as diferenças das Tropas Volantes dos diversos Estados do Nordeste foram negligenciadas em proveito de generalizações pouco adequadas. Sendo assim, essa obra, se dispõe a verificar, seus modos de formação, apontar seus componentes e os elos pelos quais se ligavam a caserna e a sociedade.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8555263980"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788555263989"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=tAkavgAACAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=tAkavgAACAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/CAPITAES_DO_FIM_DO_MUNDO.html?hl=&id=tAkavgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tAkavgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zyuwzwEACAAJ",
+      "etag": "MgdCqivX+uY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zyuwzwEACAAJ",
+      "volumeInfo": {
+        "title": "Arqueologia da transição: Entre o mundo romano e a Idade Média",
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9892613538"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789892613536"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=zyuwzwEACAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=zyuwzwEACAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arqueologia_da_transi%C3%A7%C3%A3o_Entre_o_mundo.html?hl=&id=zyuwzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zyuwzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Bj9pAAAAMAAJ",
+      "etag": "TVvnwuHK1Fg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Bj9pAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Povoamento romano no actual concelho de Fronteira",
+        "authors": [
+          "André Carneiro"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015062624518"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": [
+          "Fronteira (Portalegre (Portugal : District))."
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Bj9pAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Bj9pAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=Bj9pAAAAMAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Bj9pAAAAMAAJ&dq=inauthor:%22Andr%C3%A9+Carneiro%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Povoamento_romano_no_actual_concelho_de.html?hl=&id=Bj9pAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Bj9pAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

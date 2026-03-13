@@ -1,0 +1,1807 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Yw0OEQAAQBAJ",
+      "etag": "jFb8NQh/sAM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yw0OEQAAQBAJ",
+      "volumeInfo": {
+        "title": "O inimigo interno",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Plutão Livros",
+        "publishedDate": "2024-06-17",
+        "description": "Borges acorda de um pesadelo. Em um universo caótico onde o passado, presente e futuro colidem, ele é um enigma ambulante, um detetive de aluguel que se vê preso a uma intrincada teia de mistérios. Enquanto percorre as ruas mutantes da cidade e consulta oráculos em colinas místicas, Borges se depara com verdades desconcertantes sobre o Panverso e sobre si mesmo. Cada passo que dá o leva para mais perto de uma revelação que desafiará sua sanidade e mudará sua percepção da realidade. O inimigo interno é uma fascinante jornada por um mundo onde nada é o que parece, e onde a busca pela verdade pode ter consequências inimagináveis. Uma história de ficção científica clássica, com suspense, ação e mistério.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786586692150"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6586692156"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Yw0OEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Yw0OEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=Yw0OEQAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Yw0OEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Yw0OEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 10,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Yw0OEQAAQBAJ&rdid=book-Yw0OEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 10000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_inimigo_interno-sample-epub.acsm?id=Yw0OEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_inimigo_interno-sample-pdf.acsm?id=Yw0OEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yw0OEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "O inimigo interno é uma fascinante jornada por um mundo onde nada é o que parece, e onde a busca pela verdade pode ter consequências inimagináveis. Uma história de ficção científica clássica, com suspense, ação e mistério."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HjgLBAAAQBAJ",
+      "etag": "P7FjN8pbleM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HjgLBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Space Opera - Obliterati",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2012-01-01",
+        "description": "Conto de ficção científica de Fábio Fernandes, autor de O Primmeiro Contacto. A guerra contra os misteriosos Obliterati, cuja evidente vantagem tecnológica empreende ataques impiedosos contra a humanidade, leva os sobreviventes da espécie humana a se ocultarem nos chamados “Refúgios”, espalhados pelo Braço de Órion, na vã tentativa de sobreviverem e se recuperarem. Em meio aos seus conflitos sociais e culturais, humanos e pós-humanos buscam um modo eficiente de contra-atacar, na esperança de colocar um fim ao terror imposto na galáxia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788509991777"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8509991774"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HjgLBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HjgLBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=HjgLBAAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HjgLBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HjgLBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HjgLBAAAQBAJ&rdid=book-HjgLBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Space_Opera_Obliterati-sample-epub.acsm?id=HjgLBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Space_Opera_Obliterati-sample-pdf.acsm?id=HjgLBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HjgLBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conto de ficção científica de Fábio Fernandes, autor de O Primmeiro Contacto."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r44IEAAAQBAJ",
+      "etag": "YkCqw/rdEic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r44IEAAAQBAJ",
+      "volumeInfo": {
+        "title": "O último homem",
+        "authors": [
+          "Mary Shelley"
+        ],
+        "publisher": "Plutão Livros",
+        "publishedDate": "2020-11-13",
+        "description": "O fim nunca esteve tão próximo. O último homem, escrito por Mary Shelley pouco tempo depois da morte do esposo, é um misto de pessimismo, autobiografia e reação a Percy Shelley, cujos ideais românticos não são capazes de salvar os protagonistas do derradeiro fim. Quase duzentos anos após a publicação original, o livro que chocou os críticos do século XIX está mais atual do que nunca — de outras formas, mas ecoando o mesmo som. É aqui que a célebre autora de Frankenstein registra uma história de guerras, de amores trágicos e, como não poderia deixar de ser, da extinção da raça humana. Em um futuro não mais distante, Lionel Verney vê cada um de seus amigos cair vítima de uma doença que, entre fanáticos e negacionistas, deixa cada vez mais clara a inexorável força da natureza. Ficção apocalíptica ou profecia acertada?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786586692044"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6586692040"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 588,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r44IEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r44IEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=r44IEAAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=r44IEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=r44IEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 15,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 15,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=r44IEAAAQBAJ&rdid=book-r44IEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 15000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_%C3%BAltimo_homem-sample-epub.acsm?id=r44IEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_%C3%BAltimo_homem-sample-pdf.acsm?id=r44IEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r44IEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "O último homem, escrito por Mary Shelley pouco tempo depois da morte do esposo, é um misto de pessimismo, autobiografia e reação a Percy Shelley, cujos ideais românticos não são capazes de salvar os protagonistas do derradeiro fim."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FzYDEAAAQBAJ",
+      "etag": "m9rffNrNPeQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FzYDEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Métodos quantitativos aplicados a seguros e previdência",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Editora Senac São Paulo",
+        "publishedDate": "2020-10-15",
+        "description": "A Série Universitária foi desenvolvida pelo Senac São Paulo com o intuito de preparar profissionais para o mercado de trabalho. Os títulos abrangem diversas áreas, abordando desde conhecimentos teóricos e práticos adequados às exigências profissionais até a formação ética e sólida. Métodos quantitativos aplicados a seguros e previdência apresenta uma visão introdutória das ciências atuariais, trazendo um conjunto de informações relativas à área de seguros e previdência. Os assuntos abordados abrangem cálculos financeiros, tais como juros, taxas, descontos e financiamentos, além de fundamentos de demografia, noções de estatística e matemática atuarial. O foco da obra é fornecer um panorama amplo e consistente do ramo para seus operadores, demonstrando os processos envolvidos nas avaliações de risco, longevidade, morbidade, prêmio e demais elementos que compõem os produtos de seguros e previdência.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786555361131"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6555361131"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FzYDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FzYDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=FzYDEAAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FzYDEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FzYDEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FzYDEAAAQBAJ&rdid=book-FzYDEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/M%C3%A9todos_quantitativos_aplicados_a_segur-sample-epub.acsm?id=FzYDEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/M%C3%A9todos_quantitativos_aplicados_a_segur-sample-pdf.acsm?id=FzYDEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FzYDEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Métodos quantitativos aplicados a seguros e previdência apresenta uma visão introdutória das ciências atuariais, trazendo um conjunto de informações relativas à área de seguros e previdência."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7icLBAAAQBAJ",
+      "etag": "hBakkw3xD74",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7icLBAAAQBAJ",
+      "volumeInfo": {
+        "title": "O Primmeiro Contacto",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2012-01-01",
+        "description": "Fábio Fernandes descobriu e traduziu uma space opera no início do século XX com personalidades e acontecimentos extraordinários. Surpreendente no estilo e na ousadia, uma homenagem ao legado do passado da ficção científica.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788509990244"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8509990247"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7icLBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7icLBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=7icLBAAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7icLBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7icLBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7icLBAAAQBAJ&rdid=book-7icLBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Primmeiro_Contacto-sample-epub.acsm?id=7icLBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Primmeiro_Contacto-sample-pdf.acsm?id=7icLBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7icLBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fábio Fernandes descobriu e traduziu uma space opera no início do século XX com personalidades e acontecimentos extraordinários. Surpreendente no estilo e na ousadia, uma homenagem ao legado do passado da ficção científica."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TAC5CwAAQBAJ",
+      "etag": "LVQudw/590g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TAC5CwAAQBAJ",
+      "volumeInfo": {
+        "title": "Futebol - 2010 – O ano em que faremos contrato",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2016-03-08",
+        "description": "Conto de ficção científica de Fabio Fernandes que faz parte da antologia Futebol: Histórias fantásticas de glória, paixão e vitórias. A humanidade não está sozinha no universo. Os alienígenas aprenderam tudo o que podiam sobre a Terra e se tornaram grandes apreciadores de nossa cultura. Para que o intercâmbio de tecnologia aconteça, os saranaii têm uma lista de exigências que incluem... uma partida de futebol contra os maiores craques do planeta.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788509993269"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8509993262"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TAC5CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TAC5CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=TAC5CwAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TAC5CwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TAC5CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TAC5CwAAQBAJ&rdid=book-TAC5CwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Futebol_2010_O_ano_em_que_faremos_contra-sample-epub.acsm?id=TAC5CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Futebol_2010_O_ano_em_que_faremos_contra-sample-pdf.acsm?id=TAC5CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TAC5CwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conto de ficção científica de Fabio Fernandes que faz parte da antologia Futebol: Histórias fantásticas de glória, paixão e vitórias."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CPXqDwAAQBAJ",
+      "etag": "bkN/WPfaJAM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CPXqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Marketing de seguros e previdência",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Editora Senac São Paulo",
+        "publishedDate": "2020-06-11",
+        "description": "A Série Universitária foi desenvolvida pelo Senac São Paulo com o intuito de preparar profissionais para o mercado de trabalho. Os títulos abrangem diversas áreas, abordando desde conhecimentos teóricos e práticos adequados às exigências profissionais até a formação ética e sólida. Marketing de seguros e previdência busca desenvolver conceitos e ferramentas de marketing adaptados para a área de serviços. As práticas utilizadas nesta obra visam promover desenvolvimento, perpetuidade, crescimento e lucratividade aos negócios. Dessa forma, o foco do trabalho é o desenvolvimento de negócios na área de seguros e previdência com alto valor agregado, capazes de elevar o status do profissional, da corretora ou da seguradora, bem como alavancar suas atividades.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788539630202"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8539630206"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CPXqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CPXqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=CPXqDwAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CPXqDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CPXqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CPXqDwAAQBAJ&rdid=book-CPXqDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Marketing_de_seguros_e_previd%C3%AAncia-sample-epub.acsm?id=CPXqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Marketing_de_seguros_e_previd%C3%AAncia-sample-pdf.acsm?id=CPXqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CPXqDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Marketing de seguros e previdência busca desenvolver conceitos e ferramentas de marketing adaptados para a área de serviços."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wPPkEAAAQBAJ",
+      "etag": "dnLnb7nQGVM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wPPkEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Transmídias e interfaces digitais na educação",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Editora Senac São Paulo",
+        "publishedDate": "2023-11-22",
+        "description": "A Série Universitária foi desenvolvida pelo Senac São Paulo com o intuito de preparar profissionais para o mercado de trabalho. Os títulos abrangem diversas áreas, abordando desde conhecimentos teóricos e práticos adequados às exigências profissionais até a formação ética e sólida. Transmídias e interfaces digitais na educação traça um panorama do uso das tecnologias na educação, apresentando equipamentos e metodologias de ensino aplicadas, com sugestões para o designer instrucional na hora de criar materiais. Entre os temas abordados, estão blended e mobile learning, linguagem audiovisual, games e storytelling. O objetivo é proporcionar ao leitor uma visão geral sobre o papel do designer instrucional e das tecnologias na diminuição das distâncias.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788539638970"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8539638975"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wPPkEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wPPkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=wPPkEAAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wPPkEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wPPkEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wPPkEAAAQBAJ&rdid=book-wPPkEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Transm%C3%ADdias_e_interfaces_digitais_na_ed-sample-epub.acsm?id=wPPkEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Transm%C3%ADdias_e_interfaces_digitais_na_ed-sample-pdf.acsm?id=wPPkEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wPPkEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Transmídias e interfaces digitais na educação traça um panorama do uso das tecnologias na educação, apresentando equipamentos e metodologias de ensino aplicadas, com sugestões para o designer instrucional na hora de criar materiais."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PF40EAAAQBAJ",
+      "etag": "4GVbBDSXiiU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PF40EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Narrativas do medo 3",
+        "authors": [
+          "Márcio Benjamin",
+          "Geraldo de Fraga",
+          "Alexandre Callari",
+          "Paul Richard Ugo",
+          "Rodrigo de Oliveira",
+          "Petter Baiestorf",
+          "Felipe Folgosi",
+          "Oscar Nestarez",
+          "Fábio Fernandes",
+          "Kapel Furman",
+          "Duda Falcão",
+          "Vitor Abdala"
+        ],
+        "publisher": "AVEC Editora",
+        "publishedDate": "2021-06-21",
+        "description": "Você está preparado para sentir medo? Aquela sensação inquietante que pode se traduzir em um simples arrepio que percorre sua espinha ou em um pensamento obsessivo que te impede de ir sozinho à cozinha de sua casa escura no meio da madrugada. Narrativas do Medo é uma série de antologias que traz alguns dos melhores autores do gênero de terror do país, que são especializados em te causar sensações como medo, angústia, desconforto e asco, enfim, tudo o que um fã de terror busca em um bom livro. Autores e contos: ALEXANDRE CALLARI – Súcubo DUDA FALCÃO – Os crimes de Dez Pras Duas FÁBIO FERNANDES – Florença e a máquina FELIPE FOLGOSI – Non plus ultra GERALDO DE FRAGA – Mr. Orange KAPEL FURMAN – A mão MÁRCIO BENJAMIN – Mar de lua OSCAR NESTAREZ – A Caminho de Lídia PAUL RICHARD UGO – A Múmia do Imperador PETTER BAIESTORF – Iara – A sereia do Pantanal RODRIGO DE OLIVEIRA – Chupa-cabras TIAGO TOY – E o que você fez? VITOR ABDALA – Balas perdidas",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786586099935"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6586099935"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 109,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PF40EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PF40EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=PF40EAAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PF40EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PF40EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PF40EAAAQBAJ&rdid=book-PF40EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Narrativas_do_medo_3-sample-epub.acsm?id=PF40EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Narrativas_do_medo_3-sample-pdf.acsm?id=PF40EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PF40EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "VITOR ABDALA – Balas perdidas"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WjMLBAAAQBAJ",
+      "etag": "odveLqQafkQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WjMLBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Back in the USSR",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2012-01-01",
+        "description": "Conto de Fábio Fernandes, de O Primmeiro Contacto. O sonho não acabou. Graças ao famoso Método Frankenstein, um dos maiores artistas do século XX está vivo, e nada melhor que comemorar em grande estilo. A União Soviética é o palco do grande show de John Lennon e Moscou está em festa. Mas é o auge da Guerra Fria. Conspirações, segredos industriais e assassinatos logo envolvem o maior dos beatles numa complexa trama de espionagem.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788509991524"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8509991529"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 53,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WjMLBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WjMLBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=WjMLBAAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WjMLBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WjMLBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WjMLBAAAQBAJ&rdid=book-WjMLBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Back_in_the_USSR-sample-epub.acsm?id=WjMLBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Back_in_the_USSR-sample-pdf.acsm?id=WjMLBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WjMLBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conto de Fábio Fernandes, de O Primmeiro Contacto."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NDMLBAAAQBAJ",
+      "etag": "KTrIgfAEq9w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NDMLBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Atos de Misericórdia",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2012-01-01",
+        "description": "Conto de Fábio Fernandes, de O Primmeiro Contacto. A vida dos vampiros cariocas é bem solitária. As belas paisagens ensolaradas não podem mais ser admiradas com o mesmo deslumbramento de outrora. Só restam os becos escuros, as boates, os inferninhos e as festas decadentes. Ao saber que um antigo amor contraiu o vírus HIV, Pedro, um vampiro, decide encontrá-la para oferecer uma possível solução para o problema. Mas Tatiana está desaparecida, e procurá-la pode contrariar interesses ocultos pela noite.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788509991531"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8509991537"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NDMLBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NDMLBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=NDMLBAAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NDMLBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NDMLBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NDMLBAAAQBAJ&rdid=book-NDMLBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Atos_de_Miseric%C3%B3rdia-sample-epub.acsm?id=NDMLBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Atos_de_Miseric%C3%B3rdia-sample-pdf.acsm?id=NDMLBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NDMLBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conto de Fábio Fernandes, de O Primmeiro Contacto."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vfbiAAAAQBAJ",
+      "etag": "Umc5SwqDnOw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vfbiAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Charlotte sometimes",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2013-09-19",
+        "description": "Conto do autor veterano de ficção científica Fábio Fernandes, originalmente publicado em “Interface com o Vampiro”. Um homem, uma noite, um bar. O que ele faz ali? Entre os vapores do gelo seco e as névoas da amnésia, Júlio busca uma resposta para tantas dúvidas que o assombram. Mas ele pode não gostar do que vai encontrar entre os escombros da sua memória – ou será a memória de outra pessoa?",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 17,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vfbiAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vfbiAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=vfbiAAAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vfbiAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vfbiAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vfbiAAAAQBAJ&rdid=book-vfbiAAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Charlotte_sometimes-sample-epub.acsm?id=vfbiAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Charlotte_sometimes-sample-pdf.acsm?id=vfbiAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vfbiAAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conto do autor veterano de ficção científica Fábio Fernandes, originalmente publicado em “Interface com o Vampiro”."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gWpwBwAAQBAJ",
+      "etag": "AAVTWF6ExOY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gWpwBwAAQBAJ",
+      "volumeInfo": {
+        "title": "Imaginários - contos de fantasia, ficção científica e terror",
+        "authors": [
+          "Fábio Fernandes",
+          "Eduardo Spohr",
+          "Marcelo Ferlin Assami",
+          "Rober Pinheiro",
+          "Douglas MCT",
+          "Lidia Zuin",
+          "Marcelo A. Galvão",
+          "Cirilo S. Lemos",
+          "Fernando Santos de Oliveira",
+          "Ana Cristina Rodrigues"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2015-03-13",
+        "description": "Grandes e novos autores exploram infinitos imaginários nesta coletânea da Editora Draco. A coleção Imaginários trará, a cada volume, contos inéditos que explorarão o fantástico em todas as suas variantes, contando histórias de ontem, de hoje, de amanhã e – por que não? – de nunca. É hora de começar a viagem. Prepare-se para uma aventura inesquecível da primeira à última linha, nessa coleção que já é referência do que há de melhor na literatura fantástica nacional.Neste terceiro volume da coleção Imaginários da Editora Draco organizado por Erick Santos Cardoso, os autores Eduardo Spohr, Marcelo Ferlin Assami, Rober Pinheiro, Douglas MCT, Lidia Zuin, Marcelo A. Galvão, Cirilo S. Lemos, Fernando Santos de Oliveira, Ana Cristina Rodrigues e Fábio Fernandes desafiam as fronteiras do real e apresentam excelentes histórias de fantasia, ficção-científica e terror.ContosA Torre das Almas – Eduardo SpohrBreve relato da ascensão do Papa Alexandre IX – Marcelo Ferlin AssamiAs Noivas Brancas – Rober PinheiroBonifrate – Douglas MCTDies Irae – Lidia ZuinVida e morte do último astro pornô da Terra – Marcelo A. GalvãoCorre, João, corre – Cirilo S. LemosUma segunda opinião – Fernando Santos de OliveiraMaria e a fada – Ana Cristina RodriguesO Primmeiro Contacto – Fábio Fernandes",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788582431412"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8582431414"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 143,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gWpwBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gWpwBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=gWpwBwAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gWpwBwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gWpwBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gWpwBwAAQBAJ&rdid=book-gWpwBwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Imagin%C3%A1rios_contos_de_fantasia_fic%C3%A7%C3%A3o-sample-epub.acsm?id=gWpwBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Imagin%C3%A1rios_contos_de_fantasia_fic%C3%A7%C3%A3o-sample-pdf.acsm?id=gWpwBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gWpwBwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Prepare-se para uma aventura inesquecível da primeira à última linha, nessa coleção que já é referência do que há de melhor na literatura fantástica nacional.Neste terceiro volume da coleção Imaginários da Editora Draco ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ce4hjwEACAAJ",
+      "etag": "t6M4C/8N0UA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ce4hjwEACAAJ",
+      "volumeInfo": {
+        "title": "2001",
+        "subtitle": "uma odisseia no espaço",
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8576571552"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788576571551"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=ce4hjwEACAAJ&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ce4hjwEACAAJ&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/2001.html?hl=&id=ce4hjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ce4hjwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xIo4DwAAQBAJ",
+      "etag": "Fd9vCU2Tj6E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xIo4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Educação, Saúde e Trabalho no Campo",
+        "authors": [
+          "Fábio Fernandes Villela"
+        ],
+        "publisher": "HN Editora",
+        "publishedDate": "2015-12-10",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788560521661"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8560521666"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xIo4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xIo4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=xIo4DwAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=xIo4DwAAQBAJ&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Educa%C3%A7%C3%A3o_Sa%C3%BAde_e_Trabalho_no_Campo.html?hl=&id=xIo4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Educa%C3%A7%C3%A3o_Sa%C3%BAde_e_Trabalho_no_Campo-sample-pdf.acsm?id=xIo4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xIo4DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G4noCwAAQBAJ",
+      "etag": "cXnPUsNIv24",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G4noCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Vaporpunk - O Alferes de ferro",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2016-04-05",
+        "description": "Conto de Fábio Fernandes para a coletânea Vaporpunk: novos documentos de uma pitoresca época steampunk. O povo de Vila Rica não suporta mais a mão exploradora de Portugal. A Derrama se aproxima, a menos que um grupo de inconfidentes consiga levar a cabo a independência da província. Para isso, contarão com a corajosa ajuda de Joaquim José da Silva Xavier, o Tiradentes, e uma fabulosa armadura capaz de transformá-lo no Alferes de Ferro.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788509994181"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8509994188"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G4noCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G4noCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=G4noCwAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=G4noCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G4noCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=G4noCwAAQBAJ&rdid=book-G4noCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Vaporpunk_O_Alferes_de_ferro-sample-epub.acsm?id=G4noCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Vaporpunk_O_Alferes_de_ferro-sample-pdf.acsm?id=G4noCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G4noCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conto de Fábio Fernandes para a coletânea Vaporpunk: novos documentos de uma pitoresca época steampunk."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OKGAPgAACAAJ",
+      "etag": "2tjXUaPIz9s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OKGAPgAACAAJ",
+      "volumeInfo": {
+        "title": "FUNDAÇAO",
+        "authors": [
+          "ISAAC ASIMOV",
+          "FABIO FERNANDES"
+        ],
+        "description": "A humanidade vive o seu momento mais próspero. Há mais de dez mil anos um império reina absoluto sobre todos os mundos habitados. Ninguém acredita que esse tempo luminoso possa ter fim. Ninguém, exceto Hari Seldon, o criador de uma ciência revolucionária capaz de prever o futuro da raça humana. Seldon antevê a chegada de uma era de trevas jamais vista e inevitável. Apenas ele pode minimizar os estragos; garantir que o homem se reerga o mais rápido possível. Para isso, tem um plano, que deverá ser executado através dos séculos pelos membros da Fundação.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8576570661"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788576570660"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=OKGAPgAACAAJ&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=OKGAPgAACAAJ&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/FUNDA%C3%87AO.html?hl=&id=OKGAPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OKGAPgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yDMLBAAAQBAJ",
+      "etag": "UO8gWqa2QQQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yDMLBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Director's Cut",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2012-01-01",
+        "description": "Conto de Fábio Fernandes, de O Primmeiro Contacto. Quando latas de filmes começam a desaparecer de uma cinemateca do Rio de Janeiro, novos filmes são colocados no lugar. O Coração das Trevas, dirigido por Orson Welles. Os Oito Macacos, de Stanley Donen. O Fim da Infância, de Stanley Kubrick. Hamtaro, de Akira Kurosawa. De onde vêm os filmes que nunca existiram?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788509991555"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8509991553"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yDMLBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yDMLBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=yDMLBAAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yDMLBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yDMLBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yDMLBAAAQBAJ&rdid=book-yDMLBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Director_s_Cut-sample-epub.acsm?id=yDMLBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Director_s_Cut-sample-pdf.acsm?id=yDMLBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yDMLBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conto de Fábio Fernandes, de O Primmeiro Contacto."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3A1KEAAAQBAJ",
+      "etag": "oH8v2okEIak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3A1KEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Dinheiro",
+        "authors": [
+          "Fábio Fernandes"
+        ],
+        "publisher": "Clube de Autores",
+        "publishedDate": "2014-06-05",
+        "description": "Aprenda ganhar e administrar que nunca irá faltar! Este livro irá ensinar técnicas de fácil aplicação para que você consiga ter tranquilidade financeira, ganhando mais dinheiro e administrando com maior facilidade. Ensinará você a colocar em prática o método DIM DIM que mudará sua realidade financeira, proporcionando mais dinheiro disponível em sua conta todos os meses, para que realize seus sonhos e viva mais feliz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788578542894"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8578542894"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3A1KEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3A1KEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=3A1KEAAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=3A1KEAAAQBAJ&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dinheiro.html?hl=&id=3A1KEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Dinheiro-sample-pdf.acsm?id=3A1KEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3A1KEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ensinará você a colocar em prática o método DIM DIM que mudará sua realidade financeira, proporcionando mais dinheiro disponível em sua conta todos os meses, para que realize seus sonhos e viva mais feliz."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7YZmEAAAQBAJ",
+      "etag": "TZoxpZut5Q0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7YZmEAAAQBAJ",
+      "volumeInfo": {
+        "title": "DIREITOS SOCIAIS, MERCADO E TECNOLOGIA",
+        "authors": [
+          "DEISE MARCELINO DA SILVA",
+          "FÁBIO FERNANDES NEVES BENFATTI",
+          "CAMILA CARDOSO DE LIMA"
+        ],
+        "publisher": "Editora Thoth",
+        "publishedDate": "2022-03-29",
+        "description": "É com prazer que se apresenta o Livro “Direitos Sociais, Mercado e Tecnologia”, fruto dos relevantes trabalhos e ensaios submetidos e aprovados no “IV Congresso Internacional de Ciência Jurídica” e “I Congresso Internacional de Direito, Sociedade e Tecnologias” realizados pelo Programa de Mestrado Profissional em “Direito, Sociedade e Tecnologias” da Escola de Direito das Faculdades Londrina, nos dias 25, 26 e 27 de novembro de 2020, na cidade de Londrina, estado do Paraná. Em virtude da Pandemia da Covid-19, os eventos foram realizados pela plataforma do Zoom e transmitidos pelo canal do Youtube, o que permitiu maior alcance e participação de estudantes e pesquisadores.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786559592647"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6559592642"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "categories": [
+          "Antiques & Collectibles"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7YZmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7YZmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=7YZmEAAAQBAJ&printsec=frontcover&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=7YZmEAAAQBAJ&dq=inauthor:%22F%C3%A1bio+Fernandes%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/DIREITOS_SOCIAIS_MERCADO_E_TECNOLOGIA.html?hl=&id=7YZmEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/DIREITOS_SOCIAIS_MERCADO_E_TECNOLOGIA-sample-pdf.acsm?id=7YZmEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7YZmEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "É com prazer que se apresenta o Livro “Direitos Sociais, Mercado e Tecnologia”, fruto dos relevantes trabalhos e ensaios submetidos e aprovados no “IV Congresso Internacional de Ciência Jurídica” e “I Congresso Internacional de ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1455 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "bRK64aQ6KAMC",
+      "etag": "0wjWsH8sWVA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bRK64aQ6KAMC",
+      "volumeInfo": {
+        "title": "Hyperia",
+        "authors": [
+          "José Luis Zárate Herrera"
+        ],
+        "publisher": "LD Books",
+        "publishedDate": "1999",
+        "description": "Short stories. All of them with psichologycal analisis of the caracters, fears, horror, love and hated.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9687748362"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789687748368"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bRK64aQ6KAMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bRK64aQ6KAMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=bRK64aQ6KAMC&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=bRK64aQ6KAMC&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hyperia.html?hl=&id=bRK64aQ6KAMC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Hyperia-sample-pdf.acsm?id=bRK64aQ6KAMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bRK64aQ6KAMC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Short stories. All of them with psichologycal analisis of the caracters, fears, horror, love and hated."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "07sEzgEACAAJ",
+      "etag": "blS6o74huN8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/07sEzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Route of Ice and Salt",
+        "authors": [
+          "José Luis Zárate"
+        ],
+        "publishedDate": "2021-01-19",
+        "description": "A reimagining of Dracula's voyage to England, filled with Gothic imagery and queer desire. It's an ordinary assignment, nothing more. The cargo? Fifty boxes filled with Transylvanian soil. The route? From Varna to Whitby. The Demeter has made many trips like this. The captain has handled dozens of crews. He dreams familiar dreams: to taste the salt on the skin of his men, to run his hands across their chests. He longs for the warmth of a lover he cannot have, fantasizes about flesh and frenzied embraces. All this he's done before, it's routine, a constant, like the tides. Yet there's something different, something wrong. There are odd nightmares, unsettling omens and fear. For there is something in the air, something in the night, someone stalking the ship. The cult vampire novella by Mexican author José Luis Zárate is available for the first time in English. Translated by David Bowles and with an accompanying essay by noted horror author Poppy Z. Brite, it reveals an unknown corner of Latin American literature.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1927990297"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781927990292"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=07sEzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=07sEzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=07sEzgEACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=07sEzgEACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Route_of_Ice_and_Salt.html?hl=&id=07sEzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=07sEzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;It&#39;s an ordinary assignment, nothing more."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fL9DDwAAQBAJ",
+      "etag": "WuiT0fPfmlc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fL9DDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Xanto",
+        "subtitle": "Novelucha libre",
+        "authors": [
+          "José Luis Zárate"
+        ],
+        "publisher": "Ediciones Castillo",
+        "publishedDate": "2015-01-01",
+        "description": "Xanto, el Luchador de las Multitudes, superhéroe nacional y vencedor de muchas batallas, ha combatido toda clase de adversarios y amenazas. Pero ahora afronta el reto más grande que haya encarado cualquier defensor de la justicia: los Dioses-Monstruo de Más Allá de las Dimensones, las fuerzas de la Gran Oscuridad, no sólo han llegado a la Tierra, están en México, y se encuentran dispuestos a destruirlo todo. Sólo el mismo Xanto podría ser capaz de detenerlos. Una novela con humor y aventuras, arañas terroríficas, llaves y patadas, escrita por uno de los maestros de la imaginación fantástica en México.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786076219249"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6076219246"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 171,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fL9DDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fL9DDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=fL9DDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fL9DDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fL9DDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 49.49,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 49.49,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fL9DDwAAQBAJ&rdid=book-fL9DDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49490000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 49490000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Xanto-sample-epub.acsm?id=fL9DDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Xanto-sample-pdf.acsm?id=fL9DDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fL9DDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Xanto, el Luchador de las Multitudes, superhéroe nacional y vencedor de muchas batallas, ha combatido toda clase de adversarios y amenazas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8Qj0DwAAQBAJ",
+      "etag": "RAMrSUkR/KU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8Qj0DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Mutantes en el techo y otros rivales",
+        "authors": [
+          "José Luis Zárate"
+        ],
+        "publisher": "Ediciones SM",
+        "publishedDate": "2020-07-27",
+        "description": "En esta extraordinaria colección de narraciones breves, cortas y muy pequeñas se reúnen luchadores, cazadores de fantasmas, momias, monstruos, niños y personajes del futuro. Entre todos, te harán vivir las aventuras más fantásticas y espeluznantes que ponen los pelos de punta ante la cotidianidad de lo imprevisible. Una compilación de cuentos que evoca emociones que te mantendrán al borde del asiento.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786072439580"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6072439586"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 79,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8Qj0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8Qj0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=8Qj0DwAAQBAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8Qj0DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8Qj0DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 34.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 34.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8Qj0DwAAQBAJ&rdid=book-8Qj0DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 34900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Mutantes_en_el_techo_y_otros_rivales-sample-epub.acsm?id=8Qj0DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Mutantes_en_el_techo_y_otros_rivales-sample-pdf.acsm?id=8Qj0DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8Qj0DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En esta extraordinaria colección de narraciones breves, cortas y muy pequeñas se reúnen luchadores, cazadores de fantasmas, momias, monstruos, niños y personajes del futuro."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6QunDwAAQBAJ",
+      "etag": "7fnb8uvoJFU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6QunDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Entre la luz",
+        "subtitle": "(y otros temas igual de tangibles)",
+        "authors": [
+          "José Luis Zárate"
+        ],
+        "publisher": "Arlequín",
+        "publishedDate": "2018-01-12",
+        "description": "Los ensayos de José Luis Zárate son críticos, constructivos, destructivos, cortos y cómicos; en ellos lo real parece ser lo virtual y las posibilidades nos harían pensar que es factible invitarle una cerveza a Godzilla o tener como sensei al señor Miyagi (con unos buenos tacos de amiba frita de entremés, por supuesto). Con \"Entre la luz (y otros temas igual de tangibles)\" Zárate nos entrega textos en los que está vertida una profunda exploración de temas y personajes con los que varias generaciones han crecido: monstruos, películas de kung-fu, personajes de Disney, y todo ese vendaval de elementos de la cultura popular que \"se adhieren pegajosamente a nuestros zapatos, ondean gallardamente en páramos solitarios y continúan su existencia sin la carga de uso específico alguno\". Con una prosa ágil, pero no ligera, esta colección despierta en el lector cierta neostalgia por esa parte del pasado que se repite una y otra vez en televisión los sábados por la tarde, un loop que ha llegado a nuestra vida para quedarse, y que si nos fijamos es cada vez más tangible, como la luz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786079046897"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "607904689X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6QunDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6QunDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=6QunDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6QunDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6QunDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 19.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6QunDwAAQBAJ&rdid=book-6QunDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 19900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Entre_la_luz-sample-epub.acsm?id=6QunDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Entre_la_luz-sample-pdf.acsm?id=6QunDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6QunDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con &quot;Entre la luz (y otros temas igual de tangibles)&quot; Zárate nos entrega textos en los que está vertida una profunda exploración de temas y personajes con los que varias generaciones han crecido: monstruos, películas de kung-fu, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6L34EAAAQBAJ",
+      "etag": "lNiOXS0+E64",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6L34EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ventana 654",
+        "authors": [
+          "José Luis Zárate"
+        ],
+        "publisher": "Ediciones SM",
+        "publishedDate": "2023-11-10",
+        "description": "Raquel adora los videojuegos. Es una experta en el género survival horror, el cual consiste en sobrevivir en condiciones aterradoras. Tras ser invitada a una competencia, en la que destaca por su creatividad para superar las adversidades que le plantean los juegos, una misteriosa empresa la contrata como beta tester para probar un extraño y avanzadísimo videojuego de realidad virtual. A partir de ese momento, se desata una serie de acontecimientos que la llevarán a descubrir un mundo de alta tecnología en el que vivirá aventuras que le darán un giro radical a su existencia. En esta novela, José Luis Zárate nos advierte sobre algunos de los riesgos a futuro que implica la forma de vida que tenemos en la actualidad.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786072448865"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6072448860"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6L34EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6L34EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=6L34EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6L34EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6L34EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 64.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 64.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6L34EAAAQBAJ&rdid=book-6L34EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 64900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 64900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6L34EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En esta novela, José Luis Zárate nos advierte sobre algunos de los riesgos a futuro que implica la forma de vida que tenemos en la actualidad."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YTfmAAAAMAAJ",
+      "etag": "3iZrizV/qUQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YTfmAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Xanto",
+        "subtitle": "novelucha libre",
+        "authors": [
+          "José Luis Zárate Herrera"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173001999417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YTfmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YTfmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=YTfmAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=YTfmAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Xanto.html?hl=&id=YTfmAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YTfmAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9i0fAQAAIAAJ",
+      "etag": "GD7LRY1Bec8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9i0fAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Las razas ocultas",
+        "authors": [
+          "José Luis Zárate Herrera"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105110131211"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "categories": [
+          "Extraterrestrial beings"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9i0fAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9i0fAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=9i0fAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=9i0fAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_razas_ocultas.html?hl=&id=9i0fAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9i0fAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LS4fAQAAIAAJ",
+      "etag": "jj9mTquxzZo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LS4fAQAAIAAJ",
+      "volumeInfo": {
+        "title": "La ruta del hielo y la sal",
+        "subtitle": "novela",
+        "authors": [
+          "José Luis Zárate Herrera"
+        ],
+        "publisher": "Grupo Editorial VID",
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105021639047"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LS4fAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LS4fAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=LS4fAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=LS4fAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_ruta_del_hielo_y_la_sal.html?hl=&id=LS4fAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LS4fAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9S0fAQAAIAAJ",
+      "etag": "f25v3J9qL/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9S0fAQAAIAAJ",
+      "volumeInfo": {
+        "title": "En el principio fue la sangre",
+        "authors": [
+          "José Luis Zárate Herrera"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105114955946"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9S0fAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9S0fAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=9S0fAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=9S0fAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/En_el_principio_fue_la_sangre.html?hl=&id=9S0fAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9S0fAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RA9EDwAAQBAJ",
+      "etag": "E2VARtyoHxw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RA9EDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Sombras. Cuentos de extraña imaginación",
+        "subtitle": "Cuentos de extraña imaginación",
+        "authors": [
+          "Andrés Acosta",
+          " Raquel  Castro",
+          " Karen  Chacek",
+          " Alberto  Chimal",
+          " Cecilia  Eudave",
+          " Rodolfo  JM.",
+          " Erika Mergruen",
+          " Jaime Alfonso Sandoval",
+          " José Luis Zárate"
+        ],
+        "publisher": "Ediciones Castillo",
+        "publishedDate": "2015-01-01",
+        "description": "Este libro contiene los torcidos frutos de nueve fértiles imaginaciones, nueve correrías por regiones de luminosas vidas cotidianas que han sido invadidas por la oscuridad. Si te aventuras a internarte en sus páginas en compañía de José Luis Zárate, Karen Chacek, Raquel Castro, Rodolfo JM, Erika Mergruen, Andrés Acosta, Cecilia Eudave, Alberto Chimal y Jaime Alfonso Sandoval, es muy probable que halles tus miedos menos explorados, tus más tétricas quimeras, que no salgas a salvo de ellas. No es un reto, es una invitación… Criaturas que navegan a través del ancho río que marca la frontera entre lo tangible y lo imaginario; transitan de ida y vuelta entre las explicaciones de la ciencia y lo inexplicable; levitan sobre el abismo que divide lo real de lo inconcebible.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786076219492"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6076219491"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RA9EDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RA9EDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=RA9EDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RA9EDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RA9EDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 49.49,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 49.49,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RA9EDwAAQBAJ&rdid=book-RA9EDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49490000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 49490000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Sombras_Cuentos_de_extra%C3%B1a_imaginaci%C3%B3n-sample-epub.acsm?id=RA9EDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Sombras_Cuentos_de_extra%C3%B1a_imaginaci%C3%B3n-sample-pdf.acsm?id=RA9EDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RA9EDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Si te aventuras a internarte en sus páginas en compañía de José Luis Zárate, Karen Chacek, Raquel Castro, Rodolfo JM, Erika Mergruen, Andrés Acosta, Cecilia Eudave, Alberto Chimal y Jaime Alfonso Sandoval, es muy probable que halles ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EfvWzgEACAAJ",
+      "etag": "+3fLU+uH/Hg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EfvWzgEACAAJ",
+      "volumeInfo": {
+        "title": "La ruta del hielo y la sal",
+        "subtitle": "viaje de misterio y fantasías",
+        "authors": [
+          "José Luis Zárate",
+          "José Luis Zárate Herrera"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6071667763"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786071667762"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=EfvWzgEACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=EfvWzgEACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_ruta_del_hielo_y_la_sal.html?hl=&id=EfvWzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EfvWzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "José Luis Zárate nos hace cómplices de ello y nos lleva clandestinamente en el Deméter, un navío que habrá de recorrer un sinfín de rutas gélidas, donde el vacío y el silencio serán los únicos testigos del comportamiento de sus ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7r24b2pIumUC",
+      "etag": "GZNoIHBjI5Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7r24b2pIumUC",
+      "volumeInfo": {
+        "title": "Ventana 654",
+        "subtitle": "Cuánto falta para el futuro?",
+        "authors": [
+          "José Luis Zárate Herrera"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UFL:31262082690891"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "Environmental education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7r24b2pIumUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7r24b2pIumUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=7r24b2pIumUC&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=7r24b2pIumUC&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ventana_654.html?hl=&id=7r24b2pIumUC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7r24b2pIumUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A-KZAAAAIAAJ",
+      "etag": "a1XZAqcU7eE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A-KZAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Quitzä y otros sitios",
+        "authors": [
+          "José Luis Zárate Herrera"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106016092758"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A-KZAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A-KZAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=A-KZAAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=A-KZAAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Quitz%C3%A4_y_otros_sitios.html?hl=&id=A-KZAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A-KZAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "45mHzQEACAAJ",
+      "etag": "Uc5ukYZvflw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/45mHzQEACAAJ",
+      "volumeInfo": {
+        "title": "Máscara Vs. Revólver",
+        "authors": [
+          "José Salvador Ruiz",
+          "Iván Farías",
+          "Carlos René Padilla",
+          "Dán Lee",
+          "Guillermo Fajardo",
+          "Guillermo Rubio",
+          "Jaime Muñoz Vargas",
+          "José Luis Zárate",
+          "Manuel Ayala",
+          "Ricardo Guzmán Wolffer"
+        ],
+        "publishedDate": "2018-03-07",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1947921169"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781947921160"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=45mHzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=45mHzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=45mHzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=45mHzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A1scara_Vs_Rev%C3%B3lver.html?hl=&id=45mHzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=45mHzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZmYqzwEACAAJ",
+      "etag": "tT58kK2nQtE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZmYqzwEACAAJ",
+      "volumeInfo": {
+        "title": "Robustification of a Biologically Inspired Flapping Mechanism",
+        "authors": [
+          "José Luis Zárate Moya"
+        ],
+        "publishedDate": "2022*",
+        "description": "Autonom fliegende Roboter, die von der Biologie der Vögel oder Insekten inspiriert sind, haben ein breites Anwendungsspektrum, zum Beispiel als Wetter- und Umweltmessgerät in der Präzisionslandwirtschaft oder zur Überwachung bei Rettungseinsätzen. Diese Micro-Air-Vehicle-Roboter sind hoch manövrierfähig und können schnell zwischen verschiedenen Flugmodi wechseln. Sie sind kollisionssicher, indem sie sich ohne menschliches Eingreifen anpassen und ein koordiniertes Verhalten in großen Gruppen mit Unterstützung von Sensoren und Steuergeräten, die Informationen aus der Umgebung erhalten, und einer effizienten integrierten Energiequelle erreichen. Die Herausforderung besteht jedoch darin, Schlagflügel-MAVs zu entwerfen, die in der Lage sind, bei kleinen Abmessungen und begrenzter Nutzlast autonom zu fliegen. Der Entwurf eines anpassungsfähigen Systems zur Analyse der Eigenschaften der Flugdynamik in Schlagflügelsystemen hilft bei der Untersuchung ihrer Eigenschaften und ermöglicht den Einsatz verschiedener Steuerungstechniken zur Verbesserung ihrer Leistung. Die Software zur Identifizierung der Systemparameter, z.B. Schlagfrequenz, Position oder Geschwindigkeit, bietet die Möglichkeit, diese Komplexität zu beherrschen. Diese Art von Plattform ermöglicht die Untersuchung der mechatronischen Steuerung in kleinen Flugsystemen. Der Beitrag in dieser Dissertation stellt einen Prototyp eines Prüfstandes vor, der auf einem mathematischen Modell einer Balkenstruktur mit einem Schlagflügelroboter basiert. Die Vorrichtung besteht aus einem Balken, der einen rotatorischen Freiheitsgrad hat, der in einer vertikalen Ebene enthalten ist, an deren einem Ende sich der Schlagmechanismus befindet. Die gewonnenen Daten und die Anwendung der Regelungsmethode werden mit dem Tool MATLAB® SIMULINK® und einem Arduino®-Gerät als Schnittstelle zwischen dem System und dem PC durchgeführt. Die Modellparameter wurden experimentell ermittelt, die Steuerung wurde in Echtzeit implementiert und mit dem mathematischen Modell des Systems verglichen.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1312220000"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=ZmYqzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ZmYqzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Robustification_of_a_Biologically_Inspir.html?hl=&id=ZmYqzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZmYqzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Autonom fliegende Roboter, die von der Biologie der Vögel oder Insekten inspiriert sind, haben ein breites Anwendungsspektrum, zum Beispiel als Wetter- und Umweltmessgerät in der Präzisionslandwirtschaft oder zur Überwachung bei ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pYwFjwEACAAJ",
+      "etag": "EWyG+ybgZm8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pYwFjwEACAAJ",
+      "volumeInfo": {
+        "title": "Tracking Controller Design for a Nonlinear Model of a Gantry Crane Based on Dynamic Exiension and Robustification",
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:927832872"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=pYwFjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=pYwFjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tracking_Controller_Design_for_a_Nonline.html?hl=&id=pYwFjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pYwFjwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1-KczwEACAAJ",
+      "etag": "vLKLKcQbN0I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1-KczwEACAAJ",
+      "volumeInfo": {
+        "title": "Amores de Lhuna",
+        "authors": [
+          "José Luis Zárate Herrera"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6079390388"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786079390389"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=1-KczwEACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=1-KczwEACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Amores_de_Lhuna.html?hl=&id=1-KczwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1-KczwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GcPitgAACAAJ",
+      "etag": "LsW8MsCb+QM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GcPitgAACAAJ",
+      "volumeInfo": {
+        "title": "El Laboratorio como Estrategia Didáctica en el area de Ciencias Naturales",
+        "subtitle": "José Luis Zárate Palacios",
+        "authors": [
+          "José Luis Zárate Palacios"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:260031672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=GcPitgAACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=GcPitgAACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Laboratorio_como_Estrategia_Did%C3%A1ctic.html?hl=&id=GcPitgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GcPitgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0zKscQAACAAJ",
+      "etag": "SNg/Sm4HHLg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0zKscQAACAAJ",
+      "volumeInfo": {
+        "title": "La máscara del héroe",
+        "authors": [
+          "José Luis Zárate Herrera"
+        ],
+        "publishedDate": "2009-05",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8496013626"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788496013629"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=0zKscQAACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=0zKscQAACAAJ&dq=inauthor:%22Jos%C3%A9+Luis+Z%C3%A1rate%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_m%C3%A1scara_del_h%C3%A9roe.html?hl=&id=0zKscQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0zKscQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Desde hace más de veinte años, el escritor mexicano José Luis Zárate (Puebla, 1966) ha marcado el camino de la ciencia ficción y la literatura fantástica de su país."
+      }
+    }
+  ]
+}

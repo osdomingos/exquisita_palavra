@@ -1,0 +1,1548 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "9GGiDwAAQBAJ",
+      "etag": "iq5ytz8vfkc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9GGiDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A fúria",
+        "subtitle": "E outros contos",
+        "authors": [
+          "Silvina Ocampo"
+        ],
+        "publisher": "Companhia das Letras",
+        "publishedDate": "2019-08-09",
+        "description": "Os contos de Silvina Ocampo — monstruosos, insólitos, perturbadores, sinistros, irreais — são o tesouro mais bem guardado da literatura latino-americana do século XX. Finalmente vemos chegar ao Brasil um livro de Silvina Ocampo, que está entre os escritores mais surpreendentes e intensos do continente. Publicado em 1959, A fúria é considerado \"o mais ocampiano\" dos livros de Silvina, obra em que a autora encontra sua voz única e inaugura seu universo alucinado. \"Nos seus contos há algo que não consigo compreender: um estranho amor por certa crueldade inocente e oblíqua\", escreveu o amigo Jorge Luis Borges. Saídas do que Roberto Bolaño chamou de \"uma limpa cozinha literária\", suas histórias misturam elegância e excesso, distanciamento e intensidade, calma e horror. Há a influência macabra que a antiga dona de uma casa exerce na nova inquilina (\"A casa de açúcar\", o conto favorito de Julio Cortázar); adivinhos e premonições (\"A sibila\" e \"Magush\"); amores loucos (\"A paciente e o médico\"); a festa de aniversário de uma jovem paralítica (\"As fotografias\"); e uma profusão de crianças malignas, como a que incendeia cruelmente uma amiga no conto que dá título ao livro. Revalorizada com entusiasmo nos últimos anos, a literatura de Silvina Ocampo é singular, complexa, envolvente e nos convida, como poucas, à fantasia e à imaginação. \"Eu não conheço outro escritor que capture melhor a magia dos rituais cotidianos, o rosto proibido ou oculto que nossos espelhos não nos mostram.\" — Italo Calvino \"Irmã de Victoria Ocampo, esposa de Adolfo Bioy Casares, amiga íntima de Jorge Luis Borges, uma das mulheres mais ricas e extravagantes da Argentina, uma das escritoras mais talentosas e singulares da literatura em espanhol: todos estes títulos não explicam Silvina, não a definem, não servem para entender o seu mistério.\" — Mariana Enriquez \" A fúria é uma das reuniões de contos mais intensas da literatura argentina. A primeira leitura deste livro pode suscitar mal-estares, mudanças de ânimo, deslumbramentos. Certas frases e uma ou outra palavra violenta desencadeiam a perplexidade e a inquietude física.\" — Tomás Eloy Martínez",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788554514723"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8554514726"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 207,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9GGiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9GGiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=9GGiDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9GGiDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9GGiDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 27.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9GGiDwAAQBAJ&rdid=book-9GGiDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 27950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_f%C3%BAria-sample-epub.acsm?id=9GGiDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9GGiDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Publicado em 1959, A fúria é considerado &quot;o mais ocampiano&quot; dos livros de Silvina, obra em que a autora encontra sua voz única e inaugura seu universo alucinado."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "68xqEAAAQBAJ",
+      "etag": "CA1HHrjvyL4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/68xqEAAAQBAJ",
+      "volumeInfo": {
+        "title": "As convidadas",
+        "authors": [
+          "Silvina Ocampo"
+        ],
+        "publisher": "Companhia das Letras",
+        "publishedDate": "2022-05-24",
+        "description": "Segundo livro da autora argentina publicado no Brasil, As convidadas reúne 44 contos breves em que fantasmas emergem de fotos, crianças surdas-mudas criam asas e o absurdo irrompe de fatos e objetos cotidianos para destroçar a monotonia das relações familiares. Uma das escritoras fundamentais do século XX, Silvina Ocampo vem sendo revalorizada com entusiasmo nos últimos anos. Seu nome é cada vez mais citado como referência por uma nova geração de autoras que tem alcançado protagonismo nas letras latino-americanas, e sua obra começa a sair da sombra de figuras como Adolfo Bioy Casares e Jorge Luis Borges, que faziam parte de seu grupo literário em Buenos Aires. As convidadas, lançado originalmente em 1961, é considerado emblemático em sua maturidade estilística. As obsessões da escritora, como as crianças que agem de maneira enigmática e muitas vezes parecem mimetizar os adultos, retornam já no primeiro conto, \"Assim eram seus rostos\", até atingirem uma apoteose no texto que dá título ao livro. Nele, um garoto enfermo é deixado a sós com a empregada em seu aniversário de seis anos, quando recebe como convidadas meninas estranhíssimas, vindas sabe-se lá de onde. O desfecho é uma síntese do humor absurdo presente na prosa de Silvina, sempre atravessada por elementos insólitos e perturbadores. \"Em seus contos, o mundo trivial permanece reconhecível, ainda que estranho e transfigurado: de repente, ele se abre e é outro, mas a passagem da fronteira é completamente imperceptível.\" — Alejandra Pizarnik \"Poucos escritores têm um olhar para os pequenos horrores da vida cotidiana; um número ainda menor de autores enxerga o maravilhoso do dia a dia. Não consigo pensar em ninguém, além de Silvina Ocampo, que registrou ambos com um humor tão sábio e elegante.\" — Alberto Manguel",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786557823941"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6557823949"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 267,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=68xqEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=68xqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=68xqEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=68xqEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=68xqEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 27.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=68xqEAAAQBAJ&rdid=book-68xqEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 27950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As_convidadas-sample-epub.acsm?id=68xqEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=68xqEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As convidadas, lançado originalmente em 1961, é considerado emblemático em sua maturidade estilística."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N-rxzwEACAAJ",
+      "etag": "AOaikuT6eiI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N-rxzwEACAAJ",
+      "volumeInfo": {
+        "title": "Antologia de la literatura fantastica",
+        "authors": [
+          "Jorge Luis Borges",
+          "Adolfo Bioy Casares",
+          "Silvina Ocampo"
+        ],
+        "publishedDate": "2019-04-23",
+        "description": "Clássico absoluto da literatura em língua espanhola, este volume reúne 75 contos fantásticos de todos os tempos, de mestres do gênero como Edgar Allan Poe, H. G. Wells, Franz Kafka e Julio Cortázar, entre outros. Numa noite de 1937, ao conversar sobre ficções fantásticas, três amigos — Jorge Luis Borges, Adolfo Bioy Casares e Silvina Ocampo — resolveram criar uma antologia com seus autores preferidos. Do filósofo Martin Buber ao explorador Richard Burton, passando pela tradição dos contos orientais, além de Cortázar, Kafka, Cocteau, Joyce, Wells e Rabelais, são 75 histórias — não só contos, como fragmentos de romance e peças de teatro — que nos apresentam uma literatura marcada pelo imaginário e por um modo diferente de representar a realidade. “A nossa sociedade — global, multilinguística, imensamente irracional — talvez só possa descrever a si mesma com a linguagem intuitiva da fantasia”, anota a escritora Ursula K. Le Guin no posfácio desta edição.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8535931635"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788535931631"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=N-rxzwEACAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=N-rxzwEACAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antologia_de_la_literatura_fantastica.html?hl=&id=N-rxzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N-rxzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Numa noite de 1937, ao conversar sobre ficções fantásticas, três amigos — Jorge Luis Borges, Adolfo Bioy Casares e Silvina Ocampo — resolveram criar uma antologia com seus autores preferidos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rjC9rQEACAAJ",
+      "etag": "7d7ZdmneXkM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rjC9rQEACAAJ",
+      "volumeInfo": {
+        "title": "Antologia da literatura fantástica",
+        "authors": [
+          "Adolfo Bioy Casares",
+          "Jorge Luis Borges",
+          "Silvina Ocampo"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8540504545"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788540504547"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 444,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=rjC9rQEACAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=rjC9rQEACAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antologia_da_literatura_fant%C3%A1stica.html?hl=&id=rjC9rQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rjC9rQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SQU3BAAAQBAJ",
+      "etag": "iXFkECIFN5c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SQU3BAAAQBAJ",
+      "volumeInfo": {
+        "title": "Silvina Ocampo",
+        "authors": [
+          "Silvina Ocampo"
+        ],
+        "publisher": "New York Review of Books",
+        "publishedDate": "2015-01-27",
+        "description": "Silvina Ocampo possessed her own special enchantment as a poet, and only now is her extraordinary poetic achievement becoming more widely recognized beyond Latin America. Remarkably, this is the first collection of Ocampo’s poetry to appear in English. From her early sonnets on the native Argentine landscape, to her meditations on love’s travails, to her explorations of the kinship between plant and animal realms, to her clairvoyant inquiries into history and myth and memory, readers will find the full range of Ocampo’s “metaphysical lyricism” (The Independent) represented in this groundbreaking edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781590178058"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "159017805X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 177,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SQU3BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SQU3BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=SQU3BAAAQBAJ&printsec=frontcover&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SQU3BAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SQU3BAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 83.57,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 83.57,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SQU3BAAAQBAJ&rdid=book-SQU3BAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 83570000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 83570000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Silvina_Ocampo-sample-epub.acsm?id=SQU3BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Silvina_Ocampo-sample-pdf.acsm?id=SQU3BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SQU3BAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Remarkably, this is the first collection of Ocampo’s poetry to appear in English."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_wQ3BAAAQBAJ",
+      "etag": "Q3Wi6vzouCs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_wQ3BAAAQBAJ",
+      "volumeInfo": {
+        "title": "Thus Were Their Faces",
+        "subtitle": "Selected Stories",
+        "authors": [
+          "Silvina Ocampo"
+        ],
+        "publisher": "New York Review of Books",
+        "publishedDate": "2015-01-27",
+        "description": "An NYRB Classics Original Thus Were Their Faces offers a comprehensive selection of the short fiction of Silvina Ocampo, undoubtedly one of the twentieth century’s great masters of the story and the novella. Here are tales of doubles and impostors, angels and demons, a marble statue of a winged horse that speaks, a beautiful seer who writes the autobiography of her own death, a lapdog who records the dreams of an old woman, a suicidal romance, and much else that is incredible, mad, sublime, and delicious. Italo Calvino has written that no other writer “better captures the magic inside everyday rituals, the forbidden or hidden face that our mirrors don’t show us.” Jorge Luis Borges flatly declared, “Silvina Ocampo is one of our best writers. Her stories have no equal in our literature.” Dark, gothic, fantastic, and grotesque, these haunting stories are among the world’s most individual and finest.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781590177990"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1590177991"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 385,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_wQ3BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_wQ3BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=_wQ3BAAAQBAJ&printsec=frontcover&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_wQ3BAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_wQ3BAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 104.53,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 104.53,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_wQ3BAAAQBAJ&rdid=book-_wQ3BAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 104530000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 104530000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Thus_Were_Their_Faces-sample-epub.acsm?id=_wQ3BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Thus_Were_Their_Faces-sample-pdf.acsm?id=_wQ3BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_wQ3BAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An NYRB Classics Original Thus Were Their Faces offers a comprehensive selection of the short fiction of Silvina Ocampo, undoubtedly one of the twentieth century’s great masters of the story and the novella."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m73KqYXgnN0C",
+      "etag": "B8+ONjmw97E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m73KqYXgnN0C",
+      "volumeInfo": {
+        "title": "Leopoldina's Dream",
+        "authors": [
+          "Silvina Ocampo"
+        ],
+        "publisher": "Markham, Ont. : Penguin Books Canada",
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015019360018"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.14.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m73KqYXgnN0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m73KqYXgnN0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=m73KqYXgnN0C&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=m73KqYXgnN0C&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Leopoldina_s_Dream.html?hl=&id=m73KqYXgnN0C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m73KqYXgnN0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G8ubDwAAQBAJ",
+      "etag": "m5Sbz+7V1r8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G8ubDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Forgotten Journey",
+        "authors": [
+          "Silvina Ocampo"
+        ],
+        "publisher": "City Lights Books",
+        "publishedDate": "2019-10-22",
+        "description": "\"The world is ready for her blend of insane Angela Carter with the originality of Clarice Lispector.\"—Mariana Enriquez, LitHub Delicately crafted, intensely visual, deeply personal stories explore the nature of memory, family ties, and the difficult imbalances of love. \"Both her debut story collection, Forgotten Journey, and her only novel, The Promise, are strikingly 20th-century texts, written in a high-modernist mode rarely found in contemporary fiction.\"—Lily Meyer, NPR \"Silvina Ocampo is one of our best writers. Her stories have no equal in our literature.\"––Jorge Luis Borges \"I don't know of another writer who better captures the magic inside everyday rituals, the forbidden or hidden face that our mirrors don't show us.\"—Italo Calvino \"These two newly translated books could make her a rediscovery on par with Clarice Lispector. . . . there has never been another voice like hers.\"—John Freeman, Executive Editor, LitHub \" . . . it is for the precise and terrible beauty of her sentences that this book should be read.A masterpiece of midcentury modernist literature triumphantly translated into our times.\"—Publishers Weekly * Starred Review \"Ocampo is beyond great—she is necessary.\"—Hernan Diaz, author of In the Distance and Associate Director of the Hispanic Institute at Columbia University \"Like William Blake, Ocampo's first voice was that of a visual artist; in her writing she retains the will to unveil immaterial so that we might at least look at it if not touch it.\"—Helen Oyeyemi, author of Gingerbread \"Ocampo is a legend of Argentinian literature, and this collection of her short stories brings some of her most recondite and mysterious works to the English-speaking world. . . . This collection is an ideal introduction to a beguiling body of work.\"—Publishers Weekly This collection of 28 short stories, first published in 1937 and now in English translation for the first time, introduced readers to one of Argentina's most original and iconic authors. With this, her fiction debut, poet Silvina Ocampo initiated a personal, idiosyncratic exploration of the politics of memory, a theme to which she would return again and again over the course of her unconventional life and productive career. Praise for Forgotten Journey: \"Ocampo is one of those rare writers who seems to write fiction almost offhandedly, but to still somehow do more in four or five pages than most writers do in twenty. Before you know it, the seemingly mundane has bared its surreal teeth and has you cornered.\"—Brian Evenson, author of Song for the Unraveling of the World: Stories \"The Southern Cone queen of the short-story, Ocampo displays all her mastery in Forgotten Journey. After finishing the book, you only want more.\"—Gabriela Alemán, author of Poso Wells \"Silvina Ocampo's fiction is wondrous, heart-piercing, and fiercely strange. Her fabulism is as charming as Borges’s. Her restless sense of invention foregrounds the brilliant feminist work of writers like Clarice Lispector and Samanta Schweblin. It’s thrilling to have work of this magnitude finally translated into English, head spinning and thrilling.\"—Alyson Hagy, author of Scribe",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780872868021"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0872868028"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G8ubDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G8ubDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=G8ubDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=G8ubDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G8ubDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 57.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 57.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=G8ubDwAAQBAJ&rdid=book-G8ubDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 57900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 57900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Forgotten_Journey-sample-epub.acsm?id=G8ubDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Forgotten_Journey-sample-pdf.acsm?id=G8ubDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G8ubDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": ". This collection is an ideal introduction to a beguiling body of work.&quot;—Publishers Weekly This collection of 28 short stories, first published in 1937 and now in English translation for the first time, introduced readers to one of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oD7FAy1wXToC",
+      "etag": "DXZlo8sgUWM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oD7FAy1wXToC",
+      "volumeInfo": {
+        "title": "Autobiografía de Irene",
+        "authors": [
+          "Silvina Ocampo"
+        ],
+        "publisher": "LUMEN",
+        "publishedDate": "2011-04-01",
+        "description": "Esta nueva edición incluye cinco cuentos y se agrega el argumento inédito que la autora escribió para una versión cinematográfica nunca realizada de «El impostor». «Es una obra extrema, cuyos paralelismos más cercanos en la literatura nacional parecen ser \"Ficciones\", de Jorge Luis Borges, y \"La trama celeste\", de Adolfo Bioy Casares».",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789500733915"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9500733919"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 91,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.20.20.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oD7FAy1wXToC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oD7FAy1wXToC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=oD7FAy1wXToC&printsec=frontcover&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=oD7FAy1wXToC&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Autobiograf%C3%ADa_de_Irene.html?hl=&id=oD7FAy1wXToC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Autobiograf%C3%ADa_de_Irene-sample-epub.acsm?id=oD7FAy1wXToC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Autobiograf%C3%ADa_de_Irene-sample-pdf.acsm?id=oD7FAy1wXToC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oD7FAy1wXToC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Esta nueva edición incluye cinco cuentos y se agrega el argumento inédito que la autora escribió para una versión cinematográfica nunca realizada de «El impostor». «Es una obra extrema, cuyos paralelismos más cercanos en la ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FcubDwAAQBAJ",
+      "etag": "q5IZO1++hYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FcubDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Promise",
+        "authors": [
+          "Silvina Ocampo"
+        ],
+        "publisher": "City Lights Books",
+        "publishedDate": "2019-10-22",
+        "description": "Kirkus Reviews calls The Promise one of the Best Books of Fiction, and of Literature in Translation, of the year! * Voted one of the Big Fall Books from Indies by Publishers Weekly & LitHub's Most Anticipated Books of 2019 \"The world is ready for her blend of insane Angela Carter with the originality of Clarice Lispector.\"—Mariana Enriquez, LitHub \"Both her debut story collection, Forgotten Journey, and her only novel, The Promise, are strikingly 20th-century texts, written in a high-modernist mode rarely found in contemporary fiction.\"—Lily Meyer, NPR A dying woman's attempt to recount the story of her life reveals the fragility of memory and the illusion of identity. \"Of all the words that could define her, the most accurate is, I think, ingenious.\"—Jorge Luis Borges \"I don't know of another writer who better captures the magic inside everyday rituals, the forbidden or hidden face that our mirrors don't show us.\"—Italo Calvino \"Few writers have an eye for the small horrors of everyday life; fewer still see the everyday marvelous. Other than Silvina Ocampo, I cannot think of a single writer who, at any time in any language, has chronicled both with such wise and elegant humor.\"—Alberto Manguel \"Art is the cure for death. A seminal work by an underread master. Required for all students of the human condition.\"—Starred Review, Kirkus Reviews \"This haunting and vital final work from Ocampo, her only novel, is about a woman's life flashing before her eyes when she's stranded in the ocean. . . . the book’s true power is its depiction of the strength of the mind and the necessity of storytelling, which for the narrator is literally staving off death. Ocampo’s portrait of one woman’s interior life is forceful and full of hope.\"—Gabe Habash, Starred Review, Publishers Weekly \"Ocampo is beyond great—she is necessary.\"—Hernan Diaz, author of In the Distance \"I don't know of another writer who better captures the magic inside everyday rituals, the forbidden or hidden face that our mirrors don't show us.\"—Italo Calvino \"These two newly translated books could make her a rediscovery on par with Clarice Lispector. . . . there has never been another voice like hers.\"—John Freeman, Executive Editor, LitHub \"Like William Blake, Ocampo's first voice was that of a visual artist; in her writing she retains the will to unveil immaterial so that we might at least look at it if not touch it.\"—Helen Oyeyemi, author of Gingerbread A woman traveling on a transatlantic ship has fallen overboard. Adrift at sea, she makes a promise to Saint Rita, \"arbiter of the impossible,\" that if she survives, she will write her life story. As she drifts, she wonders what she might include in the story of her life—a repertoire of miracles, threats, and people parade tumultuously through her mind. Little by little, her imagination begins to commandeer her memories, escaping the strictures of realism. Translated into English for the very first time, The Promise showcases Silvina Ocampo at her most feminist, idiosyncratic and subversive. Ocampo worked quietly to perfect this novella over the course of twenty-five years, nearly up until the time of her death in 1993.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780872868038"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0872868036"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 118,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FcubDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FcubDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=FcubDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FcubDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FcubDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 61.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 61.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FcubDwAAQBAJ&rdid=book-FcubDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 61900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 61900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Promise-sample-epub.acsm?id=FcubDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Promise-sample-pdf.acsm?id=FcubDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FcubDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Kirkus Reviews calls The Promise one of the Best Books of Fiction, and of Literature in Translation, of the year! * Voted one of the Big Fall Books from Indies by Publishers Weekly &amp; LitHub&#39;s Most Anticipated Books of 2019 &quot;The world is ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gYoizSPtH-0C",
+      "etag": "TFHVyP2nyRg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gYoizSPtH-0C",
+      "volumeInfo": {
+        "title": "Where There's Love, There's Hate",
+        "authors": [
+          "Adolfo Bioy Casares",
+          "Silvina Ocampo"
+        ],
+        "publisher": "Melville House",
+        "publishedDate": "2013-05-14",
+        "description": "A witty yet gripping pastiche of murder mysteries set in an Argentine seaside resort, peppered with literary allusions In seaside Bosque de Mar, guests at the Hotel Central are struck by double misfortune: the mysterious death of one of their party, and an investigation headed by the physician, writer and insufferable busybody, Dr. Humberto Huberman. When quiet, young translator Mary is found dead on the first night of Huberman's stay, he quickly appoints himself leader of an inquiry that will see blame apportioned in turn to each and every guest--including Mary's own sister--and culminating in a wild, wind-blown reconnaissance mission to the nearby shipwreck, the Joseph K. Never before translated into English, Where There's Love, There's Hate is both genuinely suspenseful mystery fiction and an ingenious pastiche of the genre, the only novel co-written by two towering figures of Latin American literature. Famously friends and collaborators of Jorge Luis Borges, husband and wife Bioy Casares and Ocampo combine their gifts to produce a novel that's captivating, unashamedly erudite and gloriously witty.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781612191515"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1612191517"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 111,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gYoizSPtH-0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gYoizSPtH-0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=gYoizSPtH-0C&printsec=frontcover&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=gYoizSPtH-0C&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Where_There_s_Love_There_s_Hate.html?hl=&id=gYoizSPtH-0C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Where_There_s_Love_There_s_Hate-sample-epub.acsm?id=gYoizSPtH-0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gYoizSPtH-0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When quiet, young translator Mary is found dead on the first night of Huberman&#39;s stay, he quickly appoints himself leader of an inquiry that will see blame apportioned in turn to each and every guest--including Mary&#39;s own sister--and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ScNlAAAAMAAJ",
+      "etag": "jV6s7+5GWPA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ScNlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "San Isidro",
+        "authors": [
+          "Victoria Ocampo"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018459753"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Photography, Artistic"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ScNlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ScNlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ScNlAAAAMAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ScNlAAAAMAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/San_Isidro.html?hl=&id=ScNlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ScNlAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g6TEEAAAQBAJ",
+      "etag": "QuMKfzGon9s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g6TEEAAAQBAJ",
+      "volumeInfo": {
+        "title": "La promesa",
+        "authors": [
+          "Silvina Ocampo"
+        ],
+        "publisher": "LUMEN",
+        "publishedDate": "2023-07-01",
+        "description": "La promesa es la ficción más extensa de Silvina Ocampo y a la que se dedicó, con intermitencias, durante unos 25 años. Una mujer se inclina sobre la baranda de un transatlántico para recoger un broche y cae accidentalmente por la borda. Mientras el barco se aleja, promete a Santa Rita, la \"abogada de lo imposible\", que si logra salvarse escribirá su autobiografía. Personas y lugares desfilan ante sus ojos formando un \"diccionario de recuerdos\" a menudo crueles o perturbadores, mientras el mar la rodea con toda su furia. Poco a poco, la imaginación de la náufraga empieza a jugar con esas imágenes del pasado como si quisiera distraerla de los peligros que la acechan, hasta que las fronteras entre lo vivido y lo soñado se desdibujan en una narración que va tornándose cada vez más exuberante, más poética, a medida que se acerca el desenlace inevitable. Escrita a comienzos de la década de 1960 y sometida a varias reescrituras durante las décadas siguientes, esta \"novela fantasmagórica\" permaneció inédita en vida de su autora. Publicada por primera vez en 2011, deslumbra por su audacia formal, por las invenciones de su trama, por la prosa siempre inspirada de Silvina Ocampo. «Silvina Ocampo es un genio, una de las grandes.» César Aira",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788426481665"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8426481663"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g6TEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g6TEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=g6TEEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=g6TEEAAAQBAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_promesa.html?hl=&id=g6TEEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_promesa-sample-epub.acsm?id=g6TEEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_promesa-sample-pdf.acsm?id=g6TEEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g6TEEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La promesa es la ficción más extensa de Silvina Ocampo y a la que se dedicó, con intermitencias, durante unos 25 años."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4vV_NAAACAAJ",
+      "etag": "MHmzgYV5k5s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4vV_NAAACAAJ",
+      "volumeInfo": {
+        "title": "Los días de la noche",
+        "authors": [
+          "Silvina Ocampo"
+        ],
+        "publisher": "Alianza Editorial Sa",
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "842063123X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788420631233"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=4vV_NAAACAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=4vV_NAAACAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_d%C3%ADas_de_la_noche.html?hl=&id=4vV_NAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4vV_NAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6vMrAAAAMAAJ",
+      "etag": "Awk0bDKmDDU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6vMrAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Páginas de Silvina Ocampo",
+        "authors": [
+          "Silvina Ocampo",
+          "Enrique Pezzoni"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015008910831"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6vMrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6vMrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=6vMrAAAAMAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=6vMrAAAAMAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1ginas_de_Silvina_Ocampo.html?hl=&id=6vMrAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6vMrAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3x5-tAEACAAJ",
+      "etag": "GwXyY0wXLqM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3x5-tAEACAAJ",
+      "volumeInfo": {
+        "title": "The Book of Fantasy",
+        "authors": [
+          "Jorge Luis Borges",
+          "Silvina Ocampo",
+          "Adolfo Bioy Casares"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:270867937"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=3x5-tAEACAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=3x5-tAEACAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Fantasy.html?hl=&id=3x5-tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3x5-tAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gaTEEAAAQBAJ",
+      "etag": "lvdpbCKFYko",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gaTEEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Los días de la noche",
+        "authors": [
+          "Silvina Ocampo"
+        ],
+        "publisher": "LUMEN",
+        "publishedDate": "2023-07-01",
+        "description": "Los días de la noche reúne veintinueve relatos breves (uno de ellos narrado en verso libre), escritos a lo largo de la década de 1960 y publicados originariamente en volumen en 1970. Los días de la noche reúne veintinueve relatos breves (uno de ellos narrado en verso libre), escritos a lo largo de la década de 1960 y publicados originariamente en volumen en 1970. En ellos se despliega, como en una versión rioplatense de Las mil y una noches, el imaginario tumultuoso y elegíaco de Silvina Ocampo, donde coexisten las situaciones y los sentimientos más disímiles: vidas entreveradas de ficción, traiciones ardientes y venganzas gélidas, espejos o sueños que reflejan fantasmas de carne y hueso. Pero también \"lo quimérico y lo casero\", en palabras de Borges, la calma imperturbable que precede un crimen atroz, las metamorfosis de hombres y de plantas o las biografías de todos los perros que tuvo la autora. Y siempre la infancia, con su delicada trama de complicidades secretas donde se entremezclan, inextricablemente, la inocencia y la crueldad. «Un día los cuentos de Silvina Ocampo serán muy apreciados, como hoy son apreciados los de Chéjov y los de Kafka.» J. R. Wilcock",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788426481603"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8426481604"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gaTEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gaTEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=gaTEEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=gaTEEAAAQBAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_d%C3%ADas_de_la_noche.html?hl=&id=gaTEEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Los_d%C3%ADas_de_la_noche-sample-epub.acsm?id=gaTEEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Los_d%C3%ADas_de_la_noche-sample-pdf.acsm?id=gaTEEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gaTEEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Los días de la noche reúne veintinueve relatos breves (uno de ellos narrado en verso libre), escritos a lo largo de la década de 1960 y publicados originariamente en volumen en 1970."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t9lZAAAAMAAJ",
+      "etag": "k+G2paFszxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t9lZAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Antología de la literatura fantástica",
+        "authors": [
+          "Jorge Luis Borges",
+          "Silvina Ocampo",
+          "Adolfo Bioy Casares"
+        ],
+        "publisher": "Edhasa",
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015019072290"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t9lZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t9lZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=t9lZAAAAMAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=t9lZAAAAMAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antolog%C3%ADa_de_la_literatura_fant%C3%A1stica.html?hl=&id=t9lZAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t9lZAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h6TEEAAAQBAJ",
+      "etag": "LSo1MixvmpA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h6TEEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Las invitadas",
+        "authors": [
+          "Silvina Ocampo"
+        ],
+        "publisher": "LUMEN",
+        "publishedDate": "2023-07-01",
+        "description": "Los cuentos de Las invitadas -elogiados por Ítalo Calvino y Borges- son una ventana abierta a un mundo frágilmente cotidiano y, por eso, tan extraño como perturbador. Los cuentos de Las invitadas -publicado originariamente en 1961- son una ventana abierta a un mundo familiar y perturbador a la vez, donde la realidad más prosaica se desliza sutilmente hacia la irrealidad o hacia esa zona de lo real que pertenece a lo desconocido. Entremezclada con las frases donde relampaguea un humor rebelde, la ambigüedad está acentuada por la mirada inocente que la autora parece arrojar sobre los objetos y las personas que la rodean, como si los contemplara por primera vez. O como si los creara por el solo hecho de nombrarlos. En el cuento que da título al libro, el pequeño Lucio mantiene encuentros clandestinos con siete misteriosas invitadas que representan los siete pecados capitales. En \"El diario de Porfiria\", una romántica institutriz inglesa es sometida a una perturbadora metamorfosis. Cuarenta niños sordomudos, tras un accidente aéreo, se arrojan al abismo, provistos de alas, y desaparecen en el cielo. Con estos relatos únicos en la literatura argentina del siglo XX, la imaginación rigurosa e incansable de Silvina Ocampo logra \"mostrarnos el cielo para precipitarnos en el infierno\". «La discreta y distante Silvina Ocampo ha escrito historias memorables.» Julio Cortázar",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788426481658"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8426481655"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h6TEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h6TEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=h6TEEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=h6TEEAAAQBAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_invitadas.html?hl=&id=h6TEEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_invitadas-sample-epub.acsm?id=h6TEEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_invitadas-sample-pdf.acsm?id=h6TEEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h6TEEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Los cuentos de Las invitadas -elogiados por Ítalo Calvino y Borges- son una ventana abierta a un mundo frágilmente cotidiano y, por eso, tan extraño como perturbador."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2TgdAQAAIAAJ",
+      "etag": "4DC0EU/BfXk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2TgdAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Encuentros con Silvina Ocampo",
+        "authors": [
+          "Noemí Ulla",
+          "Silvina Ocampo"
+        ],
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105011650509"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Argentine"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2TgdAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2TgdAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=2TgdAQAAIAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=2TgdAQAAIAAJ&dq=inauthor:%22Silvina+Ocampo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Encuentros_con_Silvina_Ocampo.html?hl=&id=2TgdAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2TgdAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

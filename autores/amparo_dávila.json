@@ -1,0 +1,1493 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "XUJrDwAAQBAJ",
+      "etag": "3KUry9ZfnzE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XUJrDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Houseguest",
+        "subtitle": "And Other Stories",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publisher": "New Directions Publishing",
+        "publishedDate": "2018-11-20",
+        "description": "The first collection in English of an endlessly surprising, master storyteller Like those of Kafka, Poe, Leonora Carrington, or Shirley Jackson, Amparo Dávila’s stories are terrifying, mesmerizing, and expertly crafted—you’ll finish each one gasping for air. With acute psychological insight, Dávila follows her characters to the limits of desire, paranoia, insomnia, and fear. She is a writer obsessed with obsession, who makes nightmares come to life through the everyday: loneliness sinks in easily like a razor-sharp knife, some sort of evil lurks in every shadow, delusion takes the form of strange and very real creatures. After reading The Houseguest—Dávila’s debut collection in English—you’ll wonder how this secret was kept for so long.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780811228220"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0811228223"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XUJrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XUJrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=XUJrDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XUJrDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XUJrDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 87.66,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 87.66,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XUJrDwAAQBAJ&rdid=book-XUJrDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 87660000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 87660000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Houseguest-sample-epub.acsm?id=XUJrDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Houseguest-sample-pdf.acsm?id=XUJrDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XUJrDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The first collection in English of an endlessly surprising, master storyteller Like those of Kafka, Poe, Leonora Carrington, or Shirley Jackson, Amparo Dávila’s stories are terrifying, mesmerizing, and expertly crafted—you’ll finish ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p8xwDwAAQBAJ",
+      "etag": "uNAJBmeg7zc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p8xwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "El huésped y otros relatos siniestros",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publisher": "Fondo de Cultura Economica",
+        "publishedDate": "2018-09-05",
+        "description": "Una selección de los cuentos más incitantes y perturbadores de la autora mexicana Amparo Dávila en una edición ilustrada para jóvenes. A través de historias fantásticas y una pluma incomparable, la autora cautivará a nuevas generaciones con relatos fantásticos como \" El huésped\", en el que una criatura acecha la tranquila vida de una mujer; o \" Alta cocina\", una pequeña narración de la agonía de diminutos seres que se enfrentan ante su inevitable destino; además, se incluirán cuentos clásicos de Dávila como \" Árboles petrificados\", \" Música concreta\" y \" Tiempo destrozado\". Los cuentos serán recreados por el pincel del ilustrador argentino Santiago Caruso para acercarlos al joven público lector.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786071658111"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "607165811X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 181,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p8xwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p8xwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=p8xwDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=p8xwDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=p8xwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 64.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 64.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=p8xwDwAAQBAJ&rdid=book-p8xwDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 64900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 64900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_hu%C3%A9sped_y_otros_relatos_siniestros-sample-epub.acsm?id=p8xwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_hu%C3%A9sped_y_otros_relatos_siniestros-sample-pdf.acsm?id=p8xwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p8xwDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Una selección de los cuentos más incitantes y perturbadores de la autora mexicana Amparo Dávila en una edición ilustrada para jóvenes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uwtUEAAAQBAJ",
+      "etag": "tqQj+UB7pZs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uwtUEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Cuentos reunidos",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publisher": "Fondo de Cultura Economica",
+        "publishedDate": "2025-03-17",
+        "description": "En Cuentos reunidos, Amparo Dávila, galardonada con el Premio Xavier Villaurrutia en 1977, suma a su enigmática y abundante narrativa, Con los ojos abiertos, libro inédito, con el que reafirma ese rigor en la prosa y el cuidado de la forma, atributos inseparables de su singular literatura. Casi de la mano de sus personajes, los lectores realizarán un viaje único, especial, inolvidable, gracias a la prodigiosa memoria de una de escritoras más peculiares.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786071645920"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6071645921"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uwtUEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uwtUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=uwtUEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uwtUEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uwtUEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uwtUEAAAQBAJ&rdid=book-uwtUEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uwtUEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En Cuentos reunidos, Amparo Dávila, galardonada con el Premio Xavier Villaurrutia en 1977, suma a su enigmática y abundante narrativa, Con los ojos abiertos, libro inédito, con el que reafirma ese rigor en la prosa y el cuidado de la ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b78SAAAAYAAJ",
+      "etag": "OwMd0Nnu7K8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b78SAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Tiempo destrozado",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publisher": "Fondo de Cultura Economica USA",
+        "publishedDate": "1959",
+        "description": "En la literatura moderna de M xico, los cuentos de Amparo D vila (1928) se distinguen por su fluidez y seguro manejo de tiempos narrativos, lo mismo al hacer la cr nica de la vida de todos los d as, que al incursionar en los territorios de las historias fant sticas.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025498653"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b78SAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b78SAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=b78SAAAAYAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=b78SAAAAYAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tiempo_destrozado.html?hl=&id=b78SAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b78SAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En la literatura moderna de M xico, los cuentos de Amparo D vila (1928) se distinguen por su fluidez y seguro manejo de tiempos narrativos, lo mismo al hacer la cr nica de la vida de todos los d as, que al incursionar en los territorios de ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WJQeEQAAQBAJ",
+      "etag": "b0GEShED1Qg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WJQeEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Poesía reunida",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publisher": "Fondo de Cultura Economica",
+        "publishedDate": "2024-08-15",
+        "description": "En esta nueva edición de poesía reunida se compilan todos los poemas de Amparo Dávila: desde su primer poemario, Salmos bajo la luna (1950,) hasta el último, Poesía de ayer y de hoy (FCE, 2019). Con una escritura simbólica y reflexiva, la poesía de Amparo Dávila asciende para marcar sus versos en la memoria de los lectores y nos llama a mirar de frente a la soledad, el miedo, la oscuridad y a nuestra misma existencia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786071647672"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6071647673"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 137,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WJQeEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WJQeEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=WJQeEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WJQeEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WJQeEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 22.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 22.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WJQeEQAAQBAJ&rdid=book-WJQeEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 22900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 22900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WJQeEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En esta nueva edición de poesía reunida se compilan todos los poemas de Amparo Dávila: desde su primer poemario, Salmos bajo la luna (1950,) hasta el último, Poesía de ayer y de hoy (FCE, 2019)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oogaAQAAMAAJ",
+      "etag": "SAOmRYnmXhk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oogaAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Tiempo destrozado y Música concreta",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publisher": "Fondo de Cultura Economica USA",
+        "publishedDate": "1978",
+        "description": "En la literatura moderna de M xico, los cuentos de Amparo D vila se distinguen por su serena fluidez y el seguro manejo de los tiempos narrativos. Tiempo destrozado y m sica concreta, viene, a establecer un contrapunto en el que es posible reconocer las huellas vivas de una exploraci n literaria y humana.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:39000002106990"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oogaAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oogaAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=oogaAQAAMAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=oogaAQAAMAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tiempo_destrozado_y_M%C3%BAsica_concreta.html?hl=&id=oogaAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oogaAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En la literatura moderna de M xico, los cuentos de Amparo D vila se distinguen por su serena fluidez y el seguro manejo de los tiempos narrativos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4C8cAQAAIAAJ",
+      "etag": "I7HvfsSVIcU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4C8cAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Amparo Dávila",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105008772258"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4C8cAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4C8cAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=4C8cAQAAIAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=4C8cAQAAIAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Amparo_D%C3%A1vila.html?hl=&id=4C8cAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4C8cAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A7nfzwEACAAJ",
+      "etag": "LPSvn6eynF8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A7nfzwEACAAJ",
+      "volumeInfo": {
+        "title": "Árboles petrificados",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publishedDate": "2022",
+        "description": "A lo largo de estos cuentos, Amparo Dávila nos sumerge en una cotidianidad angustiante, cuyo orden natural se ve transgredido. En su apuesta por una narración introspectiva, con elementos fantásticos y siniestros, la autora decide llevarnos por un callejón sin salida, que se encuentra cimentado en una amplia gama de pasiones y problemáticas humanas. Los temas de Dávila, a la manera de Quiroga, se centra en preocupaciones fundamentales de la vida: el amor, la locura y la muerte. así, junto con los personajes, nos vemos atrapados en una literatura vivencial, en historias llenas de incertidumbre, miedo, desconcierto, melancolía, extrañeza... que nos piden cuestionar la realidad y dar cabida a otras posibilidades, otros seres, incluso otros tiempos, como aquellos en los que se busca revivir el pasado, anular el futuro, vivir en lo eterno o petrificar el instante.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6076335173"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786076335178"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=A7nfzwEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=A7nfzwEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%C3%81rboles_petrificados.html?hl=&id=A7nfzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A7nfzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A lo largo de estos cuentos, Amparo Dávila nos sumerge en una cotidianidad angustiante, cuyo orden natural se ve transgredido."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C8ASAAAAYAAJ",
+      "etag": "BtriRKaS7ZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C8ASAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Música concreta",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017230881"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C8ASAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C8ASAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=C8ASAAAAYAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=C8ASAAAAYAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%BAsica_concreta.html?hl=&id=C8ASAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C8ASAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ADTeswEACAAJ",
+      "etag": "EOLH1srGOOM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ADTeswEACAAJ",
+      "volumeInfo": {
+        "title": "Árboles petrificados",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publishedDate": "2016",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6078256432"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078256433"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 159,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ADTeswEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ADTeswEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%C3%81rboles_petrificados.html?hl=&id=ADTeswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ADTeswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Julio Cortázar Escribir un cuento es capturar una sabiduría, misma que pretende condensar la quintaesencia de la experiencia humana. Amparo Dávila, gran lectora de la Biblia, no me dejará mentir."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JW42AAAAIAAJ",
+      "etag": "bMh02PdaTA8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JW42AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Muerte en el bosque",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publisher": "Fondo de Cultura Economica USA",
+        "publishedDate": "1985",
+        "description": "Los cuentos reunidos en Muerte en el bosque pueden enmarcarse dentro de lo que la cr tica denomina literatura fant stica. Las ra ces de este g nero vienen de lejos, de la Antig edad, de los mitos; mas en nuestro tiempo el g nero asume una dimensi n nueva: Para algunos escritores el universo real comporta un desencanto que consideran necesario transmitir al lector.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3595269"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JW42AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JW42AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=JW42AAAAIAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=JW42AAAAIAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Muerte_en_el_bosque.html?hl=&id=JW42AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JW42AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Los cuentos reunidos en Muerte en el bosque pueden enmarcarse dentro de lo que la cr tica denomina literatura fant stica."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EMqIDwAAQBAJ",
+      "etag": "89HRkoKjezg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EMqIDwAAQBAJ",
+      "volumeInfo": {
+        "title": "La tienda de los sueños",
+        "subtitle": "Un siglo de cuento fantástico mexicano",
+        "authors": [
+          "Alberto Chimal",
+          "Amado Nervo",
+          "Elena Garro",
+          "Leonora Carrington",
+          "Juan José Arreola",
+          "Guadalupe Dueñas",
+          "Amparo Dávila",
+          "Inés Arredondo",
+          "José Emilio Pacheco",
+          "Agustín Monsreal",
+          "Guillermo Samperio",
+          "Álvaro Uribe",
+          "Verónica Murguía",
+          "Norma Lazo",
+          "Cecilia Eudave",
+          "Ignacio Padilla",
+          "Fernando de León",
+          "Bernardo Esquinca",
+          "Magali Velasco",
+          "Iliana Vargas",
+          "Édgar Omar Avilés"
+        ],
+        "publisher": "Ediciones SM",
+        "publishedDate": "2016-02-15",
+        "description": "La literatura vuelve realidad todo. Y así lo ha demostrado una innumerable cantidad de autores desde hace cientos de años. Aquí no encontrarás elfos, dragones ni niños magos con lentes y varitas, sino que te enfrentarás a encuentros con el Diablo, desapariciones inexplicables, personas duplicadas, saltos en el tiempo, criaturas informes que van a estrujarte el cerebro en tu intento por comprenderlas... ¿Qué es lo fantástico? Aquello inexplicable, la presencia de lo raro, eso que o logramos entender... lo imposible que se hace posible gracias a la literatura.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786072418097"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6072418090"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=EMqIDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EMqIDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EMqIDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EMqIDwAAQBAJ&rdid=book-EMqIDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_tienda_de_los_sue%C3%B1os-sample-epub.acsm?id=EMqIDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_tienda_de_los_sue%C3%B1os-sample-pdf.acsm?id=EMqIDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EMqIDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Aquello inexplicable, la presencia de lo raro, eso que o logramos entender... lo imposible que se hace posible gracias a la literatura."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fDa_wAEACAAJ",
+      "etag": "mSWJ2b9jo9o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fDa_wAEACAAJ",
+      "volumeInfo": {
+        "title": "Arboles petrificados",
+        "subtitle": "cuentos",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "970690512X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789706905123"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "categories": [
+          "Short stories, Mexican"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=fDa_wAEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=fDa_wAEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arboles_petrificados.html?hl=&id=fDa_wAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fDa_wAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-WoIxQEACAAJ",
+      "etag": "GSO96LTGwuw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-WoIxQEACAAJ",
+      "volumeInfo": {
+        "title": "Tiempo destrozado y Música concreta",
+        "subtitle": "Amparo Dávila",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publishedDate": "1959",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:59048739"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 245,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=-WoIxQEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=-WoIxQEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tiempo_destrozado_y_M%C3%BAsica_concreta.html?hl=&id=-WoIxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-WoIxQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ReWqzQEACAAJ",
+      "etag": "6PrqcXeh3iw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ReWqzQEACAAJ",
+      "volumeInfo": {
+        "title": "Poesía de ayer y de hoy",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publishedDate": "2019",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6071663059"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786071663054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ReWqzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ReWqzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ReWqzQEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ReWqzQEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADa_de_ayer_y_de_hoy.html?hl=&id=ReWqzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ReWqzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5M_ZzQEACAAJ",
+      "etag": "lXIqAmAEBGA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5M_ZzQEACAAJ",
+      "volumeInfo": {
+        "title": "L'ospite e altri racconti",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8832107228"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788832107227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5M_ZzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5M_ZzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.com.br/books?id=5M_ZzQEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=5M_ZzQEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_ospite_e_altri_racconti.html?hl=&id=5M_ZzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5M_ZzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XEirzwEACAAJ",
+      "etag": "RooJOSWpSVA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XEirzwEACAAJ",
+      "volumeInfo": {
+        "title": "Morte nel bosco e altri racconti",
+        "authors": [
+          "Amparo Dávila"
+        ],
+        "publishedDate": "2023",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8832107481"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788832107487"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XEirzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XEirzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.com.br/books?id=XEirzwEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=XEirzwEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Morte_nel_bosco_e_altri_racconti.html?hl=&id=XEirzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XEirzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Gpm_zgEACAAJ",
+      "etag": "WXcbSKjjxLQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gpm_zgEACAAJ",
+      "volumeInfo": {
+        "title": "A Very Mexican Christmas",
+        "authors": [
+          "Carlos Fuentes",
+          "Laura Esquivel",
+          "Amparo Dávila",
+          "Sandra Cisneros",
+          "Carmen Boullosa"
+        ],
+        "publishedDate": "2022-09-13",
+        "description": "This seventh installment in our beloved Very Christmas series is a celebration of the Mexican Yuletide spirit. Replete with multicolored boxes, mouthwatering Nochebuena meals, marvelous sweet rolls, mysterious felines, and many a bedside tale, A Very Mexican Christmas is sure to delight, warm, and astonish by turns. You'll find spellbinding work by some of Mexico's most important writers, including Nobel Prize winner Carlos Fuentes, bestselling author Laura Esquivel, and other contemporary favorites like Amparo Dávila, Sandra Cisneros, Fabio Morábito, and Carmen Boullosa, as well as fresh translations of classics by Sor Juana Inés de la Cruz, Amado Nervo, and Ignacio Manuel Altamirano. Get a glimpse of how Christmas is done in a land of no snow, as well as among Mexicans living north of the border, with this sparkling assortment of literary gems that will guarantee a very feliz Navidad.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1954404085"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781954404083"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Gpm_zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Gpm_zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Gpm_zgEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Gpm_zgEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Very_Mexican_Christmas.html?hl=&id=Gpm_zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gpm_zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Replete with mouthwatering Nochebuena meals, mysterious felines, multicolored boxes, marvelous sweet rolls, and many a bedside tale, A Very Mexican Christmas is sure to delight, warm, and astonish by turns."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LSw4nQEACAAJ",
+      "etag": "7OYOTOey2Gw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LSw4nQEACAAJ",
+      "volumeInfo": {
+        "title": "Roles of Satb Proteins and Ebf1 in Higher-order Chromatin Regulation",
+        "authors": [
+          "María Amparo Dávila Sanz"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:624529209"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 139,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=LSw4nQEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=LSw4nQEACAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Roles_of_Satb_Proteins_and_Ebf1_in_Highe.html?hl=&id=LSw4nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LSw4nQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-_kSAAAAYAAJ",
+      "etag": "+PO8J1pciGo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-_kSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Salmos bajo la luna",
+        "authors": [
+          "María Amparo Dávila"
+        ],
+        "publishedDate": "1950",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025514545"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-_kSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-_kSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=-_kSAAAAYAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=-_kSAAAAYAAJ&dq=inauthor:%22Amparo+D%C3%A1vila%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Salmos_bajo_la_luna.html?hl=&id=-_kSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-_kSAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

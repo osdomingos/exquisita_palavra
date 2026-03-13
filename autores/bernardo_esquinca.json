@@ -1,0 +1,1772 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "3YXtDwAAQBAJ",
+      "etag": "hVTWPb8fR6U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3YXtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Demonia",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publisher": "Almadía Ediciones",
+        "publishedDate": "2020-04-22",
+        "description": "Un hombre está convencido de que las moscas forman una legión infernal que busca exterminarlo. La fantasmagórica sombra que espía el sueño de una joven pareja es el heraldo de una antigua maldición caribeña. Un asesino secuestra niños para torturarlos, copiando el estilo de un famoso criminal del siglo XV. Extraños seres cuyas apariciones están supuestamente relacionadas con las desgracias que ocurren en el mundo. Un grupo de amigos se enfrenta al recuerdo de la posesión satánica que desequilibró sus vidas veinte años atrás. \"Demonia\" ofrece nueve relatos que recorren el amplio espectro de nuestras pesadillas y temores más arraigados. Conforme se adentre en el libro, el lector encontrará obsesiones y enigmas recurrentes con los que este autor infecta cada historia. Las formas subterráneas de los relatos nacen de las zonas oscuras de la experiencia, para volverse una forma ambigua del conocimiento. Y el mal —el abstracto, sobrenatural, mítico— se presenta como un contagio del espíritu: virus perverso que potencia las pulsiones de nuestro lado oscuro. En \"Demonia\" Bernardo Esquinca evidencia el domino del oficio y se confirma como un autor de primera fila en el género de terror. \"[Una imaginación] mucho más ardiente que la de J.G. Ballard\". Rodrigo Fresán \"Un interesante esfuerzo por reunir y contar de nuevo algunos de los temores del hombre contemporáneo\". Revista La Tempestad",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078667543"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6078667548"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 153,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3YXtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3YXtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=3YXtDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3YXtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3YXtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 42.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 42.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3YXtDwAAQBAJ&rdid=book-3YXtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 42900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 42900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Demonia-sample-epub.acsm?id=3YXtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Demonia-sample-pdf.acsm?id=3YXtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3YXtDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En &quot;Demonia&quot; Bernardo Esquinca evidencia el domino del oficio y se confirma como un autor de primera fila en el género de terror. &quot;[Una imaginación] mucho más ardiente que la de J.G. Ballard&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XpJ-swEACAAJ",
+      "etag": "SxU1L48X4Xk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XpJ-swEACAAJ",
+      "volumeInfo": {
+        "title": "Mar negro",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publishedDate": "2016",
+        "description": "\"¿La vida en la Tierra sólo puede evolucionar, o también mutar en criaturas amenazantes, propias de la prehistoria y el horror? ¿El amor es motivo suficiente para traer a un hombre de regreso de la muerte? ¿Los juguetes infantiles pueden convertirse en mensajeros de furiosas maldiciones? En esta colección de cuentos, Bernardo Esquinca abre interrogantes cuyas respuestas se encuentran al otro lado de los miedos que nos definen como humanos. El temor a lo desconocido; el espanto que late dentro de la cotidianidad; el escalofrío que nos recorre cada vez que vivimos una de estas tétricas historias que, merced a las emociones que despiertan, quizá ya hemos soñado, o quizá se encuentren grabadas desde hace siglos en el inconsciente colectivo. Con un pulso que no duda ni por un instante y un instinto que lo conduce hasta el nervio más sensible de nuestras pesadillas, el autor escribe estas piezas narrativas como quien disecciona un cadáver para adentrarse en su alma y su historia.\"--Provided by publisher.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6078486160"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078486168"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 181,
+        "printType": "BOOK",
+        "categories": [
+          "Horror tales, Mexican"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=XpJ-swEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=XpJ-swEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mar_negro.html?hl=&id=XpJ-swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XpJ-swEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En esta colección de cuentos, Bernardo Esquinca abre interrogantes cuyas respuestas se encuentran al otro lado de los miedos que nos definen como humanos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wIXtDwAAQBAJ",
+      "etag": "0S5PkpE+b0E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wIXtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Inframundo",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publisher": "Almadía Ediciones",
+        "publishedDate": "2018-05-17",
+        "description": "Casasola, luego de enfrentar asesinos de extraña naturaleza y otros peligros fuera de este mundo, se dedica a editar el mensuario del Museo Nacional de Arte, mientras sostiene una relación con Dafne, una exteibolera metida a escort, a punto de retirarse. Al mismo tiempo, un libro legendario, creado por Blas Botello, astrólogo de Cortés, pugna por aparecer en el presente. Se trata de un tomo que posee a sus dueños, y que les habla con la voz de los muertos, a la vez que los incita a cometer toda clase de crímenes. La Ciudad de México es el escenario de un enfrentamiento: los vivos y los muertos deberán librar una batalla en la que se decidirá la permanencia del equilibrio y la humanidad, o el reinado del caos. El Consejo de Periodistas de Nota Roja Muertos, encabezado por Eugenio, el abuelo de Casasola, se unirá al protagonista para frenar la amenaza que se cierne sobre el mundo. \"[Una imaginación] mucho más ardiente que la de J.G. Ballard\". Rodrigo Fresán \"Un interesante esfuerzo por reunir y contar de nuevo algunos de los temores del hombre contemporáneo\". Revista La Tempestad",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078486588"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6078486586"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wIXtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wIXtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=wIXtDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wIXtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wIXtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 84.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 84.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wIXtDwAAQBAJ&rdid=book-wIXtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 84900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 84900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Inframundo-sample-epub.acsm?id=wIXtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Inframundo-sample-pdf.acsm?id=wIXtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wIXtDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Casasola, luego de enfrentar asesinos de extraña naturaleza y otros peligros fuera de este mundo, se dedica a editar el mensuario del Museo Nacional de Arte, mientras sostiene una relación con Dafne, una exteibolera metida a escort, a ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cr8K3FbSiJwC",
+      "etag": "vuPnjCZZGqc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cr8K3FbSiJwC",
+      "volumeInfo": {
+        "title": "Los escritores invisibles",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publisher": "Fondo de Cultura Economica",
+        "publishedDate": "2010-11-11",
+        "description": "Los que nunca han publicado, son los que se han salvado del gran limbo de los estantes de librería. Todos los demás son elementos sacrificables que alimentan los flujos de dinero de las grandes editoriales. Jaime Puente es un escritor joven que aún aspira al reconocimiento a través de la publicación de alguno de sus libros. De repente se ve envuelto en una intriga de altos vuelos que lo lleva a descubrir que el verdadero talento las más de las veces es derrochado, guardado como un valioso recuerdo o acallado; lección que aprende demasiado tarde: su libro es publicado, es decir, se vuelve parte del \"mundillo literario y editorial\". Aquí, una novela novedosa y atractiva, que no deja escapar al lector desde sus primeras páginas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786071604972"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6071604974"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 111,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cr8K3FbSiJwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cr8K3FbSiJwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=cr8K3FbSiJwC&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cr8K3FbSiJwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cr8K3FbSiJwC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cr8K3FbSiJwC&rdid=book-cr8K3FbSiJwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Los_escritores_invisibles-sample-epub.acsm?id=cr8K3FbSiJwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Los_escritores_invisibles-sample-pdf.acsm?id=cr8K3FbSiJwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cr8K3FbSiJwC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Los que nunca han publicado, son los que se han salvado del gran limbo de los estantes de librería."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BYHhjwEACAAJ",
+      "etag": "OOvC6s1uGJA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BYHhjwEACAAJ",
+      "volumeInfo": {
+        "title": "Carne de ataúd",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publishedDate": "2016",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6079701421"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786079701420"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "categories": [
+          "Detective and mystery stories, Mexican"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=BYHhjwEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=BYHhjwEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carne_de_ata%C3%BAd.html?hl=&id=BYHhjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BYHhjwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Entre las sesiones espiritistas de Madame Guillot, las riñas y el arte decadente de Julio Ruelas y la mirada vigilante de Carlos Roumagnac, inspector que quiere acabar con el crimen, esta novela reconstruye los misterios de una época, al ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_4XtDwAAQBAJ",
+      "etag": "nOop+paJODY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_4XtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Los niños de paja",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publisher": "Almadía Ediciones",
+        "publishedDate": "2020-04-22",
+        "description": "En agosto de 2003 tomé una de las decisiones más importantes de mi vida: mudarme de Guadalajara a la Ciudad de México. Huía de una ruptura matrimonial. Pensé que el cambio de aires me daría distancia y perspectiva con mi situación, pero terminó otorgándome algo más vital: un entorno estimulante para la creación, para un tipo de narrativa que ya venía explorando, ligada a lo sobrenatural y lo policiaco, pero que en la Ciudad de México encontró un escenario ideal. Amigas y amigos editores comenzaron a pedirme cuentos para revistas o suplementos; sin proponérmelo, tenía en marcha un volumen de relatos. Al revisarlos, me di cuenta de otro factor no planeado: los protagonistas de mis historias eran hombres viudos o separados. Estaba claro que buscaba exorcizar mi divorcio mediante la literatura de terror. La ecuación me pareció válida, así que decidí completar el libro con ese enfoque. El resultado fue Los niños de paja, proyecto que marcó el inicio de mi entrañable relación con editorial Almadía. El entomólogo forense de \"La vida secreta de los insectos\" niega a la ciencia e intenta resolver el crimen de su esposa con un médium; el escritor de \"El dios de la piscina\" viaja al paraíso para descubrir la máxima atrocidad que puede cometer un grupo de matrimonios, y el despechado de \"El amor no tiene cura\" se pone en manos de una pitonisa en busca de un milagro que salve su relación. Todos ellos, junto al resto de los seres que habitan los nueve cuentos incluidos en estas páginas, tienen un objetivo: nunca darle la espalda a la oscuridad, sino abrazarla; arrojarse al abismo y explorarlo, porque la realidad resulta tan banal como insoportable. El tiempo pasa y sigo de acuerdo con esa premisa.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078667680"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6078667688"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_4XtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_4XtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=_4XtDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_4XtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_4XtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 32.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 32.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_4XtDwAAQBAJ&rdid=book-_4XtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 32900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 32900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Los_ni%C3%B1os_de_paja-sample-epub.acsm?id=_4XtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Los_ni%C3%B1os_de_paja-sample-pdf.acsm?id=_4XtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_4XtDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La ecuación me pareció válida, así que decidí completar el libro con ese enfoque. El resultado fue Los niños de paja, proyecto que marcó el inicio de mi entrañable relación con editorial Almadía."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9x_9DwAAQBAJ",
+      "etag": "XM1+W8oM6hQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9x_9DwAAQBAJ",
+      "volumeInfo": {
+        "title": "El libro de los dioses",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publisher": "Almadía Ediciones",
+        "publishedDate": "2020-09-19",
+        "description": "¿Qué clase de persona deja que un monstruo la arrulle? En esta colección de cuentos –la más extensa y ambiciosa que su autor haya emprendido hasta la fecha– hay preguntas que pondrán en riesgo la cordura de quienes se adentren en sus páginas. Ya sea en el misterioso mensaje grabado en la piel de una ballena, en las tragedias predichas en los óleos de una excéntrica pintora, en la extraña e hipnótica música que emana de una silla para bebés o en el terrorismo ejercido por un grupo ecologista que rinde culto al dios Pan, Bernardo Esquinca tiene claro dónde hurgar para encontrar el punto preciso donde confluyen la fantasía y el horror. Sin lugar a dudas, esta colección alertará al extremo los sentidos de aquellos lectores que perdieron el sueño con las historias de La Trilogía del Terror y de quienes han quedado sin aliento con los misterios de la Saga Casasola. Más aún, \"El libro de los dioses\" presenta una notable ampliación de las fronteras del universo personal de Bernardo Esquinca; la renovación de todo un imaginario de lo siniestro. Gracias a la sencilla premisa de este volumen, la permanencia de los dioses antiguos en la escéptica actualidad urbana, el lector puede estar seguro de que en estas páginas encontrará el material de sus futuras pesadillas. \"[Una imaginación] mucho más ardiente que la de J.G. Ballard\". Rodrigo Fresán \"Un interesante esfuerzo por reunir y contar de nuevo algunos de los temores del hombre contemporáneo\". Revista La Tempestad \"Temáticas que son contemporáneas y personajes que reflejan las inquietudes de la sociedad mexicana; aquella insertada en la problemática de un mundo globalizado\". Armando González Torres \"Toda la sangre es la confirmación de una saga que sigue las pautas de los mejores thrillers contemporáneos; pero también es la confirmación de un autor a la alza, y de una narrativa fantástica mexicana cada vez más robusta\". Rodolfo J.M. \"Bernardo Esquinca ha logrado reinventar el género de terror en la lengua española y alternarlo con la novela negra para crear un programa narrativo de gran calidad y distinción que día tras día gana más público. Muy pocos escritores en la actualidad pueden presumir este ensamble de arrojo literario, saber histórico, inteligencia y amenidad que caracteriza a Bernardo Esquinca\". Sergio González Rodríguez \"Uno de los referentes principales de la literatura de horror contemporánea en México\". Marcela Vargas",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078667833"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6078667831"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9x_9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9x_9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=9x_9DwAAQBAJ&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9x_9DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9x_9DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 67.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 67.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9x_9DwAAQBAJ&rdid=book-9x_9DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 67900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 67900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_libro_de_los_dioses-sample-epub.acsm?id=9x_9DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_libro_de_los_dioses-sample-pdf.acsm?id=9x_9DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9x_9DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Más aún, &quot;El libro de los dioses&quot; presenta una notable ampliación de las fronteras del universo personal de Bernardo Esquinca; la renovación de todo un imaginario de lo siniestro."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zIXtDwAAQBAJ",
+      "etag": "40qcdFnOj8M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zIXtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "La octava plaga",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publisher": "Almadía Ediciones",
+        "publishedDate": "2020-01-13",
+        "description": "Casasola debe investigar una serie de asesinatos para conservar ese empleo que no lo satisface, ante la mirada escrutadora y los consejos inútiles de Rivas-Souza, el soberbio jefe de redacción. El caso de la Asesina de los Moteles lo llevará a conocer a Verduzco, un veterano de la nota roja que se convertirá en su gurú, aunque quizá la principal enseñanza del personaje sea que nunca se puede confiar en nadie. Al mismo tiempo que intenta superar su divorcio, Casasola es testigo de extraños cambios en el comportamiento de su ex esposa: Olga parece sentirse atraída por la luz artificial, y en la oscuridad tiende a permanecer en estado catatónico. Como ciertos insectos. Así, los indicios de la investigación se suman a los episodios extraños que rodean al reportero, quien pronto se ve envuelto en una carrera por encontrar la cura de un síndrome que amenaza con acabar con la civilización humana. La destreza narrativa de Esquinca lo lleva a sus ficciones en cimas líricas o dramáticas (imágenes, acciones) que se proponen metáforas y sugieren la continuidad. El lector no encuentra un respiro, un momento adecuado para suspender la lectura, pues en la acción que viene presentimos siempre un elemento que ahondará o desvelará el gran misterio propuesto por la novela. El uso de la estructura es preciso, y tal determinación consigue atrapar al lector. No hay distracciones ni pasajes flojos que hagan decaer el ritmo. Esta novela, al igual que \"Toda la sangre\" y \"Carne de ataúd\", es un crisol donde el género negro, la fantasía, el horror, la nota roja, es decir, los subgéneros más populares de la escritura se renuevan e hibridan. Así, La octava plaga es la obra que inauguró el estilo preciso y la combinación de subgéneros que se han vuelto la marca de la casa en la escritura del autor.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078667321"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6078667327"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zIXtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zIXtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=zIXtDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zIXtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zIXtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 62.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 62.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zIXtDwAAQBAJ&rdid=book-zIXtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 62900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 62900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_octava_plaga-sample-epub.acsm?id=zIXtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_octava_plaga-sample-pdf.acsm?id=zIXtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zIXtDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Así, La octava plaga es la obra que inauguró el estilo preciso y la combinación de subgéneros que se han vuelto la marca de la casa en la escritura del autor."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "94XtDwAAQBAJ",
+      "etag": "PeOcOUcwrtk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/94XtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Las increíbles aventuras del asombroso Edgar Allan Poe",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publisher": "Almadía Ediciones",
+        "publishedDate": "2020-04-22",
+        "description": "Después de sorprendernos con las cuatro títulos de la Saga Casasola y con los cuentos que conforman la Trilogía del Terror, Bernardo Esquinca nos entrega una novela que expande los límites y paisajes de su escritura. En un jercicio audaz que es a la vez homenaje y acercamiento, Edgar Allan Poe, el padre del relato policiaco y del cuento de terror norteamericanos, se muestra en estas páginas como un ser humano, todavía lejos de la grandeza que lo consagraría y del abismo que lo consumiría; un joven que mira con curiosidad el mundo y sus secretos, y que está siempre dispuesto a encarnar en su vida la literatura emocionante y oscura que estaba destinado a crear. Extraviado en el mundo y en sus deseos literarios, intentando por enésima vez enderezar su suerte —esta vez en Nueva York—, el joven Edgar se ve impelido a resolver la desaparición de Cordelia, hija del dueño de una cámara de maravillas con humanos mutantes, objetos misteriosos y animales amaestrados. Así, su habilidad para construir las más asombrosas tramas será puesta a prueba frente a un misterio digno de su pluma. Sin duda, esta novela es un retrato entrañable y emocionante de una de las figuras tutelares de la propia escritura de Bernardo Esquinca.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078667628"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6078667629"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=94XtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=94XtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=94XtDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=94XtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=94XtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 52.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 52.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=94XtDwAAQBAJ&rdid=book-94XtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 52900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 52900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_incre%C3%ADbles_aventuras_del_asombroso-sample-epub.acsm?id=94XtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_incre%C3%ADbles_aventuras_del_asombroso-sample-pdf.acsm?id=94XtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=94XtDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Después de sorprendernos con las cuatro títulos de la Saga Casasola y con los cuentos que conforman la Trilogía del Terror, Bernardo Esquinca nos entrega una novela que expande los límites y paisajes de su escritura."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4RmREQAAQBAJ",
+      "etag": "+xM31W57iSc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4RmREQAAQBAJ",
+      "volumeInfo": {
+        "title": "Rey Lepra",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publisher": "Almadía Ediciones",
+        "publishedDate": "2025-10-20",
+        "description": "Rey Lepra representa la consagración definitiva de Bernardo Esquinca como una de las voces más importantes del terror contemporáneo en lengua española. Esta colección de doce relatos trasciende las fronteras del género fantástico para convertirse en un diagnóstico de los males que aquejan a la sociedad global del siglo XXI. El autor mexicano construye un atlas del horror que va desde las sabanas del Parque Nacional Kruger en Sudáfrica hasta los barrios de Guadalajara, desde los restaurantes exclusivos de Nueva York hasta las colonias marginales de la Ciudad de México. En este volumen de relatos se dan cita los extremos del consumismo gastronómico, la fascinación mórbida de las clases privilegiada por la violencia, los miedos primordiales de la infancia y cómo se transforman en traumas duraderos, los límites de la vanidad como enfermedad, asesinatos, sectas y trastornos individuales que terminan por convertirse en metástasis sociales. La prosa de Esquinca ha alcanzado aquí una madurez excepcional. Su capacidad para crear atmósferas inquietantes a través del detalle preciso y la acumulación gradual de tensión lo sitúa entre los grandes maestros del género. Se trata de la literatura de horror como recurso para iluminar las zonas más oscuras de la experiencia humana contemporánea.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786072631342"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6072631347"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4RmREQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4RmREQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=4RmREQAAQBAJ&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4RmREQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4RmREQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 67.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 67.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4RmREQAAQBAJ&rdid=book-4RmREQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 67900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 67900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Rey_Lepra-sample-epub.acsm?id=4RmREQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Rey_Lepra-sample-pdf.acsm?id=4RmREQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4RmREQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rey Lepra representa la consagración definitiva de Bernardo Esquinca como una de las voces más importantes del terror contemporáneo en lengua española."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HW22AwAAQBAJ",
+      "etag": "d+fy8a0iAns",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HW22AwAAQBAJ",
+      "volumeInfo": {
+        "title": "Belleza roja",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publisher": "Fondo de Cultura Economica",
+        "publishedDate": "2013-11-22",
+        "description": "Un fotógrafo de nota roja vive poseído por la voluntad de hacer de su trabajo una obra de arte, mientras una clínica de belleza crece al margen del mundo y sus estándares. En esta novela las dos historias se trenzan hasta desembocar en un clímax siniestro, cercano a la prospección apocalíptica. En el fondo late siempre la misma pregunta, ¿a qué estaríamos dispuestos con tal de obtener una tajada de lo sublime?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786071616708"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6071616700"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 99,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HW22AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HW22AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=HW22AwAAQBAJ&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HW22AwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HW22AwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 19.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HW22AwAAQBAJ&rdid=book-HW22AwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 19900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Belleza_roja-sample-epub.acsm?id=HW22AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Belleza_roja-sample-pdf.acsm?id=HW22AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HW22AwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Un fotógrafo de nota roja vive poseído por la voluntad de hacer de su trabajo una obra de arte, mientras una clínica de belleza crece al margen del mundo y sus estándares."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZTbezwEACAAJ",
+      "etag": "Qg1OmTrmXSM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZTbezwEACAAJ",
+      "volumeInfo": {
+        "title": "Necropolitana",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publishedDate": "2022",
+        "description": "\"Una sombra recorre las calles del centro histórico de la Ciudad de México. A través de ritos de magia oscura, esta presencia invoca las energías que han sido absorbidas por las viejas fachadas de la urbe a lo largo de su historia. Paciente y furtivo, este Nigromante fragua una venganza en contra de quien ha condenado su nombre al olvido. Así, su plan busca poner fin a un duelo que se remonta a los últimos días de la conquista y de cuyo resultado depende la permanencia de la capital mexicana y de todos los que la habitan. Luego de una larga temporada perdido en el pasado, Casasola logra encontrar una forma de volver a nuestro presente. A su vez, gracias a poderosos amuletos y a mensajes tallados en el bronce de las estatuas, es puesto al tanto del deestino de caos y destrucción que siempre se ha cernido sobre lo que fue la Gran Tenochticlán. Con la ayuda de una arquitecta restauradora, cuya herencia se reduce a la añeja biblioteca paterna, y de aliados perdidos en el tiempo, el aguerrido periodista tendrá que hacer frente a fuerzas que nunca sospechó encarar. En la quinta entrega de la aclamada Saga Casasola, la obsesión de Bernardo Esquinca con la Ciudad de México vuelve con más intensidad que nunca, ahor en la forma de varios escenarios para su conpleta aniquilación\"--Page 4 of cover",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6078851098"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078851096"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Journalists"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ZTbezwEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ZTbezwEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Necropolitana.html?hl=&id=ZTbezwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZTbezwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En la quinta entrega de la aclamada Saga Casasola, la obsesión de Bernardo Esquinca con la Ciudad de México vuelve con más intensidad que nunca, ahor en la forma de varios escenarios para su conpleta aniquilación&quot;--Page 4 of cover"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fZgqzwEACAAJ",
+      "etag": "gZw1HEZE/Hw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fZgqzwEACAAJ",
+      "volumeInfo": {
+        "title": "Toda la sangre",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6078764721"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078764723"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=fZgqzwEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=fZgqzwEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Toda_la_sangre.html?hl=&id=fZgqzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fZgqzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-0gqzwEACAAJ",
+      "etag": "TwWvg228HQs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-0gqzwEACAAJ",
+      "volumeInfo": {
+        "title": "Asesina íntima",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publishedDate": "2021",
+        "description": "\"Entre los años 2003 y 2006 aparecieron, en solitarias habitaciones de la Ciudad de México y víctimas de una particular saña, los cadáveres de mujeres de la tercera edad. Uno de los símbolos más venerados por la idiosincrasia mexicana se había convertido en presa de una escurridiza cólera. Con autoridades incapaces de poner un alto a esta sucesión de asesinatos, la indignación y el miedo se extendieron por toda la urbe. Así surgió la leyenda de la Mataviejitas, ente creado por la nota roja y el folclore urbano como responsable de los misteriosos crímenes. Fiel a sus más notables obsesiones, y sin temor a explorar nuevos territorios narrativos, Bernardo Esquinca regresa para diseccionar este peculiar fenómeno mediático. A partir de las voces de diversos personajes involucrados con el caso – una obsesiva criminalista, un glotón investigador, ambiciosos agentes policiacos, un comprometido reportero de nota roja– el maestro mexicano del terror construye una ambiciosa y feroz novela polifónica gracias a la cual conocemos también la historia de Chana Barrera, mujer detrás de la leyenda; una enigmática aficionada a la lucha libre que, tras ver rotas todas sus ilusiones, decide emprender un último y brutal intento por no terminar, ella misma, rendida sobre la lona.\" --",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6078764748"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078764747"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 257,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=-0gqzwEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=-0gqzwEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Asesina_%C3%ADntima.html?hl=&id=-0gqzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-0gqzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fiel a sus más notables obsesiones, y sin temor a explorar nuevos territorios narrativos, Bernardo Esquinca regresa para diseccionar este peculiar fenómeno mediático."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xoXtDwAAQBAJ",
+      "etag": "LajfqlL0oG4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xoXtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Ciudad Fantasma",
+        "subtitle": "Relato Fantástico de la Ciudad de México (XIX-XXI)",
+        "authors": [
+          "Bernardo Esquinca",
+          "Vicente Quirarte"
+        ],
+        "publisher": "Almadía Ediciones",
+        "publishedDate": "2018-05-17",
+        "description": "Unos dicen que proviene de tiempos prehispánicos, otros, que su aparición anunció el término del imperio azteca, otros más, que se trata de una mujer desdichada que sufre un profundo dolor que ni la muerte puede borrar; sin duda, la leyenda de \"La Llorona\" es la piedra de toque de esta antología. Así, estos cuentos inician en la imaginación fundacional de las leyendas para arribar poco a poco, a través de los años, a modernas historias de espantos y apariciones: un joven descubre que tras una extraña invitación a cenar se esconden revelaciones sorprendentes; un hombre escribe un cuento sobre los túneles del metro y pronto se ve atrapado por su propia ficción; una pareja debe recorrer de noche las calles del Centro Histórico, mientras recuerda las desgracias del terremoto y teme encontrarse a una anciana fantasmal; los habitantes de un futuro inhóspito intentan sobrevivir bajo los ruinas de una ciudad que amenaza su existencia de no poder regresar. Vicente Quirarte ha adoptado como centro de su vida como escritor e investigador las entretelas artísticas e históricas de la Ciudad de México. Lo mejor de la escritura de Bernardo Esquinca detecta y cuenta los horrores que se esconden detrás de las fachadas antiguas del Centro Histórico.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078486625"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6078486624"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xoXtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xoXtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=xoXtDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xoXtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xoXtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 72.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 72.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xoXtDwAAQBAJ&rdid=book-xoXtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 72900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 72900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Ciudad_Fantasma-sample-epub.acsm?id=xoXtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Ciudad_Fantasma-sample-pdf.acsm?id=xoXtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xoXtDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lo mejor de la escritura de Bernardo Esquinca detecta y cuenta los horrores que se esconden detrás de las fachadas antiguas del Centro Histórico."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZfhJEQAAQBAJ",
+      "etag": "sPQ6Joe+Egw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZfhJEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Cabezas en la ventana",
+        "subtitle": "Antología de terror latinoamericano",
+        "authors": [
+          "Mariana Enríquez",
+          "Verena Cavalcante",
+          "Elaine Vilar Madruga",
+          "Ramiro Sanchiz",
+          "Malena Salazar Maciá",
+          "Jumko Ogata Aguilar",
+          "Oscar Nestarez",
+          "Bernardo Esquinca",
+          "Zezé Atabales",
+          "Marina Yuszczuk",
+          "Hank T. Cohen",
+          "Natalia Chávez",
+          "Pabsi Livmar",
+          "Stephany Méndez Perico",
+          "Varela Leyva",
+          "Jacobo Villalobos",
+          "Isis Aquino",
+          "Lina María Parra Ochoa",
+          "Alberto Chimal",
+          "Alexandra Pagán Vélez",
+          "Gabriela Damián Miravete",
+          "Markus Edjical Goth",
+          "Natasha Rangel",
+          "Enrique Urbina",
+          "Solange Rodríguez Pappe",
+          "Gustavo Munckel",
+          "Enza García Arreaza"
+        ],
+        "publisher": "Elefanta Editorial",
+        "publishedDate": "2025-02-24",
+        "description": "¿Qué hay en el fondo de nosotrxs? ¿Qué hay, a su vez, en lo más profundo de lxs demás? El terror ilumina esas preguntas, es costura fina, una manera de explorar lugares lejanos, propios y ajenos, y de hablar de las diferencias, que hoy espantan a tanta gente. Sin duda, el terror descoloca nuestros prejuicios sobre la otredad, evoca los fantasmas que nos acompañan, piensa a la sociedad, la naturaleza, en nuestros límites, es una forma de mirar de cerca lo que, quizás, queremos esconder. ¿Qué significa el destape de lo macabro o, mejor dicho, de lo incomprensible? Este libro congrega textos inéditos de las voces más trascendentales (aunque no todas, claro) del terror actual latinoamericano. Una de las mejores dimensiones de la literatura híbrida sin duda reside en él. Con textos inéditos de: Mariana Enriquez (Argentina), Verena Cavalcante (Brasil), Elaine Vilar Madruga (Cuba), Ramiro Sanchiz (Uruguay), Malena Salazar Maciá (Cuba), Jumko Ogata Aguilar (México), Oscar Nestarez (Brasil), Bernardo Esquinca (México), Zezé Atabales (Chile), Marina Yuszczuk (Argentina), Hank T. Cohen (Colombia), Natalia Chávez (Bolivia), Pabsi Livmar (Puerto Rico), Stephany Méndez Perico (Colombia), Varela Leyva (Cuba), Jacobo Villalobos (Venezuela), Isis Aquino (República Dominicana), Lina María Parra Ochoa (Colombia), Alberto Chimal (México), Alexandra Pagán Vélez (Puerto Rico), Gabriela Damián Miravete (México), Markus Edjical Goth (República Dominicana), Natasha Rangel (Venezuela), Enrique Urbina (México), Solange Rodríguez Pappe (Ecuador), Gustavo Munckel (Bolivia) y Enza García Arreaza (Venezuela).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078978229"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6078978225"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 395,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZfhJEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZfhJEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ZfhJEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZfhJEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZfhJEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 102.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 102.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZfhJEQAAQBAJ&rdid=book-ZfhJEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 102900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 102900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cabezas_en_la_ventana-sample-epub.acsm?id=ZfhJEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cabezas_en_la_ventana-sample-pdf.acsm?id=ZfhJEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZfhJEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con textos inéditos de: Mariana Enriquez (Argentina), Verena Cavalcante (Brasil), Elaine Vilar Madruga (Cuba), Ramiro Sanchiz (Uruguay), Malena Salazar Maciá (Cuba), Jumko Ogata Aguilar (México), Oscar Nestarez (Brasil), Bernardo ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9a650AEACAAJ",
+      "etag": "trtGlEIKINI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9a650AEACAAJ",
+      "volumeInfo": {
+        "title": "The Secret Life of Insects",
+        "authors": [
+          "Bernardo Esquinca"
+        ],
+        "publishedDate": "2024",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1838171649"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781838171643"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9a650AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9a650AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=9a650AEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=9a650AEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Secret_Life_of_Insects.html?hl=&id=9a650AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9a650AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is a volume sure to please not only fans of horror and weird fiction but also anyone interested in contemporary international literature. This edition also features brilliant full-page illustrations by Spanish artist Luis Perez Ochando."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EMqIDwAAQBAJ",
+      "etag": "PSRSZaSdCGg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EMqIDwAAQBAJ",
+      "volumeInfo": {
+        "title": "La tienda de los sueños",
+        "subtitle": "Un siglo de cuento fantástico mexicano",
+        "authors": [
+          "Alberto Chimal",
+          "Amado Nervo",
+          "Elena Garro",
+          "Leonora Carrington",
+          "Juan José Arreola",
+          "Guadalupe Dueñas",
+          "Amparo Dávila",
+          "Inés Arredondo",
+          "José Emilio Pacheco",
+          "Agustín Monsreal",
+          "Guillermo Samperio",
+          "Álvaro Uribe",
+          "Verónica Murguía",
+          "Norma Lazo",
+          "Cecilia Eudave",
+          "Ignacio Padilla",
+          "Fernando de León",
+          "Bernardo Esquinca",
+          "Magali Velasco",
+          "Iliana Vargas",
+          "Édgar Omar Avilés"
+        ],
+        "publisher": "Ediciones SM",
+        "publishedDate": "2016-02-15",
+        "description": "La literatura vuelve realidad todo. Y así lo ha demostrado una innumerable cantidad de autores desde hace cientos de años. Aquí no encontrarás elfos, dragones ni niños magos con lentes y varitas, sino que te enfrentarás a encuentros con el Diablo, desapariciones inexplicables, personas duplicadas, saltos en el tiempo, criaturas informes que van a estrujarte el cerebro en tu intento por comprenderlas... ¿Qué es lo fantástico? Aquello inexplicable, la presencia de lo raro, eso que o logramos entender... lo imposible que se hace posible gracias a la literatura.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786072418097"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6072418090"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=EMqIDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EMqIDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EMqIDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EMqIDwAAQBAJ&rdid=book-EMqIDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_tienda_de_los_sue%C3%B1os-sample-epub.acsm?id=EMqIDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_tienda_de_los_sue%C3%B1os-sample-pdf.acsm?id=EMqIDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EMqIDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Aquello inexplicable, la presencia de lo raro, eso que o logramos entender... lo imposible que se hace posible gracias a la literatura."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lJ2aEAAAQBAJ",
+      "etag": "EeHGcdRziOw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lJ2aEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Antología. Terror En Tus Sentidos",
+        "authors": [
+          "Gatanegra Libros",
+          "Alma Mancilla",
+          "Miguel Lupián",
+          "Ana María Elizondo",
+          "David Kolkrabe",
+          "Luisa Iglesias Arvide",
+          "Fernando Buendía",
+          "Amaranta Monterrubio",
+          "Vicente Alfonso",
+          "Magdalena López",
+          "Gerardo Lima",
+          "Raquel Castro",
+          "Alberto Chimal",
+          "Bernardo Esquinca",
+          "Roberto Coria Monter"
+        ],
+        "publisher": "GataNegra",
+        "publishedDate": "2022-11-01",
+        "description": "En esta antología recopilada por Gatanegra se busca recuperar el espacio para la bruja, pues sospechamos que será ella quien abra la puerta para que el terror, el horror, la ciencia ficción, la fantasía y el género negro formen una sola comunidad que salga de la marginación para convertirse en aquelarre. En cada uno de los cuentos aquí reunidos aparece alguna bruja atizando la historia en forma de madre, de monstruo, de niña, de espíritu, de abuela, de caníbal, de cineasta, de jugadora de cartas. La bruja saldrá de su prisión y, quien quita, nos sacará de la nuestra.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lJ2aEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lJ2aEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=lJ2aEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lJ2aEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lJ2aEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lJ2aEAAAQBAJ&rdid=book-lJ2aEAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lJ2aEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En esta antología recopilada por Gatanegra se busca recuperar el espacio para la bruja, pues sospechamos que será ella quien abra la puerta para que el terror, el horror, la ciencia ficción, la fantasía y el género negro formen una ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "owyqzwEACAAJ",
+      "etag": "4hV5xauPPyc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/owyqzwEACAAJ",
+      "volumeInfo": {
+        "title": "Adonde voy siempre es de noche",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8412520556"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788412520552"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=owyqzwEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=owyqzwEACAAJ&dq=inauthor:%22Bernardo+Esquinca%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Adonde_voy_siempre_es_de_noche.html?hl=&id=owyqzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=owyqzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

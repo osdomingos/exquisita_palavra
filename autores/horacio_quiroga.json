@@ -1,0 +1,1607 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "i8UADAAAQBAJ",
+      "etag": "OVpjKtgtuDI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i8UADAAAQBAJ",
+      "volumeInfo": {
+        "title": "Contos da selva",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publisher": "Editora Iluminuras Ltda",
+        "publishedDate": "2014-01-08",
+        "description": "Contos da selva, este novo livro de contos infanto-juvenis do uruguaio Horacio Quiroga (1878-1937), nos alegra pelo prazer da novidade; porque são contos de uma selva conhecida, mas pouco contada: a nossa. Protagonizam os jacarés argentinos do rio Paraná, a tartaruga gigante amiga do diretor do Zoológico de Buenos Aires e a abelhinha malandra de algum lugar das selvas latino-americanas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788573214338"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8573214333"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i8UADAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i8UADAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=i8UADAAAQBAJ&printsec=frontcover&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=i8UADAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=i8UADAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 39,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=i8UADAAAQBAJ&rdid=book-i8UADAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 39000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Contos_da_selva-sample-epub.acsm?id=i8UADAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Contos_da_selva-sample-pdf.acsm?id=i8UADAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i8UADAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Contos da selva, este novo livro de contos infanto-juvenis do uruguaio Horacio Quiroga (1878-1937), nos alegra pelo prazer da novidade; porque são contos de uma selva conhecida, mas pouco contada: a nossa."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ss3xzwEACAAJ",
+      "etag": "CaXcYVKP8yw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ss3xzwEACAAJ",
+      "volumeInfo": {
+        "title": "Contos de amor, de loucura e de morte",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publishedDate": "2013-02",
+        "description": "Horacio Quiroga (Salto, 1878 — Buenos Aires, 1937) é considerado um dos mestres do conto latino-americano. Contos de amor, de loucura e de morte reuniu contos publicados em diferentes revistas, até serem recolhidos em volume em 1917, pela Cooperativa Editorial Buenos Aires.O título indica de antemão os principais temas com que o leitora há de se deparar. A morte é central em todos os contos, seja na violência entre os homens (ou na loucura que os leva a cometerem atos irracionais), seja para demonstrar a potência e a crueldade da natureza.Muitas das narrativas são ambientadas no campo e na floresta, entre Misiones e o Chaco, em que o autor explora certa vida cotidiana dos trópicos, principalmente nas regiões fronteiriças, entre Argentina, Brasil, Paraguai e Uruguai, sendo as linhas de fronteira mais do que espaços geográficos, uma vez que indicam a dificuldade em determinar limites psíquicos entre a loucura e a sanidade, entre o patológico e o normal.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8577153118"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788577153114"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=Ss3xzwEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Ss3xzwEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contos_de_amor_de_loucura_e_de_morte.html?hl=&id=Ss3xzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ss3xzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Horacio Quiroga (Salto, 1878 — Buenos Aires, 1937) é considerado um dos mestres do conto latino-americano."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6fzQzQEACAAJ",
+      "etag": "chz5UjwLVtA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6fzQzQEACAAJ",
+      "volumeInfo": {
+        "title": "Contos de amor, loucura e morte",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-08-24",
+        "description": "Sem dúvida, Horacio Quiroga é considerado um dos maiores contadores de histórias latino-americanos de todos os tempos. Nos dois clássicos que compõem esta obra, reflete-se claramente o período mais brilhante e decisivo da sua trajetória de contador de histórias.Em Tales of Madness and Death, tragédia, sofrimento, obsessões, vício e demência são os temas recorrentes. Composto por dezoito contos, o autor descreve de maneira simples, eloqüente e sugestiva o Ser Humano e seus medos diante das situações que determinam sua existência.\"Contos de amor, loucura e morte\" é sem dúvida a sua obra mais reconhecida ... \"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798678891303"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6fzQzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6fzQzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=6fzQzQEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=6fzQzQEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contos_de_amor_loucura_e_morte.html?hl=&id=6fzQzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6fzQzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sem dúvida, Horacio Quiroga é considerado um dos maiores contadores de histórias latino-americanos de todos os tempos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2GMfTiDwLngC",
+      "etag": "C2OMa10CD3g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2GMfTiDwLngC",
+      "volumeInfo": {
+        "title": "Cartas de um caçador",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publisher": "Editora Iluminuras Ltda",
+        "publishedDate": "2000",
+        "description": "Todas as histórias são relato fiel das caçadas de um conterrâneo nosso em todas as selvas, desertos e mares do novo e do velho mundo. Com esta advertência, Dum Dum apresenta suas Cartas de um caçador . Logo se percebe que é um caçador de verdade, e disso não faltam provas. A principal delas é que ele não apenas viveu as aventuras, como também decidiu escrever este livro para contá-las. Dum Dum é o caçador que nos guiará por suas caçadas e peripécias na selva. E o que se pode esperar de um caçador-escritor assim? A mesma coragem de seu criador, o uruguaio Horacio Quiroga(1878-1937), um escritor barbudo que um dia resolver ir viver na selva, no povoado de San Ignácio, em Misiones, próximo à tríplice fronteira entre Brasil , Argentina e Paraguai. Lá, há quase cem anos, Quiroga construiu uma casa de pedra, onde plantava palmeiras, bananeiras e criava serpentes, e que continua em pé até hoje, enfeitada com muitas das peles e couros que caçou seu personagem-escritor Dum Dum. As cartas que Dum Dum mandava lá de San Ignácio para seus filhos foram todas publicadas na revista infanto-juvenil de Buenos Aires Billiken e na revista Mundo Argentino, entre 1922 e 1924. Hoje, os jovens leitores do Brasil além de se deleitarem com as aventuras do caçador, vão conhecer também as selvas da América Latina, com seus bichos como a onça pintada, a suçuarana, a jaguatirica e o condor – que nessa época viviam soltos pelas matas, e não presos nos zoológicos. Conhecer a selva em que viveu Quiroga pelas cartas de Dum Dum é uma experiência de desvendar um mundo próximo, primitivo, cujo valor máximo é o da experiência e o da sobrevivência. Ler as cartas de um caçador nos mostra que, apesar de distante, o mundo da selva é o nosso mundo também. Dum Dum é um caçador de verdade. Quiroga, um escritor de verdade. Sorte nossa eles terem se encontrado na selva de Misiones para nos contar estas histórias... Wilson Alves-Bezerra",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8573212683"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788573212686"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2GMfTiDwLngC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2GMfTiDwLngC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=2GMfTiDwLngC&printsec=frontcover&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=2GMfTiDwLngC&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cartas_de_um_ca%C3%A7ador.html?hl=&id=2GMfTiDwLngC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cartas_de_um_ca%C3%A7ador-sample-pdf.acsm?id=2GMfTiDwLngC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2GMfTiDwLngC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2n49EAAAQBAJ",
+      "etag": "xUi3tU1l8bU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2n49EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Contos de assombro",
+        "authors": [
+          "Ivan Turguêniev",
+          "E. T. A. Hoffmann",
+          "Luigi Pirandello",
+          "Robert Louis Stevenson",
+          "M. R. James",
+          "Émile Zola",
+          "Washington Irving",
+          "Horacio Quiroga",
+          "Leonid Andrêiev",
+          "João do Rio",
+          "Virginia Woolf",
+          "Humberto de Campos",
+          "Medeiros e Albuquerque",
+          "Emilia Pardo Bazán",
+          "Edgar Allan Poe",
+          "Guy de Maupassant"
+        ],
+        "publisher": "Carambaia",
+        "publishedDate": "2021-09-21",
+        "description": "Coletânea de contos de terror traz autores clássicos e fora do nicho para uma nova abordagem do gênero. Contos de assombro é uma coletânea de dezenove textos que procura abordar a literatura fantástica e de mistério fora dos nichos de gênero, como um convite a um público mais amplo que o habitual. O inesperado está presente não apenas como temática, mas também na inclusão de autores clássicos reconhecidos por outras filiações, como Émile Zola, Edith Wharton, Ivan Turguêniev, Luigi Pirandello e Virginia Woolf. Em todos eles se encontra a sensação de assombro – seja por meio de uma sátira sobre a crueldade do ser humano, caso da narrativa implacável de Zola, ou pela descrição minuciosa de um único gesto refletido num espelho, no delicado conto de Woolf. Um dos recortes que orientaram a escolha dos contos da coletânea é temporal: todos foram escritos entre o início do século XIX e as primeiras décadas do século XX, apogeu da produção literária de mistério em seu período pós-gótico, como explica no posfácio Alcebíades Diniz, pós-doutor em Teoria e História Literária pela Universidade Estadual de Campinas (Unicamp). Segundo Diniz, o início de uma era em que começaram a predominar no mundo da cultura a racionalidade e os ecos dos avanços da ciência coincidiu, em fins do século XVIII, com a decadência da literatura gótica – em que o inexplicável e o insondável se manifestavam por meio das forças da natureza e dos truques ficcionais. Na fase moderna, o sentimento de inquietação ganha primeiro plano e tende a permanecer ao fim da leitura. Sob essa perspectiva, o sobrenatural passa a se subordinar a um sentimento de desconcerto e ambiguidade, esmaecendo as fronteiras de gênero. É esse o universo que abarca as narrativas do livro, em que não falta humor ácido, como no conto de Washington Irving, nem melancolia, traço da surpreendente narrativa de Horacio Quiroga em que os personagens são animais cercados por arame farpado. Ao lado desses escritores de outros cânones figuram nomes mais frequentes em antologias de literatura fantástica. Talvez o nome mais conhecido deles, Edgar Allan Poe, está representado no volume com um conto alucinatório e pouco conhecido – cuja autoria era até pouco tempo contestada. E. T. A. Hoffmann é o autor de um dos textos da antologia que evocam o demônio como uma presença inelutável (mesmo que simbolicamente), mote também da narrativa de Robert Louis Stevenson. Outro autor célebre da literatura fantástica, Guy de Maupassant, aparece não com sua ficção, mas num ensaio publicado na imprensa sobre as possibilidades de desenvolver os temas sobrenaturais nos tempos modernos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786586398380"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "658639838X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 261,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2n49EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2n49EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=2n49EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2n49EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2n49EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 23.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 23.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2n49EAAAQBAJ&rdid=book-2n49EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 23900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 23900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Contos_de_assombro-sample-epub.acsm?id=2n49EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Contos_de_assombro-sample-pdf.acsm?id=2n49EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2n49EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Contos de assombro é uma coletânea de dezenove textos que procura abordar a literatura fantástica e de mistério fora dos nichos de gênero, como um convite a um público mais amplo que o habitual."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jdOTEAAAQBAJ",
+      "etag": "HwB/CDYUVoE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jdOTEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Gótico Americano",
+        "authors": [
+          "Nathaniel Hawthorne",
+          "Henry James",
+          "Edgar Allan Poe",
+          "Froylán Turcios",
+          "Horacio Quiroga",
+          "Vicente Huidobro",
+          "Augusto dos Anjos",
+          "Machado de Assis"
+        ],
+        "publisher": "Pandorga Editora",
+        "publishedDate": "2022-11-10",
+        "description": "Você com certeza já ouviu falar do gênero gótico da literatura, com suas histórias ambientadas em ruínas, igrejas antigas, mansões e castelos, cenários tipicamente europeus. Mas será que a América também não seria um lugar para contos de terror desse tipo? Essa é a premissa de \"Gótico Americano\", um volume que reúne sob o mesmo céu nublado autores oriundos da América Latina e do Norte, tratando de temas fantasmagóricos. Alguns deles são velhos conhecidos que você nem imaginaria escrevendo esse tipo de coisa! HORRORES E MISTÉRIOS ORIGINAIS DO NOVO MUNDO, EM UMA COLETÂNEA INÉDITA! MEDO, HORROR E OBSCURIDADE QUE TAMBÉM SÃO A CARA DAS AMÉRICAS Certamente esta coletânea é inédita no mundo, e proporcionará a vocês, caros leitores, todos os efeitos que o gótico pode originalmente proporcionar: o medo, o horror, a beleza e a contemplação da melancolia e da obscuridade, bem como todos os assuntos inerentes ao próprio continente americano como: colonização, questões raciais, socioeconômicas e de gênero. Fiquem alertas, pois nas Américas o mal também pode estar à sua espreita nas sombras, apenas aguardando o momento certo para atacar. CUIDEM-SE E BOA LEITURA!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786555791952"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6555791950"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jdOTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jdOTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=jdOTEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jdOTEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jdOTEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 22.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 22.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jdOTEAAAQBAJ&rdid=book-jdOTEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 22900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 22900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/G%C3%B3tico_Americano-sample-epub.acsm?id=jdOTEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/G%C3%B3tico_Americano-sample-pdf.acsm?id=jdOTEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jdOTEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Essa é a premissa de &quot;Gótico Americano&quot;, um volume que reúne sob o mesmo céu nublado autores oriundos da América Latina e do Norte, tratando de temas fantasmagóricos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ww-tDwAAQBAJ",
+      "etag": "vnqjMqyERTQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ww-tDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Anaconda",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publisher": "Linkgua",
+        "publishedDate": "2010-08-31",
+        "description": "Anaconda es un relato del escritor uruguayo Horacio Quiroga, publicado en 19211 y perteneciente al libro Anaconda y otros cuentos, que trata de la destrucción causada por el ser humano en el mundo natural. De brutal actualidad, narra cómo las víboras, representando a los seres humanos, se constituyen en amenaza para el entorno. Al inicio de la historia una serpiente yarará descubre la presencia de hombres en un viejo edificio deshabitado en la selva. El suceso provoca un Congreso de las Víboras para afrontar la situación. Durante el cónclave determinan que es preciso atacar a los humanos para proteger sus vidas, siendo lo más conveniente matar primero a sus caballos. Solo las serpientes Ñacaniná y Anaconda creen, en minoría, que sería más efectivo atacar primero al perro que han traído los humanos pues este está adiestrado para cazarlas y puede ser letal. La disputa entre las víboras y los hombres es en este relato de Quiroga una metáfora de la intromisión humana en la naturaleza y del exterminio que ello supone para la vida salvaje.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788498978346"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8498978343"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 43,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.14.15.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ww-tDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ww-tDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=Ww-tDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ww-tDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ww-tDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 5.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Ww-tDwAAQBAJ&rdid=book-Ww-tDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 5900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Anaconda-sample-epub.acsm?id=Ww-tDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Anaconda-sample-pdf.acsm?id=Ww-tDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ww-tDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Anaconda es un relato del escritor uruguayo Horacio Quiroga, publicado en 19211 y perteneciente al libro Anaconda y otros cuentos, que trata de la destrucción causada por el ser humano en el mundo natural."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hb9HEAAAQBAJ",
+      "etag": "wZ1TYyHfISU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hb9HEAAAQBAJ",
+      "volumeInfo": {
+        "title": "7 best short stories by Horacio Quiroga",
+        "authors": [
+          "Horacio Quiroga",
+          "August Nemo"
+        ],
+        "publisher": "Tacet Books",
+        "publishedDate": "2021-10-11",
+        "description": "Welcome to the 7 Best Short Stories book series, were we present to you the best works of remarkable authors. This edition is dedicated to the uruguayan author Horacio Quiroga. Horacio Quiroga was a playwright, poet, and short-story writer. He wrote stories which, in their jungle settings, used the supernatural and the bizarre to show the struggle of man and animal to survive. He also excelled in portraying mental illness and hallucinatory states, a skill he gleaned from Edgar Allan Poe, according to some critics. His influence can be seen in the Latin American magical realism of Gabriel García Márquez and the postmodern surrealism of Julio Cortázar. Works selected for this book: - How the Rays Defended the Ford; - The Story of Two Raccoon Cubs and Two Man Cubs; - The Parrot That Lost Its Tail; - The Blind Doe; - The Alligator War; - How the Flamingoes Got Their Stockings; - The Giant Tortoise's Golden Rule. If you appreciate good literature, be sure to check out the other Tacet Books titles!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783986470166"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3986470166"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hb9HEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hb9HEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=hb9HEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hb9HEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hb9HEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 9.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hb9HEAAAQBAJ&rdid=book-hb9HEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 9900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/7_best_short_stories_by_Horacio_Quiroga-sample-epub.acsm?id=hb9HEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/7_best_short_stories_by_Horacio_Quiroga-sample-pdf.acsm?id=hb9HEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hb9HEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Welcome to the 7 Best Short Stories book series, were we present to you the best works of remarkable authors. This edition is dedicated to the uruguayan author Horacio Quiroga. Horacio Quiroga was a playwright, poet, and short-story writer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lEm7ygEACAAJ",
+      "etag": "4ZaEtafBYQg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lEm7ygEACAAJ",
+      "volumeInfo": {
+        "title": "Tales of the Jungle",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publishedDate": "2019-09-25",
+        "description": "This book is a translation of the Spanish-language original by Horacio Quiroga entitled Cuentos de la Selva. Collect children's stories that frame the author's experiences in his native Uruguay, telling stories around some animals of the local fauna, such as the yacaré, the ura, the coatis among others.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1695681843"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781695681842"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lEm7ygEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lEm7ygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=lEm7ygEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=lEm7ygEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_the_Jungle.html?hl=&id=lEm7ygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lEm7ygEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is a translation of the Spanish-language original by Horacio Quiroga entitled Cuentos de la Selva."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t_AR-IWT0UsC",
+      "etag": "zIZRdp8Ru28",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t_AR-IWT0UsC",
+      "volumeInfo": {
+        "title": "The Exiles and Other Stories",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publisher": "University of Texas Press",
+        "publishedDate": "2013-05-15",
+        "description": "Tales of risk and danger, suffering, disease, horror, and death. Tales, also, of courage and dignity, hard work, and human endurance in the face of hostile nature and the frequent brutality of men. And tales flavored with piquant touches of humor and bemused irony. These are the stories of the Uruguayan writer Horacio Quiroga, here presented in an important compilation of thirteen of his most compelling tales, sensitively selected and translated by J. David Danielson. Author of some two hundred pieces of fiction, often compared to the works of Kipling, Jack London, and Edgar Allan Poe, Quiroga set many of his stories in the territory of Misiones in northeastern Argentina, the subtropical jungle region where he spent much of his life. Included here are stories from Los desterrados (1926) often said to be his best book, as well as others from Cuentos de amor de locura y de muerte (1917), Anaconda (1921), and El Desierto (1924). The publication of this selection marks the first appearance in English of all but two of the thirteen stories. Quiroga here presents a wide range of characters: parents and children, servant girls and prostitutes, landowners and lumber barons, foremen and laborers, natives and immigrants, in stories pervaded by a vision of life that is elemental, incisive, and essentially tragic. The Exiles and Other Stories shows the versatility and skill that have made him a classic Spanish American writer. It complements and illumines The Decapitated Chicken and Other Stories, selected and translated by Margaret Sayers Peden, also published by the University of Texas Press.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780292753532"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0292753535"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t_AR-IWT0UsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t_AR-IWT0UsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=t_AR-IWT0UsC&printsec=frontcover&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=t_AR-IWT0UsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=t_AR-IWT0UsC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 99.94,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 99.94,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=t_AR-IWT0UsC&rdid=book-t_AR-IWT0UsC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 99940000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 99940000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t_AR-IWT0UsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These are the stories of the Uruguayan writer Horacio Quiroga, here presented in an important compilation of thirteen of his most compelling tales, sensitively selected and translated by J. David Danielson."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RFqnhxhMpOIC",
+      "etag": "EnK1GePyMNc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RFqnhxhMpOIC",
+      "volumeInfo": {
+        "title": "The Decapitated Chicken and Other Stories",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publisher": "Univ of Wisconsin Press",
+        "publishedDate": "2004",
+        "description": "From the Publisher: Tales of horror, madness, and death, tales of fantasy and morality: these are the works of South American storyteller Horacio Quiroga. The first representative collection of his work in English, The Decapitated Chicken and Other Stories provides a valuable overview of the scope of Quiroga's fiction and the versatility and skill that have made him a classic Latin American writer.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0299198340"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780299198343"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RFqnhxhMpOIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RFqnhxhMpOIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=RFqnhxhMpOIC&printsec=frontcover&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=RFqnhxhMpOIC&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Decapitated_Chicken_and_Other_Storie.html?hl=&id=RFqnhxhMpOIC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Decapitated_Chicken_and_Other_Storie-sample-pdf.acsm?id=RFqnhxhMpOIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RFqnhxhMpOIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the Publisher: Tales of horror, madness, and death, tales of fantasy and morality: these are the works of South American storyteller Horacio Quiroga."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zM6yoAEACAAJ",
+      "etag": "P5JolC8e9mc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zM6yoAEACAAJ",
+      "volumeInfo": {
+        "title": "Jungle Tales",
+        "authors": [
+          "Horacio Quiroga",
+          "Arthur Livingston"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2014-06-22",
+        "description": "Horacio Silvestre Quiroga Forteza (31 December 1878 – 19 February 1937) was an Uruguayan playwright, poet, and short story writer. He wrote stories which, in their jungle settings, use the supernatural and the bizarre to show the struggle of man and animal to survive. He also excelled in portraying mental illness and hallucinatory states. His influence can be seen in the Latin American magic realism of Gabriel García Márquez and the postmodern surrealism of Julio Cortázar.Translator: Arthur Livingston",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1500277797"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781500277796"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zM6yoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zM6yoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=zM6yoAEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=zM6yoAEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jungle_Tales.html?hl=&id=zM6yoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zM6yoAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Horacio Silvestre Quiroga Forteza (31 December 1878 - 19 February 1937) was an Uruguayan playwright, poet, and short story writer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oWQEbXJw6tkC",
+      "etag": "iFKfBKv6Msg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oWQEbXJw6tkC",
+      "volumeInfo": {
+        "title": "South American Jungle Tales /by Horacio Quiroga ; Authorized Translation from the Spanish (Cuentos de la Selva) by Arthur Livingston ; Illustrated by A. L. Ripley",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33333081193076"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Animals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oWQEbXJw6tkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oWQEbXJw6tkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=oWQEbXJw6tkC&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=oWQEbXJw6tkC&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/South_American_Jungle_Tales_by_Horacio_Q.html?hl=&id=oWQEbXJw6tkC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oWQEbXJw6tkC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kUIp0AEACAAJ",
+      "etag": "EqvGhMtAag8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kUIp0AEACAAJ",
+      "volumeInfo": {
+        "title": "Tales of Love, Madness and Death",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publishedDate": "2024-02-07",
+        "description": "An extraordinary writer whose work has long been woefully neglected in English translation, Quiroga's tales - and the life of the writer behind them - are a fever dream of morbidity and horror. Frequently compared to the works of Edgar Allan Poe, this avant-garde collection is staggeringly modern in its content, and is suffused with the themes and settings of his later works. Quiroga's first published short-story collection, Tales of Love, Madness and Death is presented here in a brand-new translation, and also includes his lauded tongue-in-cheek 'Ten Commandments for Short-Story Writers', readying some of the great writer's finest work for a new generation of readers. 'Quiroga's stories are, like Poe's, full of psychological shocks and eerie effects, and are bracingly, if ruthlessly, realistic.' (John Updike, New Yorker)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1804470929"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781804470923"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kUIp0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kUIp0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=kUIp0AEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=kUIp0AEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_Love_Madness_and_Death.html?hl=&id=kUIp0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kUIp0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Frequently compared to the works of Edgar Allan Poe, this avant-garde collection is staggeringly modern in its content, and is suffused with the themes and settings of his later works."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LMtUAAAAMAAJ",
+      "etag": "5SKLnUZLZCI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LMtUAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Obras inéditas y desconocidas",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024584873"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LMtUAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LMtUAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=LMtUAAAAMAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=LMtUAAAAMAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_in%C3%A9ditas_y_desconocidas.html?hl=&id=LMtUAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LMtUAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jA-2EQAAQBAJ",
+      "etag": "e+d6OMNFxMA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jA-2EQAAQBAJ",
+      "volumeInfo": {
+        "title": "Cuentos de amor de locura y muerte",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publisher": "Legorreta",
+        "publishedDate": "2025-04-02",
+        "description": "\"Cuentos de amor, de locura y de muerte\" es una colección de relatos del escritor argentino Horacio Quiroga, publicada en 1917. Estos cuentos oscilan entre lo macabro, lo trágico y lo fantástico, explorando los límites de la mente humana y la naturaleza implacable del destino. A través de una prosa evocadora y atmosférica, Quiroga presenta personajes atormentados por pasiones extremas, obsesiones mortales y eventos sobrenaturales. Los cuentos ofrecen una visión sombría de la vida en la selva misionera y revelan la fascinación del autor por el lado más oscuro de la existencia humana. Esta colección es considerada una obra maestra del modernismo latinoamericano y ha dejado una marca perdurable en la literatura en español.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798316408399"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jA-2EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jA-2EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=jA-2EQAAQBAJ&printsec=frontcover&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jA-2EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jA-2EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 169.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 169.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jA-2EQAAQBAJ&rdid=book-jA-2EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 169900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 169900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jA-2EQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Cuentos de amor, de locura y de muerte&quot; es una colección de relatos del escritor argentino Horacio Quiroga, publicada en 1917."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w3vOjwEACAAJ",
+      "etag": "faeAXwQj3sk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w3vOjwEACAAJ",
+      "volumeInfo": {
+        "title": "Anaconda (Spanish Edition)",
+        "authors": [
+          "Horacio Quiroga",
+          "J. Valera"
+        ],
+        "publishedDate": "2016-05-15",
+        "description": "La historia comienza cuando una yarará, se acerca a una casa, que hasta no hace mucho tiempo había estado deshabitada, el problema es que ahora en ella habitan cuatro seres humanos, un perro y unos cuantos caballos...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1533232695"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781533232694"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=w3vOjwEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=w3vOjwEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anaconda_Spanish_Edition.html?hl=&id=w3vOjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w3vOjwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La historia comienza cuando una yarará, se acerca a una casa, que hasta no hace mucho tiempo había estado deshabitada, el problema es que ahora en ella habitan cuatro seres humanos, un perro y unos cuantos caballos..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7lSBzQEACAAJ",
+      "etag": "ClubAejBKwQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7lSBzQEACAAJ",
+      "volumeInfo": {
+        "title": "Anaconda",
+        "authors": [
+          "Horacio HORACIO QUIROGA"
+        ],
+        "publishedDate": "2020-03-30",
+        "description": "Colección de clásicos de los autores y textos que han perdurado en el tiempo. Obras literarias que nos han dejado su legado a nuestra tradición cultural y su prestigio perdura. Un recorrido por las obras maestras de las letras clásicas y sus grandes autores como: Rubén Darío, Miguel de Cervantes Saavedra, Gustavo Adolfo Becquér, José Hernandes, Oscar Wilde, William Shakespeare, Charles Dickens, Daniel Defoe, Horacio Quiroga, Lope de Vega, entre otros grandes autores de la literatura.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798632058803"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 209,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=7lSBzQEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=7lSBzQEACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anaconda.html?hl=&id=7lSBzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7lSBzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Un recorrido por las obras maestras de las letras clásicas y sus grandes autores como: Rubén Darío, Miguel de Cervantes Saavedra, Gustavo Adolfo Becquér, José Hernandes, Oscar Wilde, William Shakespeare, Charles Dickens, Daniel Defoe, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mvIodVteFMYC",
+      "etag": "+nvEnn3/jGs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mvIodVteFMYC",
+      "volumeInfo": {
+        "title": "Cuentos de amor, de locura y de muerte",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publisher": "Library of Alexandria",
+        "publishedDate": "1969-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465563453"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1465563458"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mvIodVteFMYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mvIodVteFMYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=mvIodVteFMYC&printsec=frontcover&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mvIodVteFMYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mvIodVteFMYC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 150,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 150,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mvIodVteFMYC&rdid=book-mvIodVteFMYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 150000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 150000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cuentos_de_amor_de_locura_y_de_muerte-sample-epub.acsm?id=mvIodVteFMYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mvIodVteFMYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "n2fQPQAACAAJ",
+      "etag": "PCkA3S6RTcs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n2fQPQAACAAJ",
+      "volumeInfo": {
+        "title": "The Lazy Bee",
+        "authors": [
+          "Horacio Quiroga"
+        ],
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9583009881"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789583009884"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=n2fQPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=n2fQPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=n2fQPQAACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=n2fQPQAACAAJ&dq=inauthor:%22Horacio+Quiroga%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lazy_Bee.html?hl=&id=n2fQPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n2fQPQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

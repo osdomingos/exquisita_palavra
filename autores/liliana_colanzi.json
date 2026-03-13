@@ -1,0 +1,1577 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "59BjEAAAQBAJ",
+      "etag": "o1ydvHbwylU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/59BjEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Apañado",
+        "subtitle": "Contos de autoras latino-americanas e caribenhas",
+        "authors": [
+          "Alejandra Zina",
+          "Carla Piazzi",
+          "Claudia Hernández",
+          "Claudia Ulloa Donoso",
+          "Edwidge Danticat",
+          "Elena Poniatowska Amor",
+          "Inés Fernández Moreno",
+          "Ivelisse Rodriguez",
+          "Jamaica Kincaid",
+          "Jarid Arraes",
+          "Liliana Colanzi",
+          "Lina Meruane",
+          "Mayra Santos-Febres",
+          "Silvana Tavano",
+          "Leticia Pilger da Silva"
+        ],
+        "publisher": "Editora Incompleta",
+        "publishedDate": "2022-03-10",
+        "description": "Coletânea de contos escritos por autoras latino-americanas e caribenhas contemporâneas. Os 14 textos são de: Alejandra Zina (Argentina), Carla Piazzi (Brasil), Claudia Hernández (El Salvador), Claudia Ulloa Donoso (Peru), Edwidge Danticat (Haiti), Elena Poniatowska Amor (México), Inés Fernández Moreno (Argentina), Ivelisse Rodriguez (Porto Rico), Jamaica Kincaid (Antígua), Jarid Arraes (Brasil), Liliana Colanzi (Bolívia), Lina Meruane (Chile), Mayra Santos-Febres (Porto Rico) e Silvana Tavano (Brasil). Editora: Incompleta Organização e traduções: Laura Del Rey e Raquel Dommarco Pedrão Apresentação: Leticia Pilger da Silva Preparação e revisão de textos: Aline Caixeta Rodrigues Catalogação: Ruth Simão Paulino Publicado em março de 2022. Saiba mais em https://incompleta.com.br",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786588104071"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6588104073"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=59BjEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=59BjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=59BjEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=59BjEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=59BjEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31.92,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31.92,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=59BjEAAAQBAJ&rdid=book-59BjEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31920000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31920000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Apa%C3%B1ado-sample-epub.acsm?id=59BjEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Apa%C3%B1ado-sample-pdf.acsm?id=59BjEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=59BjEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Os 14 textos são de: Alejandra Zina (Argentina), Carla Piazzi (Brasil), Claudia Hernández (El Salvador), Claudia Ulloa Donoso (Peru), Edwidge Danticat (Haiti), Elena Poniatowska Amor (México), Inés Fernández Moreno (Argentina), ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yNzcEAAAQBAJ",
+      "etag": "MStt7kkqkMk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yNzcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "You Glow in the Dark",
+        "authors": [
+          "Liliana Colanzi"
+        ],
+        "publisher": "New Directions Publishing",
+        "publishedDate": "2024-02-06",
+        "description": "Introducing the Bolivian writer Liliana Colanzi, You Glow in the Dark glimmers with an unearthly light and a nearly radioactive power The seven stories of You Glow in the Dark unfold in a Latin America wrecked and poisoned by human greed, and yet Colanzi’s writing—at once sleek and dense, otherworldly and intensely specific—casts an eerily bright spell over the wreckage. Some stories seem to be set in a near future; all are superbly executed and yet hard to pin down; they often leave the reader wondering: was that realistic or fantastic? Colanzi draws power from Andean cyberpunk just as much as from classic horror writers, and this daring is matched by her energizing simultaneous use of multiplicity and fragmentation—the book's stylistic trademarks. Freely mixing worlds, she uses the Bolivian altiplano as the backdrop for an urban dystopia and blends Aymara with Spanish. Colanzi never gets bogged down; she can be brutal and direct or light-handed and subtle. Her materials are dark, but always there’s the lift of her vivid sense of humor. You Glow in the Dark seizes the reader's attention (from the title on) and holds it: this is a book that announces the arrival of a major new talent.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780811237192"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0811237192"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yNzcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yNzcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=yNzcEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yNzcEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yNzcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 82.16,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 82.16,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yNzcEAAAQBAJ&rdid=book-yNzcEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 82160000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 82160000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/You_Glow_in_the_Dark-sample-epub.acsm?id=yNzcEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/You_Glow_in_the_Dark-sample-pdf.acsm?id=yNzcEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yNzcEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Her materials are dark, but always there’s the lift of her vivid sense of humor. You Glow in the Dark seizes the reader&#39;s attention (from the title on) and holds it: this is a book that announces the arrival of a major new talent."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jr1t0QEACAAJ",
+      "etag": "XVHdxXrdJ/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jr1t0QEACAAJ",
+      "volumeInfo": {
+        "title": "You Glow in the Dark",
+        "authors": [
+          "Liliana Colanzi"
+        ],
+        "publishedDate": "2025-10-02",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1836750048"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781836750048"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jr1t0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jr1t0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Jr1t0QEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Jr1t0QEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/You_Glow_in_the_Dark.html?hl=&id=Jr1t0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jr1t0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;Do you glow in the dark?&#39; In Liliana Colanzi&#39;s singular collection of short stories, set in a Latin America at once real and otherworldly, human vice contaminates every page."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w7BsEAAAQBAJ",
+      "etag": "p29h5uO7Ddo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w7BsEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ustedes brillan en lo oscuro",
+        "authors": [
+          "Liliana Colanzi"
+        ],
+        "publisher": "Editorial Páginas de Espuma",
+        "publishedDate": "2022-05-11",
+        "description": "Los cuentos de Liliana Colanzi exploran magistralmente diversas formas de narrar el tiempo, como el viaje geológico en una cueva, la búsqueda de las raíces históricas de la explotación del caucho en las ruinas de un pueblo amazónico, o la temporalidad dislocada de una colonia religiosa en la que sus personajes ansían deshacerse de las prohibiciones que los encallan en el pasado. En este libro la radiación es un agente invisible que afecta a los jóvenes que viven cerca de una central nuclear andina y a los recolectores de chatarra de una ciudad brasileña. Ustedes brillan en lo oscuro, libro galardonado con el Premio Ribera del Duero, crea espacios espacios enrarecidos con una escritura enigmática y sensorial. El jurado, del que formaron parte los escritores Marta Sanz, Cristian Crusat y presidido por Rosa Montero, resaltó que se trata de una obra de gran originalidad y potencia expresiva, que construye mundos extraños aunando las claves de ciencia ficción y realismo para llevar a cabo una crítica que nos sitúa ante el desconsuelo e inquietud de la vida.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788483936856"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8483936852"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 73,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w7BsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w7BsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=w7BsEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=w7BsEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=w7BsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=w7BsEAAAQBAJ&rdid=book-w7BsEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w7BsEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Los cuentos de Liliana Colanzi exploran magistralmente diversas formas de narrar el tiempo, como el viaje geológico en una cueva, la búsqueda de las raíces históricas de la explotación del caucho en las ruinas de un pueblo amazónico, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NOpXEAAAQBAJ",
+      "etag": "OOiK7/p+wRY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NOpXEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Our Dead World",
+        "authors": [
+          "Liliana Colanzi"
+        ],
+        "publisher": "Deep Vellum Publishing",
+        "publishedDate": "2017-05-26",
+        "description": "A young woman suffers a mental breakdown because of her repressive and religious mother. A group of children is fascinated by the sudden death of a friend. A drug trafficking couple visits Paris at the same time as a psychopathic cannibal. A mysterious wave travels through a university campus, driving students to suicide. A photographer witnesses a family’s surface composure shatter during a portrait session. A worker on Mars sees ghostly animals in the desert and longs for an impossible return to Earth. A plastic surgeon botches an operation and hides on a sugar cane plantation where indigenous slavery is practiced. Horror and the fantastic mark the unstable realism of Our Dead World, in which altered states of consciousness, marginalized peoples, animal bodies, and tensions between tradition and modernity are recurring themes. Liliana Colanzi’s stories explore those moments when the civilized voice of the ego gives way to the buzzing of the subconscious, and repressed indigenous history destabilizes the colonial legacy still present in contemporary Latin America. Colanzi is considered by critics to be one of the most promising voices of the new Latin American narrative, and this book is an ambitious formal and thematic leap.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781628972405"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1628972408"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NOpXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NOpXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=NOpXEAAAQBAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=NOpXEAAAQBAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Our_Dead_World.html?hl=&id=NOpXEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NOpXEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Colanzi is considered by critics to be one of the most promising voices of the new Latin American narrative, and this book is an ambitious formal and thematic leap."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Hd0wvgAACAAJ",
+      "etag": "dCVsOZVs6xM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hd0wvgAACAAJ",
+      "volumeInfo": {
+        "title": "Our Dead World",
+        "authors": [
+          "Liliana Colanzi Serrate"
+        ],
+        "publisher": "Bolivian Literature Series",
+        "publishedDate": "2017",
+        "description": "\"Originally published in Spanish by Almadâia as Nuestro mundo muerto in 2016\"--Title page verso.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1943150117"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781943150113"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Mothers and daughters"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Hd0wvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Hd0wvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=Hd0wvgAACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Hd0wvgAACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Our_Dead_World.html?hl=&id=Hd0wvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Hd0wvgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Originally published in Spanish by Almadâia as Nuestro mundo muerto in 2016&quot;--Title page verso."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VwhSzwEACAAJ",
+      "etag": "MBpur7q9Mic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VwhSzwEACAAJ",
+      "volumeInfo": {
+        "title": "Ustedes brillan en lo oscuro",
+        "authors": [
+          "Liliana Colanzi Serrate"
+        ],
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6076352809"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786076352809"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=VwhSzwEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=VwhSzwEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ustedes_brillan_en_lo_oscuro.html?hl=&id=VwhSzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VwhSzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ustedes brillan en lo oscuro, libro galardonado con el Premio Ribera del Duero, crea espacios espacios enrarecidos con una escritura enigmática y sensorial&quot;--Back cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VRVJDwAAQBAJ",
+      "etag": "9wpES0EXXn4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VRVJDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Nuestro mundo muerto",
+        "authors": [
+          "Liliana Colanzi"
+        ],
+        "publisher": "Eterna Cadencia, Laguna Libros, eLibros",
+        "publishedDate": "2018-01-26",
+        "description": "Estos cuentos suceden en las laderas de los Andes, en el invierno de Ithaca, en Marte, en París. En ellos, Liliana Colanzi logra acoger de una manera sagaz la ciencia ficción y la fantasía, las hace dialogar con el realismo y explora a través de ese encuentro la idea de la muerte en las grietas del mestizaje, allí donde la idiosincrasia indígena y su historia de explotación chocan con la vida moderna y urbana. Nuestro mundo muerto es a la vez un punto de llegada y de partida: aquí confluyen nuestras tradiciones fundamentales para ser renovadas y abrir caminos nuevos. Coedición digital Eterna Cadencia - Laguna Libros - eLibros. Derechos solo para Colombia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789588812922"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9588812925"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VRVJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VRVJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=VRVJDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=VRVJDwAAQBAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuestro_mundo_muerto.html?hl=&id=VRVJDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nuestro_mundo_muerto-sample-epub.acsm?id=VRVJDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VRVJDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nuestro mundo muerto es a la vez un punto de llegada y de partida: aquí confluyen nuestras tradiciones fundamentales para ser renovadas y abrir caminos nuevos. Coedición digital Eterna Cadencia - Laguna Libros - eLibros."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s_30DwAAQBAJ",
+      "etag": "HfIjx2H7DoU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s_30DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Chaco",
+        "authors": [
+          "Liliana Colanzi"
+        ],
+        "publisher": "Fondo de Cultura Economica",
+        "publishedDate": "2020-07-30",
+        "description": "Chaco es una vasta región en Sudamérica que toca Bolivia, Argentina, Paraguay y Brasil, pero podría ser cualquier lugar, cualquier territorio de América Latina. En \"Chaco\" se desarrolla una sobrenatural y sombría historia de la vida despojada, de abandono y miseria, de la que emergen personajes con una sabiduría inesperada 3⁄4como el abuelo alcohólico3⁄4, con determinación 3⁄4como la madre que huye de su hijo3⁄4, y en la que se da el encuentro fortuito entre dos parias que sella su destino. \"Chaco\" es una muestra del cuento latinoamericano actual, teñido de los colores y memorias de los pueblos originarios atrapados en la peor faz del mundo moderno.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786071664204"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6071664209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s_30DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s_30DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=s_30DwAAQBAJ&printsec=frontcover&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s_30DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s_30DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 2.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=s_30DwAAQBAJ&rdid=book-s_30DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 2900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Chaco-sample-epub.acsm?id=s_30DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Chaco-sample-pdf.acsm?id=s_30DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s_30DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Chaco es una vasta región en Sudamérica que toca Bolivia, Argentina, Paraguay y Brasil, pero podría ser cualquier lugar, cualquier territorio de América Latina."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8Y9TEQAAQBAJ",
+      "etag": "sleVPA+4HuE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8Y9TEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Ni lyser i mörkret",
+        "authors": [
+          "Liliana Colanzi"
+        ],
+        "publisher": "Wahlström & Widstrand",
+        "publishedDate": "2025-08-19",
+        "description": "På ett smutsigt kontor säljer en flicka sin själ till djävulen mot att han ger henne gröna ögon istället för de urfolksmörka hon ärvt på mödernet. I en förhistorisk grotta i Oaxaca flimrar tiden förbi i form av muterade fladdermöss, importerade virus och vilsekomna tidsresenärer tills grottan själv framstår som en portal till en ännu okänd dimension. Under några ödesdigra dagar i ett inte alltför avlägset förflutet sätter sig brasilianska småflickor vid middagsbordet med händerna fläckiga av en mystiskt självlysande substans. Och långt in i Bolivias regnskog håller en kristen europeisk bosättarsekt sina barn instängda bakom \"lydnadens band\": ett magnetfält som avger dödliga elchocker för att världen utanför inte ska locka dem till synd och rasblandning. Liliana Colanzi låter oss se vår samtid på nytt i all dess dödliga bländning och förstörelse.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789146243342"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9146243348"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8Y9TEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8Y9TEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "sv",
+        "previewLink": "http://books.google.com.br/books?id=8Y9TEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8Y9TEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8Y9TEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 109.19,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 109.19,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8Y9TEQAAQBAJ&rdid=book-8Y9TEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 109190000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 109190000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8Y9TEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Liliana Colanzi låter oss se vår samtid på nytt i all dess dödliga bländning och förstörelse."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NkCDswEACAAJ",
+      "etag": "cTcjrqFVROw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NkCDswEACAAJ",
+      "volumeInfo": {
+        "title": "Nuestro mundo muerto",
+        "authors": [
+          "Liliana Colanzi Serrate"
+        ],
+        "publisher": "Almadia",
+        "publishedDate": "2016",
+        "description": "Una mujer en una mision de colonizacion en Marte, otra esperando a su amante en un hotel de Paris, un joven poseido por el impulso asesino de un indio mataco, son algunos de los personajes que habitan estos cuentos, en los que la fantasia se diluye en terror y suspenso. Con esta coleccion, el lector tiene la oportunidad de ser testigo de la irrupcion en el panorama literario mexicano de esta joven e impetuosa escritora boliviana, Liliana Colanzi.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6078486071"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078486076"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NkCDswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NkCDswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=NkCDswEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=NkCDswEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuestro_mundo_muerto.html?hl=&id=NkCDswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NkCDswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con esta coleccion, el lector tiene la oportunidad de ser testigo de la irrupcion en el panorama literario mexicano de esta joven e impetuosa escritora boliviana, Liliana Colanzi."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HCHrDwAAQBAJ",
+      "etag": "RSZ0KK450D0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HCHrDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Diáspora",
+        "subtitle": "Narrativa breve en español de Estados Unidos",
+        "authors": [
+          "Gerardo Cárdenas",
+          "Rey Emmanuel Andújur",
+          "Rebecca Bowman",
+          "Pablo Brescia",
+          "Lorea Canales",
+          "Xanath Caraza",
+          "Nayla Chehade",
+          "Liliana Colanzi",
+          "Teresa Dovalpage",
+          "Rafael Franco Steeves",
+          "Martivon Galindo",
+          "Manuel Hernández Andrés",
+          "Stanislaw Jaroszek",
+          "Brenda Lozano",
+          "Ana Merino",
+          "Fernando Olszanski",
+          "Luis Alejandro Ordóñez",
+          "Edmundo Paz Soldán",
+          "Liliana Pedroza",
+          "Cristina Rivera Garza",
+          "René Rodríguez Soriano",
+          "Rose Mary Salum",
+          "Regina Swain",
+          "Jennifer Thorndike",
+          "Johanny Vázquez Paz"
+        ],
+        "publisher": "Vaso Roto Ediciones",
+        "publishedDate": "2020-06-11",
+        "description": "Con una población de origen latino que rebasa ya los 50 millones, Estados Unidos es la segunda nación con mayor número de hispanohablantes. Es lógico, por tanto, que esté naciendo en este país una literatura nueva, una literatura escrita en el español propio de los Estados Unidos, del español nacido de la confluencia de las variedades idiomáticas de los países latinoamericanos que han protagonizado las grandes olas migratorias; y del inglés que les ha dado cobijo. Una variedad del español Unica, para una literatura única y profundamente original. Diáspora. Narrativa breve en español de Estados Unidos, constata esta realidad a través de 25 relatos escritos por autores asentados en Estados Unidos que optan por escribir en español para una población lectora estadounidense que demanda libros en español y que está creciendo exponencialmente.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788412214604"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8412214609"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HCHrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HCHrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=HCHrDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HCHrDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HCHrDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 52.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 52.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HCHrDwAAQBAJ&rdid=book-HCHrDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 52900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 52900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1spora-sample-epub.acsm?id=HCHrDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1spora-sample-pdf.acsm?id=HCHrDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HCHrDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Una variedad del español Unica, para una literatura única y profundamente original. Diáspora."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KPwx0QEACAAJ",
+      "etag": "VubyUX1Irik",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KPwx0QEACAAJ",
+      "volumeInfo": {
+        "title": "Vocês brilham no escuro",
+        "authors": [
+          "Liliana Colanzi Serrate"
+        ],
+        "publishedDate": "2023",
+        "description": "\"Uma forte vinculação a determinado espaço une os contos de Vocês brilham no escuro, seja a região de Oaxaca no México, El Alto, vilarejos amazônicos ou uma comunidade religiosa na Bolívia, ou mesmo a cidade de Goiânia. A história e a cultura desses espaços marcam vivamente as personagens e suas trajetórias. Novas tecnologias e configurações sociais não apagam raízes históricas e crenças ancestrais, e Liliana Colanzi explora com precisão essa convivência e as ansiedades que a permeiam.\" -- from back cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6587955150"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786587955155"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=KPwx0QEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=KPwx0QEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Voc%C3%AAs_brilham_no_escuro.html?hl=&id=KPwx0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KPwx0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Uma forte vinculação a determinado espaço une os contos de Vocês brilham no escuro, seja a região de Oaxaca no México, El Alto, vilarejos amazônicos ou uma comunidade religiosa na Bolívia, ou mesmo a cidade de Goiânia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y4bitgEACAAJ",
+      "etag": "IxW/NhLZGYI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y4bitgEACAAJ",
+      "volumeInfo": {
+        "title": "Notre monde mort",
+        "authors": [
+          "Liliana Colanzi"
+        ],
+        "publishedDate": "2018-05-03",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2283030293"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782283030295"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=y4bitgEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=y4bitgEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Notre_monde_mort.html?hl=&id=y4bitgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y4bitgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p2KIzwEACAAJ",
+      "etag": "UPi/Hbr95VU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p2KIzwEACAAJ",
+      "volumeInfo": {
+        "title": "Ustedes brillan en los oscuro",
+        "authors": [
+          "Liliana Colanzi"
+        ],
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "999742042X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789997420428"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=p2KIzwEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=p2KIzwEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ustedes_brillan_en_los_oscuro.html?hl=&id=p2KIzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p2KIzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jb6-MQEACAAJ",
+      "etag": "ijBZNqVSOEk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jb6-MQEACAAJ",
+      "volumeInfo": {
+        "title": "Vacaciones permanentes",
+        "authors": [
+          "Liliana Colanzi Serrate"
+        ],
+        "publishedDate": "2012-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8496911586"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788496911581"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 115,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jb6-MQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jb6-MQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=Jb6-MQEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Jb6-MQEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vacaciones_permanentes.html?hl=&id=Jb6-MQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jb6-MQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Collection of short stories."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DL8XMQAACAAJ",
+      "etag": "6j2CpHCYtA0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DL8XMQAACAAJ",
+      "volumeInfo": {
+        "title": "Il nostro mondo morto",
+        "authors": [
+          "Liliana Colanzi"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8895492455"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788895492452"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DL8XMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DL8XMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.com.br/books?id=DL8XMQAACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=DL8XMQAACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Il_nostro_mondo_morto.html?hl=&id=DL8XMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DL8XMQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s8Ws0AEACAAJ",
+      "etag": "W1ZI+W/EBt8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s8Ws0AEACAAJ",
+      "volumeInfo": {
+        "title": "Al buio brillate",
+        "authors": [
+          "Liliana Colanzi"
+        ],
+        "publishedDate": "2024",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8895492749"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788895492742"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s8Ws0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s8Ws0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.com.br/books?id=s8Ws0AEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=s8Ws0AEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Al_buio_brillate.html?hl=&id=s8Ws0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s8Ws0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0PIozAEACAAJ",
+      "etag": "xrqOWWVM8bc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0PIozAEACAAJ",
+      "volumeInfo": {
+        "title": "Escritorxs Salvajes",
+        "subtitle": "37 Hispanic Writers in the United States",
+        "authors": [
+          "Hernán Vera Álvarez (ed.)"
+        ],
+        "publishedDate": "2019-10-28",
+        "description": "De la misma manera que en el nuevo mileniolos géneros sexuales languidecen, por fortuna,lo mismo ocurre con los literarios. Esta antología incluye cuento, poesía, crónica, ensayo personal y novela. Muchos de los textos están felizmente contaminados de uno y otro estilo.Toda literatura es una experiencia. Salvo un par que publicó en los 90, este trabajo reúne autores que en casi dos décadas hicieron una obraen tierra norteamericana: algunos describen la relación con el país extranjero en el que viven;a la vez, los escenarios se extienden por el resto del mundo. Es decir: los escritores que ya están afincados no siguen necesariamente hablando de inmigración, indocumentados, etc. Ya lo hicieron y ahora tienen nuevas obsesiones.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1948517477"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781948517478"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 595,
+        "printType": "BOOK",
+        "categories": [
+          "Short stories, Spanish American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0PIozAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0PIozAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=0PIozAEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=0PIozAEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritorxs_Salvajes.html?hl=&id=0PIozAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0PIozAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "De la misma manera que en el nuevo mileniolos géneros sexuales languidecen, por fortuna,lo mismo ocurre con los literarios."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X6BlzQEACAAJ",
+      "etag": "3UYDpzvnIWE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X6BlzQEACAAJ",
+      "volumeInfo": {
+        "title": "Vores døde verden",
+        "authors": [
+          "Liliana Colanzi"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8793717172"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788793717176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "da",
+        "previewLink": "http://books.google.com.br/books?id=X6BlzQEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=X6BlzQEACAAJ&dq=inauthor:%22Liliana+Colanzi%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vores_d%C3%B8de_verden.html?hl=&id=X6BlzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X6BlzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

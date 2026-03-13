@@ -1,0 +1,1599 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "QN_vDAAAQBAJ",
+      "etag": "q2Ui/KTm5Qs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QN_vDAAAQBAJ",
+      "volumeInfo": {
+        "title": "História da eternidade",
+        "authors": [
+          "Jorge Luis Borges"
+        ],
+        "publisher": "Editora Companhia das Letras",
+        "publishedDate": "2016-08-31",
+        "description": "A singular História da eternidade, que dá título ao volume, publicada originalmente em 1936, um ano depois da História universal da infâmia, como esta desafia o leitor desde o título. Uma antinomia opõe a noção de história, feita de sucessão temporal, movimento e mudança, à ideia estática de uma duração sem fim que o termo \"eternidade\" evoca. O desejo de escrever uma espécie de \"biografia da eternidade\" que nos libertaria da opressão do tempo sucessivo sempre atraiu Borges, que jamais abandonou o interesse pelos temas deste livro, mesmo quando, mais tarde, reprova o que então havia escrito sobre eles. Na verdade, a coletânea marca uma virada na carreira do escritor, que se abre ostensivamente para a universalidade estampada desde o título. São agora motivos da inquirição intelectual do ensaísta as doutrinas do tempo cíclico, as Mil e uma noites e seus tradutores, a metáfora e as velhas imagens da poesia da Islândia. Numa das notas finais, discreta e tímida em meio a preocupações retóricas, desponta uma narrativa disfarçada de resenha crítica: \"A aproximação a Almotásim\", em que se dá a ver um de seus primeiros exercícios de prosa de ficção. O ensaio que almeja espraiar-se até o infinito de repente desemboca no conto de uma aproximação sem termo, história de uma busca infindável.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788543807256"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8543807255"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 115,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QN_vDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QN_vDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=QN_vDAAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QN_vDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QN_vDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 27.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QN_vDAAAQBAJ&rdid=book-QN_vDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 27950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_da_eternidade-sample-epub.acsm?id=QN_vDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_da_eternidade-sample-pdf.acsm?id=QN_vDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QN_vDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A singular História da eternidade, que dá título ao volume, publicada originalmente em 1936, um ano depois da História universal da infâmia, como esta desafia o leitor desde o título."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9-0DMwEACAAJ",
+      "etag": "XpSGVOOJstE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9-0DMwEACAAJ",
+      "volumeInfo": {
+        "title": "Jorge Luis Borges",
+        "authors": [
+          "José Luis RÍOS PATRÓN",
+          "Jorge Luis Borges"
+        ],
+        "publishedDate": "1955",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504132052"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=9-0DMwEACAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=9-0DMwEACAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jorge_Luis_Borges.html?hl=&id=9-0DMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9-0DMwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g0X5DQAAQBAJ",
+      "etag": "jpl+Irb1S2o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g0X5DQAAQBAJ",
+      "volumeInfo": {
+        "title": "O outro, o mesmo",
+        "authors": [
+          "Jorge Luis Borges"
+        ],
+        "publisher": "Editora Companhia das Letras",
+        "publishedDate": "2017-01-24",
+        "description": "Nesta compilação retomada em 1974 como conjunto definitivo dos principais poemas de Jorge Luis Borges (1899-1986), tem-se a demonstração evidente de como o poeta disputava, com todo o direito, seu lugar diante do Borges narrador e do ensaísta, que deram antes fama internacional ao autor. A imagem do rio inesgotável que passa e permanece, refletindo um \"Heráclito inconstante\", sempre outro e o mesmo, está talvez na raiz desta coletânea. Os motivos do duplo, do tempo e da alteridade são constantes do fluxo intermitente e simbólico em que se transformou a emoção poética para Borges ao longo dos anos - a qual desapareceu para ressurgir em seguida -, reafirmando a vocação do escritor que se considerava sobretudo um poeta. O título serviu-lhe primeiro para designar uma seção da Obra poética, republicada com muitos acréscimos em 1964, depois de longo silêncio, quando de fato a poesia parecia ter se esgotado. Mas logo se viu que não, e a expressão passou a designar quase toda a produção lírica de meados de sua vida, revelando em plena forma a maturidade de um poeta que fora um dos fundadores da tradição moderna da poesia hispano-americana, desde os tempos da vanguarda ultraísta do início do século XX. O leitor terá a surpresa e o prazer de compartilhar a emoção contida de breves composições limadas com todo o esmero - \"O instante\", \"Espinosa\", \"Everness\", \"Sarmiento\" - e também a de grandes e complexos poemas como \"Limites\", \"O Golem\", \"Poema conjectural\", e sentirá a habilidade de Borges em nos mergulhar no vasto e infindável rio de tempo, memória e esquecimento, de que é feita nossa curta existência e a mais perdurável matéria da poesia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788563397225"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8563397222"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g0X5DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g0X5DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=g0X5DQAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=g0X5DQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=g0X5DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=g0X5DQAAQBAJ&rdid=book-g0X5DQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_outro_o_mesmo-sample-epub.acsm?id=g0X5DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_outro_o_mesmo-sample-pdf.acsm?id=g0X5DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g0X5DQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Nesta compilação retomada em 1974 como conjunto definitivo dos principais poemas de Jorge Luis Borges (1899-1986), tem-se a demonstração evidente de como o poeta disputava, com todo o direito, seu lugar diante do Borges narrador e do ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9t7vDAAAQBAJ",
+      "etag": "TI43J7YUh30",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9t7vDAAAQBAJ",
+      "volumeInfo": {
+        "title": "História universal da infâmia",
+        "authors": [
+          "Jorge Luis Borges"
+        ],
+        "publisher": "Editora Companhia das Letras",
+        "publishedDate": "2016-08-31",
+        "description": "Antes de tudo, este é um livro divertido e inteligentíssimo, guardando surpresas para o leitor a cada frase. Sendo um exercício de aprendizagem para o autor, que se iniciava na arte da narrativa curta no começo da década de 1930, é ao mesmo tempo um texto de livre experimentação, uma vez que nele Borges se permite ousadias de invenção sobre histórias alheias e próprias, em larga medida inspirado pelas releituras de Stevenson, pela prosa de Marcel Schwob, pelos filmes iniciais de Josef von Sternberg, além da pintura, estimulado, quem sabe, por sua amizade com os pintores Xul Solar e Pedro Figari. Embora as histórias que compõem o volume tenham sido tiradas, em grande parte, de livros de outros autores, o trabalho abissal de reescrita é a novidade, complexa e de grande força expressiva, pois depende da criação incomum de pormenores circunstanciais de longo alcance que, por meio de sua concretude e particularidade, ampliam e adensam os significados dos argumentos que aproveita, imprimindo-lhes um sentido inesperado. São obra de um leitor mais tenebroso e singular que os bons autores, como se anuncia num de seus dois prólogos notáveis. Como Mário de Andrade ou, mais tarde, Guimarães Rosa, Borges descobre as veredas para transformar a matéria local argentina em símbolo universal.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788543807249"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8543807247"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9t7vDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9t7vDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=9t7vDAAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9t7vDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9t7vDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 17.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9t7vDAAAQBAJ&rdid=book-9t7vDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 17950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_universal_da_inf%C3%A2mia-sample-epub.acsm?id=9t7vDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_universal_da_inf%C3%A2mia-sample-pdf.acsm?id=9t7vDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9t7vDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Como Mário de Andrade ou, mais tarde, Guimarães Rosa, Borges descobre as veredas para transformar a matéria local argentina em símbolo universal."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aBf5DQAAQBAJ",
+      "etag": "laBycsunR70",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aBf5DQAAQBAJ",
+      "volumeInfo": {
+        "title": "O livro de areia",
+        "authors": [
+          "Jorge Luis Borges"
+        ],
+        "publisher": "Editora Companhia das Letras",
+        "publishedDate": "2017-01-24",
+        "description": "Última coletânea de contos publicada por Jorge Luis Borges, O livro de areia traz de volta os temas caros ao autor sob um olhar maduro e aguçado, em tradução do professor e ensaísta Davi Arrigucci Jr. Em treze histórias muito diversas, seguidas de um breve epílogo, Jorge Luis Borges molda variações sintéticas dos temas obsessivos e recorrentes de seu percurso de contista. Com mãos experientes de artesão, imprime nelas a modelagem modesta, serena e essencial que lhes garante a eficácia pelos meios mais concisos e, de quebra, o encanto indefinível de um objeto perfeito da natureza. \"O outro\" abre o conjunto pelas espirais do tempo e o motivo do duplo, que Borges aprendeu a admirar nas páginas lidas e relidas de Robert Louis Stevenson e refaz agora em delicada chave pessoal. \"O Congresso\" alastra-se por vastidões infinitas: a narrativa mais ambiciosa da série leva uma empresa crescente a se confundir com o cosmos e a soma dos dias, não sem antes enredar, lúdica e ironicamente, traços autobiográficos do autor em seu projeto fantástico. A invenção diabólica de um \"livro de areia\" vai além das outras fábulas - todas desconcertantes e uma, pelo menos, terrível (\"There are more things\") -, pois contém um desígnio secreto: prender para sempre a atenção e a memória do leitor entre as folhas incalculáveis de sua monstruosa trama.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788543808604"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "854380860X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 105,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aBf5DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aBf5DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=aBf5DQAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aBf5DQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aBf5DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aBf5DQAAQBAJ&rdid=book-aBf5DQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_livro_de_areia-sample-epub.acsm?id=aBf5DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_livro_de_areia-sample-pdf.acsm?id=aBf5DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aBf5DQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Última coletânea de contos publicada por Jorge Luis Borges, O livro de areia traz de volta os temas caros ao autor sob um olhar maduro e aguçado, em tradução do professor e ensaísta Davi Arrigucci Jr. Em treze histórias muito ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "atKFDwAAQBAJ",
+      "etag": "5QXf95mNPWU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/atKFDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Esse ofício do verso",
+        "authors": [
+          "Jorge Luis Borges"
+        ],
+        "publisher": "Editora Companhia das Letras",
+        "publishedDate": "2019-01-31",
+        "description": "Esse ofício do verso é a transcrição de seis palestras proferidas por Jorge Luis Borges na Universidade de Harvard, entre 1967 e 1968. Comentário profundamente pessoal sobre diversos aspectos da produção literária, o livro é um testemunho inédito da genialidade de um dos maiores escritores do século XX. Perdidas há mais de trinta anos, estas seis palestras proferidas por Jorge Luis Borges em 1967-68 na Universidade Harvard agora nos chegam de volta, num lance do destino digno do autor das Ficções . Transcrito de fitas só recentemente descobertas, Esse ofício do verso é um testemunho inédito da leveza e elegância com que um dos maiores escritores do século XX trata os enigmas da língua e da literatura. Além de um comentário profundamente pessoal sobre diversos aspectos da produção literária, o livro é uma introdução aos prazeres da palavra, ao artesanato da escrita. Talvez o mais impressionante seja o modo como Borges consegue, por meio de um delicado equilíbrio entre clareza e humildade, comunicar seu vasto conhecimento literário a uma platéia de leigos. Sua aparente simplicidade serve tanto para fazê-lo mais acessível como para abrandar o impacto de alguns de seus argumentos mais contundentes, como a morte anunciada do romance e certos equívocos da história literária. Quer discuta a metáfora, a poesia épica, as origens do verso, o sentido na poesia ou seu próprio \"credo poético\", Borges oferece um espetáculo tão cativante quanto intelectualmente profundo. Uma verdadeira aula em seis lições, a cargo de um mestre no auge de suas faculdades.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788554513313"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8554513312"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=atKFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=atKFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=atKFDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=atKFDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=atKFDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 17.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=atKFDwAAQBAJ&rdid=book-atKFDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 17950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Esse_of%C3%ADcio_do_verso-sample-epub.acsm?id=atKFDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=atKFDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Esse ofício do verso é a transcrição de seis palestras proferidas por Jorge Luis Borges na Universidade de Harvard, entre 1967 e 1968."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tp7gDAAAQBAJ",
+      "etag": "5kpGHPc2g8w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tp7gDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ficções",
+        "authors": [
+          "Jorge Luis Borges"
+        ],
+        "publisher": "Editora Companhia das Letras",
+        "publishedDate": "2016-08-19",
+        "description": "Ficções é a obra que trouxe o reconhecimento universal para Jorge Luis Borges, graças, entre outros motivos, ao caráter fora do comum de seus temas, abertos para o fantástico, e à inesperada dimensão filosófica do tratamento. Ficções reúne os contos publicados por Borges em 1941 sob o título de O jardim de veredas que se bifurcam (com exceção de \"A aproximação a Almotásim\", incorporado a outra obra) e outras dez narrativas com o subtítulo de Artifícios. Nesses textos, o leitor se defronta com um narrador inquisitivo que expõe, com elegância e economia de meios, de forma paradoxal e lapidar, suas conjecturas e perplexidades sobre o universo, retomando motivos recorrentes em seus poemas e ensaios desde o início de sua carreira: o tempo, a eternidade, o infinito. Chamam a atenção a frase enxuta, o poder de síntese e o rigor da construção, que tem algo da poesia e outro tanto da prosa filosófica, sem nunca perder o humor desconcertante. Em Ficções estão alguns de seus textos mais famosos, como \"Funes, o Memorioso\", cujo protagonista tinha \"mais lembranças do que terão tido todos os homens desde que o mundo é mundo\"; \"A biblioteca de Babel\", em que o universo é equiparado a uma biblioteca eterna, infinita secreta e inútil; \"Pierre Menard, autor do Quixote\", cuja \"admirável ambição era produzir páginas que coincidissem palavra por palavra e linha por linha com as de Miguel de Cervantes\"; e \"As ruínas circulares\", em que o protagonista quer sonhar um homem \"com integridade minuciosa e impô-lo à realidade e no final compreende que ele também era uma aparência, que outro o estava sonhando\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788543806068"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8543806062"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Tp7gDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Tp7gDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=Tp7gDAAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Tp7gDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Tp7gDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Tp7gDAAAQBAJ&rdid=book-Tp7gDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Fic%C3%A7%C3%B5es-sample-epub.acsm?id=Tp7gDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Fic%C3%A7%C3%B5es-sample-pdf.acsm?id=Tp7gDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tp7gDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ficções é a obra que trouxe o reconhecimento universal para Jorge Luis Borges, graças, entre outros motivos, ao caráter fora do comum de seus temas, abertos para o fantástico, e à inesperada dimensão filosófica do tratamento."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ajXPsgEACAAJ",
+      "etag": "FSxtGWH2hpk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ajXPsgEACAAJ",
+      "volumeInfo": {
+        "title": "Conversations with Jorge Luis Borges",
+        "authors": [
+          "Richard Burgin",
+          "Jorge Luis Borges"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19937247"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 157,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=ajXPsgEACAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ajXPsgEACAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conversations_with_Jorge_Luis_Borges.html?hl=&id=ajXPsgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ajXPsgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AQdJAAAAYAAJ",
+      "etag": "bPldm5cbixk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AQdJAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Borges",
+        "subtitle": "obras, reseñas y traducciones inéditas : colaboraciones de Jorge Luis Borges en la Revista multicolor de los sábados del diario Crítica, 1933-1934",
+        "authors": [
+          "Jorge Luis Borges",
+          "Irma Zangara"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173006684377"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AQdJAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AQdJAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=AQdJAAAAYAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=AQdJAAAAYAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Borges.html?hl=&id=AQdJAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AQdJAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pPXEEAAAQBAJ",
+      "etag": "I+uuUcYqOmA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pPXEEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Bioy & Borges",
+        "subtitle": "Obra completa em colaboração",
+        "authors": [
+          "Adolfo Bioy Casares",
+          "Jorge Luis Borges"
+        ],
+        "publisher": "Companhia das Letras",
+        "publishedDate": "2023-08-21",
+        "description": "Um acontecimento literário. A história de uma profunda amizade. Um diálogo vigoroso. Pela primeira vez num único volume tudo o que escreveram juntos dois dos autores latino-americanos mais influentes de todos os tempos. Este livro reúne todos os romances, contos, crônicas e textos esparsos que os argentinos Adolfo Bioy Casares e Jorge Luis Borges escreveram juntos durante meio século. É o registro da mais emblemática parceria da história da literatura e, sobretudo, a história de uma amizade intensa. Quando se conheceram, no início da década de 1930, Bioy tinha dezessete anos, e Borges, pouco mais de trinta. Borges conta que um dos principais acontecimentos de sua vida foi o início dessa relação. A partir de então, e por muito tempo, passaram a se encontrar quase que diariamente para discutir textos, inventar e aperfeiçoar personagens e tramas. Bioy escrevia e ambos debatiam o enredo, norteados por uma série de regras: oralidade triunfante, propostas alternadas, exigência mútua, direito permanente de veto, prioridade ao jogo e ao prazer. \"Começamos a escrever\", diz Borges, \"de um jeito que não se parecia nem a Bioy nem a Borges. Criamos entre os dois um terceiro personagem que só existe quando estamos conversando\". Com posfácios de Davi Arrigucci Jr., Júlio Pimentel Pinto e Michel Lafon, este livro é uma ode à cumplicidade de dois dos autores mais extraordinários das letras mundiais. Uma obra-prima a ser descoberta e redescoberta. \"Ao se opor a meu gosto pelo patético, pelo sentencioso e pelo barroco, Bioy fez-me sentir que a discrição e o comedimento são mais convenientes. [...] Eu diria que Bioy foi me levando aos poucos ao classicismo.\" — Jorge Luis Borges \"Toda colaboração com Borges equivalia a anos de trabalho. [...] Quando duas pessoas escrevem juntas e não são vaidosas o resultado é melhor do que quando trabalham separadas.\" — Adolfo Bioy Casares \"A escrita de Borges e Bioy era grandiloquente e extravagante, e não a mera superposição da voz dos autores, mas sua transcendência, nascida de um elo misterioso que só existia no ato da colaboração.\" — Michel Lafon e Benoît Peeters \"Eram o mesmo outro: um terceiro escritor, inassimilável tanto a um quanto a outro, profundamente excêntrico.\" — Alan Pauls",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788535935608"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8535935606"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 692,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pPXEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pPXEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=pPXEEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pPXEEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pPXEEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pPXEEAAAQBAJ&rdid=book-pPXEEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Bioy_Borges-sample-epub.acsm?id=pPXEEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pPXEEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Quando se conheceram, no início da década de 1930, Bioy tinha dezessete anos, e Borges, pouco mais de trinta. Borges conta que um dos principais acontecimentos de sua vida foi o início dessa relação."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rWf4mqZJPd8C",
+      "etag": "RjvrF29RqmY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rWf4mqZJPd8C",
+      "volumeInfo": {
+        "title": "Recordel",
+        "authors": [
+          "Virgílio Maia"
+        ],
+        "publisher": "Atelie Editorial",
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8574802387"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788574802381"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rWf4mqZJPd8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rWf4mqZJPd8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=rWf4mqZJPd8C&printsec=frontcover&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=rWf4mqZJPd8C&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Recordel.html?hl=&id=rWf4mqZJPd8C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Recordel-sample-pdf.acsm?id=rWf4mqZJPd8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rWf4mqZJPd8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LZwkDwAAQBAJ",
+      "etag": "hVk+8QDvQZc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LZwkDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Nova antologia pessoal",
+        "authors": [
+          "Jorge Luis Borges"
+        ],
+        "publisher": "Editora Companhia das Letras",
+        "publishedDate": "2017-05-19",
+        "description": "A Nova antologia pessoal foi organizada pelo próprio Borges e publicada pela primeira vez em 1968. A coletânea reúne ensaios, poemas e prosa de ficção que o autor vinha publicando desde os anos 1930, entre os quais alguns de seus trabalhos mais célebres, como os contos \"A Intrusa\" e \"Tlön, Uqbar, Orbis Tertius\" e os poemas \"Everness\" e \"Junin\". Traz também um conjunto de textos sobre literatura que atesta o brilhantismo de Borges como leitor e crítico literário. Em sua vasta atividade crítica, a organização de inúmeras antologias teve papel decisivo. Por meio delas, com os achados e a seleção de sua alta inteligência, fecundou seu ambiente literário, abrindo-o para traduções inéditas. Suscitou o diálogo com textos raros, desconhecidos ou reinventados; renovou o repertório dos autores considerados clássicos. Como antologista da própria obra, Borges não foi menos rigoroso. Tinha autocrítica severa com relação aos poemas da primeira juventude e vivia a reescrever os próprios textos. Esse trabalho pode ser visto na Antologia pessoal, originalmente de 1961, publicada pela Companhia das Letras na coleção Biblioteca Borges em 2008, e agora na Nova antologia pessoal. Mais generosa que a primeira, a Nova antologia traz um volume maior de textos e assuntos. A perplexidade metafísica, a memória dos mortos que se perpetua nos poemas, as imagens cifradas de uma língua pretérita, a linguagem, a pátria, o destino paradoxal dos poetas - esses e vários outros temas são nela recorrentes. A exemplo da anterior, esta antologia forma um caleidoscópio, em que pedacinhos de vidro recombináveis fantasiam as múltiplas faces da totalidade. Como afirma o professor Davi Arrigucci Jr., integrante da comissão editorial da Biblioteca Borges: \"Os textos em prosa e verso aqui reunidos podem ser fragmentos de espelhos onde se repetem os passos do autor cujo rosto desejamos reconhecer\".",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788543806129"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8543806127"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LZwkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LZwkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=LZwkDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LZwkDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LZwkDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.95,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.95,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LZwkDwAAQBAJ&rdid=book-LZwkDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24950000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24950000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nova_antologia_pessoal-sample-epub.acsm?id=LZwkDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nova_antologia_pessoal-sample-pdf.acsm?id=LZwkDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LZwkDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Nova antologia pessoal foi organizada pelo próprio Borges e publicada pela primeira vez em 1968."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xqEuDwAAQBAJ",
+      "etag": "n7fVFqvxhqk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xqEuDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Prólogos, com um prólogo de prólogos",
+        "authors": [
+          "Jorge Luis Borges"
+        ],
+        "publisher": "Editora Companhia das Letras",
+        "publishedDate": "2017-07-28",
+        "description": "Publicados esparsamente em jornais e revistas, esses prólogos apontam para uma forma inovadora de exercício crítico e revelam as escolhas surpreendentes de Borges como leitor. Em 1975, quando foram reunidos pela primeira vez os exercícios críticos que Borges vinha publicando desde a década de 1930 na imprensa de seu país, muito se revelou do pensamento do maior escritor argentino do século XX. De sua leitura depreende-se não só a impressionante erudição do autor, mas também sua curiosa variedade de leituras - dos poetas gauchescos argentinos a E. A. Poe, de Cervantes a Lewis Carroll, de Gibbon a Kafka. Redefinido por ele como uma \"espécie lateral da crítica\", o prólogo (normalmente um texto simples de apresentação) funcionou para Borges como instrumento incisivo de penetração na obra literária, revelando a teia subjacente de relações entre um livro e sua cultura, um autor e seus pares. Para o leitor, esses pequenos ensaios apresentam mais que o livro-tema: revelam o crítico literário de linguagem lapidar e bom humor convidativo que foi Borges. Somando-se aos 14 volumes da coleção Biblioteca Borges, que desde 2000 vem trazendo ao público as obras completas do autor, Prólogos, com um prólogo de prólogos convida o leitor a reviver o percurso de descobertas e surpresas trilhado pelo mestre argentino.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788543808161"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8543808162"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xqEuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xqEuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=xqEuDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xqEuDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xqEuDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xqEuDwAAQBAJ&rdid=book-xqEuDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Pr%C3%B3logos_com_um_pr%C3%B3logo_de_pr%C3%B3logos-sample-epub.acsm?id=xqEuDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Pr%C3%B3logos_com_um_pr%C3%B3logo_de_pr%C3%B3logos-sample-pdf.acsm?id=xqEuDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xqEuDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Somando-se aos 14 volumes da coleção Biblioteca Borges, que desde 2000 vem trazendo ao público as obras completas do autor, Prólogos, com um prólogo de prólogos convida o leitor a reviver o percurso de descobertas e surpresas trilhado ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YVJ1PgAACAAJ",
+      "etag": "FF9a2XKZMEs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YVJ1PgAACAAJ",
+      "volumeInfo": {
+        "title": "O livro dos seres imaginários",
+        "authors": [
+          "Jorge Luis Borges",
+          "Heloisa Jahn"
+        ],
+        "publishedDate": "2007",
+        "description": "'O Livro dos Seres Imaginários' é um bestiário fantástico que contém a descrição de 116 monstros que povoam as mitologias e as religiões de todo o mundo, ou são obras da imaginação literária de autores como Homero, Shakespeare, Flaubert e Kafka, ou ainda criações famosas da invenção humana, como os elfos, os gnomos e as fadas. A partir de comentários dos autores clássicos, das revelações de místicos e dos sonhos de escritores e poetas, Jorge Luis Borges, com a colaboração de Margarita Guerrero, recria uma fauna fantástica e infunde nova vida a relatos esquecidos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8535911227"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788535911220"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=YVJ1PgAACAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=YVJ1PgAACAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_dos_seres_imagin%C3%A1rios.html?hl=&id=YVJ1PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YVJ1PgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ordenados alfabeticamente, como nas enciclopédias que tanto fascinavam Borges, desfilam diante do leitor os estranhos seres deste &quot;manual de zoologia fantástica&quot; (título da primeira edição desta obra, que saiu em 1957), sustentados ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bJEfjl2INGMC",
+      "etag": "fyTBweGMFOI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bJEfjl2INGMC",
+      "volumeInfo": {
+        "title": "Ficciones",
+        "authors": [
+          "Jorge Luis Borges"
+        ],
+        "publisher": "DEBOLS!LLO",
+        "publishedDate": "2012-07-26",
+        "description": "125.o ANIVERSARIO DE BORGES El libro fundamental de Jorge Luis Borges. Pensé en un laberinto, en un sinuoso laberinto creciente que abarcara el pasado y el porvenir y que implicara de algún modo los astros. Ficciones es posiblemente la obra más reconocida de Jorge Luis Borges y un hito en la historia de la literatura. Aquí se encuentran lo policiaco ( «La muerte y la brújula») y lo fantástico ( «La lotería en Babilonia»), lo irreal ( «Las ruinas circulares») y lo imaginario ( «Tlön, Uqbar, Orbis Tertius»), el que Borges consideró acaso su mejor cuento ( «El Sur») y uno de los comienzos más cautivadores de un relato jamás escrito ( «Nadie lo vio desembarcar en la unánime noche»).Cada uno de los dieciséis cuentos reunidos en este libro es, en sí, pieza fundacional y celebración del universo borgeano. Para algunos críticos como Ricardo Piglia, la influencia de Borges es superior a la del Premio Nobel García Márquez, quien, por otra parte, confesó siempre su rendida admiración. Ficciones cambió el modo de escribir y de leer de las generaciones futuras. Ficciones de Jorge Luis Borges es considerado... Uno de los 100 mejores libros del siglo XX( Le Monde) Uno de los 100 mejores libros de todos los tiempos (Club de Libros de Noruega) Una de las 100 mejores novelas ( sic) en español del siglo XX (El Mundo) Reseñas: «Borges es el escritor en español más importante desde Cervantes.» Mario Vargas Llosa «Una maravillosa colección de relatos de uno de los escritores más extraordinarios del siglo XX». The New York Times «La obra principal del que probablemente fuera el escritor latinoamericano más influyente del siglo». The Washington Post Book World «Una antología de maravillas sin igual... Junto con un pequeño séquito de colegas y profetas (se me ocurren Kafka y Joyce), Borges es más que un cuentista sorprendente y un brillante estilista: es un espejo que refleja el espíritu de su tiempo». Chicago Tribune «Borges es el escritor en español más importante desde Cervantes». Mario Vargas Llosa «No lo cite: léalo. [...] Urge no ya leerlo o releerlo, sino, como sugería Bolaño, \"releerlo otra vez\"». Gonzalo Núñez, La Razón «No se me ocurre nada mejor que recomendar leer a Borges en estos tiempos del coronavirus y Ficciones, tal vez su mejor libro de cuentos, es una poderosa y recomendable vacuna literaria contra el tedio y la ansiedad de nuestro confinamiento.» José Antonio Vidal Castaño, La Opinión de Málaga «Borges, visionario escéptico, nos fascina. [...] Cumple con nuestro anhelo esencial en cuanto a las razones por que leemos.» Harold Bloom, Cómo leer a Jorge Luis Borges « Ficciones supone asomarse al filo del abismo de dos inmensidades; El jardín de senderos que se bifurcan, y Artificios. Y porque Borges es el epílogo perfecto de una vida lectora.» María José Solano, Zenda (\"Cuarenta relatos para una cuarentena\")",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788499892641"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8499892647"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 149,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.30.29.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bJEfjl2INGMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bJEfjl2INGMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=bJEfjl2INGMC&printsec=frontcover&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=bJEfjl2INGMC&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ficciones.html?hl=&id=bJEfjl2INGMC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Ficciones-sample-epub.acsm?id=bJEfjl2INGMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Ficciones-sample-pdf.acsm?id=bJEfjl2INGMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bJEfjl2INGMC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ficciones cambió el modo de escribir y de leer de las generaciones futuras. Ficciones de Jorge Luis Borges es considerado."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QksLtAEACAAJ",
+      "etag": "pGMU9VpZ7hg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QksLtAEACAAJ",
+      "volumeInfo": {
+        "title": "Memória de Borges - Um Livro Raro Com Diferentes Entrevistas de Jorge Luis Borges Compiladas Por Floriano Martins",
+        "authors": [
+          "Jorge Luis Borges",
+          "Floriano Martins"
+        ],
+        "publisher": "Coleção 'o Amor Pelas Palavra",
+        "publishedDate": "2017-12-03",
+        "description": "Jorge Luis Borges integra o cânone das mais altas expressões literárias do século XX. Poeta, narrador e ensaísta, exímio conferencista e, como o comprova o presente livro, um entrevistado sagaz, inventor do personagem Jorge Luis Borges. Aqui se encontram reunidas uma série das 15 mais relevantes entrevistas que deu, no período de 1964 a 1985, por ocasião de suas viagens a diversos países. Edição raríssima, e única no que diz respeito à oportunidade de leitura dessas conversas, o livro dispõe também de uma tiragem artesanal, em dois volumes, realizada em 2013 pelas Edições Nephelibata.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1973455439"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781973455431"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QksLtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QksLtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=QksLtAEACAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=QksLtAEACAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mem%C3%B3ria_de_Borges_Um_Livro_Raro_Com_Dif.html?hl=&id=QksLtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QksLtAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jorge Luis Borges integra o cânone das mais altas expressões literárias do século XX. Poeta, narrador e ensaísta, exímio conferencista e, como o comprova o presente livro, um entrevistado sagaz, inventor do personagem Jorge Luis ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jOxIAAAAYAAJ",
+      "etag": "vGPpo7Q9G/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jOxIAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Borges",
+        "subtitle": "un diálogo sobre cine y los venidos a menos",
+        "authors": [
+          "Jorge Luis Borges",
+          "Camilo Cappelletto"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173001022375"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Argentine"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jOxIAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jOxIAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=jOxIAAAAYAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=jOxIAAAAYAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Borges.html?hl=&id=jOxIAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jOxIAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I_1IAAAAYAAJ",
+      "etag": "FyGqDFdQMXQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I_1IAAAAYAAJ",
+      "volumeInfo": {
+        "title": "La muerte y la brújula",
+        "authors": [
+          "Jorge Luis Borges"
+        ],
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018660489"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I_1IAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=I_1IAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=I_1IAAAAYAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=I_1IAAAAYAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_muerte_y_la_br%C3%BAjula.html?hl=&id=I_1IAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I_1IAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Zn9dAAAAMAAJ",
+      "etag": "sF4UkqJNc9c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zn9dAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Selected Poems",
+        "authors": [
+          "Jorge Luis Borges"
+        ],
+        "publisher": "Viking Adult",
+        "publishedDate": "1999",
+        "description": "This new bilingual selection brings together some two hundred poems, which makes it the largest collection of Borges' poetry ever assembled in English, and includes many works never previously translated.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015057018528"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 508,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Zn9dAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Zn9dAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Zn9dAAAAMAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Zn9dAAAAMAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Selected_Poems.html?hl=&id=Zn9dAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zn9dAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This new bilingual selection brings together some two hundred poems, which makes it the largest collection of Borges&#39; poetry ever assembled in English, and includes many works never previously translated."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lPBCMQAACAAJ",
+      "etag": "mCQwsB6+Suo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lPBCMQAACAAJ",
+      "volumeInfo": {
+        "title": "Jorge Luis Borges. [With Plates, Including Portraits and a Facsimile, and with Selected Texts.].",
+        "authors": [
+          "Isaac WOLBERG"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504809999"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=lPBCMQAACAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=lPBCMQAACAAJ&dq=inauthor:%22Jorge+Luis+Borges%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jorge_Luis_Borges_With_Plates_Including.html?hl=&id=lPBCMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lPBCMQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

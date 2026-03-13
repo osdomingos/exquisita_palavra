@@ -1,0 +1,1483 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "TWZ6EAAAQBAJ",
+      "etag": "LKzaVu7G6do",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TWZ6EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Terra fresca da sua tumba",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publisher": "Editora Incompleta",
+        "publishedDate": "2022-07-08",
+        "description": "O ruído da terra estrangeira, o fantástico e o macabro emaranhados no cotidiano, a crueldade de que só a família é capaz. Tramas de vingança e reconciliação circundam o abismo da morte e do trauma, em uma prosa intrépida e sensível, que extrai do dia a dia uma beleza brutal. Os seis contos longos que compõem a estreia em livro no Brasil da boliviana Giovanna Rivero são um chamado a outras vidas possíveis; expurgo e oração. \"Tierra fresca de su tumba\" foi publicado no idioma original na Argentina (Marciana, 2020); na Bolívia (El Cuervo, 2020); na Espanha (Candaya, 2021); e no Chile (Los libros de la mujer rota, 2022). Alguns contos foram traduzidos para o italiano e incluídos no livro \"Ricomporre amorevoli scheletri\" (Gran Via, Itália, 2020). A edição em português, \"Terra fresca da sua tumba\", é o primeiro livro da autora lançado no Brasil, em coedição das editoras Incompleta e Jandaíra. Apresentação de Carola Saavedra. Posfácio de Paloma Franca Amorim. Tradução de Laura Del Rey.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786588104118"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6588104111"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TWZ6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TWZ6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=TWZ6EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TWZ6EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TWZ6EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31.92,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31.92,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TWZ6EAAAQBAJ&rdid=book-TWZ6EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31920000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31920000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Terra_fresca_da_sua_tumba-sample-epub.acsm?id=TWZ6EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Terra_fresca_da_sua_tumba-sample-pdf.acsm?id=TWZ6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TWZ6EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A edição em português, &quot;Terra fresca da sua tumba&quot;, é o primeiro livro da autora lançado no Brasil, em coedição das editoras Incompleta e Jandaíra. Apresentação de Carola Saavedra. Posfácio de Paloma Franca Amorim."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SrfT0AEACAAJ",
+      "etag": "6d8yvZKT4oM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SrfT0AEACAAJ",
+      "volumeInfo": {
+        "title": "Terra fresca da sua tumba",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publisher": "Editora Jandaira",
+        "publishedDate": "2021-11-16",
+        "description": "Uma voz nova, contundente e perturbadora, que tem muito a dizer sobre a renovação da literatura fantástica sul-americana. Luis Manuel Ruiz, Diario de Sevilla O ruído da terra estrangeira, o fantástico e o macabro emaranhados no cotidiano, a crueldade de que só a família é capaz. Tramas de vingança e reconciliação circundam o abismo da morte e do trauma, em uma prosa intrépida e sensível, que extrai do dia a dia uma beleza brutal. Os seis contos longos que compõem a estreia em livro no Brasil da boliviana Giovanna Rivero são um chamado a outras vidas possíveis; expurgo e oração. Tierra fresca de su tumba foi publicado no idioma original na Argentina (Marciana, 2020); na Bolívia (El Cuervo, 2020); e na Espanha (Candaya, 2021). Alguns contos foram traduzidos para o italiano e incluídos no livro Ricomporre amorevoli scheletri (Gran Via, Itália, 2020). A edição em português, Terra fresca da sua tumba, é o primeiro livro da autora lançado no Brasil, em coedição das editoras Incompleta e Jandaíra.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6587113397"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786587113395"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Short stories, Bolivian"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SrfT0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SrfT0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=SrfT0AEACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=SrfT0AEACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Terra_fresca_da_sua_tumba.html?hl=&id=SrfT0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SrfT0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A edição em português, Terra fresca da sua tumba, é o primeiro livro da autora lançado no Brasil, em coedição das editoras Incompleta e Jandaíra."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cH62EAAAQBAJ",
+      "etag": "Fabt3Kxf4Lg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cH62EAAAQBAJ",
+      "volumeInfo": {
+        "title": "98 segundos sem sombra",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publisher": "Editora Incompleta",
+        "publishedDate": "2023-03-10",
+        "description": "Genoveva Bravo Genovés vive em Therox, lugar fictício dentro de um país real. Lugar de nome tão forasteiro à Bolívia como os agentes da DEA infiltrados na cidade, cuja economia depende sobretudo do narcotráfico. Uma garota como tantas, como todas, tateando sua identidade em meio ao dia a dia com a família, no colégio só para senhoritas, através do encantamento com o misterioso Mestre Hernán e sua aura de guru new age. Neste romance de formação, da boliviana Giovanna Rivero, os valores rígidos do catolicismo, tão arraigados em nosso continente, colidem com o misticismo popular que a adolescente vivencia em casa ao lado da cálida e colorida figura da avó. A distância no tempo e espaço (estamos em meados dos anos 1980) em nenhum momento afasta Genoveva de nós. Pelo contrário, seu crescimento ao longo do romance nos parece tão íntimo, sua dimensão humana tão visceral, que nos tornamos mais do que testemunhas de sua história; enquanto nossa heroína-narradora escreve em um diário os pensamentos e até as maldades próprias da soberba juvenil, nos tornamos seus confidentes, uma espécie de diário-leitor (ou leitor-diário), capazes de entrever suas incoerências, falhas de julgamento, as mentiras que conta a si mesma, mas também sua ternura e, acima de tudo, a vontade de alçar voos maiores, muito maiores do que a pequena Therox pode oferecer.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786588104187"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6588104189"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cH62EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cH62EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=cH62EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cH62EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cH62EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 31.92,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31.92,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cH62EAAAQBAJ&rdid=book-cH62EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 31920000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31920000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/98_segundos_sem_sombra-sample-epub.acsm?id=cH62EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/98_segundos_sem_sombra-sample-pdf.acsm?id=cH62EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cH62EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Neste romance de formação, da boliviana Giovanna Rivero, os valores rígidos do catolicismo, tão arraigados em nosso continente, colidem com o misticismo popular que a adolescente vivencia em casa ao lado da cálida e colorida figura da ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WOskEAAAQBAJ",
+      "etag": "HI19H4V1LMc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WOskEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Tierra fresca de su tumba",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publisher": "Candaya",
+        "publishedDate": "2021-03-18",
+        "description": "Tierra fresca de su tumba, de Giovanna Rivero (Editorial Candaya, 2021): \"Lo cotidiano y lo gótico, la distopía y el realismo más extremo: seis inquietantes relatos que tienen mucho que decir en la renovación de la literatura fantástica latinoamericana.\" En los cuentos de Tierra fresca de su tumba aparecen pescadores que atraviesan los mares de la muerte, niñas abandonadas en las estepas que encuentran en el góspel un puente hacia la belleza, mujeres cuya demencia no es otra cosa que un corazón despedazado, ancianas japonesas que cavan en un jardín para encontrar lo mejor y lo peor de sí mismas, muchachos de una tribu del Canadá que se visten con pieles de animales para poder rugir de nuevo. Personajes, en definitiva, que rasgan la delgada membrana de la vida ordinaria, intentan tocar, con las manos extendidas de la infancia, la dimensión sensual del más allá y se asoman peligrosamente a un abismo interior que acabara por devorarlos. Seis historias de oscuridad luminosa que nos atraviesan como una herida, y que al final nos hacen comprender las posibilidades del amor, la justicia y la esperanza, pero también, como en \"Un descenso al Maelstrom\" de Edgar Allan Poe, la altura y la profundidad del abismo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788418504303"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8418504307"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WOskEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WOskEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=WOskEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WOskEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WOskEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WOskEAAAQBAJ&rdid=book-WOskEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Tierra_fresca_de_su_tumba-sample-epub.acsm?id=WOskEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Tierra_fresca_de_su_tumba-sample-pdf.acsm?id=WOskEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WOskEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tierra fresca de su tumba, de Giovanna Rivero (Editorial Candaya, 2021): &quot;Lo cotidiano y lo gótico, la distopía y el realismo más extremo: seis inquietantes relatos que tienen mucho que decir en la renovación de la literatura ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Ru2EAAAQBAJ",
+      "etag": "tMVcxhlRsw8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Ru2EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Fresh Dirt from the Grave",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publisher": "Charco Press",
+        "publishedDate": "2023-06-20",
+        "description": "Shipwrecks, dive bars, possession, and science—this is where contemporary horrors and ancient terrors meet. In Fresh Dirt from the Grave , a hillside is “an emerald saddle teeming with evil and beauty.” It is this collision of harshness and tenderness that animates Giovanna Rivero’s short stories, where no degree of darkness (buried bodies, lost children, wild paroxysms of violence) can take away from the gentleness she shows all violated creatures. A mad aunt haunts her family, two Bolivian children are left on the outskirts of a Metis reservation outside Winnipeg, a widow teaches origami in a women’s prison and murders, housefires, and poisonings abound, but so does the persistent bravery of people trying to forge ahead in the face of the world. They are offered cruelty, often, indifference at best, and yet they keep going. Rivero has reworked the boundaries of the gothic to engage with pre-Columbian ritual, folk tales, sci-fi and eroticism, and found in the wound their humanity and the possibility of hope.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781913867522"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1913867528"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Ru2EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Ru2EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=7Ru2EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7Ru2EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7Ru2EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 90,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 90,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7Ru2EAAAQBAJ&rdid=book-7Ru2EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 90000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 90000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Fresh_Dirt_from_the_Grave-sample-epub.acsm?id=7Ru2EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Fresh_Dirt_from_the_Grave-sample-pdf.acsm?id=7Ru2EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Ru2EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Shipwrecks, dive bars, possession, and science – this is where contemporary horrors and ancient terrors meet."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8HrOq0OYI90C",
+      "etag": "TWtGU9X+tnQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8HrOq0OYI90C",
+      "volumeInfo": {
+        "title": "Sangre dulce y otros cuentos",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publisher": "Grupo Editorial la hoguera",
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9995431025"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789995431020"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Bolivia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8HrOq0OYI90C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8HrOq0OYI90C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=8HrOq0OYI90C&printsec=frontcover&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=8HrOq0OYI90C&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sangre_dulce_y_otros_cuentos.html?hl=&id=8HrOq0OYI90C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Sangre_dulce_y_otros_cuentos-sample-pdf.acsm?id=8HrOq0OYI90C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8HrOq0OYI90C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oVCR6kqff4oC",
+      "etag": "hMk9Yd3NtX0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oVCR6kqff4oC",
+      "volumeInfo": {
+        "title": "Contraluna",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publisher": "Grupo Editorial la hoguera",
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9990576203"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789990576207"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oVCR6kqff4oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oVCR6kqff4oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=oVCR6kqff4oC&printsec=frontcover&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=oVCR6kqff4oC&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contraluna.html?hl=&id=oVCR6kqff4oC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Contraluna-sample-pdf.acsm?id=oVCR6kqff4oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oVCR6kqff4oC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mHYmngEACAAJ",
+      "etag": "2isNDf58UKQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mHYmngEACAAJ",
+      "volumeInfo": {
+        "title": "Noventa y ocho segundos sin sombra",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "841545130X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788415451303"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mHYmngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mHYmngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=mHYmngEACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=mHYmngEACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Noventa_y_ocho_segundos_sin_sombra.html?hl=&id=mHYmngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mHYmngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MZVfAAAAMAAJ",
+      "etag": "TTGl2jPRXaY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MZVfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Sentir lo oscuro",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015056894556"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+          "Short stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MZVfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MZVfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=MZVfAAAAMAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=MZVfAAAAMAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sentir_lo_oscuro.html?hl=&id=MZVfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MZVfAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vj_oAAAAMAAJ",
+      "etag": "PDJWzHHpDQs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vj_oAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Medusa fuego",
+        "authors": [
+          "Roxana Sélum Yabeta"
+        ],
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173014500185"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 42,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vj_oAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vj_oAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=vj_oAAAAMAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=vj_oAAAAMAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Medusa_fuego.html?hl=&id=vj_oAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vj_oAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_K0cAQAAIAAJ",
+      "etag": "tiu0Vob7uMM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_K0cAQAAIAAJ",
+      "volumeInfo": {
+        "title": "TuKzon",
+        "subtitle": "historias colaterales",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105132063855"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Bolivian fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_K0cAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_K0cAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=_K0cAQAAIAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=_K0cAQAAIAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/TuKzon.html?hl=&id=_K0cAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_K0cAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "630N0QEACAAJ",
+      "etag": "ZKs6HF/TlbE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/630N0QEACAAJ",
+      "volumeInfo": {
+        "title": "Tukzon",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publishedDate": "2024",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798989968022"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=630N0QEACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=630N0QEACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tukzon.html?hl=&id=630N0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=630N0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f7aJEQAAQBAJ",
+      "etag": "4hVra4wSDRs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f7aJEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Ana Bolena",
+        "authors": [
+          "Giovanna Rivero Santa Cruz"
+        ],
+        "publisher": "RBA Libros y Publicaciones",
+        "publishedDate": "2025-09-23",
+        "description": "DESEADA Y REPUDIADA, PERO SIEMPRE ANA Ana Bolena es una de las mujeres más controvertidas de la historia de Inglaterra. Parte de la historiografía oficial, así como muchos de los relatos de ficción que se han elaborado alrededor de su figura y de la de Enrique VIII, han insistido en retratarla como una mujer manipuladora, una usurpadora hambrienta de poder que desplazó del trono a Catalina de Aragón sin ningún tipo de prurito ni contemplación. Según esta visión, Ana, blandiendo el arma de su belleza, consiguió que Enrique VIII se obsesionara con ella y de este modo alcanzó el más alto estatus de Inglaterra al que una mujer del siglo XVI podía aspirar. Su ascenso fue rápido y fulgurante; su caída, sórdida. De manera opuesta, en los últimos años se ha venido realizando una revisión del personaje histórico de Ana Bolena, gracias a la cual las etiquetas que le fueron adjudicadas en su tiempo se han revelado injustas y falsas. Según este nuevo enfoque, alejado del estereotipo de la mujer fatal, Ana Bolena emerge como una reina inteligente y erudita, que lucha por tener el control sobre su vida; un alma poco convencional, cuya valentía y curiosidad la llevaron a entrar en sintonía con las ideas reformistas de la época no por egoísmo, como han sugerido aquellos historiadores que apoyan la idea de que el único objetivo de Ana era ocupar el lugar de Catalina al precio que fuese, sino por genuino interés intelectual. Ella, igual que Lutero, creía que todo el mundo debía poder leer la Biblia en su idioma, una idea revolucionaria en la época, que Ana defendía al igual que otras propuestas igualmente polémicas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788410987494"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "841098749X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 147,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f7aJEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f7aJEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=f7aJEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=f7aJEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=f7aJEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 64.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 64.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=f7aJEQAAQBAJ&rdid=book-f7aJEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 64900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 64900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Ana_Bolena-sample-epub.acsm?id=f7aJEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Ana_Bolena-sample-pdf.acsm?id=f7aJEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f7aJEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "DESEADA Y REPUDIADA, PERO SIEMPRE ANA Ana Bolena es una de las mujeres más controvertidas de la historia de Inglaterra."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eHMxwAEACAAJ",
+      "etag": "zWPWZONqy2o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eHMxwAEACAAJ",
+      "volumeInfo": {
+        "title": "Para comerte mejor",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9874636572"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789874636577"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=eHMxwAEACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=eHMxwAEACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Para_comerte_mejor.html?hl=&id=eHMxwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eHMxwAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Short stories about a fictional Bolivian dystopian future."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CHqosrkt-joC",
+      "etag": "prl/uuRR3Uk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CHqosrkt-joC",
+      "volumeInfo": {
+        "title": "Usted está aquí",
+        "subtitle": "crónicas de ciudades",
+        "authors": [
+          "Juan Villoro",
+          "Rafael Gumucio",
+          "Alan Pauls",
+          "Leila Guerriero",
+          "Sergio Chejfec",
+          "Giovanna Rivero",
+          "Matías Capelli",
+          "Jorge Carrión",
+          "Ercole Lissardi",
+          "Juan José Becerra",
+          "Fabrizio Mejía Madrid",
+          "Martín Kohan",
+          "Daniel Krupa"
+        ],
+        "publishedDate": "2016",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCBK:C113561958"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Spanish American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CHqosrkt-joC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CHqosrkt-joC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=CHqosrkt-joC&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=CHqosrkt-joC&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Usted_est%C3%A1_aqu%C3%AD.html?hl=&id=CHqosrkt-joC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CHqosrkt-joC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0PIozAEACAAJ",
+      "etag": "5vwa/+7RLDY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0PIozAEACAAJ",
+      "volumeInfo": {
+        "title": "Escritorxs Salvajes",
+        "subtitle": "37 Hispanic Writers in the United States",
+        "authors": [
+          "Hernán Vera Álvarez (ed.)"
+        ],
+        "publishedDate": "2019-10-28",
+        "description": "De la misma manera que en el nuevo mileniolos géneros sexuales languidecen, por fortuna,lo mismo ocurre con los literarios. Esta antología incluye cuento, poesía, crónica, ensayo personal y novela. Muchos de los textos están felizmente contaminados de uno y otro estilo.Toda literatura es una experiencia. Salvo un par que publicó en los 90, este trabajo reúne autores que en casi dos décadas hicieron una obraen tierra norteamericana: algunos describen la relación con el país extranjero en el que viven;a la vez, los escenarios se extienden por el resto del mundo. Es decir: los escritores que ya están afincados no siguen necesariamente hablando de inmigración, indocumentados, etc. Ya lo hicieron y ahora tienen nuevas obsesiones.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1948517477"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781948517478"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 595,
+        "printType": "BOOK",
+        "categories": [
+          "Short stories, Spanish American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0PIozAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0PIozAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=0PIozAEACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=0PIozAEACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritorxs_Salvajes.html?hl=&id=0PIozAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0PIozAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "De la misma manera que en el nuevo mileniolos géneros sexuales languidecen, por fortuna,lo mismo ocurre con los literarios."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AZVfAAAAMAAJ",
+      "etag": "yKSdzCxOi3U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AZVfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Las cama-leonas",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015056896494"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+          "Man-woman relationships"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AZVfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AZVfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=AZVfAAAAMAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=AZVfAAAAMAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_cama_leonas.html?hl=&id=AZVfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AZVfAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6KaWzQEACAAJ",
+      "etag": "Z3xBJcQpE7E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6KaWzQEACAAJ",
+      "volumeInfo": {
+        "title": "Ricomporre amorevoli scheletri",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8895492579"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788895492575"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6KaWzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6KaWzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.com.br/books?id=6KaWzQEACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=6KaWzQEACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ricomporre_amorevoli_scheletri.html?hl=&id=6KaWzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6KaWzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TBD4AAAACAAJ",
+      "etag": "CIR/uO/Y090",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TBD4AAAACAAJ",
+      "volumeInfo": {
+        "title": "La dueña de nuestros sueños",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9990501912"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789990501919"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "categories": [
+          "Children's stories, Bolivian"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=TBD4AAAACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=TBD4AAAACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_due%C3%B1a_de_nuestros_sue%C3%B1os.html?hl=&id=TBD4AAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TBD4AAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0uNhQwAACAAJ",
+      "etag": "T//cBIP7joU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0uNhQwAACAAJ",
+      "volumeInfo": {
+        "title": "Niñas y detectives",
+        "subtitle": "y otros cuentos con sangre dulce",
+        "authors": [
+          "Giovanna Rivero"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "849540883X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788495408839"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 123,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=0uNhQwAACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=0uNhQwAACAAJ&dq=inauthor:%22Giovanna+Rivero%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ni%C3%B1as_y_detectives.html?hl=&id=0uNhQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0uNhQwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

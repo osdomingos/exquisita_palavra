@@ -1,0 +1,1845 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "_H4zEAAAQBAJ",
+      "etag": "T1HJvl9LGA8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_H4zEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Nossa parte de noite",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Editora Intrinseca",
+        "publishedDate": "2021-07-08",
+        "description": "Romance premiado consagra Mariana Enriquez como escritora fundamental do século XXI. Um pai e um filho cruzam a Argentina de carro, de Buenos Aires até as Cataratas do Iguaçu, na fronteira com o Brasil. São os anos da ditadura militar argentina, soldados armados estão no controle e o ambiente é de tensão. O pai tenta sozinho proteger Gaspar, seu filho, do destino que lhe é designado. A mãe do garoto morreu em circunstâncias obscuras, em um suposto acidente. Como o pai, Gaspar recebeu o chamado para ser médium em uma sociedade secreta, a Ordem, que se relaciona com a Escuridão em busca da vida eterna por meio de rituais atrozes. Para tais rituais, é imprescindível a presença de um médium, mas o destino desses detentores de poderes especiais é cruel, já que o desgaste, físico e mental, é rápido e implacável. As origens da Ordem, comandada pela família da mãe de Gaspar, remontam a séculos, quando o conhecimento da Escuridão foi trazido da África para a Inglaterra e dali se estendeu à Argentina. O terror sobrenatural se mistura com terrores bem reais neste romance perturbador e deslumbrante –– casas cujos interiores sofrem mutações, passagens que escondem monstros inimagináveis, rituais com sacrifícios humanos que envolvem êxtase e dor, andanças na Londres psicodélica dos anos 1960, fetiche por pálpebras humanas, liturgias sexuais enigmáticas e a repressão da ditadura, os desaparecidos, a chegada incerta da democracia e os primeiros casos de aids em Buenos Aires. Um romance que amedronta e envolve na mesma medida, de uma das escritoras mais proeminentes da América Latina atualmente.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786555601817"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6555601817"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 712,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.15.14.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_H4zEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_H4zEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=_H4zEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_H4zEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_H4zEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 62.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 56.61,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_H4zEAAAQBAJ&rdid=book-_H4zEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 62900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 56610000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nossa_parte_de_noite-sample-epub.acsm?id=_H4zEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nossa_parte_de_noite-sample-pdf.acsm?id=_H4zEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_H4zEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Romance premiado consagra Mariana Enriquez como escritora fundamental do século XXI."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ihDVDgAAQBAJ",
+      "etag": "ZrKzf9uwvCk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ihDVDgAAQBAJ",
+      "volumeInfo": {
+        "title": "As coisas que perdemos no fogo",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Editora Intrinseca",
+        "publishedDate": "2017-05-29",
+        "description": "Macabro, perturbador e emocionante, As coisas que perdemos no fogo reúne contos que usam o medo e o terror para explorar várias dimensões da vida contemporânea. Em um primeiro olhar, as doze narrativas do livro parecem surreais. No entanto, depois de poucas frases, elas se mostram estranhamente familiares: é o cotidiano transformado em pesadelo. Personagens e lugares aparentemente comuns ocultam um universo insólito: um menino assassino, uma garota que arranca as unhas e os cílios na sala de aula, adolescentes que fazem pactos sombrios, amigos que parecem destinados à morte, mulheres que ateiam fogo em si mesmas como forma de protesto, casas abandonadas, magia negra, mitos e superstições. Uma das escritoras mais corajosas e surpreendentes do século XXI, Mariana Enriquez dá voz à geração nascida durante a ditadura militar na Argentina. Neste livro, ela cria um universo povoado por pessoas comuns e seres socialmente invisíveis, cujas existências sucumbem ao peso da culpa, da compaixão, da crueldade e da simples convivência. O resultado é uma obra ao mesmo tempo estranha e familiar, que questiona de forma penetrante e indelével o mundo em que vivemos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788551001455"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8551001450"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 171,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.7.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ihDVDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ihDVDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=ihDVDgAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ihDVDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ihDVDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 34.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31.41,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ihDVDgAAQBAJ&rdid=book-ihDVDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31410000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As_coisas_que_perdemos_no_fogo-sample-epub.acsm?id=ihDVDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As_coisas_que_perdemos_no_fogo-sample-pdf.acsm?id=ihDVDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ihDVDgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Macabro, perturbador e emocionante, As coisas que perdemos no fogo reúne contos que usam o medo e o terror para explorar várias dimensões da vida contemporânea."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uLiZDwAAQBAJ",
+      "etag": "wKQBJHUCXGU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uLiZDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Este é o mar",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Editora Intrinseca",
+        "publishedDate": "2019-06-06",
+        "description": "Mariana Enriquez constrói em novo livro um universo sombrio em que lendas do rock encontram fãs fanáticos e seres mitológicos Lendas do rock nunca fenecem. E tudo porque entregaram a vida às Luminosas, seres atemporais que se alimentam dos aspectos mais pungentes da devoção humana. Kurt Cobain? Lenda criada por Violeta. Sid Vicious? Gina. Jim Morrison? Marianne. No universo de Este é o mar , se tornar uma verdadeira lenda do rock envolve seres mitológicos femininos e um mundo intenso e sombrio, marcado pelo esquecimento e pelas lembranças que atravessam gerações. Helena é uma das responsáveis por manter a engrenagem do fanatismo a todo vapor, incitando os jovens fãs humanos a darem tudo de si e a consumirem seu ídolo. No entanto, não quer ser apenas uma abelha operária. Para se tornar uma Luminosa, precisa criar uma nova Lenda. Agora, tendo a morte como aliada, sua missão é eternizar James Evans, o vocalista da banda Fallen — uma árdua tarefa em meio à era da fugacidade dos desejos. Após a repercussão de As coisas que perdemos no fogo , que consagrou o estilo da autora em unir horror a aspectos do cotidiano, Este é o mar traça na esfera do mitológico os aspectos mais perturbadores e indizíveis da essência humana. Um retrato visceral da adolescência e da nossa sociedade, que reafirma Mariana Enriquez como uma das vozes mais potentes da literatura argentina contemporânea.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788551005019"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8551005014"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 101,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uLiZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uLiZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=uLiZDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uLiZDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uLiZDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 34.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31.41,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uLiZDwAAQBAJ&rdid=book-uLiZDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31410000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Este_%C3%A9_o_mar-sample-epub.acsm?id=uLiZDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Este_%C3%A9_o_mar-sample-pdf.acsm?id=uLiZDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uLiZDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mariana Enriquez constrói em novo livro um universo sombrio em que lendas do rock encontram fãs fanáticos e seres mitológicos Lendas do rock nunca fenecem."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "liD1zwEACAAJ",
+      "etag": "Jp7DHyYxYrE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/liD1zwEACAAJ",
+      "volumeInfo": {
+        "title": "Nossa parte de Noite",
+        "subtitle": "Edição especial com brindes e revista do Clube Intrínsecos",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publishedDate": "2023-01-24",
+        "description": "Romance premiado consagra Mariana Enriquez como escritora fundamental do século XXI. Um pai e um filho cruzam a Argentina de carro, de Buenos Aires até as Cataratas do Iguaçu, na fronteira com o Brasil. São os anos da ditadura militar argentina, soldados armados estão no controle e o ambiente é de tensão. O pai tenta sozinho proteger Gaspar, seu filho, do destino que lhe é designado. A mãe do garoto morreu em circunstâncias obscuras, em um suposto acidente. Como o pai, Gaspar recebeu o chamado para ser médium em uma sociedade secreta, a Ordem, que se relaciona com a Escuridão em busca da vida eterna por meio de rituais atrozes. Para tais rituais, é imprescindível a presença de um médium, mas o destino desses detentores de poderes especiais é cruel, já que o desgaste, físico e mental, é rápido e implacável. As origens da Ordem, comandada pela família da mãe de Gaspar, remontam a séculos, quando o conhecimento da Escuridão foi trazido da África para a Inglaterra e dali se estendeu à Argentina. O terror sobrenatural se mistura com terrores bem reais neste romance perturbador e deslumbrante –– casas cujos interiores sofrem mutações, passagens que escondem monstros inimagináveis, rituais com sacrifícios humanos que envolvem êxtase e dor, andanças na Londres psicodélica dos anos 1960, fetiche por pálpebras humanas, liturgias sexuais enigmáticas e a repressão da ditadura, os desaparecidos, a chegada incerta da democracia e os primeiros casos de aids em Buenos Aires. Um romance que amedronta e envolve na mesma medida, de uma das escritoras mais proeminentes da América Latina atualmente.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6555600713"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786555600711"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=liD1zwEACAAJ&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=liD1zwEACAAJ&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nossa_parte_de_Noite.html?hl=&id=liD1zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=liD1zwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Romance premiado consagra Mariana Enriquez como escritora fundamental do século XXI."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "__XFEAAAQBAJ",
+      "etag": "9rwb+vYjuG4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/__XFEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Os perigos de fumar na cama",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Editora Intrinseca",
+        "publishedDate": "2023-07-14",
+        "description": "Novo livro de Mariana Enriquez reúne doze histórias de terror perturbadoras e que modernizam o gênero Uma menina descobre ossos no quintal, e não são de um animal. Uma cena bucólica de verão, garotas se banhando no lago de uma pedreira, transforma-se num inferno motivado por ciúme e inveja. Um homem marginalizado semeia desgraças em um bairro rico após ser maltratado. Barcelona se transforma em um cenário perturbador, marcado pela culpa e do qual é impossível escapar. Uma presença fantasmagórica busca um sacrifício em um balneário. Uma garota que tem fetiche por homens com doenças cardíacas. Uma estrela do rock vítima de uma morte horrível é homenageada por fãs de um jeito inimaginável. Um sujeito que filma clandestinamente casais transando e mulheres de salto alto andando pelas ruas recebe uma proposta que mudará sua vida. Neste aclamado livro de contos, Mariana Enriquez reúne doze histórias fantásticas, lançando mão de um amplo repertório de recursos narrativos inspirados nos clássicos do terror: fantasmas, bruxas, brincadeiras com espíritos, visões e mortos que voltam à vida. Mas, muito além de apenas revisitá-los, ela renova o gênero pelo qual ficou conhecida, demonstrando mais uma vez a força de sua voz radicalmente contemporânea. Suas histórias mergulham no sinistro que espreita o cotidiano, exibem um erotismo obscuro e tecem imagens poderosas cuja marca é inegável. Quem gostou de As coisas que perdemos no fogo e Nossa parte de noite tem agora a oportunidade de adentrar mais uma vez a mente fantástica dessa autora, que se conecta com mestres da literatura como Shirley Jackson, Thomas Ligotti e Julio Cortázar. Mariana Enriquez perscruta os abismos mais sombrios da alma humana, as correntes ocultas da sexualidade e da obsessão.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786555606638"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6555606630"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 129,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=__XFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=__XFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=__XFEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=__XFEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=__XFEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 34.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 31.41,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=__XFEAAAQBAJ&rdid=book-__XFEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 31410000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Os_perigos_de_fumar_na_cama-sample-epub.acsm?id=__XFEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Os_perigos_de_fumar_na_cama-sample-pdf.acsm?id=__XFEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=__XFEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Novo livro de Mariana Enriquez reúne doze histórias de terror perturbadoras e que modernizam o gênero Uma menina descobre ossos no quintal, e não são de um animal."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9G7cDwAAQBAJ",
+      "etag": "ltMIePc25jY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9G7cDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Dangers of Smoking in Bed",
+        "subtitle": "Stories",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Hogarth",
+        "publishedDate": "2021-01-12",
+        "description": "“The beautiful, horrible world of Mariana Enriquez, as glimpsed in The Dangers of Smoking in Bed, with its disturbed adolescents, ghosts, decaying ghouls, the sad and angry homeless of modern Argentina, is the most exciting discovery I’ve made in fiction for some time.”—Kazuo Ishiguro, The Guardian SHORTLISTED FOR THE INTERNATIONAL BOOKER PRIZE • NEW YORK TIMES EDITORS’ CHOICE • FINALIST: Los Angeles Times Book Prize, Ray Bradbury Prize, Kirkus Prize • ONE OF THE BEST BOOKS OF THE YEAR: Oprah Daily, New York Public Library, Electric Lit, LitHub, Kirkus Reviews Mariana Enriquez has been critically lauded for her unconventional and sociopolitical stories of the macabre. Populated by unruly teenagers, crooked witches, homeless ghosts, and hungry women, they walk the uneasy line between urban realism and horror. The stories in her new collection are as terrifying as they are socially conscious, and press into being the unspoken—fetish, illness, the female body, the darkness of human history—with bracing urgency. A woman is sexually obsessed with the human heart; a lost, rotting baby crawls out of a backyard and into a bedroom; a pair of teenage girls can’t let go of their idol; an entire neighborhood is cursed to death when it fails to respond correctly to a moral dilemma. Written against the backdrop of contemporary Argentina, and with a resounding tenderness toward those in pain, in fear, and in limbo, The Dangers of Smoking in Bed is Mariana Enriquez at her most sophisticated, and most chilling.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593134085"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593134087"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 209,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9G7cDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9G7cDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=9G7cDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9G7cDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9G7cDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 73.72,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 73.72,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9G7cDwAAQBAJ&rdid=book-9G7cDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 73720000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 73720000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Dangers_of_Smoking_in_Bed-sample-epub.acsm?id=9G7cDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9G7cDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“The beautiful, horrible world of Mariana Enriquez, as glimpsed in The Dangers of Smoking in Bed, with its disturbed adolescents, ghosts, decaying ghouls, the sad and angry homeless of modern Argentina, is the most exciting discovery ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YJxuEAAAQBAJ",
+      "etag": "2eYMTUAiovs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YJxuEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Our Share of Night",
+        "subtitle": "A Novel",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Hogarth",
+        "publishedDate": "2023-02-07",
+        "description": "“A masterpiece of supernatural horror.”—The Washington Post “An enchanting, shattering, once-in-a-lifetime reading experience.”—The New York Times (Editors’ Choice) ONE OF TIME AND THE ATLANTIC’S TEN BEST NOVELS OF THE YEAR • ONE OF THE NEW YORK TIMES’S TEN BEST HORROR BOOKS OF THE YEAR • LONGLISTED FOR THE DUBLIN LITERARY AWARD • GOOD MORNING AMERICA BUZZ PICK One of Reactor Magazine’s Most Iconic Speculative Fiction Books of the 21st Century A woman’s mysterious death puts her husband and son on a collision course with her demonic family in the first novel to be translated into English by the International Booker Prize–shortlisted author of The Dangers of Smoking in Bed—“the most exciting discovery I’ve made in fiction for some time” (Kazuo Ishiguro). A BEST BOOK OF THE YEAR: The New York Times Book Review, NPR, The Washington Post, Esquire, Publishers Weekly, BookPage, Book Riot, PopSugar, The New York Public Library, Chicago Public Library, Polygon, Tordotcom, Lit Hub, Electric Lit, Commonweal, CrimeReads “A magnificent accomplishment.”—Alan Moore, author of Watchmen “A masterpiece of literary horror.”—Publishers Weekly, starred review “One of Latin America’s most exciting authors.”—Silvia Moreno-Garcia A young father and son set out on a road trip, devastated by the death of the wife and mother they both loved. United in grief, the pair travel to her ancestral home, where they must confront the terrifying legacy she has bequeathed: a family called the Order that commits unspeakable acts in search of immortality. For Gaspar, the son, this maniacal cult is his destiny. As the Order tries to pull him into their evil, he and his father take flight, attempting to outrun a powerful clan that will do anything to ensure its own survival. But how far will Gaspar’s father go to protect his child? And can anyone escape their fate? Moving back and forth in time, from London in the swinging 1960s to the brutal years of Argentina’s military dictatorship and its turbulent aftermath, Our Share of Night is a novel like no other: a family story, a ghost story, a story of the occult and the supernatural, a book about the complexities of love and longing with queer subplots and themes. This is the masterwork of one of Latin America’s most original novelists, “a mesmerizing writer,” says Dave Eggers, “who demands to be read.”",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780451495167"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0451495160"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 609,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YJxuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YJxuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=YJxuEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YJxuEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YJxuEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 42.97,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 42.97,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YJxuEAAAQBAJ&rdid=book-YJxuEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 42970000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 42970000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Our_Share_of_Night-sample-epub.acsm?id=YJxuEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YJxuEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the masterwork of one of Latin America’s most original novelists, “a mesmerizing writer,” says Dave Eggers, “who demands to be read.”"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uS1fEQAAQBAJ",
+      "etag": "AEiJZ3eXt+4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uS1fEQAAQBAJ",
+      "volumeInfo": {
+        "title": "A Sunny Place for Shady People",
+        "subtitle": "Stories",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2025-09-09",
+        "description": "WORLD FANTASY AWARD FINALIST • BRAM STOKER AWARD FINALIST • A diabolical collection of stories featuring achingly human characters whose lives intertwine with ghosts, goblins, and the macabre, by “Buenos Aires’s sorceress of horror” (Samanta Schweblin, The New York Times) “Entertaining, political and exquisitely gruesome, these stories summon terror against the backdrop of everyday horrors. . . . A queen of horror delivers more delightfully twisted stories.”—Los Angeles Times “As vivid and essential as Kafka’s tales.”—Minneapolis Star-Tribune NEW YORK TIMES BOOK REVIEW EDITORS’ CHOICE • IGNYTE AWARD FINALIST • LONGLISTED FOR THE ANDREW CARNEGIE MEDAL FOR EXCELLENCE IN FICTION • A BEST BOOK OF THE YEAR: TIME, THE NEW YORK PUBLIC LIBRARY, PUBLISHERS WEEKLY, CHICAGO PUBLIC LIBRARY, THE TELEGRAPH, ELECTRIC LIT, PASTE, LATINA MEDIA On the shores of this river, all the birds that fly, drink, perch on branches, and disturb siestas with the demonic squawking of the possessed—all those birds were once women. Welcome to Argentina and the fascinating, frightening, fantastical imagination of Mariana Enriquez. In twelve spellbinding new stories, Enriquez writes about ordinary people, especially women, whose lives turn inside out when they encounter terror, the surreal, and the supernatural. A neighborhood nuisanced by ghosts, a family whose faces melt away, a faded hotel haunted by a girl who dissolved in the water tank on the roof, a riverbank populated by birds that used to be women—these and other tales illuminate the shadows of contemporary life, where the line between good and evil no longer exists. Lyrical and hypnotic, heart-stopping and deeply moving, Enriquez’s stories never fail to enthrall, entertain, and leave us shaken. Translated by the award-winning Megan McDowell, A Sunny Place for Shady People showcases Enriquez’s unique blend of the literary and the horrific, and underscores why Kazuo Ishiguro, winner of the Nobel Prize for Literature, calls her “the most exciting discovery I’ve made in fiction for some time.”",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593733271"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593733274"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uS1fEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uS1fEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=uS1fEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=uS1fEQAAQBAJ&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Sunny_Place_for_Shady_People.html?hl=&id=uS1fEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_Sunny_Place_for_Shady_People-sample-pdf.acsm?id=uS1fEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uS1fEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "BRAM STOKER AWARD FINALIST • A diabolical collection of stories featuring achingly human characters whose lives intertwine with ghosts, goblins, and the macabre, by “Buenos Aires’s sorceress of horror” (Samanta Schweblin, The New ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Fc-aDgAAQBAJ",
+      "etag": "XgvtZNiRLpg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Fc-aDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Things We Lost in the Fire",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Portobello Books",
+        "publishedDate": "2017-04-06",
+        "description": "'A portrait of a world in fragments, a mirrorball made of razor blades' Guardian Thrilling and terrifying, Things We Lost in the Fire takes the reader into a world of sharp-toothed children and young girls racked by desire, where demons lurk beneath the river and stolen skulls litter the pavements. A world where the secrets half-buried under Argentina's terrible dictatorship rise up to haunt the present day, and where women, exhausted by a plague of violence, find that their only path out lies through the flames... 'The only book that's ever left me afraid to turn out the lights. Mercilessly incisive and deeply creepy' Lisa McInerney, author of The Glorious Heresies",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781846276354"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1846276357"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Fc-aDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Fc-aDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Fc-aDgAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Fc-aDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Fc-aDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 56.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 56.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Fc-aDgAAQBAJ&rdid=book-Fc-aDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 56900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 56900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Things_We_Lost_in_the_Fire-sample-epub.acsm?id=Fc-aDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Things_We_Lost_in_the_Fire-sample-pdf.acsm?id=Fc-aDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Fc-aDgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;The only book that&#39;s ever left me afraid to turn out the lights. Mercilessly incisive and deeply creepy&#39; Lisa McInerney, author of The Glorious Heresies"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nnIZEAAAQBAJ",
+      "etag": "JAE31d6t0h4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nnIZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Las cosas que perdimos en el fuego",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "VINTAGE ESPAÑOL",
+        "publishedDate": "2017-02-21",
+        "description": "El mundo de Mariana Enriquez no tiene por qué ser el nuestro, y, sin embargo, lo termina siendo. Bastan pocas frases para pisarlo, respirarlo y no olvidarlo gracias a una viveza emocional insólita. Con la cotidianidad hecha pesadilla, el lector se despierta abatido, perturbado por historias e imágenes que jamás conseguirá sacarse de la cabeza. Las autodenominadas “mujeres ardientes”, que protestan contra una forma extrema de violencia doméstica que se ha vuelto viral; una estudiante que se arranca las uñas y las pestañas, y otra que intenta ayudarla; los años de apagones dictados por el gobierno durante los cuales se intoxican tres amigas que lo serán hasta que la muerte las separe; el famoso asesino en serie llamado Petiso Orejudo, que sólo tenía nueve años; hikikomori, magia negra, los celos, el desamor, supersticiones rurales, edificios abandonados o encantados En estos once cuentos el lector se ve obligado a olvidarse de sí mismo para seguir las peripecias e investigaciones de cuerpos que desaparecen o bien reaparecen en el momento menos esperado. Ya sea una trabajadora social, una policía o un guía turístico, los protagonistas luchan por apadrinar a seres socialmente invisibles, indagando así en el peso de la culpa, la compasión, la crueldad, las dificultades de la convivencia, y en un terror tan hondo como verosímil. Mariana Enriquez es una de las narradoras más valientes y sorprendentes del siglo XXI, no sólo de la nueva literatura argentina a cargo de escritores nacidos durante la dictadura sino de la literatura de cualquier país o lengua. Mariana Enriquez transforma géneros literarios en recursos narrativos, desde la novela negra hasta el realismo sucio, pasando por el terror, la crónica y el humor, y ahonda con dolor y belleza en las raíces, las llamas y las tinieblas de toda existencia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780525432555"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0525432558"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nnIZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nnIZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=nnIZEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=nnIZEAAAQBAJ&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_cosas_que_perdimos_en_el_fuego.html?hl=&id=nnIZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_cosas_que_perdimos_en_el_fuego-sample-epub.acsm?id=nnIZEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_cosas_que_perdimos_en_el_fuego-sample-pdf.acsm?id=nnIZEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nnIZEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El mundo de Mariana Enriquez no tiene por qué ser el nuestro, y, sin embargo, lo termina siendo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R2w4EQAAQBAJ",
+      "etag": "tz/AvDJRw7o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R2w4EQAAQBAJ",
+      "volumeInfo": {
+        "title": "Somebody Is Walking on Your Grave",
+        "subtitle": "My Cemetery Journeys",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Hogarth",
+        "publishedDate": "2025-09-30",
+        "description": "An enchanting, highly personal tour of some of the most iconic cemeteries of the world—part travelogue, part memoir, part “excursions through death,” by the author of Our Share of Night and “queen of horror” (Los Angeles Times) “Not a travelogue so much as a grave-a-logue, Somebody is Walking on Your Grave is an exuberant, witty wander among the dead. You could not have a better friend to take you by the hand and lead you for a long traipse among tilting tombstones, dank crypts, and chilling history.”—Joe Hill “Enriquez knows cemeteries are the repositories of life’s pain and beauty. I felt more alive as I read.”—Caitlin Doughty, New York Times bestselling author of Smoke Gets in Your Eyes: And Other Lessons from the Crematory “A perfect book for almost anyone.”—The Washington Post “An immersive testament to [Enriquez’s] genius.”—Los Angeles Times “An eccentric and enlightening peek into how memorialization happens across the world.”—Publishers Weekly, starred review “Fascinating . . . Enriquez hides a celebration of life in a book about death.”—Booklist, starred review A BEST BOOK OF THE YEAR: TIME, ELECTRIC LIT, CHICAGO PUBLIC LIBRARY • One of Publishers Weekly’s Top 10 New Releases of the Fall • A Most Anticipated Book of the Fall: Chicago Tribune, Los Angeles Times, Literary Hub, Ms. Magazine, Bustle, Book Riot, Publishers Lunch Cemeteries have great stories and sometimes I steal some for my books. Mariana Enriquez—called by The New York Times a “sorceress of horror”—has been fascinated by the haunting beauty of cemeteries since she was a teenager. She has visited them frequently, a goth flaneur taking notes on her aesthetic obsession as she walks among the headstones, “where dying seems much more interesting than being alive.” But when the body of a friend’s mother who was disappeared during Argentina’s military dictatorship was found in a common grave, Enriquez began to examine more deeply the complex meanings of cemeteries and where our bodies come to rest. In this rich book of essays—“excursions through death,” she calls them—Enriquez travels through North and South America, Europe and Australia, visiting Paris’s catacombs, Prague’s Old Jewish Cemetery, New Orleans’s aboveground mausoleums, Buenos Aires’s opulent Recoleta, and more. Enriquez investigates each cemetery’s history and architecture, its saints and ghosts, its caretakers and visitors, and, of course, its dead. Weaving personal stories with reportage, interviews, myths, hauntology, and more, Somebody Is Walking on Your Grave is memoir channeled through Enriquez’s passion for cemeteries, revealing as much about her own life and unique sensibility as the graveyards and tombstones she tours. Fascinating, spooky, and unlike anything else, Enriquez’s first work of nonfiction, translated by the award-winning Megan McDowell, is as original and memorable as the stories and novels for which she’s become so beloved and admired.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593733523"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593733525"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Travel"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R2w4EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R2w4EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=R2w4EQAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=R2w4EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=R2w4EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 85.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 85.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=R2w4EQAAQBAJ&rdid=book-R2w4EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 85990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 85990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Somebody_Is_Walking_on_Your_Grave-sample-epub.acsm?id=R2w4EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R2w4EQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this rich book of essays—“excursions through death,” she calls them—Enriquez travels through North and South America, Europe and Australia, visiting Paris’s catacombs, Prague’s Old Jewish Cemetery, New Orleans’s aboveground ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-r4QDgAAQBAJ",
+      "etag": "BIlClx0wg8E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-r4QDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Los peligros de fumar en la cama",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Anagrama",
+        "publishedDate": "2017-02-01",
+        "description": "Doce cuentos en los que lo terrorífico se infiltra en lo cotidiano. Doce relatos perturbadores que llevan el género de terror a una nueva dimensión. Una niña desentierra en el jardín unos huesos que resultan no ser de un animal; la bucólica escena veraniega de unas chicas que se bañan en un paraje natural acaba convertida en un infierno de celos de inquietantes consecuencias; un mendigo despreciado siembra la desgracia en un barrio pudiente; Barcelona se transforma en un escenario perturbador, marcado por la culpa y del que es imposible escapar; una presencia fantasmal busca un sacrificio en un balneario; una chica siente una atracción fetichista por los corazones enfermos; un rockero fallecido de un modo atroz recibe un homenaje de sus fans que va más allá de lo imaginable; un chico que filma clandestinamente a parejas haciendo el amor y a mujeres con tacones altos caminando por las calles recibe una propuesta que le cambiará la vida. En los doce soberbios cuentos que componen este volumen Mariana Enriquez despliega todo un repertorio de recursos del relato clásico de terror: apariciones espectrales, brujas, sesiones de espiritismo, grutas, visiones, muertos que vuelven a la vida... Pero, lejos de proponer una mera revisitación arqueológica del género, reelabora ese material con una voz propia y radicalmente moderna. Tirando del hilo de la mejor tradición, la lleva un paso más allá, con historias que indagan en lo siniestro que se agazapa en lo cotidiano, despliegan un turbio erotismo y crean imágenes poderosísimas que dejan una huella indeleble. Quienes descubrieron a Mariana Enriquez con Las cosas que perdimos en el fuego tienen ahora en sus manos un libro anterior, en el que ya aparece perfectamente dibujado el universo de una escritora que conecta con maestros modernos de la literatura de terror como Shirley Jackson, Thomas Ligotti o su compatriota Cortázar. Enriquez se asoma a los abismos más recónditos del alma humana, a las soterradas corrientes de la sexualidad y la obsesión...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788433937735"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8433937731"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 107,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-r4QDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-r4QDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=-r4QDgAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-r4QDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-r4QDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 74.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 74.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-r4QDgAAQBAJ&rdid=book--r4QDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 74900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 74900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Los_peligros_de_fumar_en_la_cama-sample-epub.acsm?id=-r4QDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Los_peligros_de_fumar_en_la_cama-sample-pdf.acsm?id=-r4QDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-r4QDgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Quienes descubrieron a Mariana Enriquez con Las cosas que perdimos en el fuego tienen ahora en sus manos un libro anterior, en el que ya aparece perfectamente dibujado el universo de una escritora que conecta con maestros modernos de la ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OAowDwAAQBAJ",
+      "etag": "aBbssd+SOP0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OAowDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Ting vi mistede i ilden",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Rosinante & Co",
+        "publishedDate": "2017-09-22",
+        "description": "Ny stor latinamerikansk fortæller debuterer på dansk med usminket og barsk skildring af dagens Argentina. Tolv historier om sort magi, jalousi, hjertesorg og overtro, om parforhold, teenageritualer og ubrydelige venskaber, om kvinder der sætter ild til sig selv i protest mod hustruvold, og om gadebørn fra slumkvartererne der pludselig forsvinder. En mesterlig samling fortællinger der på original vis formår at forene elementer af horror, beskidt realisme og morderne samfundskritik med stor skønhed og underfundig humor - og så intenst, medrivende og vedkommende fortalt at læseren efterlades åndeløs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788763849081"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8763849089"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 161,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OAowDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OAowDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "da",
+        "previewLink": "http://books.google.com.br/books?id=OAowDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OAowDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OAowDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 101.96,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 101.96,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OAowDwAAQBAJ&rdid=book-OAowDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 101960000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 101960000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OAowDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ny stor latinamerikansk fortæller debuterer på dansk med usminket og barsk skildring af dagens Argentina."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sO8sEAAAQBAJ",
+      "etag": "7gBvoTfUmAw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sO8sEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Mitä liekit meiltä veivät",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Werner Söderström Ltd",
+        "publishedDate": "2021-05-11",
+        "description": "”Mosaiikkikuva maailmasta, partateristä koottu peilipallo.” The Guardian Omaääninen, aikamme idolien suosittelema kiihkeä tarinakokoelma Buenos Airesin sydämen sykkeestä. Naisia, jotka sytyttävät itsensä tuleen protestina lähisuhdeväkivaltaa vastaan. Pohjoisargentiinalaista taikauskoa. ”Likaisen sodan” aikaisia katoamistapauksia. Särkyneitä sydämiä, ihastuksia ja myötätuntoa. Mitä liekit meiltä veivät on poliittisen historian ja pop-kulttuurin läpitunkemaa sukupolvikirjallisuutta. Väkevät, trillerimäiset tarinat jäävät kummittelemaan lukijansa mieleen pitkäksi aikaa. Mariana Enriquez (s. 1973 Buenos Airesissa) on journalisti ja kirjailija, joka kirjoitti esikoisromaaninsa teini-ikäisenä ja nauttii kulttimainetta ympäri maailmaa. Mitä liekit meiltä veivät on myyty 25 maahan ja se oli bestseller espanjankielisessä maailmassa. Enriquez on voittanut Premio Ciutat de Barcelona, Premio Herralde ja Premio Estado Crítico -palkinnot. Hänen tuotantoonsa kuuluu novelleja, romaaneja ja asiaproosaa, muun muassa matkaopas maailman hautausmaille. Häntä on nimitetty mm. “goottilaiseksi realismin kuningattareksi”.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789510467763"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9510467766"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.41.40.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sO8sEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sO8sEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fi",
+        "previewLink": "http://books.google.com.br/books?id=sO8sEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sO8sEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sO8sEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 100.04,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 100.04,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=sO8sEAAAQBAJ&rdid=book-sO8sEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 100040000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 100040000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Mit%C3%A4_liekit_meilt%C3%A4_veiv%C3%A4t-sample-epub.acsm?id=sO8sEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Mit%C3%A4_liekit_meilt%C3%A4_veiv%C3%A4t-sample-pdf.acsm?id=sO8sEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sO8sEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mitä liekit meiltä veivät on myyty 25 maahan ja se oli bestseller espanjankielisessä maailmassa. Enriquez on voittanut Premio Ciutat de Barcelona, Premio Herralde ja Premio Estado Crítico -palkinnot."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6XZKEQAAQBAJ",
+      "etag": "kbAHbAkIzxk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6XZKEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Aurinkopaikka hämärille tyypeille",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "WSOY",
+        "publishedDate": "2025-10-01",
+        "description": "Kulttikirjailijan kolmas kokoelma on sähköshokki sydämeen. ”Helkkarinmoinen lukukokemus. Kokoelma on koskettava, kihisevä ja hypnoottinen – sen viettelevä proosa johdattaa lukijansa hämärään käytävään ja houkuttelee sysipimeään huoneeseen, josta ei ole ulospääsyä.” – Pittsburgh Post-Gazette Tervetuloa Buenos Airesin pimeälle puolelle: tottelemattomat naiset muuttuvat linnuiksi, Argentiinassa vierailevaa jenkkiserkkua piinaa joko skitsofrenia tai kummitus, vaihdevuodet saavat naisen muokkaamaan kehoaan äärimmäisillä tavoilla, selvittämättömän rikoksen ympärille kasvanut kultti kokoontuu losangelesilaisen hotellin katolla. Näiden kahdentoista ihmeellisen kauniin, ällöttävän ja raivokkaan tarinan kavalkadi ei jätä ketään kylmäksi. Mariana Enriquez (s. 1973 Buenos Airesissa, Argentiinassa) on journalisti ja kirjailija, joka kirjoitti esikoisromaaninsa teini-ikäisenä ja nauttii kulttimainetta ympäri maailmaa. Enriquez on voittanut mm. Premio Ciutat de Barcelona- ja Premio Herralde -palkinnot ja ollut ehdolla Booker-palkinnon saajaksi. Hänen tuotantoonsa kuuluu novelleja, romaaneja ja asiaproosaa, muun muassa matkaopas maailman hautausmaille. Suomessa novellikokoelma Mitä liekit meiltä veivät voitti vuoden 2021 parhaan käännösteoksen Hellemann-palkinnon.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789510519233"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9510519235"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6XZKEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6XZKEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fi",
+        "previewLink": "http://books.google.com.br/books?id=6XZKEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6XZKEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6XZKEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 100.04,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 100.04,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6XZKEQAAQBAJ&rdid=book-6XZKEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 100040000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 100040000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Aurinkopaikka_h%C3%A4m%C3%A4rille_tyypeille-sample-epub.acsm?id=6XZKEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Aurinkopaikka_h%C3%A4m%C3%A4rille_tyypeille-sample-pdf.acsm?id=6XZKEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6XZKEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mariana Enriquez (s. 1973 Buenos Airesissa, Argentiinassa) on journalisti ja kirjailija, joka kirjoitti esikoisromaaninsa teini-ikäisenä ja nauttii kulttimainetta ympäri maailmaa. Enriquez on voittanut mm."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nYt-EAAAQBAJ",
+      "etag": "lLQV5oZwKyw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nYt-EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Yö kuuluu meille",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Werner Söderström Ltd",
+        "publishedDate": "2022-08-11",
+        "description": "”Sykkivän tuoreen argentiinalaisen naiskirjallisuuden uusi helmi.” – El Mundo Poliittista kauhua Etelä-Amerikasta ”goottilaisen realismin kuningattarelta”: Yö kuuluu meille on kertomus diktatuurin ajasta ja pelon sukukronikka. Isä ja poika matkaavat autolla halki Argentiinan. Äiti on kuollut epäselvissä olosuhteissa. Sotilasjuntta on vallassa, aseistettujen miesten vartioimat tarkastuspisteet luovat kireää tunnelmaa. Poika kasvaa aikuiseksi maassa, jonka poliittinen todellisuus on pelottavampaa kuin vuosisatoja vanha pohjoisargentiinalainen rituaalimagia; hirviöt voi karkottaa, mutta tuore demokratia on hauras rakennelma. Mariana Enriquez (s. 1973 Buenos Aires, Argentiina) on journalisti ja kirjailija, joka kirjoitti esikoisromaaninsa teini-ikäisenä ja nauttii kulttimainetta ympäri maailmaa. Enriquez on voittanut mm. Premio Ciutat de Barcelona ja Premio Herralde -palkinnot. Hänen tuotantoonsa kuuluu novelleja, kuten kokoelma Mitä liekit meiltä veivät, romaaneja ja asiaproosaa, muun muassa matkaopas maailman hautausmaille. * ”Voimakkaan mielikuvituksellista kerrontaa.” – El Periódico ”Mestarillinen.” – InfoLibre ”Vaarallinen cocktail, jonka ainekset Enriquez sekoittaa hyvin ja tarjoilee moitteettomasti.” – Letras Libres ”Kunnianhimoinen ja briljantti.” – El País",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789510483398"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9510483397"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 619,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nYt-EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nYt-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fi",
+        "previewLink": "http://books.google.com.br/books?id=nYt-EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nYt-EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nYt-EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 100.04,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 100.04,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nYt-EAAAQBAJ&rdid=book-nYt-EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 100040000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 100040000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Y%C3%B6_kuuluu_meille-sample-epub.acsm?id=nYt-EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Y%C3%B6_kuuluu_meille-sample-pdf.acsm?id=nYt-EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nYt-EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mariana Enriquez (s. 1973 Buenos Aires, Argentiina) on journalisti ja kirjailija, joka kirjoitti esikoisromaaninsa teini-ikäisenä ja nauttii kulttimainetta ympäri maailmaa. Enriquez on voittanut mm."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kmwZEAAAQBAJ",
+      "etag": "aohFTL1HVEo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kmwZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Nuestra parte de noche",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "VINTAGE ESPAÑOL",
+        "publishedDate": "2021-01-26",
+        "description": "El legado, el deseo de vivir, la paternidad, el horror, lo íntimo y lo político. El terror sobrenatural se entrelaza con terrores muy reales en esta osada y perturbadora novela. Un padre y su hijo atraviesan Argentina por carretera, desde Buenos Aires hacia las cataratas de Iguazú, en la frontera norte con Brasil. Son los años de la junta militar, hay controles de soldados armados y tensión en el ambiente. El padre de Gaspar trata de protegerlo del destino que le ha sido asignado después de que su madre muriese en circunstancias poco claras; en un accidente que acaso no lo fue. Como su padre, Gaspar está llamado a ser un médium en una sociedad secreta, la Orden, que contacta con la Oscuridad en busca de la vida eterna mediante atroces rituales. Para ellos es vital disponer de un médium, pero el destino de estos seres dotados de poderes especiales es cruel, y el desgaste físico y mental es rápido e implacable. Los orígenes de la Orden, regida por la poderosa familia de la madre de Gaspar, se remontan a siglos atrás, cuando el conocimiento de la Oscuridad llegó desde el corazón de África a Inglaterra y desde allí se extendió hasta Argentina. El lector emprenderá un viaje entre la represión de la dictadura militar argentina y el Londres psicodélico de los años sesenta, donde la madre de Gaspar conoció a un joven cantante de aire andrógino llamado David; descubrirá casas cuyo interior muta, pasadizos que esconden monstruos inimaginables, rituales con fieros sacrificios humanos, enigmáticas liturgias sexuales y la carga de una herencia atroz. \"Mariana Enríquez es una escritora fascinante que exige ser leída. Como a Bolaño, le interesan las cuestiones de la vida y la muerte; su ficción nos impacta con la fuerza de un tren de carga”.—Dave Eggers “Una narradora oscura, minuciosa, terrible y cautivadora”. –Javier Calvo “Leer a Enríquez es una experiencia dura, emocionante. Sus historias no son tranquilizantes. Es una maestra de lo macabro que no apela a emociones baratas, sino que cada pequeño detalle de oscuridad está allí por una razón y cada una de sus historias contiene una carga política”. –Anne Meadows, Granta “Mariana Enríquez muestra todo y lo muestra con morbo. Ilumina con luz intermitente de velas las zonas más oscuras de la literatura argentina”. --Violeta Gorodischer, La Nación \"Su novela más ambiciosa y brillante El lector agradece una convivencia de alta intensidad durante casi 700 páginas\". - Carlos Pardo, El País - Babelia \"Hacía tiempo que un autor contemporáneo no lograba “engancharme” como lo hicieron estas casi setecientas páginas... Enriquez ha escrito un novelón inabandonable\". - Nadal Suau, El Mundo – El Cultural \"El estilo de Enríquez es increíblemente elegante, a ratos parece que escriba con guantes caros. Describe de forma minuciosa (como el mejor cirujano, se maneja con una naturalidad pasmosa entre sangre, vísceras y cicatrices) y su prosa hipnotiza y cautiva de un modo aterrador. Es inevitable pensar en Stephen King y Shirley Jackson al leerla, pero también en Drácula o Emily Dickinson\". - Leticia Blanco, La Esfera de Papel, El Mundo \"Una novela tan ambiciosa como tenebrosa que me ha atrapado\". - Sergio Vila-Sanjuán, La Vanguardia - Cultura/s \"Con un caudal imaginativo poderoso, Nuestra parte de noche se erige en unasumma de arquetipos que no se pliega a la literatura de género y que se cierra sobre sí misma en una página final\". - Ricardo Baixeras, El Periódico de Catalunya \"Un relato de terror que es también un relato político y social traccionado por una prosa que no da respiro\". - Leila Guerriero, El País – Semanal",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593312469"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593312465"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 510,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kmwZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kmwZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=kmwZEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=kmwZEAAAQBAJ&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuestra_parte_de_noche.html?hl=&id=kmwZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nuestra_parte_de_noche-sample-epub.acsm?id=kmwZEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nuestra_parte_de_noche-sample-pdf.acsm?id=kmwZEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kmwZEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "- Sergio Vila-Sanjuán, La Vanguardia - Cultura/s &quot;Con un caudal imaginativo poderoso, Nuestra parte de noche se erige en unasumma de arquetipos que no se pliega a la literatura de género y que se cierra sobre sí misma en una página ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3jtZEAAAQBAJ",
+      "etag": "CEpTsZh0VOs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3jtZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Bajar es lo peor",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Anagrama",
+        "publishedDate": "2022-02-23",
+        "description": "La primera novela de Mariana Enriquez: tres adolescentes se asoman al abismo de las drogas, la destrucción y el amor. En el Buenos Aires nocturno, sórdido y vibrante de los años noventa del siglo pasado se mueven dos personajes: Facundo, un joven de belleza inalcanzable que se prostituye para sobrevivir y tiene miedo de dormir solo por las pesadillas que sufre, y Narval, un chico perseguido por seres oscuros y macabras alucinaciones. Un tercer personaje, la inestable Carolina, completa el trío, que se asoma al abismo de las drogas, la violencia, la destrucción y el amor. Escrita con diecinueve años y publicada en 1995, cuando la autora tenía veintiuno, esta primera novela de Mariana Enriquez estuvo largos años descatalogada y devino obra de culto. Leer ahora Bajar es lo peor permite acceder a los orígenes de la potente escritura de Enriquez y comprobar cómo en su debut como narradora ya aparecen muchas de las obsesiones que configurarán su universo literario. Pero el rescate de la obra no obedece solo a razones arqueológicas, pues, más allá de ellas, el texto ha resistido con brío el paso del tiempo, y su lectura permite descubrir que no es en absoluto una titubeante novela primeriza. Es una novela vampírica sin vampiros y una novela gótica sin castillos embrujados, cargada de un malditismo con ecos de Baudelaire y Rimbaud, y con una banda sonora de rock underground, dark y punk. Es un cruce –como la autora confiesa en el prólogo– entre Mi Idaho privado de Gus Van Sant y Entrevista con el vampiro. Y es, por encima de todo, una tenebrosa y fascinante historia de adolescentes convertidos en ángeles caídos, en la que se entrecruzan la muerte y la belleza.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788433944085"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8433944088"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3jtZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3jtZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=3jtZEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3jtZEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3jtZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 74.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 74.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3jtZEAAAQBAJ&rdid=book-3jtZEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 74900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 74900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Bajar_es_lo_peor-sample-epub.acsm?id=3jtZEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Bajar_es_lo_peor-sample-pdf.acsm?id=3jtZEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3jtZEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Leer ahora Bajar es lo peor permite acceder a los orígenes de la potente escritura de Enriquez y comprobar cómo en su debut como narradora ya aparecen muchas de las obsesiones que configurarán su universo literario."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yEOBEQAAQBAJ",
+      "etag": "dxktSIjG/3g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yEOBEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Un luogo soleggiato per gente ombrosa",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Marsilio Editori spa",
+        "publishedDate": "2025-09-02T00:00:00+02:00",
+        "description": "Donne visitate dai fantasmi perché sono le uniche in grado di accoglierli; donne che si trasformano in uccelli perché si sono rifiutate di obbedire (o perché hanno amato perdutamente); donne con la pelle putrida, che lasciano sul pavimento brandelli di sé; donne ammazzate che ritornano; donne senza volto come quadri pasticciati; donne che si abbandonano alla pazzia. Sono loro le protagoniste di questa raccolta di racconti di Mariana Enriquez, signora delle tenebre, regina del gotico, voce potentissima dell’horror contemporaneo, che fin dal suo esordio ha dimostrato di conoscere la lingua della sofferenza, e grazie a questo di riuscire ad avvicinarla, a parlarci, a guardarla negli occhi. Il risultato, ancora una volta, è un’escursione negli abissi della notte, nelle cavità più buie del presente e dell’anima, in un’Argentina violenta e violentata, strangolata dalla crisi economica, dagli abusi del potere e dalla paura dell’altro, del diverso, del marginale; un paese popolato di strane creature, che però non è difficile trovare familiare; un universo perturbante in cui sono proprio le donne, come vestali non addomesticate, a portare dentro il fuoco del futuro. Partendo da una tradizione in cui si riconoscono gli echi di Jorge Luis Borges e Stephen King, Julio Cortázar e Shirley Jackson, l’autrice più celebrata della nuova letteratura di lingua spagnola continua a reinventare il genere e spinge i suoi confini oltre la semplice fascinazione per il mostruoso e il sovrannaturale. La sua esplorazione dei nostri timori e desideri reconditi si combina a un’analisi spietata delle minacce che la società capitalista muove verso i più fragili, dando corpo a un’esperienza di lettura illuminante e profonda, mai consolatoria, di eccezionale qualità letteraria.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788829794867"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8829794864"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yEOBEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yEOBEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.com.br/books?id=yEOBEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=yEOBEQAAQBAJ&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Un_luogo_soleggiato_per_gente_ombrosa.html?hl=&id=yEOBEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Un_luogo_soleggiato_per_gente_ombrosa-sample-epub.acsm?id=yEOBEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Un_luogo_soleggiato_per_gente_ombrosa-sample-pdf.acsm?id=yEOBEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yEOBEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sono loro le protagoniste di questa raccolta di racconti di Mariana Enriquez, signora delle tenebre, regina del gotico, voce potentissima dell’horror contemporaneo, che fin dal suo esordio ha dimostrato di conoscere la lingua della ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I-g9EAAAQBAJ",
+      "etag": "BTn6j2JwNfo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I-g9EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Vår del av natten",
+        "authors": [
+          "Mariana Enriquez"
+        ],
+        "publisher": "Norstedts",
+        "publishedDate": "2021-09-16",
+        "description": "En pappa och hans son färdas genom Argentina i bil, från Buenos Aires till vattenfallen i Iguazú, alldeles vid gränsen till Brasilien. Det är mitt under 1970-talets militärdiktatur, beväpnade soldater kontrollerar vägarna och stämningen i luften är spänd. Sonen heter Gaspar, och hans pappa, Juan Peterson, hoppas kunna skydda sin son från det öde som väntar honom. Juan och Gaspar är på väg till pojkens morföräldrar, mäktiga jordägare i norra Argentina och medlemmar i det hemliga sällskapet Orden. Orden åkallar Mörkret genom fruktansvärda ritualer i sitt sökande efter det eviga livet, och den svårt hjärtsjuke Juan används som medium under ritualerna trots att varje seans bryter ner honom, fysiskt såväl som psykiskt. Gaspars mamma har nyligen dött under mycket oklara omständigheter i en olycka, som kanske inte var en olycka utan ett ritualmord. Övernaturlig skräck blandas med verklighetsnära händelser i denna omtumlande och fascinerande roman, som samtidigt skildrar en väldigt annorlunda far-sonrelation och därmed säkrar Mariana Enriquez en plats som en av 2000-talets främsta latinamerikanska författare.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789113111254"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9113111256"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 724,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I-g9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=I-g9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "sv",
+        "previewLink": "http://books.google.com.br/books?id=I-g9EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mariana+Enriquez%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=I-g9EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=I-g9EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 59.96,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 59.96,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=I-g9EAAAQBAJ&rdid=book-I-g9EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 59960000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 59960000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I-g9EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Gaspars mamma har nyligen dött under mycket oklara omständigheter i en olycka, som kanske inte var en olycka utan ett ritualmord. Övernaturlig skräck blandas med verklighetsnära händelser i denna omtumlande och fascinerande roman, som ..."
+      }
+    }
+  ]
+}

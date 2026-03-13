@@ -1,0 +1,1505 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "NAo63OPgG54C",
+      "etag": "GzmU22CUrDY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NAo63OPgG54C",
+      "volumeInfo": {
+        "title": "Lands of Memory",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publisher": "New Directions Publishing",
+        "publishedDate": "2002",
+        "description": "Two novellas and four stories, never before translated into English, by the great and too little known Uruguayan master, Felisberto Hern�ndez.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0811214834"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780811214834"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NAo63OPgG54C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NAo63OPgG54C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=NAo63OPgG54C&printsec=frontcover&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=NAo63OPgG54C&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lands_of_Memory.html?hl=&id=NAo63OPgG54C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Lands_of_Memory-sample-pdf.acsm?id=NAo63OPgG54C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NAo63OPgG54C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Two novellas and four stories, never before translated into English, by the great and too little known Uruguayan master, Felisberto Hern ndez."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dj9CAAAAYAAJ",
+      "etag": "aDb6KWe//z4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dj9CAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Felisberto Hernández y yo",
+        "authors": [
+          "Paulina Medeiros"
+        ],
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024074582"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dj9CAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dj9CAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=Dj9CAAAAYAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Dj9CAAAAYAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Felisberto_Hern%C3%A1ndez_y_yo.html?hl=&id=Dj9CAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dj9CAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jrO9NAEACAAJ",
+      "etag": "P5Lup2EFrQw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jrO9NAEACAAJ",
+      "volumeInfo": {
+        "title": "Las hortensias",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publishedDate": "2012",
+        "description": "O livro traz, em edição bilíngue, uma novela e três contos. 'As Hortensias' narra a obsessão de Horacio pela observação de bonecas chamadas Hortensias, cada vez mais parecidas com mulheres de carne e osso. Ele as expõe em vitrines e as faz personagens de histórias que inventa para elas. Em 'Úrsula, que era gorda feito uma vaca', o ambiente de cidade pequena serve de pano de fundo para a narração do início do relacionamento do narrador com Úrsula, a quem havia contratado para serviços domésticos. Em 'A mulher parecida a mim', o protagonista narra as lembranças de ter sido um cavalo, algo que fica entre o sonho e a fantasia. 'A árvore de mamãe', que fecha o livro, conta o caso de Eva, uma professora de matemática gorda e mandona, com o primo, violinista de cinema, alter ego, de certo modo, do autor, que foi pianista de cinema durante longos anos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8561578238"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788561578237"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=jrO9NAEACAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=jrO9NAEACAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_hortensias.html?hl=&id=jrO9NAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jrO9NAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TdNkAAAAMAAJ",
+      "etag": "sd5iCvI0KqQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TdNkAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Piano Stories",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015032836598"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TdNkAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TdNkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=TdNkAAAAMAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=TdNkAAAAMAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Piano_Stories.html?hl=&id=TdNkAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TdNkAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0bj4DwAAQBAJ",
+      "etag": "5kpZlVTIUJ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0bj4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "7 mejores cuentos de Felisberto Hernández",
+        "authors": [
+          "Felisberto Hernández",
+          "August Nemo"
+        ],
+        "publisher": "Tacet Books",
+        "publishedDate": "2020-04-15",
+        "description": "La serie de libros \"7 mejores cuentos\" presenta los grandes nombres de la literatura en lengua española. En este volumen traemos a Felisberto Hernández. Felisberto Hernández fue un escritor, compositor y pianista uruguayo. Uno de los cuentistas latinoamericanos más originales, es reconocido por sus extraños relatos en los que individuos tranquilamente desquiciados inyectan sus obsesiones en la vida cotidiana. Este libro contiene los siguientes cuentos: - Cartas a los muertos; - El acomodador; - La envenenada; - Muebles \"El canario\"; - Nadie encendía las lámparas; - Elsa; - El corazón verde.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783968586755"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3968586751"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0bj4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0bj4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=0bj4DwAAQBAJ&printsec=frontcover&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0bj4DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0bj4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 17.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0bj4DwAAQBAJ&rdid=book-0bj4DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 17900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/7_mejores_cuentos_de_Felisberto_Hern%C3%A1nd-sample-epub.acsm?id=0bj4DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/7_mejores_cuentos_de_Felisberto_Hern%C3%A1nd-sample-pdf.acsm?id=0bj4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0bj4DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La serie de libros &quot;7 mejores cuentos&quot; presenta los grandes nombres de la literatura en lengua española. En este volumen traemos a Felisberto Hernández. Felisberto Hernández fue un escritor, compositor y pianista uruguayo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iqLcxQW6htMC",
+      "etag": "RTHWNMyyLEs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iqLcxQW6htMC",
+      "volumeInfo": {
+        "title": "Novelas y cuentos",
+        "authors": [
+          "Felisberto Hernández",
+          "José Pedro Díaz"
+        ],
+        "publisher": "Fundacion Biblioteca Ayacuch",
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9802760005"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789802760008"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 444,
+        "printType": "BOOK",
+        "categories": [
+          "Short stories, Uruguayan"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iqLcxQW6htMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iqLcxQW6htMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=iqLcxQW6htMC&printsec=frontcover&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=iqLcxQW6htMC&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Novelas_y_cuentos.html?hl=&id=iqLcxQW6htMC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iqLcxQW6htMC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7SBfAAAAMAAJ",
+      "etag": "hDLFersWhbg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7SBfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Felisberto Hernández",
+        "subtitle": "5 cuentos magistrales, 5 críticas por extranjeros, bibliografía anotada",
+        "authors": [
+          "Felisberto Hernández",
+          "Walter Rela"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015005359495"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7SBfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7SBfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=7SBfAAAAMAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=7SBfAAAAMAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Felisberto_Hern%C3%A1ndez.html?hl=&id=7SBfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7SBfAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3b8dAQAAIAAJ",
+      "etag": "EMD0gdYX6Qo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3b8dAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Obras completas de Felisberto Hernández: Las hortensias",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105008715349"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Comparative literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3b8dAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3b8dAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=3b8dAQAAIAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=3b8dAQAAIAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas_de_Felisberto_Hern%C3%A1ndez.html?hl=&id=3b8dAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3b8dAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "caq4AAAAIAAJ",
+      "etag": "1Z3espeUEpc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/caq4AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Obras completas de Felisberto Hernández",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105008502812"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Uruguayan literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=caq4AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=caq4AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=caq4AAAAIAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=caq4AAAAIAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas_de_Felisberto_Hern%C3%A1ndez.html?hl=&id=caq4AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=caq4AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e38yEAAAQBAJ",
+      "etag": "DUbBXoDU8ns",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e38yEAAAQBAJ",
+      "volumeInfo": {
+        "title": "El caballo perdido",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publisher": "Lindhardt og Ringhof",
+        "publishedDate": "2021-06-23",
+        "description": "En el relato «El caballo perdido», Felisberto Hernández vuelve a recurrir a los recuerdos de su infancia para desgranar intuiciones y evocaciones, en concreto, las clases de piano con Celina, su profesora. Esta obra recibió el premio del Ministerio de Instrucción Pública de Uruguay y el autor llegó a considerarla su preferida. Felisberto Hernández (1902-1964) fue un compositor, pianista y escritor uruguayo. Su particular estilo, a medio camino entre el realismo y la literatura fantástica, ha sido elogiado por autores como Cortázar, Onetti y Calvino, entre otros.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788726641677"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8726641674"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 41,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e38yEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e38yEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=e38yEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=e38yEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=e38yEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 15.55,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 15.55,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=e38yEAAAQBAJ&rdid=book-e38yEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15550000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 15550000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_caballo_perdido-sample-epub.acsm?id=e38yEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e38yEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Esta obra recibió el premio del Ministerio de Instrucción Pública de Uruguay y el autor llegó a considerarla su preferida. Felisberto Hernández (1902-1964) fue un compositor, pianista y escritor uruguayo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_uEKITzFBmUC",
+      "etag": "ck1I5ITdrYE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_uEKITzFBmUC",
+      "volumeInfo": {
+        "title": "Las hortensias y otros cuentos",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publisher": "UNAM",
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9703210929"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789703210923"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "Uraguayan fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_uEKITzFBmUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_uEKITzFBmUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=_uEKITzFBmUC&printsec=frontcover&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=_uEKITzFBmUC&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_hortensias_y_otros_cuentos.html?hl=&id=_uEKITzFBmUC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_hortensias_y_otros_cuentos-sample-pdf.acsm?id=_uEKITzFBmUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_uEKITzFBmUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "elHtAAAAMAAJ",
+      "etag": "mhT0um1eERI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/elHtAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Obras completas de Felisberto Hernández",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publisher": "Siglo XXI",
+        "publishedDate": "1983",
+        "description": "¿Como quién es Felisberto Hernández? Imposible definirlo, encasillarlo. Es un escritor singular, moroso, lento, exigente, que en sus cuentos mezcla la espontaneidad más viva con una profundidad pasmosa. Nació en Montevideo en 1902, y desde niño se dedicó al piano con un tesón avasallador, llegó a ser un gran pianista. Vivió un tiempo como concertista trashumante, visitando las ciudades provincianas del Uruguay, y fue con frecuencia el acompañante al piano de las películas de cine mudo en las modestas salas de \"biógrafo\" de los barrios. Aunque empezó a publicar desde los 23 años, nunca llegó a ser muy conocido. Pero quien lo leía se volvía su adepto para toda la vida. Lo extraordinario de este narrador es la familiaridad con la que se pasea por las tierras de la memoria, disfrutándolas y relatándolas cual si fueran las quintas en donde transcurrió su infancia. Recrea los procesos del recuerdo mediante imágenes muy concretas, inmediatas y plásticas, de manera que el lector llega a ver, como en un espectáculo, la fluidez de la evocación. Se remonta en los tiempos, persiguiendo la manera infantil de ver el mundo, antes de intentar entender cómo se ve desde el presente. Y hay un momento en su obra en el que parece haber llegado al fondo del recuerdo. Abriendo los ojos aún más -porque su literatura es eso: la mirada fresca sobre el mundo-, procede a inventar. Nos complace poder presentar al lector su obra completa, recogida en tres volúmenes, pues sin duda debe dársele a Felisberto Hernández el lugar que le corresponde entre los mejores narradores de la literatura hispanoamericana.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:39000000726625"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=elHtAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=elHtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=elHtAAAAMAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=elHtAAAAMAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas_de_Felisberto_Hern%C3%A1ndez.html?hl=&id=elHtAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=elHtAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "¿Como quién es Felisberto Hernández?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oH8yEAAAQBAJ",
+      "etag": "kW+LKo+9W78",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oH8yEAAAQBAJ",
+      "volumeInfo": {
+        "title": "La envenenada",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publisher": "Lindhardt og Ringhof",
+        "publishedDate": "2021-06-23",
+        "description": "En el relato de «La envenenada» Felisberto Fernández reflexiona sobre la escritura. El literato protagonista se debate entre la espontaneidad y el espíritu analítico, entre el realismo y la fantasía, entre la indeterminación y el detallismo... mientras redacta la historia de una envenenada. Felisberto Hernández (1902-1964) fue un compositor, pianista y escritor uruguayo. Su particular estilo, a medio camino entre el realismo y la literatura fantástica, ha sido elogiado por autores como Cortázar, Onetti y Calvino, entre otros.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788726641691"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8726641690"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oH8yEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oH8yEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=oH8yEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oH8yEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oH8yEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 15.55,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 15.55,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oH8yEAAAQBAJ&rdid=book-oH8yEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15550000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 15550000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_envenenada-sample-epub.acsm?id=oH8yEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oH8yEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Felisberto Hernández (1902-1964) fue un compositor, pianista y escritor uruguayo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lOCzAAAAIAAJ",
+      "etag": "HqbVfejDJ4w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lOCzAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Felisberto Hernández",
+        "subtitle": "del creador al hombre",
+        "authors": [
+          "Norah Giraldi de Dei Cas",
+          "Norah Giraldi dei Cas"
+        ],
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4332008"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Uruguayan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lOCzAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lOCzAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=lOCzAAAAIAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=lOCzAAAAIAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Felisberto_Hern%C3%A1ndez.html?hl=&id=lOCzAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lOCzAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rQ8wEAAAQBAJ",
+      "etag": "lNt5ITBzVKQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rQ8wEAAAQBAJ",
+      "volumeInfo": {
+        "title": "La cara de Ana",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publisher": "Lindhardt og Ringhof",
+        "publishedDate": "2021-05-25",
+        "description": "Felisberto Hernández usa elementos propios del lenguaje musical para estructurar el relato de «La cara de Ana» y vuelve a ponerse el traje de niño-personaje para contar su propia historia. Felisberto Hernández (1902-1964) fue un compositor, pianista y escritor uruguayo. Su particular estilo, a medio camino entre el realismo y la literatura fantástica, ha sido elogiado por autores como Cortázar, Onetti y Calvino, entre otros.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788726641707"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8726641704"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rQ8wEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rQ8wEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=rQ8wEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rQ8wEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rQ8wEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.18,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 5.18,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rQ8wEAAAQBAJ&rdid=book-rQ8wEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5180000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 5180000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_cara_de_Ana-sample-epub.acsm?id=rQ8wEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rQ8wEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Felisberto Hernández usa elementos propios del lenguaje musical para estructurar el relato de «La cara de Ana» y vuelve a ponerse el traje de niño-personaje para contar su propia historia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BcAdAQAAIAAJ",
+      "etag": "loFMgNgVQyU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BcAdAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Felisberto Hernández",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105016857117"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 58,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BcAdAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BcAdAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=BcAdAQAAIAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=BcAdAQAAIAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Felisberto_Hern%C3%A1ndez.html?hl=&id=BcAdAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BcAdAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_9Q0EAAAQBAJ",
+      "etag": "8CXhrGG25Ts",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_9Q0EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Por los tiempos de Clemente Colling",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publisher": "Lindhardt og Ringhof",
+        "publishedDate": "2021-07-08",
+        "description": "A la manera proustiana, Felisberto Hernández revisa en esta novela corta su pasado y su presente a través de la evocación del pasado: cuando era un niño de Montevideo al que el anciano y ciego Clemente Colling formaba para su futuro como gran pianista. Felisberto Hernández (1902-1964) fue un compositor, pianista y escritor uruguayo. Su particular estilo, a medio camino entre el realismo y la literatura fantástica, ha sido elogiado por autores como Cortázar, Onetti y Calvino, entre otros.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788726641684"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8726641682"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_9Q0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_9Q0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=_9Q0EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_9Q0EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_9Q0EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 21.6,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 21.6,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_9Q0EAAAQBAJ&rdid=book-_9Q0EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 21600000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 21600000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Por_los_tiempos_de_Clemente_Colling-sample-epub.acsm?id=_9Q0EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_9Q0EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A la manera proustiana, Felisberto Hernández revisa en esta novela corta su pasado y su presente a través de la evocación del pasado: cuando era un niño de Montevideo al que el anciano y ciego Clemente Colling formaba para su futuro ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wjxKAAAAYAAJ",
+      "etag": "9SwAZSfU7+k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wjxKAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Obras completas de Felisberto Hernández: El caballo perdido ; Nadie encendía las lámparas ; Las hortensias",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024074505"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Uruguayan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wjxKAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wjxKAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=wjxKAAAAYAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=wjxKAAAAYAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas_de_Felisberto_Hern%C3%A1ndez.html?hl=&id=wjxKAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wjxKAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MaU8AQAAIAAJ",
+      "etag": "s4QOaJaim6E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MaU8AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Obras completas de Felisberto Hernández: Diario del sinvergüenza y últimas invenciones",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B471331"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "categories": [
+          "Comparative literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MaU8AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MaU8AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=MaU8AQAAIAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=MaU8AQAAIAAJ&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas_de_Felisberto_Hern%C3%A1ndez.html?hl=&id=MaU8AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MaU8AQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qbx-DwAAQBAJ",
+      "etag": "mWBIamNZ7Y0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qbx-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Relatos para piano",
+        "authors": [
+          "Felisberto Hernández"
+        ],
+        "publisher": "Jus, Libreros y Editores",
+        "publishedDate": "2018-07-26",
+        "description": "Estas narraciones inauditas reflejan de forma cabal la asombrosa originalidad del muy excéntrico y absolutamente genial Felisberto Hernández. Todos ellos son acabadas muestras de un estilo que, para Italo Calvino, \"desafía toda clasificación y todo marco\", y cuyos rasgos más característicos son el sarcástico intercambio de papeles entre los objetos y las personas (operación que, para sorpresa del lector, arroja nuevas luces sobre la realidad moderna), la empatía nacida en el permanente extrañamiento frente al mundo y un humor tan discreto como disparatado. Auténtico visionario, Felisberto abrió las puertas a una literatura que reflexiona sobre sus propios límites y que, por encima de todo, procura iluminar nuestra estupefacción ante las cosas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786079409913"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6079409917"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qbx-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qbx-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=qbx-DwAAQBAJ&printsec=frontcover&dq=inauthor:%22Felisberto+Hern%C3%A1ndez%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qbx-DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qbx-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qbx-DwAAQBAJ&rdid=book-qbx-DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Relatos_para_piano-sample-epub.acsm?id=qbx-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Relatos_para_piano-sample-pdf.acsm?id=qbx-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qbx-DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Estas narraciones inauditas reflejan de forma cabal la asombrosa originalidad del muy excéntrico y absolutamente genial Felisberto Hernández."
+      }
+    }
+  ]
+}

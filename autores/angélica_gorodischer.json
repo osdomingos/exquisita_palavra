@@ -1,0 +1,1384 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "UmzXDwAAQBAJ",
+      "etag": "zAyHLLW2rQg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UmzXDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Trafalgar",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2020-08-06",
+        "description": "'A kind of magical realism for science fiction ... Quite, quite brilliant' Tor Part pulp adventure, part otherworldly meditation, this is the story of Trafalgar Medrano: intergalactic trader and lover of bitter coffee and black cigarettes. In the bars and cafés of Rosario, Argentina, he recounts tall tales of his space escapades - involving, among other things, time travel and dancing troglodytes. 'A unique brand of science fiction ... unlike anything I've ever read' Los Angeles Review of Books",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141994185"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0141994185"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UmzXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UmzXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=UmzXDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UmzXDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UmzXDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 66.56,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 66.56,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UmzXDwAAQBAJ&rdid=book-UmzXDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 66560000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 66560000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Trafalgar-sample-epub.acsm?id=UmzXDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UmzXDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39;A kind of magical realism for science fiction ... Quite, quite brilliant&#39; Tor Part pulp adventure, part otherworldly meditation, this is the story of Trafalgar Medrano: intergalactic trader and lover of bitter coffee and black cigarettes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hxanAgAAQBAJ",
+      "etag": "jOvkV9JxMRw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hxanAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Kalpa Imperial",
+        "subtitle": "The Greatest Empire That Never Was",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publisher": "Small Beer Press",
+        "publishedDate": "2013-10-22",
+        "description": "Ursula K. Le Guin chose to translate this novel which was on the New York Times Summer Reading list and winner of the Prix Imaginales, Más Allá, Poblet and Sigfrido Radaelli awards. This is the first of Argentinean writer Angélica Gorodischer's award-winning books to be translated into English. In eleven chapters, Kalpa Imperial's multiple storytellers relate the story of a fabled nameless empire which has risen and fallen innumerable times. Fairy tales, oral histories and political commentaries are all woven tapestry-style into Kalpa Imperial: beggars become emperors, democracies become dictatorships, and history becomes legends and stories. But this is much more than a simple political allegory or fable. It is also a celebration of the power of storytelling. Gorodischer and translator Ursula K. Le Guin are a well-matched, sly and delightful team of magician-storytellers. Rarely have author and translator been such an effortless pairing. Kalpa Imperial is a powerful introduction to the writing of Angélica Gorodischer, a novel which will enthrall readers already familiar with the worlds of Le Guin.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781618730190"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1618730193"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hxanAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hxanAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=hxanAgAAQBAJ&printsec=frontcover&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=hxanAgAAQBAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kalpa_Imperial.html?hl=&id=hxanAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Kalpa_Imperial-sample-epub.acsm?id=hxanAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Kalpa_Imperial-sample-pdf.acsm?id=hxanAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hxanAgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the first of Argentinean writer Angélica Gorodischer&#39;s award-winning books to be translated into English."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GGRFCgAAQBAJ",
+      "etag": "cYqeHntM0vg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GGRFCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Prodigies",
+        "subtitle": "a novel",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publisher": "Small Beer Press",
+        "publishedDate": "2015-07-20",
+        "description": "Locus Recommended Reading Prodigies explores the story of the poet Novalis's birthplace in the German town of Weissenfels after it is converted into a boarding house. Moving, subtle, and full of wit, irony, and dreams, this novel fills the house with the women who lived there throughout the nineteenth century, and across the flow of history constructs the secret drama of their destinies. Praise for Prodigies: \"I am so in love with this book I could explode! I want to hug it and pet it and call it George. I knew it would be good, because Small Beer Press publishes the best, but I had no idea how just enchanted I would be with this delightful novel of unusual tenants at a boarding house in the nineteenth century. This book scratched my Muriel Spark/Barbara Comyns itches, with an extra side of the unusual. Originally published in 1994, this is Argentinian writer Gorodischer’s third novel to be translated into English. I will definitely be reading the first two now!” — Liberty Hardy, Book Riot “Put strangers around a common table and you have possibilities, in life and in literature. Thus the driving premise of The Magic Mountain, and thus Argentine novelist Gorodischer’s slender book. . . . Gorodischer writes a poetic, vigorous prose. Her story, dreamlike and start-and-stop, takes effort, for though brief, it is dense—and well worth the trouble.” — Kirkus Reviews \"Because of Prodigies' unusual style, it requires great care and thoughtfulness to read. It cannot be rushed through or casually scanned. An impatient reader will abandon this book long before its rich rewards can be reaped. The right audience will have a willingness to savor, to double-back over sentences, to bob along to wherever the author and characters wish to take you. If you are ready for the experience of Prodigies, it is definitely ready for you.\" — Carmen Maria Machado, NPR \"Gorodischer's rhythmic and transparent prose reveals the violence underlying bourgeois respectability. Prodigies is both incisive and incantatory.\"—Sofia Samatar, author of A Stranger in Olondria \"Prodigies, which she considers to be her best novel . . . takes place in Germany in the home of the poet Novalis after his death, and is a humorous and ironic portrayal of the women who passed through that home.\"—Women and Power in Argentinean Literature Angélica Gorodischer was born in Buenos Aires in 1928 and has lived in Rosario since 1936. She has published many novels and short story collections including Kalpa Imperial, Mango Juice, and Trafalgar, as well as a memoir, History of My Mother. Her work has been translated into many languages and her translators include Ursula K. Le Guin and Alberto Manguel. With certain self-satisfaction she claims she has never written plays or poems, not even at sixteen when everybody writes poems, especially on unrequited love. She received two Fulbright awards as well as many literary awards around the world, including a 2014 Konex Special Mention Award.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781618731005"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1618731009"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 177,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GGRFCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GGRFCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=GGRFCgAAQBAJ&printsec=frontcover&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=GGRFCgAAQBAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prodigies.html?hl=&id=GGRFCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Prodigies-sample-epub.acsm?id=GGRFCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Prodigies-sample-pdf.acsm?id=GGRFCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GGRFCgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book scratched my Muriel Spark/Barbara Comyns itches, with an extra side of the unusual. Originally published in 1994, this is Argentinian writer Gorodischer’s third novel to be translated into English."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FewWEAAAQBAJ",
+      "etag": "O2kz7rUJymM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FewWEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Jaguars' Tomb",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publisher": "Vanderbilt University Press",
+        "publishedDate": "2021-02-15",
+        "description": "Winner of the Queen Sofía Spanish Institute Translation Prize, 2022 Jaguars' Tomb is a novel in three parts, written by three interconnected characters. Part one, \"Hidden Variables\" by María Celina Igarzábal, is narrated by Bruno Seguer. Seguer in turn is the author of the second part, \"Recounting from Zero\" (\"Contar desde zero\"), in which Evelynne Harrington, author of the third, is a central character. Harrington, finally, is the author of \"Uncertainty\" (\"La incertidumbre\"), whose protagonist is the dying Igarzábal. Each of the three parts revolves around the octagonal room that is alternately the jaguars' tomb, the central space of the torture center, and the heart of an abandoned house that hides an adulterous affair. The novel, by Argentine author Angélica Gorodischer, is both an intriguing puzzle and a meditation on how to write about, or through, violence, injustice, and loss. Among Gorodischer's many novels, Jaguars' Tomb most directly addresses the abductions and disappearances that occurred under the Argentine military dictatorship of 1976–83. This is the fourth of Gorodischer's books translated into English. The first, Kalpa Imperial—translated by Ursula Le Guin—was selected for the New York Times summer reading list in 2003.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780826501431"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0826501435"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 259,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FewWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FewWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=FewWEAAAQBAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=FewWEAAAQBAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jaguars_Tomb.html?hl=&id=FewWEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FewWEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the fourth of Gorodischer&#39;s books translated into English. The first, Kalpa Imperial—translated by Ursula Le Guin—was selected for the New York Times summer reading list in 2003."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bxRfAAAAMAAJ",
+      "etag": "L7AXFmDNPk4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bxRfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Cómo triunfar en la vida",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015045679944"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bxRfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bxRfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=bxRfAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=bxRfAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C%C3%B3mo_triunfar_en_la_vida.html?hl=&id=bxRfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bxRfAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uA38zgEACAAJ",
+      "etag": "GSixNwkGIR4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uA38zgEACAAJ",
+      "volumeInfo": {
+        "title": "Kalpa Imperial",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publishedDate": "2018",
+        "description": "A novel of linked tales tells the story of an imaginary civilization, from its origins as a collection of hunter-gatherer tribes to its zenith as a sophisticated technological empire.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9500439484"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789500439480"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 259,
+        "printType": "BOOK",
+        "categories": [
+          "Dictatorship"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=uA38zgEACAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=uA38zgEACAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kalpa_Imperial.html?hl=&id=uA38zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uA38zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Kalpa imperial reúne once relatos, once fragmentos de la historia del Imperio Más Vasto que Nunca Existió."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1QhfAAAAMAAJ",
+      "etag": "N92v4YMUfyg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1QhfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Jugo de mango",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015055804184"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1QhfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1QhfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=1QhfAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=1QhfAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jugo_de_mango.html?hl=&id=1QhfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1QhfAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "22FlAAAAMAAJ",
+      "etag": "0ROW1lZH6aU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/22FlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Querido amigo",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015066881445"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=22FlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=22FlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=22FlAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=22FlAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Querido_amigo.html?hl=&id=22FlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=22FlAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8oVuDQAAQBAJ",
+      "etag": "6hJY1FAeicM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8oVuDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Las nenas",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publisher": "Emecé Argentina",
+        "publishedDate": "2016-03-01",
+        "description": "Quién dice que una nena tiene que ser frágil? ¿Quién dice que una nena no puede ser astuta? Desde la que no soporta la maldad del nuevo marido de su madre y decide tomar cartas en el asunto hasta la que se niega a dejar la escuela para trabajar en la cosecha y logra torcer su destino, las nenas de Angélica Gorodischer se defienden. No se dejan. Prueban que pueden hacer su voluntad y trazar sus propios caminos. Es cierto que a veces ven el mundo a través de un velo de magia, que la autora recrea a la perfección, pero eso no les impide juzgar el comportamiento de los adultos y obrar de acuerdo con sus propios intereses. Estos relatos de una de las más reconocidas autoras argentinas hacen pie en la infancia, con una prosa clara y transparente que invita a sumergirse en un mundo donde la lógica puede suspenderse de a ratos. Si es verdad que la infancia es la patria, Gorodischer nos invita a no resignarnos a ser desterrados y volver a ver el mundo con ojos de nena.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789500438087"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9500438089"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 118,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8oVuDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8oVuDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=8oVuDQAAQBAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=8oVuDQAAQBAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_nenas.html?hl=&id=8oVuDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8oVuDQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Desde la que no soporta la maldad del nuevo marido de su madre y decide tomar cartas en el asunto hasta la que se niega a dejar la escuela para trabajar en la cosecha y logra torcer su destino, las nenas de Angélica Gorodischer se ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "imK20AEACAAJ",
+      "etag": "TsU3zPwAS/0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/imK20AEACAAJ",
+      "volumeInfo": {
+        "title": "Kalpa Impérial",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publishedDate": "2024-05-23",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "237049249X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782370492494"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=imK20AEACAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=imK20AEACAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kalpa_Imp%C3%A9rial.html?hl=&id=imK20AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=imK20AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lfXqDwAAQBAJ",
+      "etag": "Ry3iV4yZUrc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lfXqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tumba de jaguares",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publisher": "EUDEBA",
+        "publishedDate": "2020-05-01",
+        "description": "Se suele mencionar a Angélica Gorodischer como la gran escritora argentina de ciencia ficción, también se señala con insistencia su maestría para esgrimir el humor como recurso narrativo; sin embargo, estas reiteraciones, certeras y exiguas, omiten otras valoraciones como lo demuestra Tumba de jaguares, su notable novela que la “Serie de los dos siglos” de Eudeba reedita con toda justicia. Publicada en 2005, no se detectan en ella ninguno de esos rasgos con los que se la suele asociar; pero a la vez incluye aspectos que se encuentran presentes en toda su obra: la narración experimental; el manejo rupturista de la ficción especulativa y el policial; el solapamiento entre genre –género literario– y gender –narraciones protagonizadas por mujeres o que destacan el lugar de la mujer– y una geografía indefinida que cubre de atemporalidad a sus relatos. La novela está dividida de tres partes, y aunque cada una de ellas parece ser autónoma, en cuanto se despliegan se puede avistar la íntima relación que las vincula, como cajas chinas, espejos enfrentados o víbora que muerde su cola. Y en todas, la violencia está presente ejercida por personajes que la sufren o la practican y que, al igual que sus lectores, caen fascinados ante una trampa de la que no pueden escapar.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789502330044"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9502330048"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lfXqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lfXqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=lfXqDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=lfXqDwAAQBAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tumba_de_jaguares.html?hl=&id=lfXqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Tumba_de_jaguares-sample-epub.acsm?id=lfXqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Tumba_de_jaguares-sample-pdf.acsm?id=lfXqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lfXqDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Se suele mencionar a Angélica Gorodischer como la gran escritora argentina de ciencia ficción, también se señala con insistencia su maestría para esgrimir el humor como recurso narrativo; sin embargo, estas reiteraciones, certeras y ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IA9fAAAAMAAJ",
+      "etag": "QceyZCCPTKY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IA9fAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La noche del inocente",
+        "subtitle": "conseja moralizante para uso de pecadores",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015055180718"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Monasteries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IA9fAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IA9fAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=IA9fAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=IA9fAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_noche_del_inocente.html?hl=&id=IA9fAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IA9fAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dAZCAAAAYAAJ",
+      "etag": "9OgSWSYvgVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dAZCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Casta luna electrónica",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018684523"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction, Argentine"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dAZCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dAZCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=dAZCAAAAYAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=dAZCAAAAYAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Casta_luna_electr%C3%B3nica.html?hl=&id=dAZCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dAZCAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cb19nyNdYUUC",
+      "etag": "9cPgX7qpAHA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cb19nyNdYUUC",
+      "volumeInfo": {
+        "title": "Mujeres de palabra",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publisher": "La Editorial, UPR",
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0847702189"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780847702183"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.7.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cb19nyNdYUUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cb19nyNdYUUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=cb19nyNdYUUC&printsec=frontcover&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=cb19nyNdYUUC&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mujeres_de_palabra.html?hl=&id=cb19nyNdYUUC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Mujeres_de_palabra-sample-epub.acsm?id=cb19nyNdYUUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Mujeres_de_palabra-sample-pdf.acsm?id=cb19nyNdYUUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cb19nyNdYUUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TgZCAAAAYAAJ",
+      "etag": "1aCzsH/hyl0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TgZCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Bajo las jubeas en flor",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publishedDate": "1973",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017245040"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Short stories, Argentine"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TgZCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TgZCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=TgZCAAAAYAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=TgZCAAAAYAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bajo_las_jubeas_en_flor.html?hl=&id=TgZCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TgZCAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1wlfAAAAMAAJ",
+      "etag": "d+C+ifXQllc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1wlfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Menta",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publisher": "Emece Editores",
+        "publishedDate": "2000",
+        "description": "Se puede ser mortal y ser feliz?, podria estar preguntandose la mujer que contempla el lagarto tendido al sol. Y dona Eduviges, mientras se hamaca en el sillon celeste del geriatrico. Tambien la recien accidentada cada vez que la invade esa ola suave de sombra, de menta y de seda. O Silvia y Lisandro cuando se aman a la luz de la luna. Como asi Magdalena, en el momento de realizar su ultimo deseo, o Shlomo, al tiempo que toma notas para el libro de todos.La muerte -su idea, su presencia- planea sobre las letras de este libro como un aguila. Pero la felicidad -\"esa dulce y amable obligacion,\" como la describia Thomas Mann- no le va en zaga, asi aparezca camuflada de amor, de risa, de belleza, de maravilla. Y en ese combate, parecen decirnos los personajes de estos cuentos, casi nunca hay un vencedor claro.La fascinacion que ejercen estas historias es poderosa y sutil. Solo por su belleza agridulce y por la fuerza artistica que respira cada una de sus paginas, Menta mereceria figurar entre los mejores libros de cuentos de la literatura argentina jamas escritos.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015056164018"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1wlfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1wlfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=1wlfAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=1wlfAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Menta.html?hl=&id=1wlfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1wlfAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Solo por su belleza agridulce y por la fuerza artistica que respira cada una de sus paginas, Menta mereceria figurar entre los mejores libros de cuentos de la literatura argentina jamas escritos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gw9fAAAAMAAJ",
+      "etag": "vCNX+eZU66c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gw9fAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Prodigios",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publishedDate": "1994",
+        "description": "\"La casa del poeta Novalis acoge las vidas de varias mujeres durante el siglo diecinueve. Con humor, ironía y un firme manejo de la atmósfera en que se desarrolla la acción, Gorodischer ofrece una trama misteriosa y secreta de estos destinos atrapados entre los muros de la vieja casona\"--Handbook of Latin American Studies, v. 58.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015032509518"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gw9fAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gw9fAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=gw9fAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=gw9fAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prodigios.html?hl=&id=gw9fAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gw9fAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con humor, ironía y un firme manejo de la atmósfera en que se desarrolla la acción, Gorodischer ofrece una trama misteriosa y secreta de estos destinos atrapados entre los muros de la vieja casona&quot;--Handbook of Latin American Studies, v. ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t95IAAAAYAAJ",
+      "etag": "W4vy6zTpONM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t95IAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Tres colores",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publisher": "Emece Editores",
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173021899390"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "categories": [
+          "Argentine fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t95IAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t95IAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=t95IAAAAYAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=t95IAAAAYAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tres_colores.html?hl=&id=t95IAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t95IAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CohdAAAAMAAJ",
+      "etag": "7dlDCVhqCUM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CohdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Esas malditas mujeres",
+        "subtitle": "antología de cuentistas latinoamericanas",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015056166732"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CohdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CohdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=CohdAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=CohdAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Esas_malditas_mujeres.html?hl=&id=CohdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CohdAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yQ1fAAAAMAAJ",
+      "etag": "HDYr8yX7dAY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yQ1fAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Doquier",
+        "authors": [
+          "Angélica Gorodischer"
+        ],
+        "publishedDate": "2002",
+        "description": "Hay una ciudad que no es todavia una ciudad; no por lo menos lo que hoy nosotros pensamos como ciudad. Una ciudad perezosa, ladrona, malhablada, tendida junto a un rio monstruoso, cruelmente iluminada por el sol, tentadora y rumorosa, altiva, magnifica entre sus sedas y sus harapos. Hay una casa que permanececerrada, oscura y silenciosa desde hace anos en el callejon del Bajo. Hay otra casa, cercana a la plaza, que fue, dicen, sucesivamente parte de un convento, sede de la judicatura, albergue de esclavos, refugio de mujeres de mala vida. En esa casa vive alguien que conoce los poderes de las hierbas y mira noche a noche las estrellas.La sombra de un rey guerrero, el recuerdo de aquel rehen de Roma que sono la historia del mundo, el ronroneo de un gato, una espada tinta en sangre, uncorazon roto y el viajero inesperado develan en ese mundo en el que un siglo termina y amanece el otro, que no todo es lo que parece, que apariencia yrealidad son equivalentes y que cuando una se retira para dar lugar a la otra las vidas cambian de rumbo.Angelica Gorodischer ha escrito una novela magistral, sabia y magica, destinada sin duda a figurar entre las grandes obras de la literatura argentinacontemporanea.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015056166070"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yQ1fAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yQ1fAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=yQ1fAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=yQ1fAAAAMAAJ&dq=inauthor:%22Ang%C3%A9lica+Gorodischer%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Doquier.html?hl=&id=yQ1fAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yQ1fAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En esa casa vive alguien que conoce los poderes de las hierbas y mira noche a noche las estrellas.La sombra de un rey guerrero, el recuerdo de aquel rehen de Roma que sono la historia del mundo, el ronroneo de un gato, una espada tinta en ..."
+      }
+    }
+  ]
+}

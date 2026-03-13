@@ -1,0 +1,472 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 7,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "41NergEACAAJ",
+      "etag": "DMndH8oGWSo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/41NergEACAAJ",
+      "volumeInfo": {
+        "title": "El primer peruano en el espacio",
+        "authors": [
+          "Daniel Salvo"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6124215470"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786124215476"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 173,
+        "printType": "BOOK",
+        "categories": [
+          "Outer space"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=41NergEACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=41NergEACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_primer_peruano_en_el_espacio.html?hl=&id=41NergEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=41NergEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Kvpo0AEACAAJ",
+      "etag": "OiBR38VBQ/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Kvpo0AEACAAJ",
+      "volumeInfo": {
+        "title": "La Triste Historia De La Doctora Amelia Y Otros Relatos Increibles",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0463287630"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780463287637"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=Kvpo0AEACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Kvpo0AEACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Triste_Historia_De_La_Doctora_Amelia.html?hl=&id=Kvpo0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Kvpo0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nHrizwEACAAJ",
+      "etag": "RLMMMYTLeyU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nHrizwEACAAJ",
+      "volumeInfo": {
+        "title": "El regalo de las estrellas",
+        "authors": [
+          "Daniel Salvo"
+        ],
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "612505523X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786125055231"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=nHrizwEACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=nHrizwEACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_regalo_de_las_estrellas.html?hl=&id=nHrizwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nHrizwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dovS0AEACAAJ",
+      "etag": "iNCZmEfA2Vg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dovS0AEACAAJ",
+      "volumeInfo": {
+        "title": "Future Fiction Magazine",
+        "subtitle": "en Español - Año 1 / Número 2",
+        "authors": [
+          "Sara Chen",
+          "Daniel Salvo",
+          "Riverflow"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2024-07-05",
+        "description": "¡Llega un nuevo número de Future Fiction Magazine en Español, esta vez dedicado a la Chengdu Worldcon 2023! Encontrarás cuentos de los autores latinoamericanos presentes en esta histórica convención: Daniel Salvo (Perú), Gabriela Damián Miravete (México), Leonardo Espinoza Benavides (Chile), Tanya Tynjälä (Perú-Finlandia), Laura Ponce (Argentina), Ana Rüsche (Brasil) y César Santivañez (Perú). Además, entrevistas exclusivas a Arturo Serrano (miembro de Nerds of a Feather, blog ganador del Critics' Award en los premios Ingyte), RiverFlow (coeditor de Zero Gravity Newspaper, ganador del premio Hugo a Mejor Fanzine 2023) y Sara Chen (editora de la revista china Science Fiction World).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798332302367"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dovS0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dovS0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=dovS0AEACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=dovS0AEACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Future_Fiction_Magazine.html?hl=&id=dovS0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dovS0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "¡Llega un nuevo número de Future Fiction Magazine en Español, esta vez dedicado a la Chengdu Worldcon 2023!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5dTSAQAACAAJ",
+      "etag": "gWV5KWkrCOs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5dTSAQAACAAJ",
+      "volumeInfo": {
+        "title": "El hijo perdido",
+        "authors": [
+          "Daniel Salvo"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8488962185"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788488962188"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=5dTSAQAACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=5dTSAQAACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_hijo_perdido.html?hl=&id=5dTSAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5dTSAQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-zG80QEACAAJ",
+      "etag": "e0dRW7jLFkg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-zG80QEACAAJ",
+      "volumeInfo": {
+        "title": "Sangre para los dioses",
+        "authors": [
+          "Daniel Salvo"
+        ],
+        "publishedDate": "2025",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6129906528"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786129906522"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=-zG80QEACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=-zG80QEACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sangre_para_los_dioses.html?hl=&id=-zG80QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-zG80QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pM9w0QEACAAJ",
+      "etag": "3Jfb1JxZrDc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pM9w0QEACAAJ",
+      "volumeInfo": {
+        "title": "Estrellas sin noche",
+        "subtitle": "diez años de Mirabilia de cuentos de ciencia ficción",
+        "authors": [
+          "Juan Alberto Conde",
+          "Arturo Rozo",
+          "Luis Carlos Barragán Castro",
+          "Juan Diego Gómez",
+          "Laura Rodríguez Leiva",
+          "Luis Pestarini",
+          "Luis Noriega",
+          "Iván Darío Fontalvo",
+          "Campo Ricardo Burgos López",
+          "Mauro Vargas",
+          "Gabriela Arciniegas",
+          "Santiago López",
+          "Sofía Rhei",
+          "Laura Ponce",
+          "Diego Niño",
+          "Cristina Jurado",
+          "Rodrigo Bastidas Pérez",
+          "Antonio Escorcia",
+          "Raquel Castro",
+          "Natalia González Melo",
+          "Daniel Salvo",
+          "Boris Greiff",
+          "Juan David Rincón Huertas",
+          "Maielis González",
+          "Teresa López-Pellisa",
+          "Sierra Rusinque",
+          "Gabriela Damián Miravete",
+          "T. P. Mira-Echeverría",
+          "Andrés González Galante"
+        ],
+        "publishedDate": "2025",
+        "description": "Para leer este libro es necesario ir a lomos de un pegaso, pues es una quimera, un diálogo entre generaciones, estilos, intereses, y una muestra de las diversas formas de hacer, abordar y pensar la ciencia ficción en lengua española. Los textos que reúne, entre cuentos, microficciones, ensayos, artículos académicos, cómic y poesía, fueron escritos por las once personas que ganaron las once versiones del concurso Mirabilia de Cuentos, entre 2013 y 2022, y 18 de las 22 que hicieron parte de los correspondientes jurados, es decir, una selección de autoras y autores de Latinoamérica y España. Tomado de la contracubierta del libro",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6289621327"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786289621327"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=pM9w0QEACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=pM9w0QEACAAJ&dq=inauthor:%22Daniel+Salvo%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estrellas_sin_noche.html?hl=&id=pM9w0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pM9w0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Para leer este libro es necesario ir a lomos de un pegaso, pues es una quimera, un diálogo entre generaciones, estilos, intereses, y una muestra de las diversas formas de hacer, abordar y pensar la ciencia ficción en lengua española."
+      }
+    }
+  ]
+}

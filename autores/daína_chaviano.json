@@ -1,0 +1,1409 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "txgvFh-5z2oC",
+      "etag": "W7/LqX10s5Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/txgvFh-5z2oC",
+      "volumeInfo": {
+        "title": "The Island of Eternal Love",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2008-06-12",
+        "description": "A magical new novel \"of loss and love across more than a century of Cuba's past.\"(Chicago Sun-Times) Alone in a city that haunts her, far from her family, her history, and the island she left behind, Cecelia seeks refuge in a bar in Little Havana where a mysterious old woman's fascinating tale keeps Cecelia returning night after night. Her powerful story of long-vanished epochs weaves the saga of three families from far-flung pieces of the world whose connection forms the kind of family that Cecelia has long been missing-one cast from legendary, unbreakable love. As Cecelia falls under the story's heady sway, she discovers the source of the visions that plague her, and a link to the past she cannot shake.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781440637322"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1440637326"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=txgvFh-5z2oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=txgvFh-5z2oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=txgvFh-5z2oC&printsec=frontcover&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=txgvFh-5z2oC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=txgvFh-5z2oC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 42.97,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 42.97,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=txgvFh-5z2oC&rdid=book-txgvFh-5z2oC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 42970000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 42970000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/The_Island_of_Eternal_Love-sample-epub.acsm?id=txgvFh-5z2oC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=txgvFh-5z2oC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As Cecelia falls under the story&#39;s heady sway, she discovers the source of the visions that plague her, and a link to the past she cannot shake."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a1tWPgAACAAJ",
+      "etag": "8p2iLd6JT6g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a1tWPgAACAAJ",
+      "volumeInfo": {
+        "title": "A ilha dos amores infinitos",
+        "authors": [
+          "Daína Chaviano",
+          "Maria Alzira Brum Lemos"
+        ],
+        "publishedDate": "2008",
+        "description": "Para fugir da solidão, Cecilia resolve ir a um bar, onde conhece uma misteriosa senhora. Após o primeiro encontro, ela voltará todas as noites ao local de Miami, para escutar da anciã a história de três famílias, que remete a épocas e lugares distantes - um suicídio na China, que desencadeia várias lembranças familiares a Cecilia; uma maldição que assombra algumas mulheres de um povoado espanhol; e a saga de uma jovem africana, que é arrancada de casa para um destino desconhecido.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8501078611"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788501078612"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 390,
+        "printType": "BOOK",
+        "categories": [
+          "Cubans"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=a1tWPgAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=a1tWPgAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_ilha_dos_amores_infinitos.html?hl=&id=a1tWPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a1tWPgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xF7mAAAAMAAJ",
+      "etag": "JHHGVRItj0c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xF7mAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La isla de los amores infinitos",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publisher": "Random House Espanol",
+        "publishedDate": "2006",
+        "description": "Una apasionante saga de tres familias que se desarrolla en dos tramas paralelas, una situada en el Miami actual, y la otra que se inicia en los anos 1850 en torno a tres familias distintas de China, Espana y Africa que emigraran a Cuba. Para huir de su soledad en Miami, Cecilia se refugia en un bar donde conoce a una misteriosa anciana. Tras ese primer encuentro, regresara al bar cada noche para escuchar de labios de la mujer tres historias que se habian iniciado, mas de un siglo atras, en otros tantos lugares del mundo: un suicidio en China que desata una cadena de reacciones familiares; una extrana maldicion que persigue a las mujeres de una familia espanola, y una joven arrancada de su hogar en la costa africana, que es llevada a un mundo desconocido. Las peripecias de estos personajes se iran entrelazando a lo largo del tiempo, desde una Cuba bajo el dominio espanol hasta nuestros dias. Los amores predestinados y fulminantes de ese pasado cobraran renovada fuerza en Cecilia, atada emocionalmente a su Habana natal, pero obsesionada tambien por cierto enigma que intenta resolver. \"La isla de los amores infinitos\" es una saga familiar e historica, con muchas lecturas y un ambiente cargado de misterios. El amor y el mas alla son los hilos conductores de esta novela donde los sentimientos pueden sobrevivir a la muerte. Una maravillosa historia de esperanzas y suenos rotos, llena de magia.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173019107060"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xF7mAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xF7mAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=xF7mAAAAMAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=xF7mAAAAMAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_isla_de_los_amores_infinitos.html?hl=&id=xF7mAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xF7mAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;La isla de los amores infinitos&quot; es una saga familiar e historica, con muchas lecturas y un ambiente cargado de misterios. El amor y el mas alla son los hilos conductores de esta novela donde los sentimientos pueden sobrevivir a la muerte."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ENDOJQAACAAJ",
+      "etag": "nM9QtkzKDWQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ENDOJQAACAAJ",
+      "volumeInfo": {
+        "title": "Historias de hadas para adultos",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publishedDate": "2007-01-01",
+        "description": "Tres relatos donde la ciencia ficción se aúna con elementos mágicos y de terror, atrapando al lector hasta el final. Tres historias narradas con sensibilidad, que sirven de marco para profundas reflexiones filosóficas y sociales.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8445076426"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788445076422"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ENDOJQAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ENDOJQAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historias_de_hadas_para_adultos.html?hl=&id=ENDOJQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ENDOJQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tres relatos donde la ciencia ficción se aúna con elementos mágicos y de terror, atrapando al lector hasta el final. Tres historias narradas con sensibilidad, que sirven de marco para profundas reflexiones filosóficas y sociales."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pBHCEQAAQBAJ",
+      "etag": "LtwrPoYSJ3E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pBHCEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Fábulas de una abuela extraterrestre",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publisher": "Huso Editorial",
+        "publishedDate": "2026-02-18",
+        "description": "Fábulas de una abuela extraterrestre reúne una serie de relatos donde la imaginación desborda los límites de lo cotidiano. Daína Chaviano construye un universo en el que una abuela —figura de sabiduría y ternura— se convierte en narradora de historias que atraviesan planetas, tiempos y realidades paralelas. Cada fábula propone una reflexión sobre valores humanos, convivencia, identidad y diversidad cultural, utilizando la ciencia ficción como vehículo simbólico. Con un estilo cercano y evocador, la autora combina elementos fantásticos con enseñanzas sutiles que invitan a lectores de todas las edades a mirar el mundo desde otra perspectiva. El libro celebra la tradición de contar historias como puente entre generaciones y como herramienta para comprender la complejidad del universo y de nosotros mismos",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791399176728"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pBHCEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pBHCEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=pBHCEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pBHCEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pBHCEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 97.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 97.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pBHCEQAAQBAJ&rdid=book-pBHCEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 97900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 97900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/F%C3%A1bulas_de_una_abuela_extraterrestre-sample-epub.acsm?id=pBHCEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/F%C3%A1bulas_de_una_abuela_extraterrestre-sample-pdf.acsm?id=pBHCEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pBHCEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fábulas de una abuela extraterrestre reúne una serie de relatos donde la imaginación desborda los límites de lo cotidiano."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aKeQEAAAQBAJ",
+      "etag": "u01pi0tywV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aKeQEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Los hijos de la Diosa Huracán / The Goddess Hurricane's Children",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2019-06-25",
+        "description": "Ganador en las categorías de Best Popular Fiction y Best Novel Adventure or Drama in Spanish del International Latino Book Award 2020. Medalla de Oro al Mejor Libro en Lengua Española en los Florida Book Awards. Una absorbente historia que recupera el valioso legado de los indígenas cubanos a través de una intriga protagonizada por dos mujeres que, en distintas épocas, se enfrentan a la peligrosa codicia de los hombres. Una apasionante historia que empezó hace más de quinientos años y que solo ahora puede terminar. Alicia Solomon apenas recuerda algo de sus primeros años de vida. Solo sabe que apareció abandonada en una balsa, de muy pequeña, y que fue recogida por unos marineros en alta mar. Ahora, convertida en una experta en documentos antiguos, se enfrenta al mayor reto de su carrera: descifrar un enigmático manuscrito hallado en una misteriosa tumba indígena no muy lejos de La Habana; una tarea que se vuelve más peligrosa a medida que Alicia se da cuenta de que hay personas dispuestas a matar para que ese texto, escrito por una mujer desconocida en el siglo XVI, jamás vea la luz. Y es que, más de quinientos años atrás, existió un testigo excepcional de la conquista española. Juana, una joven recién llegada a la isla de los huracanes, se convirtió en la voz de esos pueblos sometidos y en el origen de una dinastía valerosa y justa, perseguida por quienes aún hoy no dudarán en eliminar a cuantos se opongan a su codicia y a su insaciable sed de poder. “He disfrutado mucho de Los hijos de la diosa huracán de Daína Chaviano. Un thriller histórico trepidante que pone en valor el legado de los pueblos indígenas anteriores a la colonización española al tiempo que plantea una intriga actual intensa y adictiva. Bien documentada, emocionante y fantásticamente escrita.” - Ildefonso Falcones Una aventura plagada de secretos, enigmas, mitos y conspiraciones, que retrata la eterna lucha entre la dignidad y la opresión, entre la inocencia y la más depravada codicia. ENGLISH DESCRIPTION Best Popular Fiction and Best Novel Adventure or Drama in Spanish winner at the International Latino Book Award 2020. Gold Medal for Best Book in Spanish Language of the Florida Book Awards. A gripping story that revives the rich legacy of indigenous Cubans through a mystery starring two women who face the dangerous desires of men during different eras. A mysterious legacy connects a manuscript written in the 16th century by Juana, a young woman of Jewish origin who travels to Cuba with her father as they are persecuted by the Inquisition, and Alicia Solomon, the language expert who finds herself involved in a dangerous conflict of political interests during Cuba’s first democratic elections. Two women from different centuries, united by a secret that can alter the future of the island. Two heroines who must face the greed and barbarity of those who are incapable of understanding the Earth’s true, wise legacy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781644730171"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1644730170"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aKeQEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aKeQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=aKeQEAAAQBAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=aKeQEAAAQBAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_hijos_de_la_Diosa_Hurac%C3%A1n_The_Godde.html?hl=&id=aKeQEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aKeQEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ENGLISH DESCRIPTION Best Popular Fiction and Best Novel Adventure or Drama in Spanish winner at the International Latino Book Award 2020. Gold Medal for Best Book in Spanish Language of the Florida Book Awards."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OqvMEAAAQBAJ",
+      "etag": "/96OyfGyG2E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OqvMEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Extraños testimonios",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publisher": "Minotauro Colombia",
+        "publishedDate": "2023-07-24",
+        "description": "«La realidad no está hecha solo de luz; también las sombras se ocultan en los resquicios de sus múltiples recovecos». La luna del gótico caribeño arroja una nueva luz sobre el terror. En estos catorce relatos, Daína Chaviano mezcla el terror clásico con mitologías, personajes y paisajes latinoamericanos: los vampiros y los licantropos abandonan Europa para vivir en viejas casonas goticas y llanuras cubanas; los duendes ahora residen en los hogares, inescindiblemente unidos a los humanos; los amantes muertos regresan a los brazos sus amadas para evitarles la soledad... Estos catorce testimonios nos señalan los seres que viven en los rincones oscuros de la realidad, las criaturas cuya existencia solo vislumbramos e intuimos con la imaginación y la suerte, a veces la mala suerte. Daína Chaviano se vale del erotismo, la fantasía y la memoria para dirigir nuevas luces a la extrañeza en la que vivimos, a las sombras que acechan nuestro mundo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786287586116"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6287586117"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OqvMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OqvMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=OqvMEAAAQBAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=OqvMEAAAQBAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Extra%C3%B1os_testimonios.html?hl=&id=OqvMEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OqvMEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Daína Chaviano se vale del erotismo, la fantasía y la memoria para dirigir nuevas luces a la extrañeza en la que vivimos, a las sombras que acechan nuestro mundo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zYldAAAAMAAJ",
+      "etag": "LGajw71tg44",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zYldAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Gata encerrada",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publishedDate": "2001",
+        "description": "La figura de una sombra cobra vida en el diario de Melisa y su exploracion la lleva a un laberinto de leyendas y mitos. La historia recorre varios realismos -desde el magico hasta el psicologico- para desembocar en la mas pura espiritualidad.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015054264471"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish language materials"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zYldAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zYldAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=zYldAAAAMAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=zYldAAAAMAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gata_encerrada.html?hl=&id=zYldAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zYldAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La figura de una sombra cobra vida en el diario de Melisa y su exploracion la lleva a un laberinto de leyendas y mitos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3bnBEQAAQBAJ",
+      "etag": "bKxeDYIo4mg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3bnBEQAAQBAJ",
+      "volumeInfo": {
+        "title": "El abrevadero de los dinosaurios",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publisher": "Huso Editorial",
+        "publishedDate": "2026-02-15",
+        "description": "El abrevadero de los dinosaurios es una novela que combina memoria, imaginación y realidad en un relato profundamente simbólico. Daína Chaviano construye una historia donde el pasado y el presente dialogan a través de recuerdos que se transforman en territorio mítico. El \"abrevadero\" funciona como metáfora de un espacio de encuentro entre lo perdido y lo recuperado, entre la infancia y la madurez, entre lo histórico y lo fantástico. Con su característica prosa lírica y sugerente, la autora nos conduce por un universo donde lo cotidiano se impregna de resonancias mágicas y donde la identidad se construye a partir de fragmentos de memoria y deseo. Una obra que invita a reflexionar sobre el tiempo, la pertenencia y la necesidad de reinventar nuestra propia historia",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791399169430"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3bnBEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3bnBEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=3bnBEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3bnBEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3bnBEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 57.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 57.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3bnBEQAAQBAJ&rdid=book-3bnBEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 57900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 57900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_abrevadero_de_los_dinosaurios-sample-epub.acsm?id=3bnBEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_abrevadero_de_los_dinosaurios-sample-pdf.acsm?id=3bnBEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3bnBEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El abrevadero de los dinosaurios es una novela que combina memoria, imaginación y realidad en un relato profundamente simbólico."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0m6REAAAQBAJ",
+      "etag": "1rg7LjXeDUY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0m6REAAAQBAJ",
+      "volumeInfo": {
+        "title": "Los hijos de la Diosa Huracán / Goddess Hurricane's Children",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2022-07-05",
+        "description": "Ganador en las categorías de Best Popular Fiction y Best Novel Adventure or Drama in Spanish del International Latino Book Award 2020. Medalla de Oro al Mejor Libro en Lengua Española en los Florida Book Awards. Una absorbente historia que recupera el valioso legado de los indígenas cubanos a través de una intriga protagonizada por dos mujeres que, en distintas épocas, se enfrentan a la peligrosa codicia de los hombres. Una apasionante historia que empezó hace más de quinientos años y que solo ahora puede terminar. Alicia Solomon apenas recuerda algo de sus primeros años de vida. Solo sabe que apareció abandonada en una balsa, de muy pequeña, y que fue recogida por unos marineros en alta mar. Ahora, convertida en una experta en documentos antiguos, se enfrenta al mayor reto de su carrera: descifrar un enigmático manuscrito hallado en una misteriosa tumba indígena no muy lejos de La Habana; una tarea que se vuelve más peligrosa a medida que Alicia se da cuenta de que hay personas dispuestas a matar para que ese texto, escrito por una mujer desconocida en el siglo XVI, jamás vea la luz. Y es que, más de quinientos años atrás, existió un testigo excepcional de la conquista española. Juana, una joven recién llegada a la isla de los huracanes, se convirtió en la voz de esos pueblos sometidos y en el origen de una dinastía valerosa y justa, perseguida por quienes aún hoy no dudarán en eliminar a cuantos se opongan a su codicia y a su insaciable sed de poder. Una aventura plagada de secretos, enigmas, mitos y conspiraciones, que retrata la eterna lucha entre la dignidad y la opresión, entre la inocencia y la más depravada codicia. ENGLISH DESCRIPTION Best Popular Fiction and Best Novel Adventure or Drama in Spanish winner at the International Latino Book Award 2020. Gold Medal for Best Book in Spanish Language of the Florida Book Awards. Two strong and brave women, faced with greed, barbarism, and crime, are united through centuries by a mysterious legacy that can alter Cuba’s future. An exciting story that began over five hundred years ago and one that can only end now. Alicia Solomon hardly remembers anything from the first years of her life. She only knows that she was found abandoned on a raft, when she was very small, and that she was picked up by some sailors on the high seas. Now as an expert in ancient documents, she faces the greatest challenge of her career: deciphering an enigmatic manuscript found in a mysterious indigenous tomb not far from Havana; a task that becomes more and more dangerous as Alicia realizes that there are people willing to kill so that this text, written by an unknown woman in the 16th century, never sees the light of day. It happens that more than five hundred years ago, there was an exceptional witness to the Spanish conquest. Juana, a young woman who had recently arrived on the island of hurricanes, became the voice of the conquered people and the origin of a brave and just dynasty, persecuted by those who even today won’t hesitate to get rid of those who oppose their greed and their insatiable thirst for power. An adventure full of secrets, enigmas, myths, and conspiracies, which portrays the eternal struggle between dignity and oppression, between innocence and the most depraved greed.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788466350730"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "846635073X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0m6REAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0m6REAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=0m6REAAAQBAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=0m6REAAAQBAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_hijos_de_la_Diosa_Hurac%C3%A1n_Goddess_H.html?hl=&id=0m6REAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0m6REAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ENGLISH DESCRIPTION Best Popular Fiction and Best Novel Adventure or Drama in Spanish winner at the International Latino Book Award 2020. Gold Medal for Best Book in Spanish Language of the Florida Book Awards."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QIldAAAAMAAJ",
+      "etag": "Yhhf2ToHkcA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QIldAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Casa de juegos",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publisher": "Editorial Planeta, S.A. (Barcelona)",
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015055184298"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QIldAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QIldAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=QIldAAAAMAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=QIldAAAAMAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Casa_de_juegos.html?hl=&id=QIldAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QIldAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wvdzOgAACAAJ",
+      "etag": "rtEKQ2wbc0M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wvdzOgAACAAJ",
+      "volumeInfo": {
+        "title": "Ikuisen rakkauden saari",
+        "authors": [
+          "Daína Chaviano",
+          "Satu Ekman"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9525635457"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789525635454"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 390,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fi",
+        "previewLink": "http://books.google.com.br/books?id=wvdzOgAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=wvdzOgAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ikuisen_rakkauden_saari.html?hl=&id=wvdzOgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wvdzOgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hRLeGAAACAAJ",
+      "etag": "dyTO1oCfCXE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hRLeGAAACAAJ",
+      "volumeInfo": {
+        "title": "Het eiland van de oneindige liefdes",
+        "authors": [
+          "Daína Chaviano",
+          "Brigitte Coopmans"
+        ],
+        "publishedDate": "2007",
+        "description": "Het verhaal van drie Cubaanse families, op Cuba zelf en in ballingschap in Miami.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "902842220X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789028422209"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 350,
+        "printType": "BOOK",
+        "categories": [
+          "Cubans"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hRLeGAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hRLeGAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "nl",
+        "previewLink": "http://books.google.com.br/books?id=hRLeGAAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=hRLeGAAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Het_eiland_van_de_oneindige_liefdes.html?hl=&id=hRLeGAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hRLeGAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Het verhaal van drie Cubaanse families, op Cuba zelf en in ballingschap in Miami."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EIpdAAAAMAAJ",
+      "etag": "H2GrRDyZeng",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EIpdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "El hombre, la hembra y el hambre",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publishedDate": "1998",
+        "description": "Transpórtese a la Cuba contemporánea a través de la historia de un economista que trabaja de carnicero, un hombre que vende artesanías pero que en realidad es un profesor de arte, de una enigmática prostituta y de una mujer atea que empieza a experimentar situaciones paranormales.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015047114122"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EIpdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EIpdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=EIpdAAAAMAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=EIpdAAAAMAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_hombre_la_hembra_y_el_hambre.html?hl=&id=EIpdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EIpdAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Transpórtese a la Cuba contemporánea a través de la historia de un economista que trabaja de carnicero, un hombre que vende artesanías pero que en realidad es un profesor de arte, de una enigmática prostituta y de una mujer atea que ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nfzbPgAACAAJ",
+      "etag": "QK08/phY07M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nfzbPgAACAAJ",
+      "volumeInfo": {
+        "title": "Ostrov nekonečných lásek",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8024910977"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788024910970"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 379,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "cs",
+        "previewLink": "http://books.google.com.br/books?id=nfzbPgAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=nfzbPgAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ostrov_nekone%C4%8Dn%C3%BDch_l%C3%A1sek.html?hl=&id=nfzbPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nfzbPgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "130-ygAACAAJ",
+      "etag": "89YodMGsw+k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/130-ygAACAAJ",
+      "volumeInfo": {
+        "title": "Insula Iubirilor Nesfârșite",
+        "authors": [
+          "Daína Chaviano",
+          "Ana Maria Tamaș"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9736893553"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789736893551"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 323,
+        "printType": "BOOK",
+        "categories": [
+          "Cubans"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=130-ygAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=130-ygAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Insula_Iubirilor_Nesf%C3%A2r%C8%99ite.html?hl=&id=130-ygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=130-ygAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tSuzXwAACAAJ",
+      "etag": "CM38pukDtC8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tSuzXwAACAAJ",
+      "volumeInfo": {
+        "title": "Ostrov nekonečných lások",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "805511692X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788055116921"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 293,
+        "printType": "BOOK",
+        "categories": [
+          "Cubans"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "sk",
+        "previewLink": "http://books.google.com.br/books?id=tSuzXwAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=tSuzXwAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ostrov_nekone%C4%8Dn%C3%BDch_l%C3%A1sok.html?hl=&id=tSuzXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tSuzXwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Bn1DAAAAYAAJ",
+      "etag": "6fycd/j3hIQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Bn1DAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Los papeles de Valencia el Mudo",
+        "authors": [
+          "Oscar Hurtado"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X000876825"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Bn1DAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Bn1DAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=Bn1DAAAAYAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Bn1DAAAAYAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_papeles_de_Valencia_el_Mudo.html?hl=&id=Bn1DAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Bn1DAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FG4sAQAACAAJ",
+      "etag": "EmXdeSG+FCo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FG4sAQAACAAJ",
+      "volumeInfo": {
+        "title": "Havanna Blues",
+        "subtitle": "Roman",
+        "authors": [
+          "Daína Chaviano"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3426618745"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783426618745"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 301,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.br/books?id=FG4sAQAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=FG4sAQAACAAJ&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Havanna_Blues.html?hl=&id=FG4sAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FG4sAQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4-FMXagtGi4C",
+      "etag": "KX25WShEVK8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4-FMXagtGi4C",
+      "volumeInfo": {
+        "title": "Relatos Invisibles",
+        "subtitle": "Antologia de Cuentos Contemporaneos",
+        "authors": [
+          "Daína Chaviano",
+          "Various Authors"
+        ],
+        "publisher": "Alfaguara",
+        "publishedDate": "2006-03",
+        "description": "Los cuentos reunidos en esta antolog�a fueron escritos por autores nacidos en pa�ses de lengua espa�ola, entre 1953 y 1969. Entre ellos figuran Da�na Chaviano, Pablo De Santis, Carlos Mar�a Dom�nguez, Luis L�pez Aliaga, Julio Paredes, Edmundo Paz Sold�n, Carmen Posadas, Manuel Rivas, Mauricio Jos� Schwarz y Patricia Su�rez. Todos abordan los g�neros y la tradici�n literaria hispanoamericana con libertad, dialogan con escritores de las generaciones anteriores, pero desde una perspectiva personal, cada uno desde su propia po�tica. ENGLISH DESCRIPTION In this anthology are short stories written by various authors from Spanish-speaking countries, between 1935 and 1969. Using their own poetics and personal perspectives, each one deals with the various genres and the Spanish American literary tradition. Some of the authors included are Manuel Rivas, Edmundo Paz Sold�n, Carmen Posadas, Julio Paredes, Da�na Chaviano, Pablo De Santis, and Carlos Mar�a Dom�nguez among others.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9870403018"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789870403012"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4-FMXagtGi4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4-FMXagtGi4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=4-FMXagtGi4C&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=4-FMXagtGi4C&dq=inauthor:%22Da%C3%ADna+Chaviano%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Relatos_Invisibles.html?hl=&id=4-FMXagtGi4C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4-FMXagtGi4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Some of the authors included are Manuel Rivas, Edmundo Paz Sold n, Carmen Posadas, Julio Paredes, Da na Chaviano, Pablo De Santis, and Carlos Mar a Dom nguez among others."
+      }
+    }
+  ]
+}

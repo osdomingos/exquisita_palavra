@@ -1,0 +1,1453 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "cxyQEQAAQBAJ",
+      "etag": "ceTZ3XpTz6g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cxyQEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Chile mágico",
+        "authors": [
+          "JORGE BARADIT"
+        ],
+        "publisher": "SUDAMERICANA",
+        "publishedDate": "2025-11-01",
+        "description": "Brujería, mitos, ciudades perdidas y símbolos oscuros. Cuando creías que no quedaban secretos sobre la historia de chile, brota un país mítico que han conspirado para ocultarnos. En Chile mágico, Jorge Baradit, el escritor chileno más vendido del siglo XXI vuelve a la no ficción precisamente desde aquello que nos han intentado vender como falso, ilusorio o mítico. Con un pulso narrativo cautivador y una investigación exhaustiva, corre el velo de lo prohibido y se adentra en una historia paralela de esta franja de tierra: aquella donde conviven fantasmas y monstruos, rituales secretos y un sustrato mágico que late bajo los cimientos de la nación. ¿Cómo celebramos a nuestros muertos? ¿Qué relatos se repiten una y otra vez en nuestra tradición oral? ¿Qué lugar ocupa lo paranormal en nuestra vida cotidiana? El autor no pretende responder la pregunta de quiénes somos ni hacia dónde vamos, pero sí nos invita a recorrer un país con alas de brujo y cola de serpiente, con cultos escondidos y mitos tallados en araucarias, escritos en magma y transmitidos en la memoria genética por abuelas, chamanes, machis, campesinos, artesanos y poetas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789562626804"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9562626806"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cxyQEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cxyQEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=cxyQEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=cxyQEQAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Chile_m%C3%A1gico.html?hl=&id=cxyQEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Chile_m%C3%A1gico-sample-epub.acsm?id=cxyQEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Chile_m%C3%A1gico-sample-pdf.acsm?id=cxyQEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cxyQEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En Chile mágico, Jorge Baradit, el escritor chileno más vendido del siglo XXI vuelve a la no ficción precisamente desde aquello que nos han intentado vender como falso, ilusorio o mítico."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aoKIEAAAQBAJ",
+      "etag": "owItiybRp/w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aoKIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "La constituyente",
+        "authors": [
+          "Jorge Marcos Baradit Morales"
+        ],
+        "publisher": "SUDAMERICANA",
+        "publishedDate": "2022-09-05",
+        "description": "Crónica en primera persona del proceso constituyente chileno en el que participó el autor, best seller del sello, como uno de los 155 convencionales. Desde la emoción del momento de haber sido escogido como uno de los 155 convencionales que escribirían la nueva Constitución chilena, hasta el aprendizaje de cómo funciona, internamente, aquello que llaman \"política\". El día a día de la convención constitucional es narrado sin tapujos por el escritor Jorge Baradit, y en su relato reconoce cada yerro, cada exceso de entusiasmo, cada dificultad que se presentó pero, también, el arduo trabajo realizado para conseguir de manera excepcional la primera Constitución redactada por ciudadanos comunes y corrientes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789562626460"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9562626466"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aoKIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aoKIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=aoKIEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=aoKIEAAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_constituyente.html?hl=&id=aoKIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_constituyente-sample-epub.acsm?id=aoKIEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_constituyente-sample-pdf.acsm?id=aoKIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aoKIEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Crónica en primera persona del proceso constituyente chileno en el que participó el autor, best seller del sello, como uno de los 155 convencionales."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EL8dAQAAIAAJ",
+      "etag": "qCyK8LQZdgg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EL8dAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Ygdrasil",
+        "authors": [
+          "Jorge Baradit"
+        ],
+        "publishedDate": "2005",
+        "description": "\"Mariana, llena de espíritu santo, cruza los cardumenes de datos como una machi electrónica, buscando la infección que destruye la realidad\"--Cover.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105124264859"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Atrocities"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EL8dAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EL8dAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=EL8dAQAAIAAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=EL8dAQAAIAAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ygdrasil.html?hl=&id=EL8dAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EL8dAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Mariana, llena de espíritu santo, cruza los cardumenes de datos como una machi electrónica, buscando la infección que destruye la realidad&quot;--Cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Af4QAQAAMAAJ",
+      "etag": "/hzKJr7VTxI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Af4QAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Synco",
+        "authors": [
+          "Jorge Baradit"
+        ],
+        "publishedDate": "2008",
+        "description": "Chile, 1973. Augusto Pinochet decide apoyar al gobierno de Salvador Allende y desmantela violentamente el golpe militar en ciernes. Mientras, algo crece en los subterráneos de la moneda. El programa Synco intenta crear el primer Estado cibernético de la Historia. Una red que dotaría de un sistema nervioso eficiente a la sociedad y la economía chilenas.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89105843551"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "categories": [
+          "Alternative histories (Fiction)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Af4QAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Af4QAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=Af4QAQAAMAAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=Af4QAQAAMAAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Synco.html?hl=&id=Af4QAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Af4QAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mientras, algo crece en los subterráneos de la moneda. El programa Synco intenta crear el primer Estado cibernético de la Historia. Una red que dotaría de un sistema nervioso eficiente a la sociedad y la economía chilenas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4CNtDwAAQBAJ",
+      "etag": "yv2p1A8/cmM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4CNtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "La Dictadura",
+        "subtitle": "Historia secreta de Chile",
+        "authors": [
+          "Jorge Marcos Baradit Morales"
+        ],
+        "publisher": "SUDAMERICANA",
+        "publishedDate": "2018-09-10",
+        "description": "Una crónica sobre la vida política y social en Chile durante la dictadura militar y sus repercusiones vigentes. ¿Cuál fue el origen de la división política que llevó al golpe de Estado de 1973? ¿Cuándo y de qué manera se gestó el bombardeo a La Moneda? ¿Cuál fue la agenda oculta para refundar Chile durante la dictadura de Pinochet? ¿Cuáles fueron las operaciones del régimen militar y de la resistencia que marcaron los destinos del país? Con su distinguible estilo narrativo y el aura de Historia secreta de Chile, Baradit responde estas preguntas y retrata no solo los secretos y la ferocidad del régimen, sino también la intimidad del hogar chileno durante los años más dramáticos de nuestra historia reciente, desde 1970 hasta la muerte de Pinochet en 2006. La dictadura es un libro ágil, pertinente e inolvidable para dilucidar un pasado aún oscuro y, asimismo, los traumas y frustraciones del país actual.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789562625661"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9562625664"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 139,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4CNtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4CNtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=4CNtDwAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=4CNtDwAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Dictadura.html?hl=&id=4CNtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4CNtDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La dictadura es un libro ágil, pertinente e inolvidable para dilucidar un pasado aún oscuro y, asimismo, los traumas y frustraciones del país actual."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ikhotAEACAAJ",
+      "etag": "02i7FhD1230",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ikhotAEACAAJ",
+      "volumeInfo": {
+        "title": "La guerra interior",
+        "authors": [
+          "Jorge Baradit"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9569646284"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789569646287"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ikhotAEACAAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ikhotAEACAAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_guerra_interior.html?hl=&id=ikhotAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ikhotAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jorge Baradit, en cada uno de los relatos que componen La guerra interior, crea un mundo único en donde no sabemos qué es pasado, presente ni futuro, porque la línea del tiempo se ha perdido en una distopía infernal."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4KBXEAAAQBAJ",
+      "etag": "ug8gR5T3DB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4KBXEAAAQBAJ",
+      "volumeInfo": {
+        "title": "La virgen de la patagonia (E-book)",
+        "authors": [
+          "JORGE BARADIT"
+        ],
+        "publisher": "SUMA DE LETRAS",
+        "publishedDate": "2022-01-01",
+        "description": "De la imaginación de Jorge Baradit: una fantástica aventura en el fin del mundo. Una joven de 18 años vuelve a su pueblo natal en los confines de la Patagonia. La llegada de la muchacha, perteneciente a la etnia Yagán, coincide con la repentina aparición de una mujer que sumirá el lugar en un caos absoluto. La desconocida será la causante de una serie de increíbles fenómenos que sembrarán el terror y el desconcierto en la villa Río Rojo. ¿Es un ángel o un demonio? La realidad del Chile de fines de los setenta en plena dictadura militar cruzada por fantásticos y pesadillescos acontecimientos como los que suele crear la pluma de Jorge Baradit.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789569585944"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9569585943"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 219,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4KBXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4KBXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=4KBXEAAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=4KBXEAAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_virgen_de_la_patagonia_E_book.html?hl=&id=4KBXEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4KBXEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "De la imaginación de Jorge Baradit: una fantástica aventura en el fin del mundo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IFbHDwAAQBAJ",
+      "etag": "F/lDyjus9ig",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IFbHDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Rebelión",
+        "authors": [
+          "Jorge Marcos Baradit Morales"
+        ],
+        "publisher": "SUDAMERICANA",
+        "publishedDate": "2020-01-01",
+        "description": "Libro sobre la contingencia en formato especial, escritor por el autor best seller nacional. Desde el comienzo de la llamada \"primavera chilena\", el escritor Jorge Baradit le tomó el pulso a una revolución sin precedentes, que devino tanto en marchas y protestas como en asambleas espontáneas, organizadas por los ciudadanos comunes y corrientes en plazas, juntas de vecinos, clubes deportivos. Baradit también participó de esos encuentros y mucho de lo que en ellos se reflexionó está aquí, en este libro urgente y necesario, un manifiesto que recoge el clamor ciudadano y la rabia contenida.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789562625951"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9562625958"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IFbHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IFbHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=IFbHDwAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=IFbHDwAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rebeli%C3%B3n.html?hl=&id=IFbHDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IFbHDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Baradit también participó de esos encuentros y mucho de lo que en ellos se reflexionó está aquí, en este libro urgente y necesario, un manifiesto que recoge el clamor ciudadano y la rabia contenida."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yRAqEQAAQBAJ",
+      "etag": "iOlbbUcLlH4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yRAqEQAAQBAJ",
+      "volumeInfo": {
+        "title": "El sótano rojo",
+        "authors": [
+          "Jorge Marcos Baradit Morales"
+        ],
+        "publisher": "SUMA DE LETRAS",
+        "publishedDate": "2024-11-01",
+        "description": "Una novela que mezcla el horror de la dictadura con los fantasmas de nuestra sociedad. Chile es una casa embrujada. Tamara, estudiante de arquitectura, recurre a psicofonías y videntes tratando de encontrar a su madre detenida y desaparecida. El destino la lleva a una casa excentro de torturas donde, con la ayuda de una médium, descubrirá un terrible secreto sobre su familia, las fuerzas detrás de la tortura y la inhumanidad allí ocurrida y su propio futuro. Un espeluznante relato que con una atmósfera sobrecogedora y a ratos en verdad escalofriante, busca responder a la pregunta sobre el género del terror en Chile. Según Jorge Baradit, el escritor de más venta en Chile, es un desafío en un país en el que la realidad supera con creces los horrores imaginarios.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789566190479"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9566190476"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yRAqEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yRAqEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=yRAqEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=yRAqEQAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_s%C3%B3tano_rojo.html?hl=&id=yRAqEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_s%C3%B3tano_rojo-sample-epub.acsm?id=yRAqEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_s%C3%B3tano_rojo-sample-pdf.acsm?id=yRAqEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yRAqEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Según Jorge Baradit, el escritor de más venta en Chile, es un desafío en un país en el que la realidad supera con creces los horrores imaginarios."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p4IyDwAAQBAJ",
+      "etag": "fej3aPcRQNg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p4IyDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Historia secreta de Chile 3",
+        "authors": [
+          "Jorge Marcos Baradit Morales"
+        ],
+        "publisher": "SUDAMERICANA",
+        "publishedDate": "2017-08-01",
+        "description": "El lado B de la historia de Chile tiene tercera parte, con narraciones aún más sorpresivas y descubrimientos increíbles ¿En la Isla de Pascua hubo una revolución dirigida por una vidente? ¿Es verdad que esclavos africanos pelearon en la Independencia de Chile? ¿Hubo un exorcismo público en Santiago? ¿Cuáles son los misterios que esconde la Antártica? ¿Cuáles son los secretos oscuros detrás de la vida y terrible muerte de José Miguel Carrera? ¿Qué nos han ocultado de nuestro Premio Nobel, Gabriela Mistral? Jorge Baradit, en la tercera parte de Historia secreta de Chile (el fenómeno editorial más importante que ha tenido nuestro país en décadas), nos relata la vida de héroes postergados, pueblos originarios saqueados, minorías reducidas por el poder predominante, para así sacar a la luz una verdad incómoda, que muchos quisieran seguir pasando de alto. La historia de Chile no es de las instituciones, del Estado o de un sector específico, sino nuestra, y necesitamos descubrirla para entender nuestra propia identidad.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789562624978"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9562624978"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p4IyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p4IyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=p4IyDwAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=p4IyDwAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_secreta_de_Chile_3.html?hl=&id=p4IyDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p4IyDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jorge Baradit, en la tercera parte de Historia secreta de Chile (el fenómeno editorial más importante que ha tenido nuestro país en décadas), nos relata la vida de héroes postergados, pueblos originarios saqueados, minorías reducidas ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6EjREAAAQBAJ",
+      "etag": "NPvJmiyYbEk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6EjREAAAQBAJ",
+      "volumeInfo": {
+        "title": "El lado oscuro de la historia de Chile",
+        "authors": [
+          "Jorge Marcos Baradit Morales"
+        ],
+        "publisher": "SUDAMERICANA",
+        "publishedDate": "2023-09-01",
+        "description": "En la línea de su exitosa saga de divulgación histórica, el escritor Jorge Baradit observa aquellos episodios más escabrosos de la historia de Chile y nos relata de qué modo la maldad se ha hecho parte de procesos políticos y sociales desde el origen de la república. ¿Cómo contar nuestra historia sin asumir los periodos más oscuros? Jorge Baradit selecciona siete momentos en la historia de Chile y los retrata en su estilo. Los albores de la Independencia, el gobierno de Alessandri, el rol del argentino José de San Martín, Carlos Ibáñez del Campo y sus políticas, la persecución de los nazis que llegaron a Chile, la figura de Diego Portales y el actuar de la Dina desfilan en estas páginas como parte del lado b de una historia que no siempre nos llena de orgullo, sino que también de vergüenza.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789562626569"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9562626563"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 117,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6EjREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6EjREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=6EjREAAAQBAJ&printsec=frontcover&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=6EjREAAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_lado_oscuro_de_la_historia_de_Chile.html?hl=&id=6EjREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_lado_oscuro_de_la_historia_de_Chile-sample-epub.acsm?id=6EjREAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_lado_oscuro_de_la_historia_de_Chile-sample-pdf.acsm?id=6EjREAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6EjREAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En la línea de su exitosa saga de divulgación histórica, el escritor Jorge Baradit observa aquellos episodios más escabrosos de la historia de Chile y nos relata de qué modo la maldad se ha hecho parte de procesos políticos y sociales ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1WA0EAAAQBAJ",
+      "etag": "1waBth3m4JI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1WA0EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Policía del karma",
+        "authors": [
+          "Jorge Marcos Baradit Morales"
+        ],
+        "publisher": "RESERVOIR BOOKS",
+        "publishedDate": "2021-07-01",
+        "description": "Imagina que un día te sacan a patadas de tu casa acusado de un crimen que cometiste... en otra vida. En Santiago de Chile, un camión avanza frenéticamente arrasando con todo a su paso. En su interior un pelotón de policías del karma grita, prepara el asalto y rezan a gritos, guiados por módems humanos y médiums en avanzado estado de putrefacción. Su objetivo: Carranza, un criminal fugado de la cárcel PDK. \"Un universo recargado, hermoso, terrible, agotador y cautivante. Una sobredosis de narrativa visual.\" Gabriel Rodríguez Cocreador y dibujante de LOCKE&KEY",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789569659898"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9569659890"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1WA0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1WA0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=1WA0EAAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=1WA0EAAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Polic%C3%ADa_del_karma.html?hl=&id=1WA0EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1WA0EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Imagina que un día te sacan a patadas de tu casa acusado de un crimen que cometiste... en otra vida."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xlQsDwAAQBAJ",
+      "etag": "Gw3J10TtdDM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xlQsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Lluscuma",
+        "authors": [
+          "Jorge Marcos Baradit Morales"
+        ],
+        "publisher": "B DE BOOKS",
+        "publishedDate": "2014-01-01",
+        "description": "\"Lluscuma es una novela alucinada, estremecedora y muy emocionante\" Alberto Chimal ¿Qué pasaría si descubrieras que el abuelo que te adoraba fue un asesino y torturador a las órdenes de la DINA? Basada libremente en el \"Caso del Cabo Valdés\", la supuesta abducción ovni de un soldado chileno en la pampa nortina, Lluscuma explora la violenta disociación de la realidad que sufre el protagonista en un Chile torcido y alucinado; la paranoia y la herida que lo convierten en# algo más. Las grandes novelas de imaginación parten de la realidad y la realidad y la transformación para revelar aspectos nuevos de ella: para mostrar lo que el realismo no puede decir de la vida humana. Así ocurre con Lluscuma, en la que Jorge Baradit mezcla hechos en el centro de la historia documentada -el golpe de 1973 en Chile, y sus consecuencias, que siguen presentes hasta hoy- con otros que se encuentran en sus bordes: en el terreno de los mitos contemporáneos, como los avistamientos de ovnis o la locura visionaria. En el mundo de la novela los militares se llevan gente, una vidente anuncia horrores y portentos y la gente debe tomar el bus, como cada día; hay enfrentamientos apocalípticos y parejas que aman o desaman, familias que se rompen, hombres y mujeres que luchan o se rinden. Lluscuma crea así una hiper-realidad: una experiencia con más colores, más sangre, más dimensiones, más locura y violencia y fragilidad y fortaleza, que la vida como solemos percibirla, pero que no deja de ser, al final, una imagen de lo humano: de lo que somos, en especial, en este tiempo de vacío aparente, de horrores y de milagros.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789569339172"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9569339179"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xlQsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xlQsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=xlQsDwAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=xlQsDwAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lluscuma.html?hl=&id=xlQsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xlQsDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Lluscuma es una novela alucinada, estremecedora y muy emocionante&quot; Alberto Chimal ¿Qué pasaría si descubrieras que el abuelo que te adoraba fue un asesino y torturador a las órdenes de la DINA?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zwKXzwEACAAJ",
+      "etag": "hbdkbp8kk0U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zwKXzwEACAAJ",
+      "volumeInfo": {
+        "title": "La constituyente",
+        "authors": [
+          "Jorge Baradit"
+        ],
+        "publishedDate": "2022",
+        "description": "\"Un proceso que duró un año y no estuvo extento de dificultades, polémicas y un trabajo arduo y riguroso por parte de los 154 convencionales. Un mecanismo inédito en nuesta historia democrática, resultado de un conflicto social que estalló en octurbre de 2019 y que ahora tiene a una ciudadanía organizada para realizar cambios. Porque mientras la sociedad de la representación agoniza, plantea Baradit, 'se requiere educación en la deliberación y el diálogo, desde la enseñanza básica y en la familia; la mejor educación cívica es el diálogo en el respeto mutuo. La educación para la democracia'. Con la franqueza que lo caracteriza, Jorge Baradit analiza criticamente el proceso que dará pie a un nuevo Chile y que, en sus palabras, no se agota on la aprobación o rechazo de la nueva constitución: 'Continúa allá afuera y se expresará, siempre, a través de la gente'\"--Page 4 of cover",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9562626431"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789562626439"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Chile"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=zwKXzwEACAAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=zwKXzwEACAAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_constituyente.html?hl=&id=zwKXzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zwKXzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con la franqueza que lo caracteriza, Jorge Baradit analiza criticamente el proceso que dará pie a un nuevo Chile y que, en sus palabras, no se agota on la aprobación o rechazo de la nueva constitución: &#39;Continúa allá afuera y se ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yORLDwAAQBAJ",
+      "etag": "uP+LPQqWMlc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yORLDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Trinidad",
+        "authors": [
+          "JORGE BARADIT"
+        ],
+        "publisher": "B DE BOOKS",
+        "publishedDate": "2013-06-01",
+        "description": "Novela que irrumpió el 2007 en la escena española al ganar el PREMIO UPC de ciencia ficción, principal galardón entregado a la literatura de ese género. Ambientada en un Chile futurista, la triada de personajes femeninos de TRINIDAD desenmascara la podredumbre de un sistema político corrupto. Una mercenaria drogadicta, una niña-máquina con inteligencia artificial y una detective son víctimas de un oscuro proyecto donde se despliegan consolas ouijas, conciencias administradas por el gobierno, secuestro de almas, tráfico de médula infantil, cacerías en el ciberespacio y seres que duermen en las entrañas de anacondas. Todo, hilado con la febril imaginación de Jorge Baradit. Una historia que golpea con imágenes alucinantes que mezclan el cyberpunk más clásico con una visión ocultista y chamánica, un nuevo paradigma literario definido, por académicos y entendidos, como cyberchamanismo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789569339004"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9569339004"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 87,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yORLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yORLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=yORLDwAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=yORLDwAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trinidad.html?hl=&id=yORLDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yORLDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ambientada en un Chile futurista, la triada de personajes femeninos de TRINIDAD desenmascara la podredumbre de un sistema político corrupto."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jJKNDgAAQBAJ",
+      "etag": "/epEOFYoD2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jJKNDgAAQBAJ",
+      "volumeInfo": {
+        "title": "La guerra interior",
+        "authors": [
+          "Jorge Marcos Baradit Morales"
+        ],
+        "publisher": "PLAZA & JANES",
+        "publishedDate": "2017-04-01",
+        "description": "El esperado nuevo libro de ficción de Jorge Baradit Ciudades que desaparecen, un apocalipsis en ciernes, una sociedad que se desintegra, sistemas políticos sometidos a sus fracasos, inteligencia artificial sin control, seres humanos que vuelven a nacer, fracturas en la Tierra que esconden arcaicos secretos# Jorge Baradit, en cada uno de los relatos que componen La guerra interior, crea un mundo único en donde no sabemos qué es pasado, presente ni futuro, porque la línea del tiempo se ha perdido en una distopía infernal.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789569646300"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9569646306"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 185,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jJKNDgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jJKNDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=jJKNDgAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=jJKNDgAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_guerra_interior.html?hl=&id=jJKNDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jJKNDgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El esperado nuevo libro de ficción de Jorge Baradit Ciudades que desaparecen, un apocalipsis en ciernes, una sociedad que se desintegra, sistemas políticos sometidos a sus fracasos, inteligencia artificial sin control, seres humanos que ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vv8gEAAAQBAJ",
+      "etag": "uYp7aGBqOlI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vv8gEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Héroes 2",
+        "authors": [
+          "Jorge Marcos Baradit Morales"
+        ],
+        "publisher": "SUDAMERICANA",
+        "publishedDate": "2021-03-01",
+        "description": "Un puñado de los hombres y mujeres más influyentes en las últimas décadas de la Historia de Chile. Jorge Baradit construye los perfiles de las personalidades que la historia chilena ha marginado de monumentos y del reconocimiento oficial por su rebeldía y su espíritu contracorriente. Aquí aparecen Mariano Puga, Clotario Blest, Cecilia Magni, las mujeres que lucharon contra la dictadura, los pobladores de La Victoria y Salvador Allende, como héroes sin homenajes pero que confirman, con sus biografías, que la historia la escriben los pueblos. Un volumen que continúa, en tono y en forma, con lo elaborado por Baradit en la primera entrega de Héroes. Un conjunto de crónicas que dialoga con la saga más popular de los últimos años: Historia Secreta de Chile.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789562626187"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9562626180"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 197,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vv8gEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vv8gEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=vv8gEAAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=vv8gEAAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/H%C3%A9roes_2.html?hl=&id=vv8gEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vv8gEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Jorge Baradit construye los perfiles de las personalidades que la historia chilena ha marginado de monumentos y del reconocimiento oficial por su rebeldía y su espíritu contracorriente."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WxopCgAAQBAJ",
+      "etag": "xKFWpZCdqEI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WxopCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Historia secreta de Chile",
+        "authors": [
+          "Jorge Marcos Baradit Morales"
+        ],
+        "publisher": "SUDAMERICANA",
+        "publishedDate": "2015-07-01",
+        "description": "Una historia B que nos sorprenderá como si fuese una novela, pero es la pura y santa verdad. ¿Arturo Prat fue un apasionado espiritista? ¿Por qué murió asesinado Manuel Rodríguez y donde se encuentran sus restos? ¿Hubo en la Patagonia una monarquía dirigida por un francés cuyos súbditos eran un grupo de mapuches? ¿La estrella solitaria de nuestra bandera en un símbolo luciferino? ¿La clase política del siglo XX tenía entre sus principales asesores a un médium? Jorge Baradit, en su nuevo libro, responde cada uno de estos interrogantes para proponernos una historia distinta, una líquida, blanda, moldeable, cortable, redefinible y esculpible. Una historia secreta que nos acerque, desde su humanidad e histrionismo, a los personajes y a los hechos misteriosos que nos han signado como nación, pero que muchas veces ocultan sabrosas y hasta escandalosas anécdotas. Historia secreta de Chile es un libro narrado e investigado con ahínco que nos invita a hurgar en los intersticios de la memoria para arrojar una luz distinta a lo que fuimos, somos y seremos como chilenos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789562624732"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9562624730"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 115,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.7.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WxopCgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WxopCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=WxopCgAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=WxopCgAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_secreta_de_Chile.html?hl=&id=WxopCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WxopCgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Historia secreta de Chile es un libro narrado e investigado con ahínco que nos invita a hurgar en los intersticios de la memoria para arrojar una luz distinta a lo que fuimos, somos y seremos como chilenos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g6WsDwAAQBAJ",
+      "etag": "JG8lKSh1i8c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g6WsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Héroes",
+        "subtitle": "Historia secreta de Chile",
+        "authors": [
+          "Jorge Marcos Baradit Morales"
+        ],
+        "publisher": "SUDAMERICANA",
+        "publishedDate": "2019-09-01",
+        "description": "Un conjunto de crónicas biográficas de siete figuras chilenas que se distanciaron y lucharon contra los estamentos poderosos. En la misma línea de sus trabajos anteriores, Jorge Baradit construye siete perfiles de personajes de la historia chilena considerados díscolos, incómodos o derechamente peligrosos para statu quo de sus épocas. En estas páginas desfilan Arturo Fernández Vial, Manuel Rodríguez, Águeda Monasterio, Luis Emilio Recabarren, Francisco Bilbao, Ramón Freire y Pedro Aguirre Cerda: personajes de origines tan disímiles, pero que comparten -de diversas formas- el rótulo de agitadores o transgresores. Delineando sus particularidades biográficas y escarbando en sus acciones políticas o sociales, Baradit ensaya -además- sobre la influencia actual de estos personajes en sus áreas respectivas. Finalmente, el autor erige la valentía y altura moral de personajes que no ocupan la primera línea del panteón de héroes oficiales de la historia republicana. Y, de este modo, deja planteada una pregunta tan incómoda como irresoluta: ¿Cuántas estatuas oficiales hemos levantado a personas despiadadas?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789562625883"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9562625885"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g6WsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g6WsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=g6WsDwAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=g6WsDwAAQBAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/H%C3%A9roes.html?hl=&id=g6WsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g6WsDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Finalmente, el autor erige la valentía y altura moral de personajes que no ocupan la primera línea del panteón de héroes oficiales de la historia republicana."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SV8L0QEACAAJ",
+      "etag": "NmzuqFHeNAg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SV8L0QEACAAJ",
+      "volumeInfo": {
+        "title": "El sótano rojo",
+        "subtitle": "novela",
+        "authors": [
+          "Jorge Baradit"
+        ],
+        "publishedDate": "2024",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9566190468"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789566190462"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=SV8L0QEACAAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=SV8L0QEACAAJ&dq=inauthor:%22Jorge+Baradit%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_s%C3%B3tano_rojo.html?hl=&id=SV8L0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SV8L0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Santiago, 1991."
+      }
+    }
+  ]
+}

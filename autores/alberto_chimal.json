@@ -1,0 +1,1895 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "QrN9mvUcBEUC",
+      "etag": "jlUuokD2Wl4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QrN9mvUcBEUC",
+      "volumeInfo": {
+        "title": "YYZ",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B5503549"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QrN9mvUcBEUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QrN9mvUcBEUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=QrN9mvUcBEUC&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=QrN9mvUcBEUC&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/YYZ.html?hl=&id=QrN9mvUcBEUC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QrN9mvUcBEUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1FsBEAAAQBAJ",
+      "etag": "X+VnNGHO0s8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1FsBEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Grey",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publishedDate": "2013-08-08",
+        "description": "En {Grey}, Alberto Chimal ha decidido, de heterodoxo, devenir iconoclasta y heresiarca. Y con su recorrido, demuestra que todo texto sagrado es un ejercicio de estilo, un conjunto de reglas que si se comprenden permiten el juego, el gozo, la infinita alegría de la modificación subversiva. En este libro inclasificable se oyen, junto a las voces de la ciudad y su infinita mezcla de clases, las bibliotecas interminables de la lengua y de las lenguas, las contaminaciones abiertas de los medios más ramplones de comunicación y las profecías tonantes de un siglo nuevo de magnífica literatura.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786074451214"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6074451214"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1FsBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1FsBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=1FsBEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1FsBEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1FsBEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 32.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 32.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1FsBEAAAQBAJ&rdid=book-1FsBEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 32990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 32990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Grey-sample-epub.acsm?id=1FsBEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Grey-sample-pdf.acsm?id=1FsBEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1FsBEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En {Grey}, Alberto Chimal ha decidido, de heterodoxo, devenir iconoclasta y heresiarca."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Fw0fEAAAQBAJ",
+      "etag": "zXQUnboV/PU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Fw0fEAAAQBAJ",
+      "volumeInfo": {
+        "title": "La saga del viajero del tiempo",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publisher": "UNAM, Dirección General de Publicaciones y Fomento Editorial",
+        "publishedDate": "2021-02-18",
+        "description": "Durante varios meses, Alberto Chimal escribió a través de Twitter una serie de microrrelatos que tomaban como punto de partida el posible viaje que el Viajero del Tiempo, protagonista de La máquina del tiempo, de H. G. Wells, pudo haber emprendido al final de la novela. Estas pequeñas estampas, que representan un homenaje no solo a Wells sino a la ciencia ficción, nos transportan al pasado, presente y futuro donde podemos observar el mundo desde un punto de vista privilegiado y presenciar tanto grandes acontecimientos de la historia falsos y verdaderos, así como sucesos cotidianos casi imperceptibles. Los textos, a manera de instantáneas, asimismo ofrecen al lector retratos muy particulares de todo tipo de personajes —históricos, literarios, reales o ficticios— a quienes el Viajero del Tiempo, y de paso también su gato, encuentran en su camino: escritores como Sor Juana Inés de la Cruz, William Blake, Edgar Allan Poe y Jane Austen; personajes literarios como Helena de Troya, Drácula, el Hombre Invisible; iconos reconocidos y también iconos por conocer. Como si la ficción formara parte de otra dimensión temporal, esta propuesta nos invita a navegar en la máquina del tiempo que es el propio libro, de la mano de uno de los narradores más audaces de la literatura mexicana contemporánea.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073041959"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6073041950"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 115,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Fw0fEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Fw0fEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=Fw0fEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Fw0fEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Fw0fEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Fw0fEAAAQBAJ&rdid=book-Fw0fEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_saga_del_viajero_del_tiempo-sample-epub.acsm?id=Fw0fEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_saga_del_viajero_del_tiempo-sample-pdf.acsm?id=Fw0fEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Fw0fEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Durante varios meses, Alberto Chimal escribió a través de Twitter una serie de microrrelatos que tomaban como punto de partida el posible viaje que el Viajero del Tiempo, protagonista de La máquina del tiempo, de H. G. Wells, pudo haber ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "71MjEAAAQBAJ",
+      "etag": "CMjoQMD2WR8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/71MjEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Future Science Fiction Digest Issue 10",
+        "authors": [
+          "Alex Shvartsman",
+          "Cixin Liu",
+          "Alberto Chimal",
+          "Jelena Dunato",
+          "Nic Lipitz",
+          "Ti Sha"
+        ],
+        "publisher": "UFO Publishing",
+        "description": "Future SF is a magazine focusing on international science fiction. This issue features stories from Mexico, China, Croatia, and the United States. “The Second Celeste” by Alberto Chimal (Mexico), translated by Patrick Weill “The Two Festivals that Cannot Coexist” by Liu Cixin (China), translated by Nathan Faries “The Office Drone” by Nic Lipitz (USA)“Perfect Date” by Jelena Dunato (Croatia)| “The Final Test” by Ti Sha (China), translated by Judith Huang",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=71MjEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=71MjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=71MjEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=71MjEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=71MjEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 21.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 21.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=71MjEAAAQBAJ&rdid=book-71MjEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 21990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 21990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=71MjEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This issue features stories from Mexico, China, Croatia, and the United States. “The Second Celeste” by Alberto Chimal (Mexico), translated by Patrick Weill “The Two Festivals that Cannot Coexist” by Liu Cixin (China), translated by ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wkz8DwAAQBAJ",
+      "etag": "2HhBBuHKsFI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wkz8DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Estos son los días",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publisher": "Ediciones Era",
+        "publishedDate": "2014-10-28",
+        "description": "Niñas de apariencia inocente que en realidad son asesinas seriales, personajes que se rebelan en contra de su creador, mujeres adictas a raros objetos que extraen de ellas personalidades desconocidas o jovencitas que emprenden viajes a países desaparecidos hacen de {Éstos son los días} un libro que nos interna en un universo donde la fantasía y la realidad se dan la mano hasta borrar sus diferencias, demostrándonos que lo insólito forma parte de nuestra vida cotidiana aunque nos neguemos a admitirlo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786074451139"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6074451133"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wkz8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wkz8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=Wkz8DwAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Wkz8DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Wkz8DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 32.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 32.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Wkz8DwAAQBAJ&rdid=book-Wkz8DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 32990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 32990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Estos_son_los_d%C3%ADas-sample-epub.acsm?id=Wkz8DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Estos_son_los_d%C3%ADas-sample-pdf.acsm?id=Wkz8DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wkz8DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Niñas de apariencia inocente que en realidad son asesinas seriales, personajes que se rebelan en contra de su creador, mujeres adictas a raros objetos que extraen de ellas personalidades desconocidas o jovencitas que emprenden viajes a ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Uo1dEAAAQBAJ",
+      "etag": "6caidU2IeqM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Uo1dEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Los atacantes",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publisher": "Editorial Páginas de Espuma",
+        "publishedDate": "2017-01-04",
+        "description": "Las cámaras de seguridad nos han dado la tranquilidad de tener a alguien velando por nosotros. Pero también la incertidumbre de que siempre habrá algún otro vigilándonos. La ciencia ha erradicado enfermedades, pero también ha creado monstruos e infecciones impensables. El correo electrónico, las redes sociales, un teléfono en el bosillo: consuelos para la soledad, mejoras en la comunicación, pero también el principio del fin. Acosadores, stalkers, suplantadores. Atacantes de nuestro confort. Con un imaginario y una estética absolutamente personales, Alberto Chimal –una de las grandes revelaciones mexicanas de los últimos años– nos ofrece, agazapado entre siete magistrales relatos, el terror con el que convivimos, aun sin percatarnos. Un libro de cuentos de miedo –no necesariamente de horror– que mira en las esquinas más negras de nuestra sociedad, sin renunciar tampoco a la imaginación más libre, a la mirada más fantástica, al humor e incluso a la poesía. Aunque esta sea la poesía que llega con el final del mundo. \"Un narrador que no puede desprenderse, para nuestra fortuna, (...) del afán por describir aquello que sólo puede ser creado con palabras\" Verónica Murguía, La Jornada \"Para los lectores algo cansados con el modo realista en el que se desenvuelve buena parte de la literatura latinoamericana contemporánea, Chimal es un escritor imprescindible\" Edmundo Paz Soldán, La Tercera \"Así funciona la narrativa de Chimal: con potencia. Tiene poder, tiene eficacia, engancha\" Sara Mesa, Estado Crítico \"Uno de los narradores más polifacéticos e imprevisibles de la literatura hispanoamericana actual\" Marco Kunz, Quimera",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788483935972"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "848393597X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Uo1dEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Uo1dEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=Uo1dEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Uo1dEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Uo1dEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Uo1dEAAAQBAJ&rdid=book-Uo1dEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Los_atacantes-sample-epub.acsm?id=Uo1dEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Los_atacantes-sample-pdf.acsm?id=Uo1dEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Uo1dEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con un imaginario y una estética absolutamente personales, Alberto Chimal –una de las grandes revelaciones mexicanas de los últimos años– nos ofrece, agazapado entre siete magistrales relatos, el terror con el que convivimos, aun sin ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_beJEQAAQBAJ",
+      "etag": "fm0nuAin/TA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_beJEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Las máquinas enfermas",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publisher": "Editorial Páginas de Espuma",
+        "publishedDate": "2025-10-22",
+        "description": "El origen de Las máquinas enfermas refleja una profunda preocupación sobre un tema muy presente: nuestra obsesión con las llamadas «inteligencias artificiales» y otras tecnologías digitales. También sobre los lados oscuros de ese mito renovado –el de las máquinas que van a reemplazarnos–, que ya está interfiriendo en nuestras vidas, nuestro pensamiento e incluso nuestros cuerpos. Los cuentos de Alberto Chimal tratan de las proyecciones y los demonios de una «inteligencia» que desplaza y suplanta lo humano hasta su extinción, del poder absoluto de una tecnología adictiva, propiedad de unos pocos, de la ingenuidad de creer en sus buenas intenciones y de las horribles fantasías de poder absoluto y saqueo de este mundo (y hasta de otros mundos). Porque incluso aunque esas máquinas «enfermaran», nuestra fe en ellas podría ser suficiente para que triunfasen sobre nosotros. No sería la primera vez que la humanidad inventa ídolos para adorarlos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788483937235"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8483937239"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 111,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_beJEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_beJEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=_beJEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_beJEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_beJEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_beJEQAAQBAJ&rdid=book-_beJEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_m%C3%A1quinas_enfermas-sample-epub.acsm?id=_beJEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_m%C3%A1quinas_enfermas-sample-pdf.acsm?id=_beJEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_beJEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El origen de Las máquinas enfermas refleja una profunda preocupación sobre un tema muy presente: nuestra obsesión con las llamadas «inteligencias artificiales» y otras tecnologías digitales."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nMqLDwAAQBAJ",
+      "etag": "fgd8hApih+4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nMqLDwAAQBAJ",
+      "volumeInfo": {
+        "title": "La torre y el jardín",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publisher": "Océano exprés",
+        "publishedDate": "2016-08-01",
+        "description": "Uno de los narradores más polifacéticos e imprevisibles de la literatura hispanoamericana actual. Dos hombres despiertan en celdas contiguas de un sorprendente burdel. Uno viste como astronauta, el otro ha decidido aclarar un siniestro recuerdo infantil que involucra a la legendaria señora Isabel, quien resuelve a golpe de magia cada problema de ese lugar. Pero ¿cómo resolver un misterio dentro de un edificio en el que se oyen voces que salen de las paredes, la gente entra a otra dimensión mientras va caminando, y cada bella mujer que aparece tiene una misión secreta, que implica juegos eróticos con animales, o viajes y paradojas en el tiempo? En La torre y el jardín Alberto Chimal sumó temas propios de la ciencia ficción a la literatura fantástica y consiguió una de las novelas más ambiciosas de la narrativa latinoamericana reciente.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786077356332"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6077356336"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 372,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nMqLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nMqLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=nMqLDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nMqLDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nMqLDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 74.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 74.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nMqLDwAAQBAJ&rdid=book-nMqLDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 74900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 74900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_torre_y_el_jard%C3%ADn-sample-epub.acsm?id=nMqLDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_torre_y_el_jard%C3%ADn-sample-pdf.acsm?id=nMqLDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nMqLDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En La torre y el jardín Alberto Chimal sumó temas propios de la ciencia ficción a la literatura fantástica y consiguió una de las novelas más ambiciosas de la narrativa latinoamericana reciente."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "48g3zQEACAAJ",
+      "etag": "TVsP9lA2Sa4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/48g3zQEACAAJ",
+      "volumeInfo": {
+        "title": "The Most Fragile Objects",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publishedDate": "2020-01-08",
+        "description": "The Most Fragile Objects, Chimal's first novel published in translation, tells three stories (maybe two, or just one) of people living secret lives in early 21st-century Mexico. They seem to indulge in wanton sex and power fantasies. But is everything what it appears to be? With a style that never resorts to titillation and a plot structure in which the factual and the dubious chase each other, The Most Fragile Objects, is an unusual, dark take on the themes of power, love, imagination, and freedom.Alberto Chimal (Toluca, 1970) is one of Mexico's most prolific authors. His work encompasses a variety of genres and forms, including the novel, short story, essay, experimental fiction, and children's literature. He is also a sought-after clinician, lecturer, and teacher of creative writing. The recipient of numerous awards, his second novel, La torre y el jardín, was shortlisted in 2013 for the Rómulo Gallegos prize, one of the most prestigious in the Spanish language. His work has been translated into numerous languages\"One of the most versatile and unpredictable storytellers in Latin American literature today.\"Marco Kunz, Quimera\"His stories are very corporal, even voluptuous: pure flesh.\"Jorge Carrión, Otra Parte\"Had Alberto Chimal written the History of the human race, this world would be a much more interesting place.\"Eme Equis magazine",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1732114498"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781732114494"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=48g3zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=48g3zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=48g3zQEACAAJ&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=48g3zQEACAAJ&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Most_Fragile_Objects.html?hl=&id=48g3zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=48g3zQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Tells three stories (maybe two, or just one) of people living secret lives in early 21st century Mexico. They seem to indulge in wanton sex and power fantasies. But is everything what it appears to be?&quot;--Page 4 of cover"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jo1dEAAAQBAJ",
+      "etag": "xlIfXw8rRcs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jo1dEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Manos de lumbre",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publisher": "Editorial Páginas de Espuma",
+        "publishedDate": "2018-09-19",
+        "description": "En las historias de Manos de lumbre, como diría Jean-Paul Sartre, \"no hay necesidad de fuego, el infierno son los otros\". Un escritor que practica el plagio literario, una mujer obsesiva bajo una maternidad malentendida o una enferma frente al trance de elegir son algunos de los personajes de Alberto Chimal que conviven con su propio infierno, con su propio disimulo, manipulación o incertidumbre. Chimal enciende una prosa que subraya el matiz de lo fantástico y que explora siempre límites, siendo así su literatura juego e hipnosis donde introducirnos y, posiblemente, quemarnos. \"Alberto Chimal nos recuerda que todo ocurre aquí, en este mundo, en esta vida, en estas formas de imaginación de las que todos participamos\" Francisco de León, Literal \"Para los lectores algo cansados con el modo realista en el que se desenvuelve buena parte de la literatura latinoamericana contemporánea, Chimal es un escritor imprescindible\" Edmundo Paz Soldán, La Tercera \"Así funciona la narrativa de Chimal: con potencia. Tiene poder, tiene eficacia, engancha\" Sara Mesa, Estado Crítico \"Chimal se acerca a la zona de la penumbra, de las amenazas y las identidades indefinidas, en donde reina la \"belleza terrible\" y donde lo desconocido y lo aterrador cohabitan\" Carolina Herranz, Criticismo",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788483936337"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "848393633X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jo1dEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jo1dEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=jo1dEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jo1dEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jo1dEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 39.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jo1dEAAAQBAJ&rdid=book-jo1dEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 39900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Manos_de_lumbre-sample-epub.acsm?id=jo1dEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Manos_de_lumbre-sample-pdf.acsm?id=jo1dEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jo1dEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En las historias de Manos de lumbre, como diría Jean-Paul Sartre, &quot;no hay necesidad de fuego, el infierno son los otros&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yFsBEAAAQBAJ",
+      "etag": "W73PIpxrZZk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yFsBEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Gente del mundo",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publishedDate": "2014-09-09",
+        "description": "Puede que este breve libro sea apenas un resto, una ruina, lo que queda de una miríada de civilizaciones. Un puñado de textos muy breves, donde en un gesto crucial queda",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786074453553"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6074453551"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yFsBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yFsBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=yFsBEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yFsBEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yFsBEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 38.49,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 38.49,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yFsBEAAAQBAJ&rdid=book-yFsBEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 38490000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 38490000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Gente_del_mundo-sample-epub.acsm?id=yFsBEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Gente_del_mundo-sample-pdf.acsm?id=yFsBEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yFsBEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Puede que este breve libro sea apenas un resto, una ruina, lo que queda de una miríada de civilizaciones. Un puñado de textos muy breves, donde en un gesto crucial queda"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aMqIDwAAQBAJ",
+      "etag": "nGu/yKzCaZI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aMqIDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Así se acaba el mundo",
+        "subtitle": "Cuentos mexicanos apocalípticos",
+        "authors": [
+          "Alejandro Badillo",
+          "Carlos Bustos",
+          "Miguel Cane",
+          "Libia Brenda Castro",
+          "Raquel Castro",
+          "Alberto Chimal",
+          "Gabriela Damián Miravete",
+          "Alejandro Espinoza",
+          "Cecilia Eudave",
+          "Agustín Fest",
+          "Rodolfo JM",
+          "Óscar Alejandro Luviano",
+          "Omegar Martínez",
+          "Erika Mergruen",
+          "Isaí Moreno",
+          "Sofía Ramírez",
+          "Arturo Vallejo"
+        ],
+        "publisher": "Ediciones SM",
+        "publishedDate": "2016-12-21",
+        "description": "El mundo no se acaba del mismo modo para todos. En este libro se presentan 19 versiones del anuncio milenarista que se cumplirá, o no, un día de diciembre de 2012... o cualquier otro. Estas historias abarcan un amplio registro, desde la fantasía hasta el realismo crudo, de la historia íntima a la histeria colectiva, del sentido del humor hilarante a la revelación trágica, de la ruptura amorosa a robots asesinos y fantasmas. Los personajes deciden cómo vivir el día final, y sus elecciones pasan por cantar en un avión rolas ochenteras o jugar el último nivel de un videojuego. Otros, claro, no deciden nada, pero el Fin los alcanza de todas maneras.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786072424302"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6072424309"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 203,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=aMqIDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aMqIDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aMqIDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 29.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aMqIDwAAQBAJ&rdid=book-aMqIDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 29900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As%C3%AD_se_acaba_el_mundo-sample-epub.acsm?id=aMqIDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/As%C3%AD_se_acaba_el_mundo-sample-pdf.acsm?id=aMqIDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aMqIDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El mundo no se acaba del mismo modo para todos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UZ-k0QEACAAJ",
+      "etag": "ihVw4ew3D+c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UZ-k0QEACAAJ",
+      "volumeInfo": {
+        "title": "Las Maquinas Enfermas",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publishedDate": "2026-03-24",
+        "description": "The origin of Sick Machines is a very clear concern about a very current issue. The stories refer, in different ways, to our obsession with so-called \"artificial intelligences\" and other digital technologies, and to the many dark sides of this renewed myth: that of machines that \"are going\" to replace us, and that are already interfering in our lives, our thinking, and even our bodies. Although the myth is old, the global sensation caused by generative artificial intelligence models (ChatGPT, Gemini, Grok, or any other) has grown thanks to the threats, not always veiled, that their owners or creators have disseminated through the media. Their technologies are inevitable, they say; whoever doesn't adapt and submit to them will be dragged down, erased from the workforce and probably from the world altogether.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8483933764"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788483933763"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=UZ-k0QEACAAJ&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=UZ-k0QEACAAJ&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_Maquinas_Enfermas.html?hl=&id=UZ-k0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UZ-k0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The stories refer, in different ways, to our obsession with so-called &quot;artificial intelligences&quot; and other digital technologies, and to the many dark sides of this renewed myth: that of machines that &quot;are going&quot; to replace us, and that are ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-4XtDwAAQBAJ",
+      "etag": "RCpRtEdHOM4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-4XtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Los esclavos",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publisher": "Almadía Ediciones",
+        "publishedDate": "2020-04-22",
+        "description": "Alberto Chimal, uno de los escritores mexicanos más excéntricos y refinados, publica una deslumbrante primera novela que narra todo tipo de transgresiones con admirable serenidad. Los esclavos cuenta las vidas de dos parejas de amantes que viven situaciones extremas de sumisión y dominio: por una parte, cierta directora de cine pornográfico y la bella adolescente a la que obliga a satisfacer sus deseos y a interpretar los papeles más degradantes en los films que dirige y produce. En segundo lugar un joven millonario que gusta de someter a otras personas, aniquilar sus voluntades y ordenarles que vivan bajo sus caprichos. Su última adquisición es un burócrata de edad madura, al cual obliga a vivir bajo muy calculadas torturas, con un collar humillante y una cadena clavada a sus talones. A fin de cumplir las fantasías eróticas de sus amos, estos esclavos aceptan cumplir exigencias cada vez más radicales, como si esto inmunizara a las relaciones contra el paso del tiempo y las presiones del mundo exterior. Pero el tedio y la policía están tras sus huellas. Con una prosa sólida y luminosa como un diamante, Alberto Chimal, que ha ganado un inmenso reconocimiento como cuentista, y cuya obra ya ha sido objeto de estudio académico, se pregunta hasta dónde es posible llegar en la lucha de poder que irremediablemente se libra con un ser amado, y qué tienen en común.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078667666"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6078667661"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-4XtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-4XtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=-4XtDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-4XtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-4XtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-4XtDwAAQBAJ&rdid=book--4XtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Los_esclavos-sample-epub.acsm?id=-4XtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Los_esclavos-sample-pdf.acsm?id=-4XtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-4XtDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Alberto Chimal, uno de los escritores mexicanos más excéntricos y refinados, publica una deslumbrante primera novela que narra todo tipo de transgresiones con admirable serenidad."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V6zDDwAAQBAJ",
+      "etag": "ahElIaAcW1g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V6zDDwAAQBAJ",
+      "volumeInfo": {
+        "title": "La noche en la zona M",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publisher": "Fondo de Cultura Economica",
+        "publishedDate": "2019-12-20",
+        "description": "En un mundo distópico futurista, la civilización como la conocemos ha caído, la Ciudad de México también, y se ha dividido en un conjunto de reinos que mantienen una paz frágil e intentan sobrevivir aprovechando los restos de la tecnología de otra época. En el reino del Centro vive Sita, una adolescente que se ocupa, junto con su abuela Lucina, de mantener las comunicaciones del Fuerte, la base del cacique local. Ambas viven con Celeste: la conciencia de una mujer que conoció los tiempos antiguos y ahora está almacenada en una computadora. Cuando Sita se entera de los planes que tienen para ella, decide emprender una huida hacia un lugar mejor, pero en el camino se topará con amenazas peligrosas de las que nadie ha escapado vivo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786071664136"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6071664136"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V6zDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V6zDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=V6zDDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=V6zDDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=V6zDDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 22.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 22.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=V6zDDwAAQBAJ&rdid=book-V6zDDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 22900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 22900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_noche_en_la_zona_M-sample-epub.acsm?id=V6zDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_noche_en_la_zona_M-sample-pdf.acsm?id=V6zDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V6zDDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En un mundo distópico futurista, la civilización como la conocemos ha caído, la Ciudad de México también, y se ha dividido en un conjunto de reinos que mantienen una paz frágil e intentan sobrevivir aprovechando los restos de la ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZfhJEQAAQBAJ",
+      "etag": "Z9B8gLSUTkk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZfhJEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Cabezas en la ventana",
+        "subtitle": "Antología de terror latinoamericano",
+        "authors": [
+          "Mariana Enríquez",
+          "Verena Cavalcante",
+          "Elaine Vilar Madruga",
+          "Ramiro Sanchiz",
+          "Malena Salazar Maciá",
+          "Jumko Ogata Aguilar",
+          "Oscar Nestarez",
+          "Bernardo Esquinca",
+          "Zezé Atabales",
+          "Marina Yuszczuk",
+          "Hank T. Cohen",
+          "Natalia Chávez",
+          "Pabsi Livmar",
+          "Stephany Méndez Perico",
+          "Varela Leyva",
+          "Jacobo Villalobos",
+          "Isis Aquino",
+          "Lina María Parra Ochoa",
+          "Alberto Chimal",
+          "Alexandra Pagán Vélez",
+          "Gabriela Damián Miravete",
+          "Markus Edjical Goth",
+          "Natasha Rangel",
+          "Enrique Urbina",
+          "Solange Rodríguez Pappe",
+          "Gustavo Munckel",
+          "Enza García Arreaza"
+        ],
+        "publisher": "Elefanta Editorial",
+        "publishedDate": "2025-02-24",
+        "description": "¿Qué hay en el fondo de nosotrxs? ¿Qué hay, a su vez, en lo más profundo de lxs demás? El terror ilumina esas preguntas, es costura fina, una manera de explorar lugares lejanos, propios y ajenos, y de hablar de las diferencias, que hoy espantan a tanta gente. Sin duda, el terror descoloca nuestros prejuicios sobre la otredad, evoca los fantasmas que nos acompañan, piensa a la sociedad, la naturaleza, en nuestros límites, es una forma de mirar de cerca lo que, quizás, queremos esconder. ¿Qué significa el destape de lo macabro o, mejor dicho, de lo incomprensible? Este libro congrega textos inéditos de las voces más trascendentales (aunque no todas, claro) del terror actual latinoamericano. Una de las mejores dimensiones de la literatura híbrida sin duda reside en él. Con textos inéditos de: Mariana Enriquez (Argentina), Verena Cavalcante (Brasil), Elaine Vilar Madruga (Cuba), Ramiro Sanchiz (Uruguay), Malena Salazar Maciá (Cuba), Jumko Ogata Aguilar (México), Oscar Nestarez (Brasil), Bernardo Esquinca (México), Zezé Atabales (Chile), Marina Yuszczuk (Argentina), Hank T. Cohen (Colombia), Natalia Chávez (Bolivia), Pabsi Livmar (Puerto Rico), Stephany Méndez Perico (Colombia), Varela Leyva (Cuba), Jacobo Villalobos (Venezuela), Isis Aquino (República Dominicana), Lina María Parra Ochoa (Colombia), Alberto Chimal (México), Alexandra Pagán Vélez (Puerto Rico), Gabriela Damián Miravete (México), Markus Edjical Goth (República Dominicana), Natasha Rangel (Venezuela), Enrique Urbina (México), Solange Rodríguez Pappe (Ecuador), Gustavo Munckel (Bolivia) y Enza García Arreaza (Venezuela).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078978229"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6078978225"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 395,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZfhJEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZfhJEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ZfhJEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZfhJEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZfhJEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 102.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 102.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZfhJEQAAQBAJ&rdid=book-ZfhJEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 102900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 102900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cabezas_en_la_ventana-sample-epub.acsm?id=ZfhJEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Cabezas_en_la_ventana-sample-pdf.acsm?id=ZfhJEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZfhJEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con textos inéditos de: Mariana Enriquez (Argentina), Verena Cavalcante (Brasil), Elaine Vilar Madruga (Cuba), Ramiro Sanchiz (Uruguay), Malena Salazar Maciá (Cuba), Jumko Ogata Aguilar (México), Oscar Nestarez (Brasil), Bernardo ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EEseAQAAIAAJ",
+      "etag": "Bj/yB6WfHsI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EEseAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Canovacci",
+        "authors": [
+          "Alberto Chimal",
+          "Mauricio Alberto Martínez Chimal"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105021727768"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EEseAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EEseAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=EEseAQAAIAAJ&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=EEseAQAAIAAJ&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canovacci.html?hl=&id=EEseAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EEseAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EMqIDwAAQBAJ",
+      "etag": "x5ofR1tD/Dk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EMqIDwAAQBAJ",
+      "volumeInfo": {
+        "title": "La tienda de los sueños",
+        "subtitle": "Un siglo de cuento fantástico mexicano",
+        "authors": [
+          "Alberto Chimal",
+          "Amado Nervo",
+          "Elena Garro",
+          "Leonora Carrington",
+          "Juan José Arreola",
+          "Guadalupe Dueñas",
+          "Amparo Dávila",
+          "Inés Arredondo",
+          "José Emilio Pacheco",
+          "Agustín Monsreal",
+          "Guillermo Samperio",
+          "Álvaro Uribe",
+          "Verónica Murguía",
+          "Norma Lazo",
+          "Cecilia Eudave",
+          "Ignacio Padilla",
+          "Fernando de León",
+          "Bernardo Esquinca",
+          "Magali Velasco",
+          "Iliana Vargas",
+          "Édgar Omar Avilés"
+        ],
+        "publisher": "Ediciones SM",
+        "publishedDate": "2016-02-15",
+        "description": "La literatura vuelve realidad todo. Y así lo ha demostrado una innumerable cantidad de autores desde hace cientos de años. Aquí no encontrarás elfos, dragones ni niños magos con lentes y varitas, sino que te enfrentarás a encuentros con el Diablo, desapariciones inexplicables, personas duplicadas, saltos en el tiempo, criaturas informes que van a estrujarte el cerebro en tu intento por comprenderlas... ¿Qué es lo fantástico? Aquello inexplicable, la presencia de lo raro, eso que o logramos entender... lo imposible que se hace posible gracias a la literatura.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786072418097"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6072418090"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EMqIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=EMqIDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EMqIDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EMqIDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EMqIDwAAQBAJ&rdid=book-EMqIDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_tienda_de_los_sue%C3%B1os-sample-epub.acsm?id=EMqIDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/La_tienda_de_los_sue%C3%B1os-sample-pdf.acsm?id=EMqIDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EMqIDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Aquello inexplicable, la presencia de lo raro, eso que o logramos entender... lo imposible que se hace posible gracias a la literatura."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7z0yEQAAQBAJ",
+      "etag": "5APL3msVxvM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7z0yEQAAQBAJ",
+      "volumeInfo": {
+        "title": "El ángel de lo extraño",
+        "subtitle": "Cuentos fantásticos del siglo XIX",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publisher": "UNAM, Dirección General de Publicaciones y Fomento Editorial",
+        "publishedDate": "2024-11-18",
+        "description": "Compilada por Alberto Chimal, considerado como uno de los mejores representantes de la literatura fantástica en México, esta antología reúne excelsos y extraños cuentos de afamadas escritoras y escritores de distintas latitudes como Edgar Allan Poe, Charles Dickens, Hans Christian Andersen y Mary Shelley, entre otros igualmente relevantes como Charlotte Riddell, Amelia Ewards y Joseph Sheridan Le Fanu, las plumas latinoamericanas de Machado de Assis, Pedro Castera y Laura Méndez De Cuenca, y las hispanoamericanas de Emilia Pardo Bazán y Gustavo Adolfo Bécquer. Estas son historias que relatan acontecimientos insólitos, extraños e imposibles; que quieren atraernos y fascinarnos, asustarnos e invitarnos a pensar en la vida real, en lo que sí es posible, de otra manera, provenientes de otro tiempo y de uno de los bordes más remotos de la creatividad humana: la fantasía.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073096584"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6073096585"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7z0yEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7z0yEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=7z0yEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7z0yEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7z0yEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 37.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7z0yEQAAQBAJ&rdid=book-7z0yEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 37900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_%C3%A1ngel_de_lo_extra%C3%B1o-sample-epub.acsm?id=7z0yEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/El_%C3%A1ngel_de_lo_extra%C3%B1o-sample-pdf.acsm?id=7z0yEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7z0yEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Compilada por Alberto Chimal, considerado como uno de los mejores representantes de la literatura fantástica en México, esta antología reúne excelsos y extraños cuentos de afamadas escritoras y escritores de distintas latitudes como ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WMaAEAAAQBAJ",
+      "etag": "IjXYGDR9hBA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WMaAEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Las aventuras del capitán sin nombres",
+        "authors": [
+          "Alberto Chimal"
+        ],
+        "publisher": "Ediciones SM",
+        "publishedDate": "2022-08-11",
+        "description": "Filiberto es un genio adolescente y capitán de un moderno barco. Con ayuda de su tripulación busca vencer a su enemigo, el tiburón de los siete mares, y volverse \"influencer\". ¿Logrará su objetivo? ¿o descubrirá que su aventura apenas comienza?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786072446243"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6072446248"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 191,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WMaAEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WMaAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=WMaAEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Alberto+Chimal%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WMaAEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WMaAEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 44.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 44.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WMaAEAAAQBAJ&rdid=book-WMaAEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 44900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 44900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_aventuras_del_capit%C3%A1n_sin_nombres-sample-epub.acsm?id=WMaAEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_aventuras_del_capit%C3%A1n_sin_nombres-sample-pdf.acsm?id=WMaAEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WMaAEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Filiberto es un genio adolescente y capitán de un moderno barco."
+      }
+    }
+  ]
+}

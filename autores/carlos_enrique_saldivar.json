@@ -1,0 +1,353 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 5,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "-cH_DwAAQBAJ",
+      "etag": "RhEyHol8rNw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-cH_DwAAQBAJ",
+      "volumeInfo": {
+        "title": "S.F.-OVNI",
+        "authors": [
+          "Ajedsus",
+          " Silvia Alejandra Fernández",
+          "Israel Montalvo",
+          "J. R. Del Rio",
+          "Héctor Vargas",
+          " Karla Hernández Jiménez",
+          "Eduar Yosniel Pájaro Peña",
+          "C. J. Torres",
+          "Andrea Arismendi Miraballes",
+          "Carlos Enrique Saldivar",
+          "Mery Jamerlit Jaén Castro"
+        ],
+        "publisher": "Israel Montalvo",
+        "publishedDate": "2020-08-10",
+        "description": "SOLAR FLARE - OVNI de editorial Solaris La ciencia ficción ha sido, desde el Somnium de Kepler o el Frankenstein de Mary Shelley, un género que ofrece propuestas creativas al porvenir incierto. Lectores y escritores consideran que la especulación en el arte suele adelantarse a la realidad; ya nadie se cuestiona las inteligencias artificiales, las clonaciones, los viajes espaciales, sin embargo, existen antes como ficción que como ciencia. El deseo por saber qué hay más allá de nosotros ha llevado a la humanidad a explorar el Universo anhelando encontrar algo más, tal vez una clave de nuestra propia existencia, tal vez una confirmación de que no estamos tan solos. En este nuevo tomo de Solar Flare, las narraciones giran en torno a esa posibilidad y a esa búsqueda. Los cientos de archivos liberados por la CIA en abril de este singular 2020 sobre el fenómeno OVNI han inspirado a escritores de Argentina, Colombia, México, Perú y Uruguay a crear historias que transitan por mundos diversos, ucronías, planetas desconocidos o entornos tan familiares como enrarecidos. Andrea Arismendi Miraballes Abducciones, hibridaciones, aliens arácnidos, sexo con extraterrestres, grises con nefastas intenciones, Arcturianos, seres mantis. Todo esto hallarás en las páginas de este número de Solar Flare que toma el fenómeno OVNI para traerte relatos fantásticos de todas las américas.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 329,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-cH_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-cH_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=-cH_DwAAQBAJ&printsec=frontcover&dq=inauthor:%22Carlos+Enrique+Saldivar%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-cH_DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-cH_DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-cH_DwAAQBAJ&rdid=book--cH_DwAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/S_F_OVNI-sample-pdf.acsm?id=-cH_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-cH_DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Andrea Arismendi Miraballes Abducciones, hibridaciones, aliens arácnidos, sexo con extraterrestres, grises con nefastas intenciones, Arcturianos, seres mantis."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ioRjEAAAQBAJ",
+      "etag": "ZDG9j9/VaqQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ioRjEAAAQBAJ",
+      "volumeInfo": {
+        "title": "MOULIN NOIR OMNIBUS",
+        "authors": [
+          "Victor Grippoli",
+          "Rigardo Márquez ",
+          "Carlos Enrique Saldivar",
+          "Albert Gamundi",
+          "H. F. Velazco",
+          "David Sarabia",
+          "Poldark Mego"
+        ],
+        "publisher": "victor grippoli",
+        "publishedDate": "2022-03-01",
+        "description": "Moulin Noir Ómnibus La mega colección que esperabas ha llegado. Nos encontramos con un recopilatorio 2.0, por decirlo así. Van a encontrar los relatos de nuestros personajes favoritos de los primeros tres números de Moulin cuando estaba bajo el sello de Aeternum pero actualizados. Va a ser un reencuentro con esas obras de gran nivel y para los que comenzaron a leernos con el número 4 esto va a ser todo un descubrimiento. Varios lo estaban pidiendo. Es un placer para Editorial Solaris de Uruguay darles este Ómnibus, en donde van a encontrar el material de los que seguimos con este proyecto para darle cierre al arco primero de esta aventura Noir que constará de tres números, el volumen presente y un libro final. ¡Y qué libro tendrán a futuro! Más adelantos no les puedo hacer. Sobre la parte artística hay varias cosas que decir. Para los números 4, 5 y 6, decidí usar interiores en blanco y negro con material gráfico más vanguardista, que salieran de lo común. Vimos abstracciones, grabados en acrílico y madera por poner ejemplos concretos. Para el Ómnibus quise dar un paso más allá, incorporar el color como punto de diferencia con los números convencionales me atrajo mucho. Pero no quería usar métodos tradicionales como en el 4 ni tabletas gráficas como para el número 5. Ahora probaríamos con la inteligencia artificial. Ya les anticipo que la cubierta del 6 está generada de igual manera. Hablando de tapas, la de Ómnibus está realizada usando generadores de rostro en donde pones parámetros y aparece el resultado. Otras imágenes fueron hechas usando palabras clave que se le dicta a la IA y esta genera un resultado basándose el tipo de arte que uno selecciona. Eso ha permitido una gran diversidad en los resultados obtenidos. ¡Interesante camino este, nos ha dado un punto de quiebre y diferenciación con otras publicaciones! Sobre los relatos no voy a hacer comentarios. Es el reencuentro con todos nuestros personajes que tantas alegrías nos han dado más alguna sorpresa inédita escrita especialmente para ustedes por Carlos Saldívar y el que les habla. Como siempre es un placer único trabajar con el creador de esta serie, Rigardo Márquez. Sin él esto no sería posible y le agradezco su constante apoyo así como a todos los escritores de diversas partes del globo que componen Moulin Noir. Ahora les dejo paso a la aventura. De seguro van a disfrutar de todo este pulp maravilloso que nos cautiva con cada hoja. ¿Están listos para empezar? Lord Víctor Grippoli NUESTROS AUTORES: David Sarabia Nació en Culiacán en 1976 y actualmente vive en San Luis Río Colorado, Sonora, México. Es Administrador de Empresas con Maestría en Dirección de Negocios por UNIDEP. Es empresario de la construcción, Docente en Centro Universitario de Sonora y miembro de la Asociación de Escritores de San Luis A.C. Sus cuentos han sido publicados en revistas como La Gata Roja y en digitales como Letras y Demonios, Incomunidade, de la Tripa, The Wax, Moulin Noir, y en el Blog Buenos Relatos. En papel fue publicado por Mini Libros de Sonora: Noctámbulos. Colabora en con una columna mensual en la revista digital: delatripa, de Matamoros Tamaulipas dirigida por el escritor Adán Echeverría. Actualmente está terminando una novela de ciencia ficción y horror con pinceladas Lovecraftianas: TITANIS, próxima a publicarse en Amazon para este 2022. Poldark Mego (Lima, Perú, 1985) Psicólogo, actor y director de teatro. Como autor, publicó los libros Pandemia Z: Supervivientes (Torre de papel, 2019). El Domo, historias distópicas (Torre de papel, 2020). Grietas del abismo (Pez del Abismo 2021). Pandemia Z: Cuarentena (Torre de papel, 2021) Como gestor cultural, ha organizado la miniferia de libro Outlet 2020 y la convención internacional de literatura fantástica Uróboros 2020. Miembro fundador de la asociación de literatura de ciencia ficción, fantasía y terror Perú CFFT, que se especializa en la difusión de la literatura de género. Ganador del primer puesto en el concurso internacional de ciencia Ficción Tierra en el año 3000 de Trazos editores. Antologador de Pulp primitivo y Cyberterror (2020) con la editorial Speedwagon Media Works. Y director ejecutivo y editorial del sello de literatura fantástica Pez del Abismo. Carlos Enrique Saldívar (Lima, Perú, 1982). Dirigió la revista Argonautas y el fanzine El Horla; fue miembro del comité editorial del fanzine Agujero Negro. Dirige las revistas Minúsculo al Cubo y El Muqui. Administra la revista Babelicus. Publicó el relato El otro engendro (2012). Publicó los libros de cuentos Historias de ciencia ficción (2008, 2018), Horizontes de fantasía (2010) y El otro engendro y algunos cuentos oscuros (2019). Compiló las selecciones: Nido de cuervos: cuentos peruanos de terror y suspenso (2011), Ciencia Ficción Peruana 2 (2016), Tenebra: muestra de cuentos peruanos de terror (2017, 2018, 2021), Muestra de literatura peruana (2018), Constelación: muestra de cuentos peruanos de ciencia ficción (2021) y Vislumbra: muestra de cuentos peruanos de fantasía (2021). Víctor Grippoli (Montevideo, Uruguay, 1983). Artista plástico con variadas exposiciones nacionales, docente en primaria, exdocente universitario, especialista en grabado en metal, madera y monotipo. Escritor de ciencia ficción, terror y fantasía. Ha publicado en formato físico y digital con Editorial Cthulhu, Grupo LLEC, Espejo Humeante, Letras y demonios, Letras entre sábanas, el club de la labia, Editorial Aeternum y Editorial Pandemonium entre otras. En 2018 funda Editorial Solaris de Uruguay en donde ejerce como editor, ilustrador, diseñador y seleccionador de relatos para las colecciones de Solar Flare y Líneas de Cambio. Ha publicado internacionalmente en España, Estados Unidos, México, Perú y Bolivia. Tiene un canal de YouTube llamado Editorial Solaris de Uruguay con análisis de libros, series, cine, anime del fansub www.key-anime.com (del cual es parte) y cómics. Participa representando a Editorial Solaris de Uruguay junto a Andrea Arismendi en el primer festival de horror en Virginia (USA) en el 2021. Albert Gamundi Sr. (1991) es escritor e historiador de nacionalidad española. Con una narrativa inspirada en los autores grecorromanos, el autor practica habitualmente la escritura de novelas, relatos cortos y microrrelatos. A pesar de que el autor tiene facilidad para escribir la mayoría de géneros, su especialidad son las obras de drama, terror y thriller. El Sr. Gamundi es conocido por su participación en el evento literario internacional Nanowrimo (2016–2020) para el cual ha presentado títulos como ¡Por el Sake de Kano! (Drama) y La Corona Usurpada (Thriller). Sin embargo, también ha colaborado activamente en antologías literarias como el Codex Maledictus (2019, la revista pulp Moulin Noir (2019 – en curso) o la iniciativa solidaria Visibiliz-Arte (2021). Actualmente el autor está trabajando en varios proyectos literarios individuales y colectivos, además de reseñar libros a tiempo parcial. H. F. Velasco. Héctor Fernando Velasco Arroyo, veintiocho años, México. Autor de El antiguo linaje. Colaborador de la publicación Moulin Noir desde su primer número. Rigardo Márquez Luis, 1985, nacido en Coatzacoalcos, Veracruz, México, ha sido publicado bajo el sello de Editorial Cthulhu, y Pandemonium, y ha participado en varias revistas antológicas como: The wax, Letras y Demonios, Necroscriptum, El Narratorio, entre otros.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ioRjEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ioRjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=ioRjEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Carlos+Enrique+Saldivar%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ioRjEAAAQBAJ&dq=inauthor:%22Carlos+Enrique+Saldivar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/MOULIN_NOIR_OMNIBUS.html?hl=&id=ioRjEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/MOULIN_NOIR_OMNIBUS-sample-pdf.acsm?id=ioRjEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ioRjEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rigardo Márquez Luis, 1985, nacido en Coatzacoalcos, Veracruz, México, ha sido publicado bajo el sello de Editorial Cthulhu, y Pandemonium, y ha participado en varias revistas antológicas como: The wax, Letras y Demonios, Necroscriptum, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p0TEyAEACAAJ",
+      "etag": "WtSmolqTp8w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p0TEyAEACAAJ",
+      "volumeInfo": {
+        "title": "Lineas de Cambio II",
+        "authors": [
+          "Julio Cevasco",
+          "Juan Pablo Goni",
+          "Alfonso Padilla"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2018-10-23",
+        "description": "Líneas de Cambio IIAntología de Ciencia Ficción - Fantasía - Terror.Ya está entre nosotros esta nueva antología de Editorial Solaris compuesta por autores de Sudamérica. En esta edición se unen la Ciencia Ficción, la fantasía y el terror para brindarnos un cóctel único. Tendremos relatos que mezclan la Ciencia Ficción con el folklore local japonés y el horror como en \"La hija del rey dragón\". Sentiremos de primera mano el pasaje por mundos medievales y fantásticos en \"Los animales\". Seguiremos la ruta con extraños desplazamientos de la mente como en \"Derechos de Autor\" y terminaremos en el mismísimo averno en donde se vive una perversa historia de amor con \"Veinticuatro Horas\". Conoceremos dragones parlantes que cambian nuestros mitos sobre el origen humano en \"Futuro\". Seremos víctimas de sistemas opresores en \"Proyecto Cendra\". La droga y sus historias sórdidas nos acompañan en \"Merde glacée de chien\". En \"La máquina del azar\" sentiremos las terribles consecuencias de poseer un aparato capaz de cambiarlo todo y capaz de trascender a su misma condición. También veremos otros mundos que probablemente jamás deberíamos conocer pues hay secretos que es mejor no conocer como en \"Mirada hacia lo abominable\"... Hay puertas que deben permanecer cerradas... nosotros las hemos abierto...Esta edición les promete un paseo con algunos de los principales representantes de las letras de nuestro continente. Permítete subir a nuestra astronave y emprender un viaje que tal vez no tenga retorno pero que será infinitamente placentero.Participan: Víctor Grippoli (Uruguay)Julio Cevasco Alcázar (Perú)Juan Pablo Goñi Capurro (Argentina)Alfonso Padilla (México)Patricia K. Olivera (Uruguay)Jules Verde (Perú)Ximena R. Molinari (Uruguay)Tania Huerta (Perú)Carlos Enrique Saldivar (Perú)Frak Torres Vergel (Colombia)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1729169570"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781729169575"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p0TEyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p0TEyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=p0TEyAEACAAJ&dq=inauthor:%22Carlos+Enrique+Saldivar%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=p0TEyAEACAAJ&dq=inauthor:%22Carlos+Enrique+Saldivar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lineas_de_Cambio_II.html?hl=&id=p0TEyAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p0TEyAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Permítete subir a nuestra astronave y emprender un viaje que tal vez no tenga retorno pero que será infinitamente placentero.Participan: Víctor Grippoli (Uruguay)Julio Cevasco Alcázar (Perú)Juan Pablo Goñi Capurro (Argentina)Alfonso ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sj_uxQEACAAJ",
+      "etag": "trJ2rq96C0s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sj_uxQEACAAJ",
+      "volumeInfo": {
+        "title": "Historias de ciencia ficción",
+        "authors": [
+          "Carlos Enrique Saldivar"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6124774941"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786124774942"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 145,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=sj_uxQEACAAJ&dq=inauthor:%22Carlos+Enrique+Saldivar%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=sj_uxQEACAAJ&dq=inauthor:%22Carlos+Enrique+Saldivar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historias_de_ciencia_ficci%C3%B3n.html?hl=&id=sj_uxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sj_uxQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FQ51zQEACAAJ",
+      "etag": "HkVh4KbNmBo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FQ51zQEACAAJ",
+      "volumeInfo": {
+        "title": "El otro engendro y algunos cuentos oscuros",
+        "authors": [
+          "Carlos Enrique Saldivar"
+        ],
+        "publishedDate": "2019",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6124804654"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786124804656"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 85,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=FQ51zQEACAAJ&dq=inauthor:%22Carlos+Enrique+Saldivar%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=FQ51zQEACAAJ&dq=inauthor:%22Carlos+Enrique+Saldivar%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_otro_engendro_y_algunos_cuentos_oscur.html?hl=&id=FQ51zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FQ51zQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

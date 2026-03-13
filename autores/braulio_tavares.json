@@ -1,0 +1,1344 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4LvTAwAAQBAJ",
+      "etag": "58XtmFpiWRk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4LvTAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Sete monstros brasileiros",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publisher": "Leya",
+        "publishedDate": "2014-06-01",
+        "description": "O terror da mitologia brasileira.A literatura fantástica contemporânea muito se alimenta de personagens das mitologias grega e nórdica, das tradições celtas e bretãs, da literatura árabe do Oriente Médio e dos contos tradicionais do Extremo Oriente. Pouco se lê, no entanto, sobre os seres fantásticos criados e reproduzidos na extensa tradição da literatura oral brasileira. Nós também, afinal, temos os nossos monstros. Instigado pela riqueza dessa tradição, Bráulio Tavares reuniu, em sete contos inéditos, histórias inspiradas nas criaturas monstruosas da mitologia brasileira, compondo assim uma coletânea de aventuras protagonizadas por alguns dos nossos personagens mais assustadores, alguns conhecidos Brasil adentro apenas pela tradição oral, como o papa-figo, e outros mais famosos, como o lobisomem e a Iara.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788577344833"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8577344835"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.19.22.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4LvTAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4LvTAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=4LvTAwAAQBAJ&printsec=frontcover&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4LvTAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4LvTAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 27.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4LvTAwAAQBAJ&rdid=book-4LvTAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 27990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Sete_monstros_brasileiros-sample-epub.acsm?id=4LvTAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4LvTAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Instigado pela riqueza dessa tradição, Bráulio Tavares reuniu, em sete contos inéditos, histórias inspiradas nas criaturas monstruosas da mitologia brasileira, compondo assim uma coletânea de aventuras protagonizadas por alguns dos ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U1SjskO9AWoC",
+      "etag": "pdM60v7SD2I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U1SjskO9AWoC",
+      "volumeInfo": {
+        "title": "Contando histórias em versos",
+        "subtitle": "poesia e romanceiro popular no Brasil",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publisher": "Editora 34",
+        "publishedDate": "2005",
+        "description": "O que existe em comum entre a cantiga de roda e o rap, a poesia erudita e a de cordel, uma canção de MPB e um poema de Homero? Neste livro, Braulio Tavares expõe de maneira clara, direta e bem-humorada os principais recursos expressivos da linguagem poética, ao mesmo tempo em que introduz os leitores no vasto repertório de rimas, ritmos, estrofes, assuntos e modos narrativos que constituem o Romanceiro Popular brasileiro.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8573263318"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788573263312"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U1SjskO9AWoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U1SjskO9AWoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=U1SjskO9AWoC&printsec=frontcover&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=U1SjskO9AWoC&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contando_hist%C3%B3rias_em_versos.html?hl=&id=U1SjskO9AWoC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Contando_hist%C3%B3rias_em_versos-sample-pdf.acsm?id=U1SjskO9AWoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U1SjskO9AWoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FTULBAAAQBAJ",
+      "etag": "Lbv6dWgaUZo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FTULBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Brinquedos Mortais - Haxan",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publisher": "Editora Draco",
+        "publishedDate": "2012-01-01",
+        "description": "Conto de terror de Braulio Tavares. Num futuro próximo, um grupo de garotos se diverte praticando pequenas transgressões, fugindo das milícias armadas, e usando aparelhos de realidade virtual com fins educativos para brincadeiras violentas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788509991616"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8509991618"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FTULBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FTULBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=FTULBAAAQBAJ&printsec=frontcover&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FTULBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FTULBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.99,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 2.99,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FTULBAAAQBAJ&rdid=book-FTULBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 2990000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Brinquedos_Mortais_Haxan-sample-epub.acsm?id=FTULBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Brinquedos_Mortais_Haxan-sample-pdf.acsm?id=FTULBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FTULBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conto de terror de Braulio Tavares."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qFg19JDybNsC",
+      "etag": "DvXqHKOz8/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qFg19JDybNsC",
+      "volumeInfo": {
+        "title": "O flautista misterioso e os ratos de Hamelin",
+        "subtitle": "literatura de cordel",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publisher": "Editora 34",
+        "publishedDate": "2019",
+        "description": "Com sextilhas rimadas e bem divertidas, Braulio Tavares conta, em forma de cordel, a célebre lenda do flautista de Hamelin, acrescida de toques engenhosos e alusões contemporâneas. Aqui não faltam tiradas e comentários engraçados sobre uma cidade que, além de ser vítima dos ratos, é vítima também de seus políticos corruptos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8573263466"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788573263466"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qFg19JDybNsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qFg19JDybNsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=qFg19JDybNsC&printsec=frontcover&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=qFg19JDybNsC&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_flautista_misterioso_e_os_ratos_de_Ham.html?hl=&id=qFg19JDybNsC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_flautista_misterioso_e_os_ratos_de_Ham-sample-pdf.acsm?id=qFg19JDybNsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qFg19JDybNsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wM3owAEACAAJ",
+      "etag": "Pp4o1+GiD7g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wM3owAEACAAJ",
+      "volumeInfo": {
+        "title": "Auto da compadecida",
+        "authors": [
+          "Ariano Suassuna"
+        ],
+        "publisher": "Agir Editora",
+        "publishedDate": "2004",
+        "description": "O 'Auto da Compadecida' é raro exemplo de um 'clássico instantâneo', aquele tipo de obra que tem seu valor reconhecido imediatamente após sua divulgação. Escrita em 1955 por Ariano Suassuna, a peça estreou no ano seguinte e, já em 1957, ano em que foi publicada pela AGIR, venceu a Medalha de Ouro da Associação Brasileira de Críticos Teatrais. Para celebrar os 50 anos de sua criação, o 'Auto' ganha uma edição comemorativa, em capa dura, que traz o texto definitivo, revisado pelo autor, acompanhado por ensaios em que Raimundo Carrero, Bráulio Tavares e Carlos Newton Jr. elucidam aspectos biográficos, históricos e teatrais de uma das peças mais populares do Brasil. A ilustrações são de Dantas Suassuna. No 'Auto', Ariano consegue o equilíbrio perfeito entre a tradição popular e a elaboração literária ao recriar para o teatro episódios registrados na tradição popular do cordel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8522006342"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788522006342"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 230,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=wM3owAEACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=wM3owAEACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Auto_da_compadecida.html?hl=&id=wM3owAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wM3owAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xXOsAQAACAAJ",
+      "etag": "VGCXbkkeFUQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xXOsAQAACAAJ",
+      "volumeInfo": {
+        "title": "Romance d'a Pedra do Reino e o príncipe do sangue do vai-e-volta",
+        "subtitle": "da obra de Ariano Suassuna",
+        "authors": [
+          "Luís Alberto de Abreu"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:301679915"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Pedra do Reino (Television program)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=xXOsAQAACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=xXOsAQAACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romance_d_a_Pedra_do_Reino_e_o_pr%C3%ADncipe.html?hl=&id=xXOsAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xXOsAQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yz9lAAAAMAAJ",
+      "etag": "EpN9Z3vDL3Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yz9lAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Ariano Suassuna, Auto da compadecida, 50 anos",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015062466696"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yz9lAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yz9lAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=yz9lAAAAMAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=yz9lAAAAMAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ariano_Suassuna_Auto_da_compadecida_50_a.html?hl=&id=yz9lAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yz9lAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UbWPz5CSizQC",
+      "etag": "UQmJh0fIN3k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UbWPz5CSizQC",
+      "volumeInfo": {
+        "title": "A invenção do mundo pelo Deus-curumim",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publisher": "Editora 34",
+        "publishedDate": "2008",
+        "description": "Quem iria imaginar que um mundo inteiro caberia dentro de um coco? Pois o escritor Braulio Tavares e o artista plástico Fernando Vilela imaginaram. Inspirados em mitos indígenas sobre a criação do mundo, eles juntaram seus talentos para contar esta fábula misteriosa sobre a relação entre a linguagem e o mundo, e na qual as Letras são personagens.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8573263997"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788573263992"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.8.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UbWPz5CSizQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UbWPz5CSizQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=UbWPz5CSizQC&printsec=frontcover&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=UbWPz5CSizQC&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_inven%C3%A7%C3%A3o_do_mundo_pelo_Deus_curumim.html?hl=&id=UbWPz5CSizQC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/A_inven%C3%A7%C3%A3o_do_mundo_pelo_Deus_curumim-sample-pdf.acsm?id=UbWPz5CSizQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UbWPz5CSizQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GkBlAAAAMAAJ",
+      "etag": "+ImGBXayFz0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GkBlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "ABC de Ariano SuaSSuna",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015070758464"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Brazilian"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GkBlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GkBlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=GkBlAAAAMAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=GkBlAAAAMAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ABC_de_Ariano_SuaSSuna.html?hl=&id=GkBlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GkBlAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RGa8AAAACAAJ",
+      "etag": "FlMyh9lFGds",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RGa8AAAACAAJ",
+      "volumeInfo": {
+        "title": "Mundo Fantasmo",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9722111043"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789722111041"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 105,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=RGa8AAAACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=RGa8AAAACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mundo_Fantasmo.html?hl=&id=RGa8AAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RGa8AAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uDgTAQAAMAAJ",
+      "etag": "ulXDg2ZMyBU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uDgTAQAAMAAJ",
+      "volumeInfo": {
+        "title": "A espinha dorsal da memória",
+        "subtitle": "Mundo fantasmo",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89064106727"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uDgTAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uDgTAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=uDgTAQAAMAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=uDgTAQAAMAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_espinha_dorsal_da_mem%C3%B3ria.html?hl=&id=uDgTAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uDgTAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rxHmtAEACAAJ",
+      "etag": "+OTcI+acSEo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rxHmtAEACAAJ",
+      "volumeInfo": {
+        "title": "Freud e o estranho: contos fantásticos do inconsciente",
+        "authors": [
+          "BRAULIO TAVARES"
+        ],
+        "publishedDate": "2007",
+        "description": "Antologia de contos escritos entre o fim do século XIX e o começo do XX relacionados com os temas que Freud trabalhou no ensaio 'O estranho', publicado em 1919. Hoffmann, Maupassant, Meyrink e Bram Stoker, grandes referências em estudos sobre literatura fantástica, estão no elenco.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8577340724"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788577340729"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 348,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=rxHmtAEACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=rxHmtAEACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Freud_e_o_estranho_contos_fant%C3%A1sticos_d.html?hl=&id=rxHmtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rxHmtAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A fantasia trazendo à tona imagens do nível mais profundo da mente.Uma antologia de contos escritos entre o final do século XIX e as primeiras décadas do século XX inspirada na relação entre o conceito de inconsciente e a literatura ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cZN1AAAAMAAJ",
+      "etag": "S3EKBL2qH1c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cZN1AAAAMAAJ",
+      "volumeInfo": {
+        "title": "O homem artificial",
+        "subtitle": "poemas",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173006581181"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 78,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cZN1AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cZN1AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=cZN1AAAAMAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=cZN1AAAAMAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_homem_artificial.html?hl=&id=cZN1AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cZN1AAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jt3dxgEACAAJ",
+      "etag": "GbiJNHdJHX4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jt3dxgEACAAJ",
+      "volumeInfo": {
+        "title": "Galos de Campina",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8581655610"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788581655611"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=jt3dxgEACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=jt3dxgEACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Galos_de_Campina.html?hl=&id=jt3dxgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jt3dxgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y2_WoAEACAAJ",
+      "etag": "pSSPjUHFNys",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y2_WoAEACAAJ",
+      "volumeInfo": {
+        "title": "A nuvem de hoje",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8563984055"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788563984050"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=y2_WoAEACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=y2_WoAEACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_nuvem_de_hoje.html?hl=&id=y2_WoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y2_WoAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kF9fAAAAMAAJ",
+      "etag": "+nwZimUg7QU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kF9fAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Luzeiro volante",
+        "authors": [
+          "Tavinho Teixeira"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015060026617"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kF9fAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kF9fAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=kF9fAAAAMAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=kF9fAAAAMAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Luzeiro_volante.html?hl=&id=kF9fAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kF9fAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7JseAQAAIAAJ",
+      "etag": "XZ7MbVnIe9g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7JseAQAAIAAJ",
+      "volumeInfo": {
+        "title": "A máquina voadora",
+        "subtitle": "história do sapateiro Gamboa, e de sua maravilhosa máquina de voar",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105016476298"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7JseAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7JseAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=7JseAQAAIAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=7JseAQAAIAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_m%C3%A1quina_voadora.html?hl=&id=7JseAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7JseAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P6P2pwAACAAJ",
+      "etag": "yzwqcPvoVC0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P6P2pwAACAAJ",
+      "volumeInfo": {
+        "title": "Páginas do futuro",
+        "subtitle": "contos brasileiros de ficção científica",
+        "authors": [
+          "Braulio Tavares"
+        ],
+        "publisher": "Casa Da Palavra",
+        "publishedDate": "2011-01-01",
+        "description": "Braulio Tavares reúne em 'Páginas do futuro' 12 contos de literatura fantástica de autores brasileiros, como Joaquim Manuel de Macedo, Rachel de Queiroz, Rubem Fonseca, Fausto Fawcett. Nesta obra estão representadas épocas sucessivas do conto de ficção científica, passando por narrativas épicas, fantásticas e aventurosas que incluem histórias de seres sobrenaturais, deuses, monstros, artefatos mágicos, cidades encantadas, excursões a outros mundos, mitos de criação do mundo e dos seres.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8577342034"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788577342037"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Science fiction, Brazilian"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=P6P2pwAACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=P6P2pwAACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1ginas_do_futuro.html?hl=&id=P6P2pwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P6P2pwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Aventuras fantásticas, histórias épicas, mitos e criaturas sobrenaturais.12 contos de literatura fantástica de autores brasileiros, como Joaquim Manuel de Macedo, Rachel de Queiroz, Rubem Fonseca, Fausto Fawcett, apresentando o melhor ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MRbwoQEACAAJ",
+      "etag": "ChFJS5khjjU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MRbwoQEACAAJ",
+      "volumeInfo": {
+        "title": "Histórias Para Lembrar Dormindo",
+        "authors": [
+          "Tavares Braulio"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8577342441"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788577342440"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 173,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=MRbwoQEACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=MRbwoQEACAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3rias_Para_Lembrar_Dormindo.html?hl=&id=MRbwoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MRbwoQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "MERGULHE NO UNIVERSO DE CONTOS LÚDICOS E FANTÁSTICOS Neste livro, Braulio Tavares traz uma coletânea de quarenta contos marcantes e curtos que se alternam entre o mundo do visível (“Matéria-Prima”) e o mundo do improvável ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KF5fAAAAMAAJ",
+      "etag": "SQr5ukHRFRo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KF5fAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Poesia na rua",
+        "subtitle": "antologia : 30 anos de poesia popular participativa, 1967-1997",
+        "authors": [
+          "Flávio Nascimento"
+        ],
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015060032219"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KF5fAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KF5fAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=KF5fAAAAMAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=KF5fAAAAMAAJ&dq=inauthor:%22Braulio+Tavares%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poesia_na_rua.html?hl=&id=KF5fAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KF5fAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

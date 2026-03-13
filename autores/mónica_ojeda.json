@@ -1,0 +1,1565 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "A0FUEQAAQBAJ",
+      "etag": "fHbi7nY4b2I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A0FUEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Xamãs elétricos na festa do sol",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publisher": "Autêntica Contemporânea",
+        "publishedDate": "2025-05-06",
+        "description": "O NOVO ROMANCE DA AUTORA FINALISTA DO NATIONAL BOOK AWARD por Mandíbula CONSIDERADA PELA REVISTA GRANTA UMA DAS MELHORES AUTORAS HISPÂNICAS COM MENOS DE 35 ANOS \"Neste romance, a linguagem arde e nada é o que parece. Seguir Mónica Ojeda nessa viagem é, sem dúvidas, uma experiência intensa.\" Mariana Enriquez \"Com medo e fascínio, é assim que leio Mónica Ojeda. Como se lesse um feitiço, como se mordesse carne temendo encontrar algo afiado por dentro. Tão poética, tão perturbadora e brutal.\" Samanta Schweblin Ano 5540 do calendário andino. Noa decide fugir de Guayaquil, onde nasceu, com sua melhor amiga Nicole, para participar do Ruído Solar, um festival que, todos os anos, reúne, durante oito dias e sete noites, milhares de jovens — entre músicos, dançarinos, poetas e xamãs — aos pés de um dos muitos vulcões dos Andes. Ficam para trás as famílias, a violência das cidades, e se descortina uma paisagem alucinada que treme ao ritmo da música e das erupções vulcânicas sob um céu riscado por meteoritos. Para Noa, essa será a primeira parada antes de reencontrar o pai que a abandonou quando criança e que, há anos, vive nas florestas altas — um território onde também se escondem os desaparecidos, aqueles que um dia subiram ao Ruído e nunca mais voltaram para casa. Sustentado por uma lírica extraordinária, uma estética deslumbrante e muito senso de ritmo, Xamãs elétricos na festa do sol é uma viagem mística ao coração primitivo da música e da dança; uma jornada lisérgica e emocional que é, ao mesmo tempo, a busca por um pai e por um sentido de pertencimento em um mundo que só conhece a perda e o desamparo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786559285518"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6559285510"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A0FUEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A0FUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=A0FUEQAAQBAJ&printsec=frontcover&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=A0FUEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=A0FUEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 55.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 55.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=A0FUEQAAQBAJ&rdid=book-A0FUEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 55900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 55900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Xam%C3%A3s_el%C3%A9tricos_na_festa_do_sol-sample-epub.acsm?id=A0FUEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Xam%C3%A3s_el%C3%A9tricos_na_festa_do_sol-sample-pdf.acsm?id=A0FUEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A0FUEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Seguir Mónica Ojeda nessa viagem é, sem dúvidas, uma experiência intensa.&quot; Mariana Enriquez &quot;Com medo e fascínio, é assim que leio Mónica Ojeda."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "05llEAAAQBAJ",
+      "etag": "eO8TbRbQjQo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/05llEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Mandíbula",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publisher": "Autêntica Contemporânea",
+        "publishedDate": "2022-04-12",
+        "description": "Neste romance perturbador e polifônico, terrível e hipnótico, Mónica Ojeda recria um mundo do feminino monstruoso, impiedoso e sem limites, onde perigo e desejo reinam como uma fascinante deusa de duas cabeças. Fernanda, uma insolente estudante do Ensino Médio apaixonada por literatura e filmes de terror, acorda com os pés e as mãos amarrados em uma cabana no meio da floresta. Sua sequestradora, entretanto, não é uma estranha. Trata-se de Miss Clara, a professora de Literatura, uma mulher assombrada pela memória da própria mãe e assediada durante meses por suas alunas do Colégio Bilíngue Delta, uma escola católica de elite. Rapidamente, os motivos do sequestro se revelarão muito mais complexos e sombrios do que a vingança pelos traumas sofridos pela professora. Com um texto imaginativo e surpreendente, a equatoriana Mónica Ojeda cria neste romance não apenas personagens desconcertantes, mas também uma ambientação perturbadora para uma narrativa de nuances e contornos tênues entre o horror, o desejo e a perversidade, investindo nas relações de professoras e alunas, mães e filhas, irmãs e amigas do coração. Aqui, o medo e sua relação com os laços familiares, a sexualidade e a violência que espreita o amor estão expressos, várias vezes literalmente, por meio da mordida feroz e do ataque quase sexual, das brincadeiras dolorosas e da confiança quase dependente entre meninas e mulheres que se conectam, mas também se (a)traem. O rapto revelado já nas primeiras páginas será apenas o começo de uma jornada aterradora e viciante pela escrita de Mónica Ojeda. _______________________________________________________________ \"Mandíbula é o terceiro romance de Ojeda e a prova irrefutável de sua maestria para contar histórias tecidas com saliva, sangue, pesadelos e rosários de dentes de leite.\" MARÍA FERNANDA AMPUERO – El Telégrafo \"Um impacto literário, estético e emocional \" MARIANA ENRÍQUEZ – Escritora e jornalista argentina",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786559281480"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6559281485"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=05llEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=05llEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=05llEAAAQBAJ&printsec=frontcover&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=05llEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=05llEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 52.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 52.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=05llEAAAQBAJ&rdid=book-05llEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 52900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 52900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Mand%C3%ADbula-sample-epub.acsm?id=05llEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Mand%C3%ADbula-sample-pdf.acsm?id=05llEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=05llEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "O rapto revelado já nas primeiras páginas será apenas o começo de uma jornada aterradora e viciante pela escrita de Mónica Ojeda. _______________________________________________________________ &quot;Mandíbula é o terceiro romance de ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rQQ7EAAAQBAJ",
+      "etag": "bBqR0Is1zRo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rQQ7EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Jawbone",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publisher": "Coffee House Press",
+        "publishedDate": "2022-02-08",
+        "description": "Finalist for the 2022 National Book Award in Translated Literature! “Was desire something like being possessed by a nightmare?” Fernanda and Annelise are so close they are practically sisters: a double image, inseparable. So how does Fernanda end up bound on the floor of a deserted cabin, held hostage by one of her teachers and estranged from Annelise? When Fernanda, Annelise, and their friends from the Delta Bilingual Academy convene after school, Annelise leads them in thrilling but increasingly dangerous rituals to a rhinestoned, Dior-scented, drag-queen god of her own invention. Even more perilous is the secret Annelise and Fernanda share, rooted in a dare in which violence meets love. Meanwhile, their literature teacher Miss Clara, who is obsessed with imitating her dead mother, struggles to preserve her deteriorating sanity. Each day she edges nearer to a total break with reality. Interweaving pop culture references and horror concepts drawn from from Herman Melville, H. P. Lovecraft, and anonymous “creepypastas,” Jawbone is an ominous, multivocal novel that explores the terror inherent in the pure potentiality of adolescence and the fine line between desire and fear.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781566896306"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1566896304"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rQQ7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rQQ7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=rQQ7EAAAQBAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=rQQ7EAAAQBAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jawbone.html?hl=&id=rQQ7EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rQQ7EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Interweaving pop culture references and horror concepts drawn from from Herman Melville, H. P. Lovecraft, and anonymous “creepypastas,” Jawbone is an ominous, multivocal novel that explores the terror inherent in the pure potentiality ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B5XUEAAAQBAJ",
+      "etag": "aICbId8vgCw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B5XUEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Voladoras",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publisher": "Autêntica Contemporânea",
+        "publishedDate": "2023-09-06",
+        "description": "Mónica Ojeda tem sido reconhecida por seu modo peculiar de narrar o horror. Nesse sentido, em entrevista à jornalista Andrea Aguilar para o El país, a autora defende: a geografia determina a forma como se vê e como se conta o mundo. Este conjunto de oito contos parte da geografia avassaladora dos Andes equatorianos e aborda, impiedosamente, questões que passam pelas relações de amizade, de vizinhança e familiares em geral, atravessadas por elementos como a sexualidade, a violência, a dor, a vida e a morte. Em Voladoras, encontramos criaturas que sobem nos telhados de suas casas e voam, terremotos apocalípticos, desejos inconfessáveis, segredos familiares e ancestralidade em profusão. Oito contos que se situam em cidades, vilas, charnecas ou vulcões onde a violência e o misticismo, o terreno e o celeste, pertencem ao mesmo plano ritual e poético. Aqui, Ojeda, uma das vozes literárias mais expressivas da sua geração, mobiliza a cosmogonia andina, também latino-americana, de modo surpreendente; e outra vez afirma: beleza e horror são dois lados de uma mesma moeda. \"Voladoras se tornou em tempo recorde um dos livros mais elogiados da imprensa, dos leitores e dos escritores.\" Daniel Gigena, Página/12 \"É estranha, quase contraditória, a sensação de estar lendo algo profundamente belo, mas que também dá medo e, em algumas ocasiões, é divertido. O conjunto é mágico no sentido mais literal da palavra.\" Guillem Santacruz Gómez, Fundación Espacio Público",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786559283262"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6559283267"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 107,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B5XUEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B5XUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=B5XUEAAAQBAJ&printsec=frontcover&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=B5XUEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B5XUEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 41.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 41.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=B5XUEAAAQBAJ&rdid=book-B5XUEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 41900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 41900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Voladoras-sample-epub.acsm?id=B5XUEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Voladoras-sample-pdf.acsm?id=B5XUEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B5XUEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mónica Ojeda tem sido reconhecida por seu modo peculiar de narrar o horror."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3I1dEAAAQBAJ",
+      "etag": "TZrOEo1T2R4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3I1dEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Las voladoras",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publisher": "Editorial Páginas de Espuma",
+        "publishedDate": "2020-10-07",
+        "description": "Criaturas que se suben a los tejados y alzan el vuelo, una adolescente apasionada por la sangre, una profesora que recoge la cabeza de la vecina en su jardín, una chica incapaz de separarse de la dentadura de su padre, dos gemelas ruidistas en un festival de música experimental, mujeres que se lanzan desde lo alto de una montaña, terremotos apocalípticos, un chamán que escribe un conjuro para revivir a su hija. Las voladoras reúne ocho cuentos que se ubican en ciudades, pueblos, páramos, volcanes donde la violencia y el misticismo, lo terrenal y lo celeste, pertenecen a un mismo plano ritual y poético. Mónica Ojeda nos vuela la cabeza con un gótico andino y nos muestra, una vez más, que el horror y la belleza pertenecen a una misma familia. \"Una de las más poderosas novelistas latinoamericanas actuales\", Carlos Pardo, Babelia \"Puede llegar a ser adictiva\", Ricardo Baixeras, El Periódico de Catalunya \"Una de las más grandes promesas de las nuevas generaciones de escritores latinoamericanos\", Juan Ángel Juristo, ABC \"Un soplo de aire fresco sacude la literatura latinoamericana\", Xavi Ayén, La Vanguardia",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788483936658"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8483936658"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 93,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3I1dEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3I1dEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=3I1dEAAAQBAJ&printsec=frontcover&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3I1dEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3I1dEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3I1dEAAAQBAJ&rdid=book-3I1dEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_voladoras-sample-epub.acsm?id=3I1dEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Las_voladoras-sample-pdf.acsm?id=3I1dEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3I1dEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Las voladoras reúne ocho cuentos que se ubican en ciudades, pueblos, páramos, volcanes donde la violencia y el misticismo, lo terrenal y lo celeste, pertenecen a un mismo plano ritual y poético."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c9cVEQAAQBAJ",
+      "etag": "XOjH5n1jKOk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c9cVEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Nefando",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publisher": "Coffee House Press",
+        "publishedDate": "2023-12-08",
+        "description": "A techno-horror portrait of the fears and desires of six young artists whose lives are upended by a controversial video game, from National Book Award finalist Mónica Ojeda. Six young artists share an apartment in Barcelona: Kiki Ortega, a researcher writing a pornographic novel; Iván Herrera, a writer whose prose reveals a deeply conflicted relationship with his body; three siblings, Irene, Emilio, and Cecilia, who quietly search for ways to transcend their abuse as children; and El Cuco Martínez, a video-game designer whose creations push beneath the substrate of the digital world. All of them are connected in different ways to Nefando, a controversial cult video game whose purpose remains a mystery. In the parallel reality of the game, players found relief from the pain of past trauma and present shame, but also a frighteningly elastic sense of self and ethics. Is Nefando a game for horror enthusiasts, a challenge to players' morals, or a poetic exercise? What happens in a virtual world that admits every taboo? Unsparing, addictive, and perverse, Nefando takes us to the darkest corners of the web, revealing the inevitable entanglement of digital and physical worlds, and of technology and horror.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781566896900"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1566896908"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c9cVEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c9cVEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=c9cVEQAAQBAJ&printsec=frontcover&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=c9cVEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=c9cVEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 65.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 65.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=c9cVEQAAQBAJ&rdid=book-c9cVEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 65900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 65900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nefando-sample-epub.acsm?id=c9cVEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Nefando-sample-pdf.acsm?id=c9cVEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c9cVEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Unsparing, addictive, and perverse, Nefando takes us to the darkest corners of the web, revealing the inevitable entanglement of digital and physical worlds, and of technology and horror."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r4T6DwAAQBAJ",
+      "etag": "4wAIAttPh1I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r4T6DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Historia de la leche",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publisher": "Candaya",
+        "publishedDate": "2020-09-03",
+        "description": "En Historia de la leche Mónica Ojeda retoma un mito de la tradición bíblica –Caín, Abel y su disputa fratricida por el amor del padre– y, en la línea de Una noche con Hamlet de Vladimir Holan o de Antígona González de Sara Uribe, lo reescribe desde el presente, indagando, como ya hizo en su novela Mandíbula, en la extraña violencia de las relaciones femeninas y familiares. Para alojarla en sus propios huesos y reconocer todo lo ajeno que la habita, la voz poética mata a Mabel, su hermana, estableciendo un diálogo con ella, con la madre y con el padre, mientras se enfrenta, casi en trance, a lo que queda: la culpa, la memoria que hiere, el terrible silencio materno, el espacio espantosamente abierto entre la madre y la hija sobreviviente.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788418504075"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8418504072"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r4T6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r4T6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=r4T6DwAAQBAJ&printsec=frontcover&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=r4T6DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=r4T6DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 32.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 32.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=r4T6DwAAQBAJ&rdid=book-r4T6DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 32900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 32900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Historia_de_la_leche-sample-epub.acsm?id=r4T6DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Historia_de_la_leche-sample-pdf.acsm?id=r4T6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r4T6DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En Historia de la leche Mónica Ojeda retoma un mito de la tradición bíblica –Caín, Abel y su disputa fratricida por el amor del padre– y, en la línea de Una noche con Hamlet de Vladimir Holan o de Antígona González de Sara Uribe, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YlflEAAAQBAJ",
+      "etag": "HdIEVGxg/Bs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YlflEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Chamanes eléctricos en la fiesta del sol",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publisher": "RANDOM HOUSE",
+        "publishedDate": "2024-02-08",
+        "description": "LA NUEVA NOVELA DE LA AUTORA FINALISTA AL NATIONAL BOOK AWARD por Mandíbula EN LA LISTA DE LOS MEJORES LIBROS DEL AÑO SEGÚN BABELIA Seleccionada por la revista Granta como una de los 25 mejores narradores jóvenes en español «Mónica Ojeda es un fulgurante sol negro en la carta astral del terror contemporáneo». Fernanda Melchor «En esta novela Mónica Ojeda invita a un festival andino retrofuturista en la montaña. Psicodelia, volcanes, desintegración. Y luego el lenguaje que arde y nada es lo que parece. Seguirla en este viaje es, sin duda, una experiencia intensa». Mariana Enriquez Año 5540 del calendario andino. Noa decide escaparse de su Guayaquil natal con su mejor amiga, Nicole, para asistir al Ruido Solar, un macrofestival popular que anualmente congrega, durante ocho días y siete noches, a miles de jóvenes —entre músicos, bailarines, poetas y chamanes— a los pies de uno de los numerosos volcanes de los Andes. Atrás quedan las familias y la violencia de las ciudades, y se despliega un paisaje alucinado que tiembla al ritmo de la música y las erupciones volcánicas bajo un cielo surcado por meteoritos. Para Noa esta será la primera parada antes de ir al reencuentro del padre que la abandonó cuando era una niña y que desde hace años habita los bosques altos, un territorio donde también se esconden los desaparecidos, aquellos que una vez subieron al Ruido y nunca regresaron a sus hogares. Sostenida por una lírica extraordinaria, una estética deslumbrante y un brutal sentido del ritmo, Chamanes eléctricos en la fiesta del sol es un gran viaje místico al corazón primitivo de la música y de la danza; un viaje lisérgico y emocional que es a la vez la búsqueda de un padre y de un sentido de pertenencia en un mundo que solo conoce la pérdida y el desamparo. La crítica ha dicho : «Electrocuta y embiste. Cada página es una membrana tejida para su desgarro». Karina Sainz Borgo, ABC «Mónica Ojeda ha escrito una novela arrebatadora [...], la novela revienta de poesía, su lenguaje es caricia y también es puñetazo; tierna y perturbadora, se mueve entre la crudeza y la estructura onírica». Begoña Méndez, El Cultural «Fluyen sus palabras y, desde la sinestesia al deseo, la obra crece, se funde y se fragmenta hasta conformar una mirada lisérgica desde lo literario, desde la intensidad gozosa de explorar y diseccionar la vida a través de la escritura». Guillermo Balbona, El Diario «La deslumbrante novela de Mónica Ojeda pone las virtudes de la poesía al servicio de una narración donde los protagonistas buscan su trascendencia en las drogas, en la orgía del baile, en el rapto dionisiaco». Carlos Pardo, Babelia «Estamos ante una escritora seria, valiente, exigente, que ya puede ser considerada una de las mejores narradoras jóvenes de la literatura hispanoamericana». Jorge Carrión, Otra Parte «El presente de esta escritora se dirige hacia un futuro feroz». Ricardo Baixeras, El Periódico «Un soplo de aire fresco sacude la literatura latinoamericana». Xavi Ayén, La Vanguardia",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788439743002"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8439743009"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YlflEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YlflEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=YlflEAAAQBAJ&printsec=frontcover&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=YlflEAAAQBAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Chamanes_el%C3%A9ctricos_en_la_fiesta_del_so.html?hl=&id=YlflEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Chamanes_el%C3%A9ctricos_en_la_fiesta_del_so-sample-epub.acsm?id=YlflEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Chamanes_el%C3%A9ctricos_en_la_fiesta_del_so-sample-pdf.acsm?id=YlflEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YlflEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sostenida por una lírica extraordinaria, una estética deslumbrante y un brutal sentido del ritmo, Chamanes eléctricos en la fiesta del sol es un gran viaje místico al corazón primitivo de la música y de la danza; un viaje lisérgico y ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5Jj_0AEACAAJ",
+      "etag": "UccikIKCDwo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5Jj_0AEACAAJ",
+      "volumeInfo": {
+        "title": "Mandibula",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publishedDate": "2024",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791281852020"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5Jj_0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5Jj_0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.com.br/books?id=5Jj_0AEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=5Jj_0AEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mandibula.html?hl=&id=5Jj_0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5Jj_0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T0K5zwEACAAJ",
+      "etag": "DgTP15RjUbQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T0K5zwEACAAJ",
+      "volumeInfo": {
+        "title": "Through the Night Like a Snake",
+        "subtitle": "Latin American Horror Stories",
+        "authors": [
+          "Mónica Ojeda",
+          "Tomás Downey",
+          "Camila Sosa Villada",
+          "Julián Isaza",
+          "Maximiliano Barrientos"
+        ],
+        "publisher": "Calico",
+        "publishedDate": "2024-03-12",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1949641570"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781949641578"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T0K5zwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T0K5zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=T0K5zwEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=T0K5zwEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Through_the_Night_Like_a_Snake.html?hl=&id=T0K5zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T0K5zwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;A collection of Latin American horror short stories in translation&quot;--"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1yruzgEACAAJ",
+      "etag": "+FPx/x98q84",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1yruzgEACAAJ",
+      "volumeInfo": {
+        "title": "Mâchoires",
+        "authors": [
+          "Monica Ojeda"
+        ],
+        "publishedDate": "2022-01-20",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2072882869"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782072882869"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1yruzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1yruzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.br/books?id=1yruzgEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=1yruzgEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A2choires.html?hl=&id=1yruzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1yruzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mónica Ojeda décrit ici magistralement les relations passionnelles entre mères et filles, entre enseignantes et élèves, entre soeurs et « meilleures amies »."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UiHBvQEACAAJ",
+      "etag": "plxOBjlxYos",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UiHBvQEACAAJ",
+      "volumeInfo": {
+        "title": "La desfiguración Silva",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9942148841"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789942148841"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 293,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=UiHBvQEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=UiHBvQEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_desfiguraci%C3%B3n_Silva.html?hl=&id=UiHBvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UiHBvQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DTOxtQEACAAJ",
+      "etag": "kAf9HfPxhV0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DTOxtQEACAAJ",
+      "volumeInfo": {
+        "title": "Caninos",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "994230150X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789942301505"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 43,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=DTOxtQEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=DTOxtQEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Caninos.html?hl=&id=DTOxtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DTOxtQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B3bmEAAAQBAJ",
+      "etag": "C0UigkFeMhQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B3bmEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Antología de las poetas estadounidenses",
+        "subtitle": "De Emily Dickinson a Sylvia Plath",
+        "authors": [
+          "Poetas estadounidenses",
+          "Leonor Saro",
+          "Isabel Vaquero García de Yébenes",
+          "Mónica Ojeda",
+          "Gudrun Palomino"
+        ],
+        "publisher": "ALBA Editorial",
+        "publishedDate": "2023-11-29",
+        "description": "Aunque nadie discute la preeminencia entre la poesía estadounidense (y la universal) de autoras como Emily Dickinson, Marianne Moore o Elizabeth Bishop, lo cierto es que el canon de la poesía de Estados Unidos suele estar plagado, en ocasiones de manera rutinaria, por poetas varones. La presente antología pretende detener esta inercia y darle al lector la oportunidad de curiosear y adentrarse en visiones poéticas relegadas con frecuencia de las antologías a causa del género. Poetas que, en ocasiones, tampoco han tenido mucha fortuna en sus traducciones al castellano. Las reducidas dimensiones temporales de la poesía en los Estados Unidos (pues apenas abarca dos siglos) permiten presentar en un solo libro las voces más relevantes de su tradición en un arco que va de Emily Dickinson (nacida en 1830) hasta la más joven de las poetas elegidas: Sylvia Plath (nacida en 1932). H. D., May Swenson, Barbara Guest, Anne Sexton o Adrianne Rich son algunas de las poetas que los lectores encontraran en las páginas de este libro, encabezando selecciones suficientes para adentrarnos en sus complejos, sutiles y delicados universos poéticos. Poetas de esta antología: Emily Dickinson, Amy Lowell, Elinor Wylie, Hilda Doolittle, Marianne Moore, Louise Bogan, Elizabeth Bishop, May Swenson, Barbara Guest, Amy Clampitt, Anne Sexton, Adrienne Rich y Sylvia Plath",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788411780018"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8411780015"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B3bmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B3bmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=B3bmEAAAQBAJ&printsec=frontcover&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=B3bmEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B3bmEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 76.88,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 76.88,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=B3bmEAAAQBAJ&rdid=book-B3bmEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 76880000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 76880000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Antolog%C3%ADa_de_las_poetas_estadounidenses-sample-epub.acsm?id=B3bmEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Antolog%C3%ADa_de_las_poetas_estadounidenses-sample-pdf.acsm?id=B3bmEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B3bmEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Aunque nadie discute la preeminencia entre la poesía estadounidense (y la universal) de autoras como Emily Dickinson, Marianne Moore o Elizabeth Bishop, lo cierto es que el canon de la poesía de Estados Unidos suele estar plagado, en ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fIR7tgEACAAJ",
+      "etag": "l1jZItNEiqY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fIR7tgEACAAJ",
+      "volumeInfo": {
+        "title": "El ciclo de las piedras",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9942217150"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789942217158"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 58,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.br/books?id=fIR7tgEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=fIR7tgEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_ciclo_de_las_piedras.html?hl=&id=fIR7tgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fIR7tgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_Ufj0AEACAAJ",
+      "etag": "waLN/gWIteA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_Ufj0AEACAAJ",
+      "volumeInfo": {
+        "title": "Cene Kemigi",
+        "authors": [
+          "Mnica Mónica Ojeda"
+        ],
+        "publishedDate": "2024-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6052654481"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786052654484"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "tr",
+        "previewLink": "http://books.google.com.br/books?id=_Ufj0AEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=_Ufj0AEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cene_Kemigi.html?hl=&id=_Ufj0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_Ufj0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wrxD0QEACAAJ",
+      "etag": "oPHqcEe6rto",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wrxD0QEACAAJ",
+      "volumeInfo": {
+        "title": "Sciamani elettrici alla festa del sole",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publishedDate": "2025",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791281852082"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wrxD0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wrxD0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.com.br/books?id=wrxD0QEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=wrxD0QEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sciamani_elettrici_alla_festa_del_sole.html?hl=&id=wrxD0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wrxD0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g4aYzwEACAAJ",
+      "etag": "6hPlbz5s0go",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g4aYzwEACAAJ",
+      "volumeInfo": {
+        "title": "História do leite",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publishedDate": "2021",
+        "description": "\"Na obra de Mónica Ojeda, os fluidos funcionam como disparadores e construtores de todas as histórias. Da mesma forma acontece em História do leite: o leite materno é o ponto de partida da vida e da morte, é o condutor de toda uma história organizada em partes que funcionam, ao mesmo tempo, como unidades autônomas. Buscando ressignificar o relato bíblico do fratricídio de Caim e Abel, a poeta equatoriana escreve em chave feminina o que ela considera um dos momentos fundantes de nossa sociedade: o crime. A violência transfigura-se em beleza para dar lugar àquilo que mais importa: a criação. A capacidade de criar torna-se um dos pontos essenciais de todo o livro, exaltando os vícios, as dores e as perversidades mais humanas, mas não só isso: há ali um gesto de profunda rebeldia frente às convenções da linguagem. Destruir para criar. “A poesia será o aprendizado da morte”, antecipa Mónica, porque “O sangue sabe a linguagem” e questiona, provoca e cutuca: “chorarei de beleza?”'--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6500347188"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786500347180"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Ecuadorian poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=g4aYzwEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=g4aYzwEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_do_leite.html?hl=&id=g4aYzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g4aYzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Na obra de Mónica Ojeda, os fluidos funcionam como disparadores e construtores de todas as histórias."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o_tx0QEACAAJ",
+      "etag": "O317jMO4VRk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o_tx0QEACAAJ",
+      "volumeInfo": {
+        "title": "Electric Shamans at the Festival of the Sun",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publishedDate": "2026-05-12",
+        "description": "National Book Award finalist Mónica Ojeda returns with a blazing, psychedelic novel about girlhood, violence, and the loss of innocence. In the near future, best friends Noa and Nicole flee their home in Guayaquil, Ecuador to attend the Solar Noise Festival, a week-long, retro-futuristic gathering at the foot of an active volcano. While Noa fully embraces the haze of narcotics and hedonism in an effort to obscure her true reason for attending, Nicole senses something darker at play behind the festival's so-called \"celebration of life.\" Amid technoshamanic poetry, collective hallucinations, and ritualistic dances, each girl navigates her own path in an effort to escape her past and reclaim her right to a future. Vivid, terrifying, and celebratory, Electric Shamans at the Festival of the Sun blends the primal with the supernatural, solidifying Mónica Ojeda as one of the most singular and exciting voices in Latin American and world literature today.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1566897556"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781566897556"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o_tx0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o_tx0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=o_tx0QEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=o_tx0QEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Electric_Shamans_at_the_Festival_of_the.html?hl=&id=o_tx0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o_tx0QEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Vivid, terrifying, and celebratory, Electric Shamans at the Festival of the Sun blends the primal with the supernatural, solidifying Mónica Ojeda as one of the most singular and exciting voices in Latin American and world literature today."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zQ-kzwEACAAJ",
+      "etag": "dBW+Lm0kKQ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zQ-kzwEACAAJ",
+      "volumeInfo": {
+        "title": "Mandíbula",
+        "authors": [
+          "Mónica Ojeda"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6188409349"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786188409347"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "el",
+        "previewLink": "http://books.google.com.br/books?id=zQ-kzwEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=zQ-kzwEACAAJ&dq=inauthor:%22m%C3%B3nica+ojeda%22&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mand%C3%ADbula.html?hl=&id=zQ-kzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zQ-kzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
